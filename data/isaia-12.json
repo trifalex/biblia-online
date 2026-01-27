@@ -1,0 +1,39 @@
+{
+    "book": "Isaia",
+    "chapter": "12",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "În ziua aceea vei zice: „Te laud, Doamne, căci ai fost supărat pe mine, dar mânia Ta s-a potolit și m-ai mângâiat!",
+                "2": "Iată, Dumnezeu este izbăvirea mea, voi fi plin de încredere și nu mă voi teme de nimic, căci Domnul Dumnezeu este tăria mea și pricina laudelor mele și El m-a mântuit.”",
+                "3": "Veți scoate apă cu bucurie din izvoarele mântuirii",
+                "4": "și veți zice în ziua aceea: „Lăudați pe Domnul, chemați Numele Lui, vestiți lucrările Lui printre popoare, pomeniți mărimea Numelui Lui!",
+                "5": "Cântați Domnului, căci a făcut lucruri strălucite: să fie cunoscute în tot pământul!”",
+                "6": "Strigă de bucurie și veselie, locuitoare a Sionului, căci mare este în mijlocul tău Sfântul lui Israel!"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "În ziua aceea, vei zice: „Îți voi mulțumi, Doamne, fiindcă, deși ai fost mânios pe mine, și m-ai mângâiat.",
+                "2": "Iată! Dumnezeu este mântuirea mea! Voi avea încredere și nu-mi va fi frică, este puterea și cântarea mea; El a devenit mântuirea mea!“.",
+                "3": "Cu bucurie veți scoate apă din izvoarele mântuirii.",
+                "4": "În acea zi veți zice: „Mulțumiți Domnului! Chemați Numele Său! Faceți cunoscute printre popoare lucrările Lui! Declarați că Numele Său este înălțat!",
+                "5": "Cântați spre lauda Domnului, pentru că a făcut lucruri mărețe! Fie acestea cunoscute pe tot pământul!",
+                "6": "Chiuie și bucură-te, locuitoare a Sionului, căci mare este în mijlocul tău Sfântul lui Israel!“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "In that day you will say, “I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me.",
+                "2": "Behold, God is my salvation. I will trust, and will not be afraid; for Yah, Yahweh, is my strength and song; and he has become my salvation.”",
+                "3": "Therefore with joy you will draw water out of the wells of salvation.",
+                "4": "In that day you will say, “Give thanks to Yahweh! Call on his name! Declare his doings among the peoples! Proclaim that his name is exalted!",
+                "5": "Sing to Yahweh, for he has done excellent things! Let this be known in all the earth!",
+                "6": "Cry aloud and shout, you inhabitant of Zion, for the Holy One of Israel is great among you!”"
+            }
+        }
+    }
+}

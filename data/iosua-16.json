@@ -1,0 +1,51 @@
+{
+  "book": "Iosua",
+  "chapter": "16",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Partea căzută la sorți fiilor lui Iosif se întindea de la Iordan, lângă Ierihon, spre apele Ierihonului, la răsărit. Hotarul urma pustia care se ridică de la Ierihon la Betel prin munte.",
+        "2": "Mergea mai departe de la Betel la Luz și trecea spre hotarul archiților prin Atarot.",
+        "3": "Apoi se cobora la apus spre hotarul iafletiților până la hotarul Bet-Horonului de jos și până la Ghezer, ieșind la mare.",
+        "4": "Acolo și-au primit moștenirea fiii lui Iosif: Manase și Efraim.",
+        "5": "Iată hotarele fiilor lui Efraim, după familiile lor. Hotarul moștenirii lor era la răsărit Atarot-Adar până la Bet-Horonul de sus.",
+        "6": "Ieșea spre mare la Micmetat, în partea de miazănoapte, se întorcea la răsărit până la Taanat-Silo și trecea înspre răsărit prin Ianoah.",
+        "7": "Din Ianoah cobora la Atarot și la Naarata, atingea Ierihonul și mergea până la Iordan.",
+        "8": "Din Tapuah mergea spre apus, până la pârâul Cana, și ieșea la mare. Aceasta a fost moștenirea seminției fiilor lui Efraim, după familiile lor.",
+        "9": "Fiii lui Efraim aveau și cetăți deosebite în mijlocul moștenirii fiilor lui Manase, toate cu satele lor.",
+        "10": "Ei n-au izgonit pe canaaniții care locuiau în Ghezer, și canaaniții au locuit în mijlocul lui Efraim până în ziua de azi, dar au fost puși să plătească un bir."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Teritoriul urmașilor lui Iosif începea de la Iordan, din dreptul Ierihonului, către apele Ierihonului, în partea de est și urca prin deșert, de la Ierihon către muntele Betelului.",
+        "2": "Apoi de la Betel continua spre Luz, traversa către granița cu archiții spre Atarot",
+        "3": "și cobora înspre vest, către teritoriul iafletiților, până la granița cu Bet-Horonul de Jos și până la Ghezer, atingând țărmul mării.",
+        "4": "Acolo și-au primit moștenirea urmașii lui Iosif – Manase și Efraim.",
+        "5": "Iată care era teritoriul urmașilor lui Efraim, potrivit clanurilor lor: granița moștenirii lor dinspre est începea de la Atarot-Adar, urca până la Bet-Horonul de Sus",
+        "6": "și atingea țărmul mării. Din Micmetat, în nord, se întorcea către est, înspre Taanat-Șilo, traversând Ianoah în partea de est.",
+        "7": "Din Ianoah cobora la Atarot și Naarata, atingând Ierihonul și ajungând la Iordan.",
+        "8": "Din Tapuah mergea spre vest, înspre pârâul Kana, și atingea țărmul mării. Aceasta era moștenirea seminției efraimiților, potrivit clanurilor lor.",
+        "9": "Efraimiții mai aveau și un număr de cetăți în teritoriul urmașilor lui Manase, fiecare cetate având satele dimprejurul ei.",
+        "10": "Ei nu i-au alungat însă pe canaaniții care locuiau la Ghezer și, prin urmare, canaaniții au locuit printre efraimiți până în ziua aceasta, fiind puși la muncă silnică."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel.",
+        "2": "It went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth;",
+        "3": "and it went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea.",
+        "4": "The children of Joseph, Manasseh and Ephraim, took their inheritance.",
+        "5": "This was the border of the children of Ephraim according to their families. The border of their inheritance eastward was Ataroth Addar, to Beth Horon the upper.",
+        "6": "The border went out westward at Michmethath on the north. The border turned about eastward to Taanath Shiloh, and passed along it on the east of Janoah.",
+        "7": "It went down from Janoah to Ataroth, to Naarah, reached to Jericho, and went out at the Jordan.",
+        "8": "From Tappuah the border went along westward to the brook of Kanah; and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their families;",
+        "9": "together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages.",
+        "10": "They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor."
+      }
+    }
+  }
+}

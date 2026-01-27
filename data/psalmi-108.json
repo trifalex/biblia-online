@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "108",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Gata îmi este inima să cânte, Dumnezeule! Voi cânta, voi suna din instrumentele mele; aceasta este slava mea!",
+        "2": "Deșteptați-vă, alăută și harpă! Mă voi trezi în zori de zi.",
+        "3": "Te voi lăuda printre popoare, Doamne, Te voi cânta printre neamuri.",
+        "4": "Căci mare este bunătatea Ta și se înalță mai presus de ceruri, iar credincioșia Ta până la nori.",
+        "5": "Înalță-Te peste ceruri, Dumnezeule, și fie slava Ta peste tot pământul!",
+        "6": "Pentru ca preaiubiții Tăi să fie izbăviți, scapă-ne prin dreapta Ta și ascultă-ne!",
+        "7": "Dumnezeu a vorbit în sfințenia Lui: „Voi birui, voi împărți Sihemul, voi măsura valea Sucot;",
+        "8": "al Meu este Galaadul, al Meu Manase; Efraim este întăritura capului Meu și Iuda, toiagul Meu de cârmuire;",
+        "9": "Moab este ligheanul în care Mă spăl; Îmi arunc încălțămintea asupra Edomului; strig de bucurie asupra țării filistenilor!”",
+        "10": "Cine mă va duce în cetatea întărită? Cine mă va duce la Edom?",
+        "11": "Oare nu Tu, Dumnezeule, care ne-ai lepădat și care nu vrei să mai ieși, Dumnezeule, cu oștirile noastre?",
+        "12": "Dă-ne ajutor în necaz, căci zadarnic este ajutorul omului.",
+        "13": "Cu Dumnezeu vom face mari isprăvi; El va zdrobi pe vrăjmașii noștri."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Inima mea este pregătită, Dumnezeule! Voi cânta și Te voi lăuda. Trezește-te, suflete al meu!",
+        "2": "Treziți-vă, harfă și liră! Voi trezi zorii.",
+        "3": "Îți voi mulțumi, Doamne, printre popoare și voi cânta spre lauda Ta printre națiuni.",
+        "4": "Căci mare este îndurarea Ta, mai presus de ceruri, iar credincioșia Ta este până la nori.",
+        "5": "Fii înălțat, Dumnezeule, mai presus de ceruri! Fie gloria Ta peste întreg pământul!",
+        "6": "Pentru ca preaiubiții Tăi să fie salvați, ajută-ne, cu dreapta Ta, și răspunde-mi!",
+        "7": "Dumnezeu a vorbit din Lăcașul Său: „Voi triumfa, voi împărți Șechemul și voi măsura Valea Sucot.",
+        "8": "Al Meu este Ghiladul, al Meu este și Manase. Efraim este coiful capului Meu, iar Iuda – sceptrul Meu.",
+        "9": "Moab este vasul în care Mă spăl. Deasupra Edomului Îmi arunc încălțămintea, iar strigătele Mele de triumf se aud peste Filistia“.",
+        "10": "Cine mă va conduce la cetatea fortificată? Cine mă va călăuzi până la Edom?",
+        "11": "Oare nu Tu, Dumnezeule, Care ne-ai respins? Dumnezeule, nu vei mai ieși cu armatele noastre?",
+        "12": "Dă-ne ajutor împotriva dușmanului, căci zadarnic este ajutorul omului!",
+        "13": "Cu Dumnezeu vom lupta vitejește, și El îi va călca în picioare pe dușmanii noștri."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "My heart is steadfast, God. I will sing and I will make music with my soul.",
+        "2": "Wake up, harp and lyre! I will wake up the dawn.",
+        "3": "I will give thanks to you, Yahweh, among the nations. I will sing praises to you among the peoples.",
+        "4": "For your loving kindness is great above the heavens. Your faithfulness reaches to the skies.",
+        "5": "Be exalted, God, above the heavens! Let your glory be over all the earth.",
+        "6": "That your beloved may be delivered, save with your right hand, and answer us.",
+        "7": "God has spoken from his sanctuary: “In triumph, I will divide Shechem, and measure out the valley of Succoth.",
+        "8": "Gilead is mine. Manasseh is mine. Ephraim also is my helmet. Judah is my scepter.",
+        "9": "Moab is my wash pot. I will toss my sandal on Edom. I will shout over Philistia.”",
+        "10": "Who will bring me into the fortified city? Who will lead me to Edom?",
+        "11": "Haven’t you rejected us, God? You don’t go out, God, with our armies.",
+        "12": "Give us help against the enemy, for the help of man is vain.",
+        "13": "Through God, we will do valiantly, for it is he who will tread down our enemies."
+      }
+    }
+  }
+}

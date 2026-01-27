@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "130",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Din fundul adâncului, Te chem, Doamne!",
+        "2": "Doamne, ascultă-mi glasul! Să ia aminte urechile Tale la glasul cererilor mele!",
+        "3": "Dacă ai păstra, Doamne, aducerea aminte a nelegiuirilor, cine ar putea sta în picioare, Doamne?",
+        "4": "Dar la Tine este iertare, ca să fii de temut.",
+        "5": "Eu nădăjduiesc în Domnul, sufletul meu nădăjduiește și aștept făgăduința Lui.",
+        "6": "Sufletul meu așteaptă pe Domnul mai mult decât așteaptă străjerii dimineața, da, mai mult decât așteaptă străjerii dimineața.",
+        "7": "Israele, pune-ți nădejdea în Domnul, căci la Domnul este îndurarea și la El este belșug de răscumpărare!",
+        "8": "El va răscumpăra pe Israel din toate nelegiuirile lui."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Din adâncuri strig, Doamne!",
+        "2": "Stăpâne, ascultă glasul meu! Fie urechile Tale atente la glasul cererilor mele!",
+        "3": "Dacă Tu, Doamne, ai păstra în amintire nelegiuirile, cine ar putea sta în picioare, Stăpâne?",
+        "4": "Dar la Tine este iertarea, ca astfel să fii de temut.",
+        "5": "Îl aștept pe Domnul. Sufletul meu așteaptă și-și pune speranța în Cuvântul Lui.",
+        "6": "Sufletul meu Îl așteaptă pe Stăpânul mai mult decât așteaptă străjerii dimineața, da, mai mult decât așteaptă străjerii dimineața.",
+        "7": "Israel, pune-ți speranța în Domnul, căci îndurarea este a Domnului și la El găsim belșug de răscumpărare.",
+        "8": "El îl răscumpără pe Israel din toate nelegiuirile lui."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Out of the depths I have cried to you, Yahweh.",
+        "2": "Lord, hear my voice. Let your ears be attentive to the voice of my petitions.",
+        "3": "If you, Yah, kept a record of sins, Lord, who could stand?",
+        "4": "But there is forgiveness with you, therefore you are feared.",
+        "5": "I wait for Yahweh. My soul waits. I hope in his word.",
+        "6": "My soul longs for the Lord more than watchmen long for the morning, more than watchmen for the morning.",
+        "7": "Israel, hope in Yahweh, for there is loving kindness with Yahweh. Abundant redemption is with him.",
+        "8": "He will redeem Israel from all their sins."
+      }
+    }
+  }
+}

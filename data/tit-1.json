@@ -1,0 +1,69 @@
+{
+  "book": "Tit",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pavel, rob al lui Dumnezeu și apostol al lui Isus Hristos potrivit cu credința aleșilor lui Dumnezeu și cunoștința adevărului, care este potrivit cu evlavia,",
+        "2": "în nădejdea vieții veșnice, făgăduite mai înainte de veșnicii de Dumnezeu, care nu poate să mintă,",
+        "3": "ci Și-a descoperit Cuvântul la vremea Lui prin propovăduirea care mi-a fost încredințată după porunca lui Dumnezeu, Mântuitorul nostru,",
+        "4": "către Tit, adevăratul meu copil în credința noastră, a amândurora: Har și pace de la Dumnezeu Tatăl și de la Isus Hristos, Mântuitorul nostru!",
+        "5": "Te-am lăsat în Creta ca să pui în rânduială ce mai rămâne de rânduit și să așezi prezbiteri în fiecare cetate, după cum ți-am poruncit:",
+        "6": "Dacă este cineva fără prihană, bărbat al unei singure neveste, având copii credincioși, care să nu fie învinuiți de destrăbălare sau neascultare.",
+        "7": "Căci episcopul, ca econom al lui Dumnezeu, trebuie să fie fără prihană, nu încăpățânat, nici mânios, nici dedat la vin, nici bătăuș, nici lacom de câștig mârșav,",
+        "8": "ci să fie primitor de oaspeți, iubitor de bine, cumpătat, drept, sfânt, înfrânat,",
+        "9": "să se țină de Cuvântul adevărat, care este potrivit cu învățătura, pentru ca să fie în stare să sfătuiască în învățătura sănătoasă și să înfrunte pe potrivnici.",
+        "10": "În adevăr, mai ales printre cei tăiați împrejur, sunt mulți nesupuși, flecari și amăgitori,",
+        "11": "cărora trebuie să li se astupe gura. Ei buimăcesc familii întregi, învățând pe oameni, pentru un câștig urât, lucruri pe care nu trebuie să le învețe.",
+        "12": "Unul dintre ei, chiar proroc al lor, a zis: „Cretanii sunt totdeauna niște mincinoși, niște fiare rele, niște pântece leneșe.”",
+        "13": "Mărturia aceasta este adevărată. De aceea mustră-i aspru, ca să fie sănătoși în credință",
+        "14": "și să nu se țină de basme evreiești și de porunci date de oameni, care se întorc de la adevăr.",
+        "15": "Totul este curat pentru cei curați, dar, pentru cei necurați și necredincioși, nimic nu este curat: până și mintea și cugetul le sunt spurcate.",
+        "16": "Ei se laudă că-L cunosc pe Dumnezeu, dar cu faptele Îl tăgăduiesc, căci sunt o scârbă: nesupuși și netrebnici pentru orice faptă bună."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Pavel, slujitor al lui Dumnezeu și apostol al lui Isus Cristos, potrivit cu credința aleșilor lui Dumnezeu și cunoașterea adevărului, care este potrivit cu evlavia,",
+        "2": "în speranța vieții veșnice, pe care Dumnezeu, Care nu minte, a promis-o înainte de începutul timpului.",
+        "3": "El Și-a descoperit Cuvântul, la vremea potrivită, prin proclamarea care mi-a fost încredințată prin porunca lui Dumnezeu, Mântuitorul nostru.",
+        "4": "Către Titus, adevăratul meu copil în credința pe care o împărtășim cu toții: Har și pace de la Dumnezeu Tatăl și de la Cristos Isus, Mântuitorul nostru!",
+        "5": "Motivul pentru care te-am lăsat în Creta a fost ca să pui în ordine lucrurile rămase și să numești prezbiteri în fiecare cetate, așa cum ți-am dat îndrumări.",
+        "6": "Dacă este cineva fără vină, soț al unei singure femei, având copii credincioși, care să nu fie acuzați de destrăbălare sau de neascultare, să-l pui responsabil ca prezbiter.",
+        "7": "Căci episcopul, ca administrator al lui Dumnezeu, trebuie să fie fără vină, nu arogant, nici mânios, nici bețiv, nici bătăuș, nici lacom de câștig murdar,",
+        "8": "ci ospitalier, iubitor de bine, cumpătat, drept, sfânt, înfrânat,",
+        "9": "să se țină de Cuvântul demn de încredere, care este potrivit cu învățătura primită, ca să fie în stare să-i încurajeze și pe alții prin învățătura sănătoasă și să-i mustre pe cei ce se împotrivesc.",
+        "10": "Căci sunt și mulți răzvrătiți, palavragii și înșelători, mai ales printre cei circumciși,",
+        "11": "cărora trebuie să li se astupe gura, pentru că tulbură familii întregi, învățându-i pe oameni ceea ce n-ar trebui, de dragul unui câștig rușinos.",
+        "12": "Chiar unul dintre ei, un profet de-al lor, a zis: „Cretanii sunt întotdeauna niște mincinoși, niște fiare sălbatice rele, niște pântece leneșe“.",
+        "13": "Mărturia aceasta este adevărată. Din acest motiv, mustră-i cu asprime, ca să fie sănătoși în credință",
+        "14": "și să nu dea atenție miturilor iudaice și poruncilor oamenilor care se întorc de la adevăr.",
+        "15": "Pentru cei curați, toate sunt curate, dar pentru cei pângăriți și necredincioși, nimic nu este curat, ci până și mintea, și conștiința le sunt pângărite.",
+        "16": "Ei pretind că-L cunosc pe Dumnezeu, dar prin faptele lor Îl neagă, fiind demni de dispreț, neascultători, incapabili de vreo lucrare bună."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Paul, a servant of God and an apostle of Jesus Christ, according to the faith of God’s chosen ones and the knowledge of the truth which is according to godliness,",
+        "2": "in hope of eternal life, which God, who can’t lie, promised before time began;",
+        "3": "but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior,",
+        "4": "to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.",
+        "5": "I left you in Crete for this reason, that you would set in order the things that were lacking and appoint elders in every city, as I directed you—",
+        "6": "if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior.",
+        "7": "For the overseer must be blameless, as God’s steward, not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain;",
+        "8": "but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled,",
+        "9": "holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.",
+        "10": "For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision,",
+        "11": "whose mouths must be stopped: men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake.",
+        "12": "One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.”",
+        "13": "This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith,",
+        "14": "not paying attention to Jewish fables and commandments of men who turn away from the truth.",
+        "15": "To the pure, all things are pure, but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled.",
+        "16": "They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "5",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pleacă-Ți urechea la cuvintele mele, Doamne! Ascultă suspinele mele!",
+        "2": "Ia aminte la strigătele mele, Împăratul meu și Dumnezeul meu, căci către Tine mă rog!",
+        "3": "Doamne, auzi-mi glasul dimineața! Dimineața, eu îmi îndrept rugăciunea spre Tine și aștept.",
+        "4": "Căci Tu nu ești un Dumnezeu căruia să-I placă răul; cel rău nu poate locui lângă Tine.",
+        "5": "Nebunii nu pot să stea în preajma ochilor Tăi; Tu urăști pe cei ce fac fărădelegea",
+        "6": "și pierzi pe cei mincinoși; Domnul urăște pe oamenii care varsă sânge și înșală.",
+        "7": "Dar eu, prin îndurarea Ta cea mare, pot să intru în casa Ta și să mă închin cu frică în Templul Tău cel sfânt.",
+        "8": "Doamne, călăuzește-mă pe calea plăcută Ție, din pricina vrăjmașilor mei! Netezește calea Ta sub pașii mei!",
+        "9": "Căci nu este nimic adevărat în gura lor; inima le este plină de răutate, gâtlejul le este un mormânt deschis și pe limbă au vorbe lingușitoare.",
+        "10": "Lovește-i ca pe niște vinovați, Dumnezeule! Fă-i să cadă prin înseși sfaturile lor! Prăbușește-i în mijlocul păcatelor lor fără număr, căci se răzvrătesc împotriva Ta!",
+        "11": "Atunci, toți cei ce se încred în Tine se vor bucura, se vor veseli totdeauna, căci Tu îi vei ocroti. Tu vei fi bucuria celor ce iubesc Numele Tău.",
+        "12": "Căci Tu binecuvântezi pe cel neprihănit, Doamne, și-l înconjori cu bunăvoința Ta cum l-ai înconjura cu un scut."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultă-mi cuvintele, Doamne; gândește-Te la suspinul meu!",
+        "2": "Ascultă cu atenție strigătul meu, Împăratul meu și Dumnezeul meu, căci Ție mă rog!",
+        "3": "Doamne, Tu îmi vei asculta glasul dimineața; dimineața voi sta pregătit înaintea Ta și voi aștepta.",
+        "4": "Căci Tu nu ești un Dumnezeu Căruia să-I placă răutatea, iar cel rău nu-Ți poate sta în preajmă.",
+        "5": "Lăudăroșii nu pot sta înaintea ochilor Tăi, iar Tu îi urăști pe toți cei ce comit nelegiuiri",
+        "6": "și-i dai pierzării pe cei ce rostesc minciuni. Domnul îl detestă pe omul care varsă sânge și înșală.",
+        "7": "Eu însă, prin marea Ta îndurare, voi intra în Casa Ta și, în teamă de Tine, mă voi închina spre Templul Tău cel sfânt.",
+        "8": "Doamne, condu-mă cu dreptatea Ta, din cauza celor ce mă pândesc! Netezește calea Ta înaintea mea!",
+        "9": "Căci nu este nimic adevărat în gura lor, iar inima lor este un loc al distrugerii. Gâtul le este un mormânt deschis; cu limbile lor ei lingușesc.",
+        "10": "Condamnă-i, Dumnezeule! Să cadă prin propriile conspirații! Pentru multele lor fărădelegi, alungă-i, căci s-au răzvrătit împotriva Ta!",
+        "11": "Să se bucure toți cei ce se adăpostesc în Tine! Pe vecie să strige de bucurie! Protejează-i Tu, ca să strige de bucurie toți cei ce iubesc Numele Tău.",
+        "12": "Căci Tu îl binecuvântezi pe cel drept, Doamne, îl înconjori cu bunăvoința Ta precum un scut."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Give ear to my words, Yahweh. Consider my meditation.",
+        "2": "Listen to the voice of my cry, my King and my God, for I pray to you.",
+        "3": "Yahweh, in the morning you will hear my voice. In the morning I will lay my requests before you, and will watch expectantly.",
+        "4": "For you are not a God who has pleasure in wickedness. Evil can’t live with you.",
+        "5": "The arrogant will not stand in your sight. You hate all workers of iniquity.",
+        "6": "You will destroy those who speak lies. Yahweh abhors the bloodthirsty and deceitful man.",
+        "7": "But as for me, in the abundance of your loving kindness I will come into your house. I will bow toward your holy temple in reverence of you.",
+        "8": "Lead me, Yahweh, in your righteousness because of my enemies. Make your way straight before my face.",
+        "9": "For there is no faithfulness in their mouth. Their heart is destruction. Their throat is an open tomb. They flatter with their tongue.",
+        "10": "Hold them guilty, God. Let them fall by their own counsels. Thrust them out in the multitude of their transgressions, for they have rebelled against you.",
+        "11": "But let all those who take refuge in you rejoice. Let them always shout for joy, because you defend them. Let them also who love your name be joyful in you.",
+        "12": "For you will bless the righteous. Yahweh, you will surround him with favor as with a shield."
+      }
+    }
+  }
+}

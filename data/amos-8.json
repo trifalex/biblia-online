@@ -1,0 +1,63 @@
+{
+  "book": "Amos",
+  "chapter": "8",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul Dumnezeu mi-a trimis următoarea vedenie. Iată, era un coș cu poame coapte.",
+        "2": "El a zis: „Ce vezi, Amos?” Eu am răspuns: „Un coș cu poame coapte.” Și Domnul mi-a zis: „A venit sfârșitul poporului Meu Israel; nu-l mai pot ierta!",
+        "3": "În ziua aceea, cântecele Templului se vor preface în gemete”, zice Domnul Dumnezeu. „Pretutindeni vor arunca în tăcere o mulțime de trupuri moarte.”",
+        "4": "Ascultați lucrul acesta, voi, care mâncați pe cel lipsit și prăpădiți pe cei nenorociți din țară!",
+        "5": "Voi, care ziceți: „Când va trece luna nouă, ca să vindem grâul, și Sabatul, ca să deschidem grânarele, să micșorăm efa și să mărim siclul și să strâmbăm cumpăna ca să înșelăm?",
+        "6": "Apoi, vom cumpăra pe cei nevoiași pe argint și pe sărac, pe o pereche de încălțăminte și vom vinde codina în loc de grâu.”",
+        "7": "Domnul a jurat pe slava lui Iacov: „Niciodată nu voi uita niciuna din faptele lor!",
+        "8": "Nu se va cutremura țara din pricina acestor mișelii și nu se vor jeli toți locuitorii ei? Nu se va umfla toată țara ca râul, ridicându-se și coborându-se iarăși ca râul Egiptului?",
+        "9": "În ziua aceea”, zice Domnul Dumnezeu, „voi face să asfințească soarele la amiază și voi întuneca pământul ziua-n amiaza mare.",
+        "10": "Vă voi preface sărbătorile în jale și toate cântările, în bociri pentru morți; voi acoperi toate coapsele cu saci și voi face toate capetele pleșuve; voi arunca țara într-o jale ca pentru un singur fiu și sfârșitul ei va fi ca o zi amară.",
+        "11": "Iată, vin zile”, zice Domnul Dumnezeu, „când voi trimite foamete în țară, nu foamete de pâine, nici sete de apă, ci foame și sete după auzirea cuvintelor Domnului.",
+        "12": "Vor pribegi atunci de la o mare la alta, de la miazănoapte la răsărit, vor umbla istoviți încoace și încolo, ca să caute Cuvântul Domnului, și tot nu-l vor găsi.",
+        "13": "În ziua aceea, se vor topi de sete fetele frumoase și flăcăii.",
+        "14": "Ei, care jură acum pe păcatul Samariei și zic: ‘Pe Dumnezeul tău cel viu, Dane!’ și ‘Pe drumul Beer-Șebei!’ vor cădea și nu se vor mai scula.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Stăpânul Domn mi-a arătat următorul lucru: am văzut un coș cu fructe coapte.",
+        "2": "El m-a întrebat: ‒ Ce vezi, Amos? Eu am răspuns: ‒ Un coș cu fructe coapte. Atunci Domnul mi-a zis: ‒ Vine sfârșitul poporului Meu, Israel. Nu-l voi mai cruța!",
+        "3": "„În ziua aceea“, zice Stăpânul Domn, „cântările de la palat se vor preface în gemete. Vor fi o mulțime de cadavre aruncate peste tot. Tăcere!“",
+        "4": "Ascultați aceasta, voi, care-i călcați în picioare pe cei nevoiași și-i prăpădiți pe săracii din țară.",
+        "5": "Voi ziceți: „Când va trece luna nouă, ca să putem vinde grâne? Cât mai este din sabat, ca să deschidem grânarele, să micșorăm efa, să mărim șechelul, să înșelăm cu talerele înșelăciunii,",
+        "6": "să-i cumpărăm pe săraci cu argint și pe nevoiași – pentru o pereche de sandale și să vindem codină în loc de grâne?“.",
+        "7": "Domnul a jurat pe mândria lui Iacov: „Nu voi uita niciodată vreuna dintre faptele lor!",
+        "8": "Să nu tremure țara din cauza aceasta și să nu bocească toți cei ce locuiesc în ea? Să nu se ridice ca Nilul tot ce este în țară, să nu se învolbureze și apoi să se retragă precum Râul Egiptului?",
+        "9": "În ziua aceea“, zice Stăpânul Domn, „voi face să apună soarele la amiază și voi întuneca pământul în miezul zilei.",
+        "10": "Voi preface sărbătorile voastre în bocet și toate cântările voastre – în cântări de jale. Voi face ca toate coapsele să fie acoperite cu pânză de sac și toate capetele să fie rase. Voi face ziua aceea ca bocetul pentru singurul fiu, iar sfârșitul ei – ca o zi amară.",
+        "11": "Iată, vin zile“, zice Stăpânul Domn, „când voi trimite foamete în țară, dar nu foame după pâine și nu sete după apă, ci după auzirea cuvintelor Domnului.",
+        "12": "Ei vor hoinări de la o mare la alta, vor umbla pe drumuri, de la nord la est, căutând Cuvântul Domnului, dar nu-l vor găsi.",
+        "13": "În ziua aceea, fecioarele frumoase și tinerii vor leșina de sete.",
+        "14": "Cei ce obișnuiau să jure pe păcatul Samariei și să zică: «Viu este dumnezeul tău, Dane!» sau «Vie este calea ta, Beer-Șeba!», aceia vor cădea și nu se vor mai ridica“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Thus the Lord Yahweh showed me: behold, a basket of summer fruit.",
+        "2": "He said, “Amos, what do you see?” I said, “A basket of summer fruit.” Then Yahweh said to me, “The end has come on my people Israel. I will not again pass by them any more.",
+        "3": "The songs of the temple will be wailing in that day,” says the Lord Yahweh. “The dead bodies will be many. In every place they will throw them out with silence.",
+        "4": "Hear this, you who desire to swallow up the needy, and cause the poor of the land to fail,",
+        "5": "saying, ‘When will the new moon be gone, that we may sell grain? And the Sabbath, that we may market wheat, making the ephah small, and the shekel large, and dealing falsely with balances of deceit;",
+        "6": "that we may buy the poor for silver, and the needy for a pair of sandals, and sell the sweepings with the wheat?’”",
+        "7": "Yahweh has sworn by the pride of Jacob, “Surely I will never forget any of their works.",
+        "8": "Won’t the land tremble for this, and everyone mourn who dwells in it? Yes, it will rise up wholly like the River; and it will be stirred up and sink again, like the River of Egypt.",
+        "9": "It will happen in that day,” says the Lord Yahweh, “that I will cause the sun to go down at noon, and I will darken the earth in the clear day.",
+        "10": "I will turn your feasts into mourning, and all your songs into lamentation; and I will make you wear sackcloth on all your bodies, and baldness on every head. I will make it like the mourning for an only son, and its end like a bitter day.",
+        "11": "Behold, the days come,” says the Lord Yahweh, “that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing Yahweh’s words.",
+        "12": "They will wander from sea to sea, and from the north even to the east; they will run back and forth to seek Yahweh’s word, and will not find it.",
+        "13": "In that day the beautiful virgins and the young men will faint for thirst.",
+        "14": "Those who swear by the sin of Samaria, and say, ‘As your god, Dan, lives,’ and, ‘As the way of Beersheba lives,’ they will fall, and never rise up again.”"
+      }
+    }
+  }
+}

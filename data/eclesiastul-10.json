@@ -1,0 +1,81 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "10",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Muștele moarte strică și acresc untdelemnul negustorului de unsori; tot așa, puțină nebunie biruiește înțelepciunea și slava.",
+        "2": "Inima înțeleptului este la dreapta lui, iar inima nebunului, la stânga lui.",
+        "3": "Și pe orice drum ar merge nebunul, peste tot îi lipsește mintea și spune tuturor că este un nebun!",
+        "4": "Când izbucnește împotriva ta mânia celui ce stăpânește, nu-ți părăsi locul, căci sângele rece te păzește de mari păcate.",
+        "5": "Este un rău pe care l-am văzut sub soare, ca o greșeală care vine de la cel ce cârmuiește:",
+        "6": "nebunia este pusă în dregătorii înalte, iar bogații stau în locuri de jos.",
+        "7": "Am văzut robi călări și voievozi mergând pe jos, ca niște robi.",
+        "8": "Cine sapă groapa altuia cade el în ea și cine surpă un zid va fi mușcat de un șarpe.",
+        "9": "Cine sfărâmă pietre este rănit de ele și cine despică lemne este în primejdie.",
+        "10": "Când se tocește fierul și rămâne neascuțit, trebuie să-ți îndoiești puterile; de aceea la izbândă ajungi prin înțelepciune.",
+        "11": "Când mușcă șarpele fiindcă n-a fost vrăjit, vrăjitorul n-are niciun câștig din meșteșugul lui.",
+        "12": "Cuvintele unui înțelept sunt plăcute, dar buzele nebunului îi aduc pieirea.",
+        "13": "Cel dintâi cuvânt care-i iese din gură este nebunie, și cel din urmă este o nebunie și mai rea.",
+        "14": "Nebunul spune o mulțime de vorbe, măcar că omul nu știe ce se va întâmpla. Și cine-i va spune ce va fi după el?",
+        "15": "Truda nebunului obosește pe cel ce nu cunoaște drumul spre cetate.",
+        "16": "Vai de tine, țară al cărei împărat este un copil și ai cărei voievozi benchetuiesc de dimineață!",
+        "17": "Ferice de tine, țară al cărei împărat este de neam mare și ai cărei voievozi mănâncă la vremea potrivită, ca să-și întărească puterile, nu ca să se dedea la beție!",
+        "18": "Când mâinile sunt leneșe, se lasă grinda, și când se lenevesc mâinile, plouă în casă.",
+        "19": "Ospețele se fac pentru petrecere, vinul înveselește viața, iar argintul le dă pe toate.",
+        "20": "Nu blestema pe împărat nici chiar în gând și nu blestema pe cel bogat în odaia în care te culci, căci s-ar putea întâmpla ca pasărea cerului să-ți ducă vorba și un sol înaripat să-ți dea pe față vorbele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Așa cum muștele moarte strică și fermentează uleiul negustorului, tot astfel și puțină nebunie copleșește înțelepciunea și onoarea.",
+        "2": "Inima înțeleptului îl conduce drept, dar inima nesăbuitului îl rătăcește.",
+        "3": "Prostul umblă fără minte pe cale și se laudă tuturor cu prostia lui.",
+        "4": "Dacă stăpânitorul se mânie pe tine, nu-ți pierde cumpătul, căci calmul te păzește de mari păcate.",
+        "5": "Există un rău pe care l-am văzut sub soare, ca o greșeală care vine din partea stăpânitorului:",
+        "6": "prostia este așezată în multe locuri înalte, iar cei bogați stau într-un loc de jos.",
+        "7": "Am văzut sclavi călare pe cai și prinți mergând pe jos ca niște sclavi.",
+        "8": "Cel ce sapă o groapă va cădea în ea, iar pe cel ce pătrunde printr-un zid îl va mușca un șarpe.",
+        "9": "Cine sfărâmă pietre este rănit de ele și cine crapă lemne se află în pericol din cauza lor.",
+        "10": "Dacă fierul securii este tocit și omul nu-i ascute lama, trebuie să-ți intensifici eforturile, dar înțelepciunea îl ajută pe om să reușească.",
+        "11": "Dacă șarpele mușcă, fără să fie descântat, stăpânul lui nu are niciun câștig.",
+        "12": "Cuvintele gurii celui înțelept sunt plăcute, dar cel nesăbuit se face de rușine prin vorbirea sa.",
+        "13": "Primele cuvinte ale gurii lui sunt prostești, iar sfârșitul vorbirii lui este nebunie răutăcioasă.",
+        "14": "Și totuși, prostul spune o mulțime de vorbe. Omul nu știe ce se va întâmpla; cine îi poate spune ce va fi după el?",
+        "15": "Eforturile proștilor îl obosesc pe cel ce nu cunoaște drumul spre cetate.",
+        "16": "Vai de tine, țară, al cărei rege este un copil și ai cărei prinți chefuiesc dimineața!",
+        "17": "Ferice de tine, țară, al cărei rege este de viță nobilă și ai cărei prinți dau ospețe la vremea potrivită, ca să se întărească și nu să se îmbete!",
+        "18": "Din cauza leneviei se lasă grinda, iar, când mâinile sunt leneșe, plouă în casă.",
+        "19": "Ospățul se face pentru veselie și vinul înveselește viața, dar argintul răspunde la toate.",
+        "20": "Nu-l blestema pe rege nici chiar în mintea ta, nu-l blestema pe cel înstărit nici chiar în dormitorul tău, căci s-ar putea ca pasărea cerului să-ți ducă vorba și un sol înaripat să-ți dea pe față spusele."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Dead flies cause the oil of the perfumer to produce an evil odor; so does a little folly outweigh wisdom and honor.",
+        "2": "A wise man’s heart is at his right hand,",
+        "3": "Yes also when the fool walks by the way, his understanding fails him, and he says to everyone that he is a fool.",
+        "4": "If the spirit of the ruler rises up against you, don’t leave your place; for gentleness lays great offenses to rest.",
+        "5": "There is an evil which I have seen under the sun, the sort of error which proceeds from the ruler.",
+        "6": "Folly is set in great dignity, and the rich sit in a low place.",
+        "7": "I have seen servants on horses, and princes walking like servants on the earth.",
+        "8": "He who digs a pit may fall into it; and whoever breaks through a wall may be bitten by a snake.",
+        "9": "Whoever carves out stones may be injured by them. Whoever splits wood may be endangered by it.",
+        "10": "If the ax is blunt, and one doesn’t sharpen the edge, then he must use more strength; but skill brings success.",
+        "11": "If the snake bites before it is charmed, then is there no profit for the charmer’s tongue.",
+        "12": "The words of a wise man’s mouth are gracious; but a fool is swallowed by his own lips.",
+        "13": "The beginning of the words of his mouth is foolishness; and the end of his talk is mischievous madness.",
+        "14": "A fool also multiplies words. Man doesn’t know what will be; and that which will be after him, who can tell him?",
+        "15": "The labor of fools wearies every one of them; for he doesn’t know how to go to the city.",
+        "16": "Woe to you, land, when your king is a child, and your princes eat in the morning!",
+        "17": "Happy are you, land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!",
+        "18": "By slothfulness the roof sinks in; and through idleness of the hands the house leaks.",
+        "19": "A feast is made for laughter, and wine makes the life glad; and money is the answer for all things.",
+        "20": "Don’t curse the king, no, not in your thoughts; and don’t curse the rich in your bedroom, for a bird of the sky may carry your voice, and that which has wings may tell the matter."
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Toate își au vremea lor și fiecare lucru de sub ceruri își are ceasul lui.",
+        "2": "Nașterea își are vremea ei, și moartea își are vremea ei; săditul își are vremea lui, și smulgerea celor sădite își are vremea ei.",
+        "3": "Uciderea își are vremea ei, și tămăduirea își are vremea ei; dărâmarea își are vremea ei, și zidirea își are vremea ei;",
+        "4": "plânsul își are vremea lui, și râsul își are vremea lui; bocitul își are vremea lui, și jucatul își are vremea lui;",
+        "5": "aruncarea cu pietre își are vremea ei, și strângerea pietrelor își are vremea ei; îmbrățișarea își are vremea ei, și depărtarea de îmbrățișări își are vremea ei;",
+        "6": "căutarea își are vremea ei, și pierderea își are vremea ei; păstrarea își are vremea ei, și lepădarea își are vremea ei;",
+        "7": "ruptul își are vremea lui, și cusutul își are vremea lui; tăcerea își are vremea ei, și vorbirea își are vremea ei;",
+        "8": "iubitul își are vremea lui, și urâtul își are vremea lui; războiul își are vremea lui, și pacea își are vremea ei.",
+        "9": "Ce folos are cel ce muncește din truda lui?",
+        "10": "Am văzut la ce îndeletnicire supune Dumnezeu pe fiii oamenilor.",
+        "11": "Orice lucru El îl face frumos la vremea lui. A pus în inima lor chiar și gândul veșniciei, măcar că omul nu poate cuprinde, de la început până la sfârșit, lucrarea pe care a făcut-o Dumnezeu.",
+        "12": "Am ajuns să cunosc că nu este altă fericire pentru ei decât să se bucure și să trăiască bine în viața lor;",
+        "13": "dar și faptul că un om mănâncă și bea și duce un trai bun în mijlocul întregii lui munci este un dar de la Dumnezeu.",
+        "14": "Am ajuns la cunoștința că tot ce face Dumnezeu dăinuiește în veci, și la ceea ce face El nu mai este nimic de adăugat și nimic de scăzut, și că Dumnezeu face așa pentru ca lumea să se teamă de El.",
+        "15": "Ce este a mai fost și ce va fi a mai fost; și Dumnezeu aduce iarăși înapoi ce a trecut.",
+        "16": "Am mai văzut sub soare că, în locul rânduit pentru judecată, domnește nelegiuirea și că, în locul rânduit pentru dreptate, este răutate.",
+        "17": "Atunci am zis în inima mea: „Dumnezeu va judeca și pe cel bun, și pe cel rău, căci El a sorocit o vreme pentru orice lucru și pentru orice faptă.”",
+        "18": "Am zis în inima mea că acestea se întâmplă numai pentru oameni, ca să-i încerce Dumnezeu și ei înșiși să vadă că nu sunt decât niște dobitoace.",
+        "19": "Căci soarta omului și a dobitocului este aceeași; aceeași soartă au amândoi; cum moare unul, așa moare și celălalt; toți au aceeași suflare, și omul nu întrece cu nimic pe dobitoc, căci totul este deșertăciune.",
+        "20": "Toate merg la un loc; toate au fost făcute din țărână și toate se întorc în țărână.",
+        "21": "Cine știe dacă suflarea omului se suie în sus și dacă suflarea dobitocului se coboară în jos, în pământ?",
+        "22": "Așa că am văzut că nu este nimic mai bun pentru om decât să se veselească de lucrările lui: aceasta este partea lui. Căci cine-l va face să se bucure de ce va fi după el?"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Pentru toate există o vreme și orice lucru de sub ceruri își are timpul său:",
+        "2": "un timp pentru a te naște și un timp pentru a muri; un timp pentru a planta și un timp pentru a smulge;",
+        "3": "un timp pentru a ucide și un timp pentru a vindeca; un timp pentru a dărâma și un timp pentru a construi;",
+        "4": "un timp pentru a plânge și un timp pentru a râde; un timp pentru a jeli și un timp pentru a dansa;",
+        "5": "un timp pentru a arunca cu pietre și un timp pentru a strânge pietre; un timp pentru a îmbrățișa și un timp pentru a fi departe de îmbrățișări;",
+        "6": "un timp pentru a căuta și un timp pentru a pierde; un timp pentru a păstra și un timp pentru a arunca;",
+        "7": "un timp pentru a rupe și un timp pentru a coase; un timp pentru a tăcea și un timp pentru a vorbi;",
+        "8": "un timp pentru a iubi și un timp pentru a urî; un timp pentru război și un timp pentru pace.",
+        "9": "Ce câștig are lucrătorul din toată munca lui cea grea?",
+        "10": "Am văzut munca pe care Dumnezeu o dă fiilor omului ca să fie ocupați cu ea.",
+        "11": "El a făcut toate lucrurile bune la timpul lor, a pus chiar și veșnicia în inimile lor, dar omul nu poate înțelege lucrarea pe care a făcut-o Dumnezeu de la început până la sfârșit.",
+        "12": "Înțeleg că, pentru oameni, nu este nimic mai bun decât să se bucure și să facă ce este bine în viață.",
+        "13": "În plus, faptul că cineva poate mânca, poate bea și poate duce o viață bună, în timpul întregii lui munci, este un dar de la Dumnezeu.",
+        "14": "Înțeleg că tot ceea ce face Dumnezeu durează veșnic; la aceasta nimic nu se adaugă și nimic nu se scade. Dumnezeu procedează astfel pentru ca oamenii să se teamă de El.",
+        "15": "Ceea ce este, există de mult timp, ceea ce va fi, a existat deja demult, iar Dumnezeu va aduce înapoi ceea ce a trecut.",
+        "16": "Am mai văzut ceva sub soare: Pe locul judecății, acolo era răutatea și pe locul dreptății, acolo era răutatea.",
+        "17": "Atunci am zis în inima mea: „Dumnezeu îl va judeca atât pe cel drept, cât și pe cel nedrept, căci a stabilit un timp pentru orice lucru și pentru orice faptă“.",
+        "18": "Apoi am zis în inima mea: „În privința fiilor oamenilor, Dumnezeu îi încearcă, pentru ca ei să vadă că sunt precum animalele“.",
+        "19": "Căci soarta fiilor omului și soarta animalului este o singură soartă: cum este moartea unuia, așa este și moartea celuilalt. Cu toții au o singură suflare; omul nu are niciun avantaj față de animal. Totul este deșertăciune.",
+        "20": "Toți merg în același loc, toți au fost făcuți din țărână și toți se întorc în țărână.",
+        "21": "Cine poate ști dacă sufletul omului merge sus, iar dacă sufletul animalelor coboară în pământ?",
+        "22": "Am înțeles, deci, că nu există un alt lucru bun de care să se bucure omul, în afară de munca lui, căci aceasta este partea lui, și cine îl poate face să vadă ce va urma după el?"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "For everything there is a season, and a time for every purpose under heaven:",
+        "2": "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
+        "3": "a time to kill, and a time to heal; a time to break down, and a time to build up;",
+        "4": "a time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+        "5": "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+        "6": "a time to seek, and a time to lose; a time to keep, and a time to cast away;",
+        "7": "a time to tear, and a time to sew; a time to keep silence, and a time to speak;",
+        "8": "a time to love, and a time to hate; a time for war, and a time for peace.",
+        "9": "What profit has he who works in that in which he labors?",
+        "10": "I have seen the burden which God has given to the sons of men to be afflicted with.",
+        "11": "He has made everything beautiful in its time. He has also set eternity in their hearts, yet so that man can’t find out the work that God has done from the beginning even to the end.",
+        "12": "I know that there is nothing better for them than to rejoice, and to do good as long as they live.",
+        "13": "Also that every man should eat and drink, and enjoy good in all his labor, is the gift of God.",
+        "14": "I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him.",
+        "15": "That which is has been long ago, and that which is to be has been long ago. God seeks again that which is passed away.",
+        "16": "Moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there.",
+        "17": "I said in my heart, “God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.”",
+        "18": "I said in my heart, “As for the sons of men, God tests them, so that they may see that they themselves are like animals.",
+        "19": "For that which happens to the sons of men happens to animals. Even one thing happens to them. As the one dies, so the other dies. Yes, they have all one breath; and man has no advantage over the animals, for all is vanity.",
+        "20": "All go to one place. All are from the dust, and all turn to dust again.",
+        "21": "Who knows the spirit of man, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?”",
+        "22": "Therefore I saw that there is nothing better than that a man should rejoice in his works, for that is his portion; for who can bring him to see what will be after him?"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "book": "Psalmi",
+  "chapter": "126",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Când a adus Domnul înapoi pe prinșii de război ai Sionului, parcă visam.",
+        "2": "Atunci, gura ne era plină de strigăte de bucurie și limba, de cântări de veselie. Atunci se spunea printre neamuri: „Domnul a făcut mari lucruri pentru ei!”",
+        "3": "Da, Domnul a făcut mari lucruri pentru noi și de aceea suntem plini de bucurie.",
+        "4": "Doamne, adu înapoi pe prinșii noștri de război ca pe niște râuri în partea de miazăzi!",
+        "5": "Cei ce seamănă cu lacrimi vor secera cu cântări de veselie.",
+        "6": "Cel ce umblă plângând când aruncă sămânța se întoarce cu veselie când își strânge snopii."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Când Domnul i-a întors acasă pe captivii Sionului, parcă visam.",
+        "2": "Atunci gura ni s-a umplut de râsete, și limba noastră – de strigăte de bucurie. Atunci se spunea printre națiuni: „Domnul a făcut lucruri mari pentru ei!“.",
+        "3": "Domnul a făcut lucruri mari pentru noi; de aceea suntem bucuroși.",
+        "4": "Întoarce-i acasă, Doamne, pe captivii noștri, ca pe niște râuri din Neghev.",
+        "5": "Cei ce seamănă cu lacrimi, vor secera cu strigăte de bucurie.",
+        "6": "Cel ce merge plângând, ducându-și traista cu sămânță, se va întoarce cu strigăte de bucurie, ducându-și snopii."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "When Yahweh brought back those who returned to Zion, we were like those who dream.",
+        "2": "Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, “Yahweh has done great things for them.”",
+        "3": "Yahweh has done great things for us, and we are glad.",
+        "4": "Restore our fortunes again, Yahweh, like the streams in the Negev.",
+        "5": "Those who sow in tears will reap in joy.",
+        "6": "He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves."
+      }
+    }
+  }
+}

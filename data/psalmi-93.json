@@ -1,0 +1,36 @@
+{
+  "book": "Psalmi",
+  "chapter": "93",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul împărățește îmbrăcat cu măreție; Domnul este îmbrăcat și încins cu putere, de aceea lumea este tare și nu se clatină.",
+        "2": "Scaunul Tău de domnie este așezat din vremuri străvechi; Tu ești din veșnicie!",
+        "3": "Râurile vuiesc, Doamne, râurile vuiesc tare, râurile se umflă cu putere.",
+        "4": "Dar mai puternic decât vuietul apelor mari și mai puternic decât vuietul valurilor năprasnice ale mării este Domnul în locurile cerești.",
+        "5": "Mărturiile Tale sunt cu totul adevărate; sfințenia este podoaba Casei Tale, Doamne, pentru tot timpul cât vor ține vremurile."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Domnul împărățește. El este îmbrăcat cu măreție. Domnul este îmbrăcat cu putere. Brâul din jurul mijlocului Său este puterea. De aceea lumea este trainică și nu se clatină.",
+        "2": "Tronul Tău este întemeiat demult; Tu ești din veșnicie.",
+        "3": "Râurile s-au ridicat, Doamne, râurile și-au ridicat glasul, râurile și-au ridicat vuietul.",
+        "4": "Mai măreț decât zgomotul multor ape, decât valurile mărețe ale mării, este Domnul în înălțime.",
+        "5": "Învățăturile Tale sunt în întregime demne de încredere, iar sfințenia Îți împodobește Casa cât vor dăinui zilele, Doamne."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh reigns! He is clothed with majesty! Yahweh is armed with strength. The world also is established. It can’t be moved.",
+        "2": "Your throne is established from long ago. You are from everlasting.",
+        "3": "The floods have lifted up, Yahweh, the floods have lifted up their voice. The floods lift up their waves.",
+        "4": "Above the voices of many waters, the mighty breakers of the sea, Yahweh on high is mighty.",
+        "5": "Your statutes stand firm. Holiness adorns your house, Yahweh, forever more."
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+    "book": "Ieremia",
+    "chapter": "16",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Cuvântul Domnului mi-a vorbit astfel:",
+                "2": "„Să nu-ți iei nevastă și să n-ai în locul acesta nici fii, nici fiice!”",
+                "3": "Căci așa vorbește Domnul despre fiii și fiicele care se vor naște în locul acesta, despre mamele care-i vor naște și despre tații lor care le vor da naștere în țara aceasta:",
+                "4": "„Vor muri doborâți de boală rea. Nimeni nu-i va plânge, nici nu-i va îngropa, ci vor fi ca un gunoi pe pământ; vor pieri de sabie și de foamete, și trupurile lor moarte vor sluji ca hrană păsărilor cerului și fiarelor pământului.”",
+                "5": "Căci așa vorbește Domnul: „Să nu intri în nicio casă de jale, să nu plângi în ea și nici să nu te bocești cu ei, căci Mi-am luat înapoi de la poporul acesta pacea Mea”, zice Domnul, „bunătatea și îndurarea Mea.",
+                "6": "Și mari, și mici, toți vor muri în țara aceasta și nu vor fi îngropați: nimeni nu-i va plânge, nimeni nu-și va face tăieturi din pricina lor și nu se va rade pentru ei.",
+                "7": "Nimeni nu le va pune masa în timpul jelirii ca să-i mângâie pentru cel mort și nimeni nu le va întinde paharul mângâierii pentru tatăl sau pentru mama lor.",
+                "8": "Să nu intri nici într-o casă de petrecere, ca să te așezi cu ei, să mănânci și să bei.”",
+                "9": "Căci așa vorbește Domnul oștirilor, Dumnezeul lui Israel: „Iată, voi face să înceteze în locul acesta, sub ochii voștri și în zilele voastre, strigătele de bucurie și strigătele de veselie, cântecele mirelui și cântecele miresei.",
+                "10": "Când vei vesti poporului acestuia toate aceste lucruri, ei îți vor zice: ‘Pentru ce ne amenință Domnul cu toate aceste mari nenorociri? Ce nelegiuire și ce păcat am făcut împotriva Domnului Dumnezeului nostru?’",
+                "11": "Atunci să le răspunzi: ‘Părinții voștri M-au părăsit’, zice Domnul, ‘s-au dus după alți dumnezei, le-au slujit și s-au închinat înaintea lor, iar pe Mine M-au părăsit și n-au păzit Legea Mea!",
+                "12": "Și voi ați făcut și mai rău decât părinții voștri, căci iată că fiecare umblați după pornirile inimii voastre rele și nu M-ascultați.",
+                "13": "De aceea, vă voi muta din țara aceasta într-o țară pe care n-ați cunoscut-o nici voi, nici părinții voștri și acolo veți sluji altor dumnezei, zi și noapte, căci nu vă voi ierta!’",
+                "14": "De aceea, iată, vin zile”, zice Domnul, „când nu se va mai zice: ‘Viu este Domnul, care a scos din țara Egiptului pe copiii lui Israel!’",
+                "15": "Ci se va zice: ‘Viu este Domnul, care a scos pe copiii lui Israel din țara de la miazănoapte și din toate țările unde-i izgonise!’ Căci îi voi aduce înapoi în țara lor, pe care o dădusem părinților lor.",
+                "16": "Iată, trimit o mulțime de pescari”, zice Domnul, „și-i vor pescui; și, după aceea, voi trimite o mulțime de vânători și-i vor vâna pe toți munții și pe toate dealurile și în crăpăturile stâncilor.",
+                "17": "Căci ochii Mei sunt cu luare aminte la toate căile lor; ele nu sunt ascunse înaintea Feței Mele și nelegiuirea lor nu este ascunsă de privirile Mele.",
+                "18": "De aceea le voi răsplăti mai întâi îndoit nelegiuirea și păcatul lor, pentru că Mi-au spurcat țara, pentru că Mi-au umplut moștenirea cu trupurile moarte ale jertfelor aduse idolilor lor și cu urâciunile lor.”",
+                "19": "Doamne, tăria, cetățuia și scăparea mea în ziua necazului! Neamurile vor veni la Tine de la marginile pământului și vor zice: „Părinții noștri n-au moștenit decât minciună, idoli deșerți, care nu sunt de niciun ajutor!”",
+                "20": "Cum poate omul să-și facă dumnezei care nu sunt dumnezei?",
+                "21": "„De aceea iată că le arăt de data aceasta și-i fac să știe puterea și tăria Mea, și vor cunoaște că Numele Meu este Domnul."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Cuvântul Domnului mi-a vorbit, zicând:",
+                "2": "„Să nu-ți iei soție și să nu ai în locul acesta nici fii, nici fiice!“",
+                "3": "Așa vorbește Domnul despre fiii și fiicele care se vor naște în locul acesta, despre mamele care-i vor naște și despre tații care-i vor concepe în țara aceasta:",
+                "4": "„Ei vor muri de boli ucigătoare. Nimeni nu-i va jeli, nici nu-i va îngropa, ci vor deveni un gunoi pe fața pământului. Vor pieri de sabie și de foamete, iar cadavrele lor vor deveni hrană pentru păsările cerului și pentru animalele sălbatice ale pământului“.",
+                "5": "Căci așa vorbește Domnul: „Să nu intri în nicio casă de jale, să nu mergi să plângi și să jelești cu ei, fiindcă Eu Mi-am retras de la poporul acesta pacea, îndurarea și mila“, zice Domnul.",
+                "6": "„Cei mari și cei mici vor muri în țara aceasta și nu vor fi îngropați. Nimeni nu-i va jeli, nimeni nu-și va face tăieturi din cauza lor și nimeni nu-și va rade capul pentru ei.",
+                "7": "Nimeni nu va rupe pâine pentru ei în timpul bocetului, ca să-i mângâie pentru cel mort și nimeni nu le va da să bea din paharul mângâierilor pentru tatăl sau pentru mama lor.",
+                "8": "Să nu intri în nicio casă de petrecere ca să te așezi cu ei, să mănânci sau să bei.",
+                "9": "Căci așa vorbește Domnul Oștirilor, Dumnezeul lui Israel: «Iată, înaintea ochilor voștri și în zilele voastre, voi face să înceteze în locul acesta strigătele de bucurie și de veselie, glasul mirelui și al miresei».",
+                "10": "Când îi vei spune acestui popor toate aceste cuvinte, ei te vor întreba: «De ce a hotărât Domnul împotriva noastră toate aceste mari nenorociri? Care este nelegiuirea noastră? Ce păcat am făcut împotriva Domnului, Dumnezeul nostru?».",
+                "11": "Atunci să le răspunzi astfel: «Pentru că părinții voștri M-au părăsit, zice Domnul, s-au dus după alți dumnezei, le-au slujit și li s-au închinat. Ei M-au uitat și nu au păzit Legea Mea.",
+                "12": "Iar voi ați făcut și mai rău decât părinții voștri. Iată, fiecare dintre voi umblă după încăpățânarea inimii lui rele și nu Mă ascultați.",
+                "13": "De aceea vă voi arunca din țara aceasta într-o țară pe care n-ați cunoscut-o, nici voi și nici părinții voștri. Acolo veți sluji altor dumnezei zi și noapte, căci nu vă voi arăta îndurare»“.",
+                "14": "„Iată, cu adevărat vin zile“, zice Domnul, „când nu se va mai zice: «Viu este Domnul, Care i-a scos pe fiii lui Israel din țara Egiptului!»,",
+                "15": "ci se va zice: «Viu este Domnul, Care i-a scos pe fiii lui Israel din țara de nord și din toate țările unde îi alungase!», căci îi voi aduce înapoi în țara lor, pe care le-am dat-o strămoșilor lor.“",
+                "16": "„Iată, trimit o mulțime de pescari“, zice Domnul, „care îi vor pescui. După aceea, voi trimite o mulțime de vânători, care îi vor vâna pe toți munții, pe toate dealurile și în crăpăturile stâncilor,",
+                "17": "căci ochii Mei se uită la toate căile lor; ele nu sunt ascunse dinaintea feței Mele, iar nelegiuirea lor nu este ascunsă de ochii Mei.",
+                "18": "Mai întâi le voi răsplăti dublu pentru nelegiuirea și păcatul lor, fiindcă Mi-au întinat țara cu cadavrele spurcăciunilor lor și mi-au umplut moștenirea cu urâciunile lor“.",
+                "19": "Doamne, Puterea mea, Cetățuia mea și Refugiul meu în ziua necazului! de la marginile pământului și vor zice: „Părinții noștri n-au moștenit decât minciună, lucruri fără valoare, care nu le-au fost de niciun folos!",
+                "20": "Poate oare omul să-și facă propriii dumnezei? Poate, dar aceștia nu sunt Dumnezeu!“.",
+                "21": "„De aceea, iată, îi voi învăța, să cunoască mâna Mea și puterea Mea. că Numele Meu este Domnul!"
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Then Yahweh’s word came to me, saying,",
+                "2": "“You shall not take a wife, neither shall you have sons or daughters, in this place.”",
+                "3": "For Yahweh says concerning the sons and concerning the daughters who are born in this place, and concerning their mothers who bore them, and concerning their fathers who became their father in this land:",
+                "4": "“They will die grievous deaths. They will not be lamented, neither will they be buried. They will be as dung on the surface of the ground. They will be consumed by the sword and by famine. Their dead bodies will be food for the birds of the sky and for the animals of the earth.”",
+                "5": "For Yahweh says, “Don’t enter into the house of mourning. Don’t go to lament. Don’t bemoan them, for I have taken away my peace from this people,” says Yahweh, “even loving kindness and tender mercies.",
+                "6": "Both great and small will die in this land. They will not be buried. Men won’t lament for them, cut themselves, or make themselves bald for them.",
+                "7": "Men won’t break bread for them in mourning, to comfort them for the dead. Men won’t give them the cup of consolation to drink for their father or for their mother.",
+                "8": "“You shall not go into the house of feasting to sit with them, to eat and to drink.”",
+                "9": "For Yahweh of Armies, the God of Israel says: “Behold, I will cause to cease out of this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.",
+                "10": "It will happen, when you tell this people all these words, and they ask you, ‘Why has Yahweh pronounced all this great evil against us?’ or ‘What is our iniquity?’ or ‘What is our sin that we have committed against Yahweh our God?’",
+                "11": "then you shall tell them, ‘Because your fathers have forsaken me,’ says Yahweh, ‘and have walked after other gods, have served them, have worshiped them, have forsaken me, and have not kept my law.",
+                "12": "You have done evil more than your fathers, for behold, you each walk after the stubbornness of his evil heart, so that you don’t listen to me.",
+                "13": "Therefore I will cast you out of this land into the land that you have not known, neither you nor your fathers. There you will serve other gods day and night, for I will show you no favor.’",
+                "14": "“Therefore behold, the days come,” says Yahweh, “that it will no more be said, ‘As Yahweh lives, who brought up the children of Israel out of the land of Egypt;’",
+                "15": "but, ‘As Yahweh lives, who brought up the children of Israel from the land of the north, and from all the countries where he had driven them.’ I will bring them again into their land that I gave to their fathers.",
+                "16": "“Behold, I will send for many fishermen,” says Yahweh, “and they will fish them up. Afterward I will send for many hunters, and they will hunt them from every mountain, from every hill, and out of the clefts of the rocks.",
+                "17": "For my eyes are on all their ways. They are not hidden from my face. Their iniquity isn’t concealed from my eyes.",
+                "18": "First I will recompense their iniquity and their sin double, because they have polluted my land with the carcasses of their detestable things, and have filled my inheritance with their abominations.”",
+                "19": "Yahweh, my strength, my stronghold, and my refuge in the day of affliction, the nations will come to you from the ends of the earth, and will say, “Our fathers have inherited nothing but lies, vanity and things in which there is no profit.",
+                "20": "Should a man make to himself gods which yet are no gods?”",
+                "21": "“Therefore behold, I will cause them to know, this once I will cause them to know my hand and my might. Then they will know that my name is Yahweh.”"
+            }
+        }
+    }
+}

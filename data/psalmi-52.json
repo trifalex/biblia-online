@@ -1,0 +1,48 @@
+{
+  "book": "Psalmi",
+  "chapter": "52",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pentru ce te fălești cu răutatea ta, asupritorule? Bunătatea lui Dumnezeu ține în veci.",
+        "2": "Limba ta nu născocește decât răutate, ca un brici ascuțit, viclean ce ești!",
+        "3": "Tu iubești mai degrabă răul decât binele, mai degrabă minciuna decât adevărul.",
+        "4": "Tu iubești numai cuvinte nimicitoare, limbă înșelătoare!",
+        "5": "De aceea și Dumnezeu te va doborî pe vecie, te va apuca și te va ridica din cortul tău și te va dezrădăcina din pământul celor vii.",
+        "6": "Cei fără prihană vor vedea lucrul acesta, se vor teme și vor râde de el, zicând:",
+        "7": "„Iată omul care nu lua ca ocrotitor pe Dumnezeu, ci se încredea în bogățiile lui cele mari și se bizuia pe răutatea lui.”",
+        "8": "Dar eu sunt în Casa lui Dumnezeu ca un măslin verde, mă încred în bunătatea lui Dumnezeu în veci de veci.",
+        "9": "Te voi lăuda totdeauna pentru că ai lucrat și, în fața copiilor Tăi, voi nădăjdui în Numele Tău, căci este binevoitor."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Viteazule, de ce te lauzi cu răutatea ta? Îndurarea lui Dumnezeu mă protejează pe vecie.",
+        "2": "Numai dezastru plănuiește limba ta! Este ca un brici ascuțit, viclean ce ești!",
+        "3": "Tu iubești mai mult răul decât binele și minciuna mai mult decât cuvântul drept.",
+        "4": "Tu iubești numai cuvintele nimicitoare, limbă înșelătoare!",
+        "5": "Dumnezeu te va doborî pe vecie, te va apuca și te va smulge din cortul tău; te va dezrădăcina din pământul celor vii.",
+        "6": "Cei drepți vor vedea și se vor teme, vor râde de el:",
+        "7": "„Iată omul care nu-L lua pe Dumnezeu ca refugiu al său, ci se încredea în marile lui bogății și creștea în putere distrugându-i pe alții“.",
+        "8": "Eu însă sunt ca un măslin verde în Casa lui Dumnezeu, căci mă încred în îndurarea lui Dumnezeu pentru veci de veci.",
+        "9": "Îți voi mulțumi mereu pentru că ai lucrat; îmi pun speranța în Numele Tău, căci este binevoitor față de credincioșii Tăi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Why do you boast of mischief, mighty man? God’s loving kindness endures continually.",
+        "2": "Your tongue plots destruction, like a sharp razor, working deceitfully.",
+        "3": "You love evil more than good, lying rather than speaking the truth.",
+        "4": "You love all devouring words, you deceitful tongue.",
+        "5": "God will likewise destroy you forever. He will take you up, and pluck you out of your tent, and root you out of the land of the living.",
+        "6": "The righteous also will see it, and fear, and laugh at him, saying,",
+        "7": "“Behold, this is the man who didn’t make God his strength, but trusted in the abundance of his riches, and strengthened himself in his wickedness.”",
+        "8": "But as for me, I am like a green olive tree in God’s house. I trust in God’s loving kindness forever and ever.",
+        "9": "I will give you thanks forever, because you have done it. I will hope in your name, for it is good, in the presence of your saints."
+      }
+    }
+  }
+}

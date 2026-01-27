@@ -1,0 +1,36 @@
+{
+  "book": "Psalmi",
+  "chapter": "43",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Fă-mi dreptate, Dumnezeule, apără-mi pricina împotriva unui neam nemilos! Izbăvește-mă de oamenii plini de vicleșug și de fărădelege!",
+        "2": "Tu ești Dumnezeul care mă ocrotește: pentru ce mă lepezi? Pentru ce trebuie să umblu plin de întristare sub apăsarea vrăjmașului?",
+        "3": "Trimite lumina și credincioșia Ta ca să mă călăuzească și să mă ducă la muntele Tău cel sfânt și la locașurile Tale!",
+        "4": "Atunci voi merge la altarul lui Dumnezeu, la altarul lui Dumnezeu, care este bucuria și veselia mea, și Te voi lăuda cu harpa, Dumnezeule, Dumnezeul meu!",
+        "5": "Pentru ce te mâhnești, suflete, și gemi înăuntrul meu? Nădăjduiește în Dumnezeu, căci iarăși Îl voi lăuda: El este mântuirea mea și Dumnezeul meu."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Fă-mi dreptate, Dumnezeule, apără-mi cauza în fața unei națiuni necredincioase! Scapă-mă de omul înșelător și nedrept!",
+        "2": "Tu ești Dumnezeu, ești refugiul meu! De ce mă alungi? De ce trebuie să umblu întristat, asuprit de dușman?",
+        "3": "Trimite-Ți lumina și adevărul, ca să mă călăuzească, să mă conducă la muntele Tău cel sfânt și la locuințele Tale!",
+        "4": "Să ajung la altarul lui Dumnezeu, la Dumnezeu, Care este bucuria și veselia mea! Îți voi mulțumi cu lira, Dumnezeule, Dumnezeul meu!",
+        "5": "Suflete al meu, de ce te mâhnești și gemi înăuntrul meu? Pune-ți speranța în Dumnezeu, căci iarăși Îi voi mulțumi. El este ajutorul meu și Dumnezeul meu."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Vindicate me, God, and plead my cause against an ungodly nation. Oh, deliver me from deceitful and wicked men.",
+        "2": "For you are the God of my strength. Why have you rejected me? Why do I go mourning because of the oppression of the enemy?",
+        "3": "Oh, send out your light and your truth. Let them lead me. Let them bring me to your holy hill, to your tents.",
+        "4": "Then I will go to the altar of God, to God, my exceeding joy. I will praise you on the harp, God, my God.",
+        "5": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him: my Savior, my helper, and my God."
+      }
+    }
+  }
+}

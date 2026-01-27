@@ -1,0 +1,39 @@
+{
+  "book": "Psalmi",
+  "chapter": "23",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul este Păstorul meu: nu voi duce lipsă de nimic.",
+        "2": "El mă paște în pășuni verzi și mă duce la ape de odihnă;",
+        "3": "îmi înviorează sufletul și mă povățuiește pe cărări drepte din pricina Numelui Său.",
+        "4": "Chiar dacă ar fi să umblu prin valea umbrei morții, nu mă tem de niciun rău, căci Tu ești cu mine. Toiagul și nuiaua Ta mă mângâie.",
+        "5": "Tu îmi întinzi masa în fața potrivnicilor mei, îmi ungi capul cu untdelemn și paharul meu este plin de dă peste el.",
+        "6": "Da, fericirea și îndurarea mă vor însoți în toate zilele vieții mele și voi locui în Casa Domnului până la sfârșitul zilelor mele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Domnul este Păstorul meu: nu voi duce lipsă de nimic.",
+        "2": "El face să mă culc pe pășuni verzi și mă conduce la ape odihnitoare.",
+        "3": "Îmi înviorează sufletul și mă călăuzește pe cărări drepte, datorită Numelui Său.",
+        "4": "Chiar dacă ar fi să umblu prin valea umbrei morții, nu mă tem de rău, căci Tu ești cu mine. Toiagul și nuiaua Ta mă mângâie.",
+        "5": "Tu-mi întinzi masa în fața dușmanilor mei, îmi ungi capul cu untdelemn, iar paharul meu este atât de plin.",
+        "6": "Într-adevăr, bunătatea și îndurarea mă vor însoți în toate zilele vieții mele și voi locui în Casa Domnului câte zile voi avea pe acest pământ!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh is my shepherd; I shall lack nothing.",
+        "2": "He makes me lie down in green pastures. He leads me beside still waters.",
+        "3": "He restores my soul. He guides me in the paths of righteousness for his name’s sake.",
+        "4": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me.",
+        "5": "You prepare a table before me in the presence of my enemies. You anoint my head with oil. My cup runs over.",
+        "6": "Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in Yahweh’s house forever."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "26",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Fă-mi dreptate, Doamne, căci umblu în nevinovăție și mă încred în Domnul fără șovăire!",
+        "2": "Cercetează-mă, Doamne, încearcă-mă, trece-mi prin cuptorul de foc rărunchii și inima!",
+        "3": "Căci bunătatea Ta este înaintea ochilor mei și umblu în adevărul Tău.",
+        "4": "Nu șed împreună cu oamenii mincinoși și nu merg împreună cu oamenii vicleni.",
+        "5": "Urăsc adunarea celor ce fac răul și nu stau împreună cu cei răi.",
+        "6": "Îmi spăl mâinile în nevinovăție și așa înconjor altarul Tău, Doamne,",
+        "7": "ca să izbucnesc în mulțumiri și să istorisesc toate minunile Tale.",
+        "8": "Doamne, eu iubesc locașul Casei Tale și locul în care locuiește slava Ta.",
+        "9": "Nu-mi lua sufletul împreună cu păcătoșii, nici viața cu oamenii care varsă sânge,",
+        "10": "ale căror mâini sunt nelegiuite și a căror dreaptă este plină de mită!",
+        "11": "Eu umblu în neprihănire; izbăvește-mă și ai milă de mine!",
+        "12": "Piciorul meu stă pe calea cea dreaptă: voi binecuvânta pe Domnul în adunări."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, fă-mi dreptate, căci am umblat în integritate și m-am încrezut în Domnul fără ezitare.",
+        "2": "Cercetează-mă, Doamne, pune-mă la încercare, curățește-mi adâncul ființei și inima!",
+        "3": "Căci îndurarea Ta este înaintea ochilor mei și am umblat în adevărul Tău.",
+        "4": "Nu mă așez alături de oamenii înșelători și nu voi umbla cu cei vicleni.",
+        "5": "Urăsc adunarea răufăcătorilor și nu mă așez alături de cei răi.",
+        "6": "Îmi spăl mâinile în nevinovăție și așa înconjor altarul Tău, Doamne,",
+        "7": "ca să fac să răsune mulțumirea și să istorisesc toate minunile Tale.",
+        "8": "Doamne, eu iubesc Casa în care locuiești și locul unde se află gloria Ta.",
+        "9": "Nu-mi lua sufletul împreună cu cei păcătoși, nici viața, împreună cu oamenii setoși de sânge,",
+        "10": "pe ale căror mâini este stricăciune și a căror dreaptă este plină de mită.",
+        "11": "Dar eu umblu în integritate. Răscumpără-mă și arată-Ți bunăvoința față de mine!",
+        "12": "Piciorul meu stă pe loc neted. Voi binecuvânta pe Domnul în adunări."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Judge me, Yahweh, for I have walked in my integrity. I have trusted also in Yahweh without wavering.",
+        "2": "Examine me, Yahweh, and prove me. Try my heart and my mind.",
+        "3": "For your loving kindness is before my eyes. I have walked in your truth.",
+        "4": "I have not sat with deceitful men, neither will I go in with hypocrites.",
+        "5": "I hate the assembly of evildoers, and will not sit with the wicked.",
+        "6": "I will wash my hands in innocence, so I will go about your altar, Yahweh,",
+        "7": "that I may make the voice of thanksgiving to be heard and tell of all your wondrous deeds.",
+        "8": "Yahweh, I love the habitation of your house, the place where your glory dwells.",
+        "9": "Don’t gather my soul with sinners, nor my life with bloodthirsty men",
+        "10": "in whose hands is wickedness; their right hand is full of bribes.",
+        "11": "But as for me, I will walk in my integrity. Redeem me, and be merciful to me.",
+        "12": "My foot stands in an even place. In the congregations I will bless Yahweh."
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "Psalmi",
+  "chapter": "16",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Păzește-mă, Dumnezeule, căci în Tine mă încred!",
+        "2": "Eu zic Domnului: „Tu ești Domnul meu, Tu ești singura mea fericire!”",
+        "3": "Sfinții care sunt în țară, oamenii evlavioși, sunt toată plăcerea mea.",
+        "4": "Idolii se înmulțesc, oamenii aleargă după dumnezei străini, dar eu n-aduc jertfele lor de sânge și nu pun numele lor pe buzele mele.",
+        "5": "Domnul este partea mea de moștenire și paharul meu, Tu îmi îndrepți sorțul meu.",
+        "6": "O moștenire plăcută mi-a căzut la sorți, o frumoasă moșie mi-a fost dată.",
+        "7": "Eu binecuvântez pe Domnul, care mă sfătuiește, căci până și noaptea îmi dă îndemnuri inima.",
+        "8": "Am necurmat pe Domnul înaintea ochilor mei. Când este El la dreapta mea, nu mă clatin.",
+        "9": "De aceea inima mi se bucură, sufletul mi se veselește și trupul mi se odihnește în liniște.",
+        "10": "Căci nu vei lăsa sufletul meu în Locuința morților, nu vei îngădui ca preaiubitul Tău să vadă putrezirea.",
+        "11": "Îmi vei arăta cărarea vieții; înaintea Feței Tale sunt bucurii nespuse și desfătări veșnice, în dreapta Ta."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Păzește-mă, Dumnezeule, căci în Tine mă adăpostesc!",
+        "2": "Eu zic Domnului: „Tu ești Stăpânul meu, nu am nimic bun în afară de Tine!“.",
+        "3": "Cât despre sfinții care sunt în țară, ei și cei măreți, în ei este toată plăcerea mea!",
+        "4": "Durerile celor ce au cumpărat un idol se înmulțesc. Nu voi aduce jertfele lor de băutură din sânge și nici nu voi rosti numele lor cu buzele mele.",
+        "5": "Domnul este partea mea de moștenire și paharul meu! Tu arunci sorțul în favoarea mea!",
+        "6": "Moșiile care mi-au căzut la sorți sunt în locuri plăcute! Într-adevăr, moștenirea care mi-a fost dată este frumoasă!",
+        "7": "Îl voi binecuvânta pe Domnul Care mă sfătuiește! Chiar și în timpul nopților, inima mea mă îndeamnă!",
+        "8": "Îl pun pe Domnul tot timpul înaintea mea. Pentru că El este la dreapta mea, nu mă voi clătina!",
+        "9": "De aceea mi se bucură inima și mi se înveselește sufletul! Mai mult, trupul meu va locui în siguranță,",
+        "10": "căci nu-mi vei lăsa sufletul în Locuința Morților și nu vei îngădui ca sfântul Tău să vadă putrezirea.",
+        "11": "Tu îmi faci cunoscută calea vieții; în prezența Ta sunt bucurii din abundență, iar la dreapta Ta este o fericire veșnică!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Preserve me, God, for I take refuge in you.",
+        "2": "My soul, you have said to Yahweh, “You are my Lord. Apart from you I have no good thing.”",
+        "3": "As for the saints who are in the earth, they are the excellent ones in whom is all my delight.",
+        "4": "Their sorrows shall be multiplied who give gifts to another god. Their drink offerings of blood I will not offer, nor take their names on my lips.",
+        "5": "Yahweh assigned my portion and my cup. You made my lot secure.",
+        "6": "The lines have fallen to me in pleasant places. Yes, I have a good inheritance.",
+        "7": "I will bless Yahweh, who has given me counsel. Yes, my heart instructs me in the night seasons.",
+        "8": "I have set Yahweh always before me. Because he is at my right hand, I shall not be moved.",
+        "9": "Therefore my heart is glad, and my tongue rejoices. My body shall also dwell in safety.",
+        "10": "For you will not leave my soul in Sheol, neither will you allow your holy one to see corruption.",
+        "11": "You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more."
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "book": "Leviticul",
+  "chapter": "17",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul a vorbit lui Moise și a zis:",
+        "2": "„Vorbește lui Aaron și fiilor lui și tuturor copiilor lui Israel și spune-le: ‘Iată ce a poruncit Domnul:",
+        "3": "«Dacă cineva din casa lui Israel înjunghie în tabără sau afară din tabără un bou, un miel sau o capră,",
+        "4": "și nu-l aduce la ușa cortului întâlnirii, ca să-l aducă dar Domnului înaintea cortului Domnului, sângele acesta va fi pus în socoteala omului aceluia: a vărsat sânge; omul acela va fi nimicit din mijlocul poporului său.",
+        "5": "De aceea, copiii lui Israel, în loc să-și înjunghie jertfele pe câmp, trebuie să le aducă la preot, înaintea Domnului, la ușa cortului întâlnirii, și să le aducă Domnului ca jertfe de mulțumire.",
+        "6": "Preotul să le stropească sângele pe altarul Domnului, la ușa cortului întâlnirii, și să ardă grăsimea, care va fi de un miros plăcut Domnului.",
+        "7": "Să nu-și mai aducă jertfele lor la idolii cu care curvesc. Aceasta va fi o lege veșnică pentru ei și pentru urmașii lor.»",
+        "8": "Să le spui dar: «Dacă un om din casa lui Israel sau dintre străinii care locuiesc în mijlocul lor aduce o ardere-de-tot sau vreo altă jertfă",
+        "9": "și n-o aduce la ușa cortului întâlnirii, ca s-o aducă jertfă Domnului, omul acela să fie nimicit din poporul lui. Să nu mănânce sânge",
+        "10": "Dacă un om din casa lui Israel sau din străinii care locuiesc în mijlocul lor mănâncă sânge de orice fel, Îmi voi întoarce Fața împotriva celui ce mănâncă sângele și-l voi nimici din mijlocul poporului său.",
+        "11": "Căci viața trupului este în sânge. Vi l-am dat ca să-l puneți pe altar, ca să slujească de ispășire pentru sufletele voastre, căci prin viața din el face sângele ispășire.»",
+        "12": "De aceea, am zis copiilor lui Israel: «Nimeni dintre voi să nu mănânce sânge și nici străinul care locuiește în mijlocul vostru să nu mănânce sânge.",
+        "13": "Dacă vreunul din copiii lui Israel sau din străinii care locuiesc în mijlocul lor vânează o fiară sau o pasăre care se mănâncă, să-i verse sângele și să-l acopere cu țărână.»",
+        "14": "Căci viața oricărui trup stă în sângele lui, care este în el. De aceea am zis copiilor lui Israel: «Să nu mâncați sângele niciunui trup», căci viața oricărui trup este sângele lui: oricine va mânca din el va fi nimicit.",
+        "15": "Oricine, fie băștinaș, fie străin, care va mânca dintr-o fiară moartă sau sfâșiată, să-și spele hainele, să se scalde în apă și va fi necurat până seara; apoi va fi curat.",
+        "16": "Dacă nu-și spală hainele și nu-și scaldă trupul, își va purta fărădelegea lui.’”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Domnul i-a vorbit lui Moise, zicând:",
+        "2": "„Vorbește-le lui Aaron, fiilor săi și tuturor fiilor lui Israel și să le spui: «Acesta este cuvântul pe care l-a poruncit Domnul:",
+        "3": "‘Dacă vreun bărbat din Casa lui Israel înjunghie în tabără sau în afara taberei un bou, un miel sau un țap,",
+        "4": "în loc să vină cu el la intrarea în Cortul Întâlnirii și să-l aducă drept ofrandă pentru Domnul, înaintea Tabernaculului Domnului, omul acela va fi considerat vinovat de vărsare de sânge. El a vărsat sânge și, prin urmare, va fi nimicit din mijlocul poporului său.",
+        "5": "De aceea, în loc să-și înjunghie jertfele pe câmp, fiii lui Israel să le aducă Domnului la intrarea în Cortul Întâlnirii, la preot, și să le ofere ca jertfe de pace pentru Domnul.",
+        "6": "Preotul să stropească sângele pe altarul Domnului, la intrarea în Cortul Întâlnirii, și să ardă grăsimea care va fi de o aromă plăcută Domnului.",
+        "7": "Să nu-și mai înjunghie astfel jertfele în cinstea țapilor, înaintea cărora se prostituează. Aceasta să fie o hotărâre veșnică pentru ei de-a lungul generațiilor lor’».",
+        "8": "Să le mai spui: «Dacă vreun bărbat din Casa lui Israel sau vreun străin care locuiește în mijlocul vostru aduce o ardere-de-tot sau o altă jertfă,",
+        "9": "fără să o înfățișeze la intrarea în Cortul Întâlnirii pentru a o jertfi Domnului, omul acela să fie nimicit din poporul său. Interdicția de a mânca sânge",
+        "10": "Dacă vreunul din Casa lui Israel sau vreun străin care locuiește în mijlocul vostru va mânca vreun fel de sânge, Îmi voi întoarce fața împotriva acelui om care mănâncă sânge și-l voi nimici din poporul său.",
+        "11": "Căci viața trupului este în sânge. Eu vi l-am dat ca să puteți face ispășire pentru viețile voastre pe altar, căci sângele face ispășire pentru viața cuiva.",
+        "12": "De aceea le-am zis fiilor lui Israel: ‘Nimeni dintre voi să nu mănânce sânge, și nici străinul care locuiește în mijlocul vostru să nu mănânce sânge’.",
+        "13": "Când vreunul dintre fiii lui Israel sau dintre străinii care locuiesc în mijlocul lor vânează sau prinde vreo vietate sau vreo pasăre care poate fi mâncată, să-i verse sângele și să-l acopere cu țărână.",
+        "14": "Căci viața oricărui trup este sângele lui. De aceea le-am zis fiilor lui Israel: ‘Să nu mâncați sângele niciunui trup, pentru că viața oricărui trup este sângele lui. Oricine îl va mânca va fi nimicit’.",
+        "15": "Orice persoană, fie băștinaș, fie străin, care mănâncă din cadavrul unui animal sau dintr-un animal sfâșiat de sălbăticiuni, să-și spele hainele și să se scalde în apă. El va fi necurat până seara, după care va fi curat.",
+        "16": "Dar dacă nu și le spală și nu-și scaldă trupul, va purta pedeapsa pentru nelegiuirea lui»“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh spoke to Moses, saying,",
+        "2": "“Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, ‘This is the thing which Yahweh has commanded:",
+        "3": "Whatever man there is of the house of Israel who kills a bull, or lamb, or goat in the camp, or who kills it outside the camp,",
+        "4": "and hasn’t brought it to the door of the Tent of Meeting to offer it as an offering to Yahweh before Yahweh’s tabernacle: blood shall be imputed to that man. He has shed blood. That man shall be cut off from among his people.",
+        "5": "This is to the end that the children of Israel may bring their sacrifices, which they sacrifice in the open field, that they may bring them to Yahweh, to the door of the Tent of Meeting, to the priest, and sacrifice them for sacrifices of peace offerings to Yahweh.",
+        "6": "The priest shall sprinkle the blood on Yahweh’s altar at the door of the Tent of Meeting, and burn the fat for a pleasant aroma to Yahweh.",
+        "7": "They shall no more sacrifice their sacrifices to the goat idols, after which they play the prostitute. This shall be a statute forever to them throughout their generations.’",
+        "8": "“You shall say to them, ‘Any man there is of the house of Israel, or of the strangers who live as foreigners among them, who offers a burnt offering or sacrifice,",
+        "9": "and doesn’t bring it to the door of the Tent of Meeting to sacrifice it to Yahweh, that man shall be cut off from his people.",
+        "10": "“‘Any man of the house of Israel, or of the strangers who live as foreigners among them, who eats any kind of blood, I will set my face against that soul who eats blood, and will cut him off from among his people.",
+        "11": "For the life of the flesh is in the blood. I have given it to you on the altar to make atonement for your souls; for it is the blood that makes atonement by reason of the life.",
+        "12": "Therefore I have said to the children of Israel, “No person among you may eat blood, nor may any stranger who lives as a foreigner among you eat blood.”",
+        "13": "“‘Whatever man there is of the children of Israel, or of the strangers who live as foreigners among them, who takes in hunting any animal or bird that may be eaten, he shall pour out its blood, and cover it with dust.",
+        "14": "For as to the life of all flesh, its blood is with its life. Therefore I said to the children of Israel, “You shall not eat the blood of any kind of flesh; for the life of all flesh is its blood. Whoever eats it shall be cut off.”",
+        "15": "“‘Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, shall wash his clothes, and bathe himself in water, and be unclean until the evening. Then he shall be clean.",
+        "16": "But if he doesn’t wash them, or bathe his flesh, then he shall bear his iniquity.’”"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "book": "Psalmi",
+  "chapter": "88",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, Dumnezeul mântuirii mele! Zi și noapte strig înaintea Ta!",
+        "2": "S-ajungă rugăciunea mea înaintea Ta! Ia aminte la cererile mele,",
+        "3": "căci mi s-a săturat sufletul de rele și mi se apropie viața de Locuința morților.",
+        "4": "Sunt pus în rândul celor ce se coboară în groapă, sunt ca un om care nu mai are putere.",
+        "5": "Stau întins printre cei morți ca cei uciși și culcați în mormânt, de care nu-Ți mai aduci aminte și care sunt despărțiți de mâna Ta.",
+        "6": "M-ai aruncat în groapa cea mai de jos, în întuneric, în adâncuri.",
+        "7": "Mânia Ta mă apasă și mă năpădești cu toate valurile Tale.",
+        "8": "Ai îndepărtat de la mine pe toți prietenii mei, m-ai făcut o pricină de scârbă pentru ei; sunt închis și nu pot să ies.",
+        "9": "Mi se topesc ochii de suferință; în toate zilele Te chem, Doamne, și-mi întind mâinile spre Tine!",
+        "10": "Oare pentru morți faci Tu minuni? Sau se scoală morții să Te laude?",
+        "11": "Se vorbește de bunătatea Ta în mormânt și de credincioșia Ta în adânc?",
+        "12": "Sunt cunoscute minunile Tale în întuneric și dreptatea Ta în țara uitării?",
+        "13": "Doamne, eu Îți cer ajutorul și dimineața rugăciunea mea se înalță la Tine.",
+        "14": "Pentru ce, Doamne, lepezi sufletul meu? Pentru ce îmi ascunzi Fața Ta?",
+        "15": "Din tinerețe, sunt nenorocit și trag să mor, sunt cuprins de spaimele Tale și nu știu ce să mai fac.",
+        "16": "Mânia Ta trece peste mine, spaimele Tale mă nimicesc de tot.",
+        "17": "Ele mă înconjoară toată ziua ca niște ape, mă înfășoară toate deodată.",
+        "18": "Ai depărtat de la mine pe prieteni și tovarăși, și cei de aproape ai mei s-au făcut nevăzuți."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, Dumnezeul mântuirii mele, zi și noapte strig înaintea Ta.",
+        "2": "Să ajungă rugăciunea mea înaintea Ta, pleacă-Ți urechea la strigătul meu!",
+        "3": "Căci mi s-a săturat sufletul de atâtea necazuri și viața mi-a ajuns în pragul Locuinței Morților.",
+        "4": "Sunt pus în rândul celor ce coboară în groapă, am ajuns ca omul lipsit de putere.",
+        "5": "Sunt abandonat printre morți asemenea celor înjunghiați care au coborât în mormânt, de care nu-Ți mai aduci aminte niciodată și care sunt îndepărtați din mâna Ta.",
+        "6": "M-ai pus în groapa cea mai de jos, în locuri întunecoase, în adâncuri.",
+        "7": "Mânia Ta apasă asupra mea, mă copleșești cu toate valurile Tale.",
+        "8": "I-ai îndepărtat de la mine pe cei ce mă cunosc, făcându-mă o urâciune pentru ei. Sunt închis, fără scăpare!",
+        "9": "Ochii îmi sunt obosiți din cauza suferinței. Strig către Tine, Doamne, în fiecare zi, îmi întind mâinile spre Tine.",
+        "10": "Faci Tu oare minuni pentru cei morți? Oare se ridică umbrele să-Ți mulțumească?",
+        "11": "Oare se istorisește în mormânt despre îndurarea Ta și în Locul Nimicirii despre credincioșia Ta?",
+        "12": "Oare sunt cunoscute minunile Tale în întuneric sau dreptatea Ta – în tărâmul uitării?",
+        "13": "Eu însă, către Tine, Doamne, strig după ajutor și încă din zori Te întâmpină rugăciunea mea.",
+        "14": "Doamne, de ce mi-ai respins sufletul și Ți-ai ascuns fața de mine?",
+        "15": "Încă din tinerețe am fost asuprit și aproape de moarte, am fost cuprins de groaza Ta și dezorientat.",
+        "16": "Mânia Ta a trecut peste mine, spaimele Tale m-au sleit.",
+        "17": "Ele mă înconjoară toată ziua ca niște ape, mă înfășoară toate deodată.",
+        "18": "I-ai îndepărtat de la mine pe apropiații mei, pe prietenii mei, pe cei ce mă cunosc. Mă aflu în întuneric."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, the God of my salvation, I have cried day and night before you.",
+        "2": "Let my prayer enter into your presence. Turn your ear to my cry.",
+        "3": "For my soul is full of troubles. My life draws near to Sheol.",
+        "4": "I am counted among those who go down into the pit. I am like a man who has no help,",
+        "5": "set apart among the dead, like the slain who lie in the grave, whom you remember no more. They are cut off from your hand.",
+        "6": "You have laid me in the lowest pit, in the darkest depths.",
+        "7": "Your wrath lies heavily on me. You have afflicted me with all your waves.",
+        "8": "You have taken my friends from me. You have made me an abomination to them. I am confined, and I can’t escape.",
+        "9": "My eyes are dim from grief. I have called on you daily, Yahweh. I have spread out my hands to you.",
+        "10": "Do you show wonders to the dead? Do the departed spirits rise up and praise you?",
+        "11": "Is your loving kindness declared in the grave? Or your faithfulness in Destruction?",
+        "12": "Are your wonders made known in the dark? Or your righteousness in the land of forgetfulness?",
+        "13": "But to you, Yahweh, I have cried. In the morning, my prayer comes before you.",
+        "14": "Yahweh, why do you reject my soul? Why do you hide your face from me?",
+        "15": "I am afflicted and ready to die from my youth up. While I suffer your terrors, I am distracted.",
+        "16": "Your fierce wrath has gone over me. Your terrors have cut me off.",
+        "17": "They came around me like water all day long. They completely engulfed me.",
+        "18": "You have put lover and friend far from me, and my friends into darkness."
+      }
+    }
+  }
+}

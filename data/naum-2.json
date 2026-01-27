@@ -1,0 +1,60 @@
+{
+  "book": "Naum",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Nimicitorul pornește împotriva ta, Ninive; păzește cetățuia! Ia seama la drum! Întărește-ți coapsele! Adună-ți toată puterea!…",
+        "2": "Căci Domnul așază iarăși slava lui Iacov și o face iarăși ca slava de odinioară a lui Israel, pentru că i-au jefuit jefuitorii și le-au stricat butucii de vie…",
+        "3": "Scuturile vitejilor săi sunt roșii, războinicii sunt îmbrăcați cu purpură; fulgeră carele de focul oțelului în ziua sorocită pregătirii de luptă și sulițele se învârtesc.",
+        "4": "Duruie carele pe ulițe, se năpustesc unele peste altele în piețe, parcă sunt niște făclii la vedere, și aleargă ca fulgerele…",
+        "5": "El, împăratul Ninivei, cheamă pe oamenii lui cei viteji, dar ei se poticnesc în mersul lor; aleargă spre ziduri și se gătesc de apărare…",
+        "6": "Porțile de la râuri sunt deschise și palatul se prăbușește!…",
+        "7": "S-a isprăvit cu ea: este dezgolită, este luată; slujnicele ei se vaită ca niște turturele și se bat în piept.",
+        "8": "Ninive era odinioară ca un iaz plin de apă… Dar iată-i că fug!… „Stați! Stați! Opriți-vă!…” Dar niciunul nu se întoarce…",
+        "9": "Jefuiți argintul! Jefuiți aurul! Acolo sunt comori nesfârșite, tot felul de bogății, de lucruri scumpe.",
+        "10": "Este jefuită, pustiită și stoarsă de tot! Inima îi e mâhnită, îi tremură genunchii, toate coapsele suferă și toate fețele au îngălbenit.",
+        "11": "Unde este acum culcușul acela de lei, pășunea aceea pentru puii de lei, pe unde umblau leul, leoaica și puiul de leu, fără să-i tulbure nimeni?",
+        "12": "Leul sfâșia cât îi trebuia pentru puii săi, sugruma pentru leoaicele sale; își umplea vizuinile de pradă și culcușurile cu ce răpise.",
+        "13": "„Iată că am necaz pe tine”, zice Domnul oștirilor. „În fum îți voi preface carele de război, sabia va mistui pe puii tăi de lei, îți voi nimici prada din țară și nu se va mai auzi glasul solilor tăi.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Distrugătorul a înaintat împotriva ta, Ninive! Păzește-ți fortificațiile! Veghează asupra drumului! Fii pregătită! Adună-ți toată puterea!",
+        "2": "Căci Domnul va reface măreția lui Iacov asemenea măreției lui Israel din trecut. Căci i-au jefuit prădătorii și le-au distrus butucii de vie.",
+        "3": "Scutul vitejilor lui este roșu; războinicii lui sunt îmbrăcați în stacojiu. Carele sunt ca un metal înroșit, în ziua pregătirii lor, iar sulițele sunt agitate.",
+        "4": "Carele aleargă nebunește pe drumuri și gonesc prin piețe. La înfățișare sunt ca niște torțe și țâșnesc ca fulgerele.",
+        "5": "El își aduce aminte de cei măreți ai săi, dar ei se împiedică în mersul lor. Aceștia se grăbesc spre zid și așază zidul de protecție.",
+        "6": "Porțile râurilor sunt deschise și palatul se prăbușește.",
+        "7": "A fost stabilit: este dusă în captivitate, este luată. Slujitoarele ei se vaită ca niște porumbițe și se lovesc peste piept.",
+        "8": "Ninive este ca un iaz plin, a cărui apă se scurge. „Stați! Stați!“, dar niciunul nu se întoarce.",
+        "9": "Jefuiți argintul, jefuiți aurul! Acolo sunt comori foarte multe, o mulțime de tot felul de lucruri prețioase.",
+        "10": "Este jefuită, pustiită și devastată! Inimile se topesc de frică și genunchii tremură! Toate coapsele sunt în chin și toate fețele au pălit.",
+        "11": "Unde este acum culcușul acela al leilor, pășunea aceea pentru leii tineri, pe unde umblau leul, leoaica și puiul de leu, fără să-i înspăimânte nimeni?",
+        "12": "Leul a sfâșiat îndeajuns pentru puii săi și a sugrumat destulă pradă pentru leoaicele sale. El și-a umplut grotele cu pradă și gropile cu carne sfâșiată.",
+        "13": "„Iată că sunt împotriva ta!“, zice Domnul Oștirilor. „Îți voi preface carele în fum, iar sabia îți va omorî leii tineri; îți voi nimici prada de pe pământ și glasul mesagerilor tăi nu va mai fi auzit!“"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily!",
+        "2": "For Yahweh restores the excellency of Jacob as the excellency of Israel, for the destroyers have destroyed them and ruined their vine branches.",
+        "3": "The shield of his mighty men is made red. The valiant men are in scarlet. The chariots flash with steel in the day of his preparation, and the pine spears are brandished.",
+        "4": "The chariots rage in the streets. They rush back and forth in the wide ways. Their appearance is like torches. They run like the lightnings.",
+        "5": "He summons his picked troops. They stumble on their way. They dash to its wall, and the protective shield is put in place.",
+        "6": "The gates of the rivers are opened, and the palace is dissolved.",
+        "7": "It is decreed: she is uncovered, she is carried away; and her servants moan as with the voice of doves, beating on their breasts.",
+        "8": "But Nineveh has been from of old like a pool of water, yet they flee away. “Stop! Stop!” they cry, but no one looks back.",
+        "9": "Take the plunder of silver. Take the plunder of gold, for there is no end of treasure, an abundance of every precious thing.",
+        "10": "She is empty, void, and waste. The heart melts, the knees knock together, their bodies and faces have grown pale.",
+        "11": "Where is the den of the lions, and the feeding place of the young lions, where the lion and the lioness walked with the lion’s cubs, and no one made them afraid?",
+        "12": "The lion tore in pieces enough for his cubs, and strangled prey for his lionesses, and filled his caves with the kill and his dens with prey.",
+        "13": "“Behold, I am against you,” says Yahweh of Armies, “and I will burn her chariots in the smoke, and the sword will devour your young lions; and I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.”"
+      }
+    }
+  }
+}

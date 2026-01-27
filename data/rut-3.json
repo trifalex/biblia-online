@@ -1,0 +1,75 @@
+{
+  "book": "Rut",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Soacră-sa, Naomi, i-a zis: „Fiica mea, aș vrea să-ți dau un loc de odihnă, ca să fii fericită.",
+        "2": "Și acum, Boaz, cu ale cărui slujnice ai fost, nu este el rudă cu noi? Iată, el are să vânture la noapte orzurile în arie.",
+        "3": "Spală-te și unge-te, apoi îmbracă-te cu hainele tale și coboară-te la arie. Să nu te faci cunoscută lui, până va isprăvi de mâncat și de băut.",
+        "4": "Și când se va duce să se culce, însemnează-ți locul unde se culcă. Apoi du-te, descoperă-i picioarele și culcă-te. Și el însuși îți va spune ce să faci.”",
+        "5": "Ea i-a răspuns: „Voi face tot ce ai spus.”",
+        "6": "Rut s-a coborât la arie și a făcut tot ce poruncise soacră-sa.",
+        "7": "Boaz a mâncat și a băut și inima-i era veselă. S-a dus și s-a culcat la marginea unui stog. Rut a venit atunci încet de tot, i-a descoperit picioarele și s-a culcat.",
+        "8": "La miezul nopții, omul s-a speriat, s-a plecat și iată că o femeie era culcată la picioarele lui.",
+        "9": "El a zis: „Cine ești tu?” Ea a răspuns: „Eu sunt Rut, slujnica ta; întinde-ți poala hainei peste slujnica ta, căci ai drept de răscumpărare.”",
+        "10": "Și el a zis: „Fii binecuvântată de Domnul, fiică! Această faptă de pe urmă mărturisește și mai mult pentru tine decât cea dintâi că n-ai umblat după tineri, săraci sau bogați.",
+        "11": "Acum, fiică, nu te teme, îți voi face tot ce vei zice, căci toată cetatea știe că ești o femeie cinstită.",
+        "12": "Este adevărat că am drept de răscumpărare, dar este o altă rudă mai aproape decât mine.",
+        "13": "Rămâi în noaptea aceasta aici. Și mâine, dacă vrea să te răscumpere, bine, să te răscumpere; dar dacă nu-i place să te răscumpere, te voi răscumpăra eu, viu este Domnul! Culcă-te aici până dimineață.”",
+        "14": "Ea a rămas culcată la picioarele lui până dimineața și s-a sculat mai înainte de a se putea cunoaște unul pe altul. Boaz a zis: „Să nu știe nimeni că a intrat o femeie în arie!”",
+        "15": "Și a adăugat: „Adu mantaua de pe tine și ține-o.” Ea a ținut-o și el a măsurat șase măsuri de orz și le-a pus pe ea. Apoi a intrat în cetate.",
+        "16": "Rut s-a întors la soacră-sa, și Naomi a zis: „Tu ești, fiica mea?” Rut i-a istorisit tot ce-i făcuse omul acela.",
+        "17": "Ea a zis: „Mi-a dat aceste șase măsuri de orz, zicând: ‘Să nu te întorci cu mâinile goale la soacră-ta.’”",
+        "18": "Și Naomi a zis: „Fii liniștită, fiica mea, până vei ști cum se va isprăvi lucrul acesta, căci omul acesta nu va avea odihnă până nu va sfârși lucrul chiar astăzi.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "După o vreme Naomi, soacra ei, i-a zis: ‒ Fiica mea, aș vrea să-ți găsesc un loc de odihnă, unde să-ți fie bine.",
+        "2": "Oare Boaz, cu ale cărui slujnice ai fost, nu este el rudă cu noi? Iată că la noapte își va vântura orzul în arie.",
+        "3": "Tu spală-te, unge-te, pune-ți mantia pe tine și du-te la aria de treierat. Să nu te faci însă cunoscută lui până nu termină de mâncat și de băut.",
+        "4": "Și când urmează să se culce, să afli locul unde se va culca. Apoi să te duci, să-i dezvelești picioarele și să te culci. După aceea îți va spune el ce să faci.",
+        "5": "Ea i-a răspuns: ‒ Voi face tot ce mi-ai spus.",
+        "6": "Rut s-a dus la aria de treierat și a făcut așa cum o sfătuise soacra ei.",
+        "7": "După ce a mâncat și a băut, Boaz, mulțumit în inima lui, s-a întins să se culce la marginea grămezii de paie. Atunci ea s-a apropiat încet, i-a dezvelit picioarele și s-a culcat acolo.",
+        "8": "Pe la miezul nopții omul s-a speriat. El s-a aplecat și iată că o femeie era culcată la picioarele sale.",
+        "9": "El a întrebat: ‒ Cine ești tu? Ea i-a răspuns: ‒ Sunt eu, Rut, slujitoarea ta. Întinde-ți marginea mantiei peste slujitoarea ta, căci tu ești cel cu drept de răscumpărare asupra mea.",
+        "10": "El a zis: ‒ Binecuvântată să fii de Domnul, fata mea! Bunătatea pe care ai arătat-o la urmă spune mai mult decât ceea ce ai făcut prima dată, de vreme ce nu ai umblat după cei tineri, fie ei săraci sau bogați.",
+        "11": "De aceea, fata mea, nu te teme. Voi face pentru tine tot ce mi-ai spus, deoarece tot poporul meu în cetate știe că ești o femeie cinstită.",
+        "12": "Este adevărat că eu am drept de răscumpărare, dar există cineva, mai apropiat decât mine, care are și el acest drept.",
+        "13": "Rămâi în noaptea aceasta aici, iar dimineață, dacă el va dori să te răscumpere, bine, să te răscumpere! Dar dacă nu va dori să te răscumpere, viu este Domnul că te voi răscumpăra eu! Deci, culcă-te aici până dimineață.",
+        "14": "Ea a rămas culcată la picioarele lui până spre dimineață, trezindu-se înainte ca oamenii să se poată vedea unii pe alții, deoarece Boaz îi spusese: „Să nu se afle că a intrat o femeie în arie!“.",
+        "15": "Apoi Boaz i-a zis: ‒ Adu mantaua de pe tine și ține-o bine. Ea a ținut-o, iar Boaz i-a măsurat șase măsuri de orz și le-a pus în ea. Apoi el s-a dus în cetate.",
+        "16": "Când Rut a ajuns la soacra sa, aceasta a întrebat-o: ‒ Cum a fost, fata mea? Rut i-a istorisit tot ce a făcut omul acela pentru ea.",
+        "17": "Apoi a zis: ‒ Mi-a mai dat și aceste șase măsuri de orz, zicându-mi: „Să nu te întorci cu mâinile goale la soacra ta“.",
+        "18": "Naomi i-a zis: ‒ Așteaptă, fata mea, până vei vedea ce întorsătură vor lua lucrurile, dar îți spun că omul acesta nu-și va găsi liniștea până nu va lămuri lucrurile chiar astăzi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Naomi her mother-in-law said to her, “My daughter, shall I not seek rest for you, that it may be well with you?",
+        "2": "Now isn’t Boaz our kinsman, with whose maidens you were? Behold, he will be winnowing barley tonight on the threshing floor.",
+        "3": "Therefore wash yourself, anoint yourself, get dressed, and go down to the threshing floor; but don’t make yourself known to the man until he has finished eating and drinking.",
+        "4": "It shall be, when he lies down, that you shall note the place where he is lying. Then you shall go in, uncover his feet, and lie down. Then he will tell you what to do.”",
+        "5": "She said to her, “All that you say, I will do.”",
+        "6": "She went down to the threshing floor, and did everything that her mother-in-law told her.",
+        "7": "When Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of grain. She came softly, uncovered his feet, and lay down.",
+        "8": "At midnight, the man was startled and turned himself; and behold, a woman lay at his feet.",
+        "9": "He said, “Who are you?” She answered, “I am Ruth your servant. Therefore spread the corner of your garment over your servant; for you are a near kinsman.”",
+        "10": "He said, “You are blessed by Yahweh, my daughter. You have shown more kindness in the latter end than at the beginning, because you didn’t follow young men, whether poor or rich.",
+        "11": "Now, my daughter, don’t be afraid. I will do to you all that you say; for all the city of my people knows that you are a worthy woman.",
+        "12": "Now it is true that I am a near kinsman. However, there is a kinsman nearer than I.",
+        "13": "Stay this night, and in the morning, if he will perform for you the part of a kinsman, good. Let him do the kinsman’s duty. But if he will not do the duty of a kinsman for you, then I will do the duty of a kinsman for you, as Yahweh lives. Lie down until the morning.”",
+        "14": "She lay at his feet until the morning, then she rose up before one could discern another. For he said, “Let it not be known that the woman came to the threshing floor.”",
+        "15": "He said, “Bring the mantle that is on you, and hold it.” She held it; and he measured six measures of barley, and laid it on her; then he went into the city.",
+        "16": "When she came to her mother-in-law, she said, “How did it go, my daughter?” She told her all that the man had done for her.",
+        "17": "She said, “He gave me these six measures of barley; for he said, ‘Don’t go empty to your mother-in-law.’”",
+        "18": "Then she said, “Wait, my daughter, until you know what will happen; for the man will not rest until he has settled this today.”"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "82",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeu stă în adunarea lui Dumnezeu; El judecă în mijlocul dumnezeilor.",
+        "2": "„Până când veți judeca strâmb și veți căuta la fața celor răi?",
+        "3": "Faceți dreptate celui slab și orfanului, dați dreptate nenorocitului și săracului,",
+        "4": "scăpați pe cel nevoiaș și lipsit, izbăviți-i din mâna celor răi!”",
+        "5": "Dar ei nu vor să știe de nimic, nu pricep nimic, ci umblă în întuneric, de aceea se clatină toate temeliile pământului.",
+        "6": "Eu am zis: „Sunteți dumnezei, toți sunteți fii ai Celui Preaînalt.",
+        "7": "Însă veți muri ca niște oameni, veți cădea ca un domnitor oarecare.”",
+        "8": "Scoală-Te, Dumnezeule, și judecă pământul! Căci toate neamurile sunt ale Tale."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeu stă în adunarea lui Dumnezeu. El judecă în mijlocul „dumnezeilor“.",
+        "2": "„Până când veți judeca cu nedreptate și-i veți favoriza pe cei răi?",
+        "3": "Faceți dreptate săracului și orfanului, dați dreptate celui nevoiaș și lipsit!",
+        "4": "Salvați-l pe cel sărac și pe cel nevoiaș, eliberați-i din mâna celor răi!",
+        "5": "Dar ei nici nu știu, nici nu pricep, umblă în întuneric; de aceea se clatină temeliile pământului.",
+        "6": "Eu am zis: «Sunteți ‘dumnezei’, fii ai Celui Preaînalt, cu toții».",
+        "7": "Veți muri, însă, în mod sigur, ca niște oameni și veți cădea ca orice alt conducător“.",
+        "8": "Ridică-Te, Dumnezeule, și judecă pământul, căci Tu vei lua în stăpânire toate națiunile!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God presides in the great assembly. He judges among the gods.",
+        "2": "“How long will you judge unjustly, and show partiality to the wicked?”",
+        "3": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed.",
+        "4": "Rescue the weak and needy. Deliver them out of the hand of the wicked.”",
+        "5": "They don’t know, neither do they understand. They walk back and forth in darkness. All the foundations of the earth are shaken.",
+        "6": "I said, “You are gods, all of you are sons of the Most High.",
+        "7": "Nevertheless you shall die like men, and fall like one of the rulers.”",
+        "8": "Arise, God, judge the earth, for you inherit all of the nations."
+      }
+    }
+  }
+}

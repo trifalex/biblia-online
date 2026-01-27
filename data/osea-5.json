@@ -1,0 +1,66 @@
+{
+  "book": "Osea",
+  "chapter": "5",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultați lucrul acesta, preoți! Ia aminte, casa lui Israel! Și pleacă urechea, casa împăratului! Căci pe voi vă amenință judecata, pentru că ați fost o cursă la Mițpa și un laț întins pe Tabor!",
+        "2": "Necredincioșii se afundă în nelegiuire, dar voi avea Eu pedepse pentru toți!",
+        "3": "Cunosc Eu doar pe Efraim și Israel nu-Mi este ascuns; știu că tu, Efraime, ai curvit și că Israel s-a spurcat.",
+        "4": "Faptele lor nu le îngăduie să se întoarcă la Dumnezeul lor, căci un duh de curvie este în inima lor și nu cunosc pe Domnul!",
+        "5": "Dar mândria lui Israel va fi martoră împotriva lui, și Israel și Efraim vor cădea prin nelegiuirea lor, și Iuda va cădea și el cu ei.",
+        "6": "Vor merge cu oile și boii lor să caute pe Domnul, dar nu-L vor găsi nicidecum, căci S-a depărtat din mijlocul lor.",
+        "7": "Au fost necredincioși Domnului, căci au născut copii din curvie; acum îi va înghiți o lună nouă cu avuțiile lor.",
+        "8": "Sunați din trâmbiță la Ghibea, sunați din trâmbiță la Rama! Strigați la Bet-Aven! Iată-i pe urma ta, Beniamine!",
+        "9": "Efraim va fi pustiit în ziua pedepsei; ce vestesc Eu împotriva semințiilor lui Israel va veni negreșit!",
+        "10": "Căpeteniile lui Iuda sunt ca cei ce mută semnul de la hotare; ca apa Îmi voi vărsa mânia peste ei!",
+        "11": "Efraim este asuprit, zdrobit în judecată, căci a urmat învățăturile care-i plăceau.",
+        "12": "Voi fi ca o molie pentru Efraim, ca o putreziciune (a dinților) pentru casa lui Iuda.",
+        "13": "Când își vede Efraim boala și Iuda rănile, Efraim aleargă în Asiria și trimite la împăratul Iareb, măcar că împăratul acesta nu poate nici să vă facă sănătoși, nici să vă lecuiască rănile.",
+        "14": "Voi fi ca un leu pentru Efraim și ca un pui de leu pentru casa lui Iuda; Eu, da, Eu voi sfâșia și apoi voi pleca, voi lua și nimeni nu-Mi va răpi prada.",
+        "15": "Voi pleca, Mă voi întoarce în locuința Mea până când vor mărturisi că sunt vinovați și vor căuta Fața Mea. Când vor fi în necaz, vor alerga la Mine.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultați aceasta, preoților! Ascultă cu atenție, Casă a lui Israel! Pleacă-ți urechea, familie regală! Căci pentru voi este judecata aceasta, fiindcă ați fost o capcană la Mițpa și un laț întins asupra Taborului!",
+        "2": "Rebelii au adâncit măcelul, dar Eu îi voi disciplina pe toți.",
+        "3": "Eu îl cunosc pe Efraim, iar Israel nu-Mi este ascuns. Căci acum, tu, Efraim, te-ai prostituat, iar Israel s-a întinat!",
+        "4": "Faptele lor nu le îngăduie să se întoarcă la Dumnezeul lor, căci în mijlocul lor este un duh de prostituție, și ei nu-L cunosc pe Domnul.",
+        "5": "Mândria lui Israel mărturisește împotriva lui. Israel și Efraim se împiedică în însăși nelegiuirea lor, iar Iuda se împiedică împreună cu ei.",
+        "6": "Vor merge cu turmele și cu cirezile lor ca să-L caute pe Domnul, dar nu-L vor găsi, căci S-a îndepărtat de ei.",
+        "7": "Au fost necredincioși față de Domnul, căci au născut copii nelegitimi. Acum sărbătoarea lunii noi îi va devora, pe ei și terenurile lor.",
+        "8": "Sunați din corn la Ghiva și din trâmbiță la Rama! Strigați în Bet-Aven! După tine, Beniamin!",
+        "9": "Efraim va deveni un deșert în ziua mustrării – fac cunoscut printre semințiile lui Israel ceea ce este sigur.",
+        "10": "Căpeteniile lui Iuda sunt asemenea celor ce mută granițele. Îmi voi revărsa furia asupra lor ca un potop de ape.",
+        "11": "Efraim este asuprit, zdrobit sub judecată, căci a hotărât să meargă după idoli.",
+        "12": "Eu sunt ca o molie pentru Efraim și ca un putregai pentru Casa lui Iuda.",
+        "13": "Când Efraim și-a văzut boala și Iuda – rana, Efraim s-a dus în Asiria și a trimis după împăratul Iareb. Dar el nu poate să vă vindece, și rana nu se va depărta de la voi.",
+        "14": "Căci Eu voi fi ca un leu pentru Efraim și ca un leu tânăr pentru Casa lui Iuda. Eu Însumi voi sfâșia și apoi voi pleca; voi prăda și nimeni nu-Mi va lua prada.",
+        "15": "Voi pleca și Mă voi întoarce la Locul Meu, până când își vor recunoaște vina. Ei vor căuta fața Mea; în necazul lor, Mă vor căuta cu ardoare“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“Listen to this, you priests! Listen, house of Israel, and give ear, house of the king! For the judgment is against you; for you have been a snare at Mizpah, and a net spread on Tabor.",
+        "2": "The rebels are deep in slaughter, but I discipline all of them.",
+        "3": "I know Ephraim, and Israel is not hidden from me; for now, Ephraim, you have played the prostitute. Israel is defiled.",
+        "4": "Their deeds won’t allow them to turn to their God, for the spirit of prostitution is within them, and they don’t know Yahweh.",
+        "5": "The pride of Israel testifies to his face. Therefore Israel and Ephraim will stumble in their iniquity. Judah also will stumble with them.",
+        "6": "They will go with their flocks and with their herds to seek Yahweh, but they won’t find him. He has withdrawn himself from them.",
+        "7": "They are unfaithful to Yahweh; for they have borne illegitimate children. Now the new moon will devour them with their fields.",
+        "8": "“Blow the cornet in Gibeah, and the trumpet in Ramah! Sound a battle cry at Beth Aven, behind you, Benjamin!",
+        "9": "Ephraim will become a desolation in the day of rebuke. Among the tribes of Israel, I have made known that which will surely be.",
+        "10": "The princes of Judah are like those who remove a landmark. I will pour out my wrath on them like water.",
+        "11": "Ephraim is oppressed, he is crushed in judgment, because he is intent in his pursuit of idols.",
+        "12": "Therefore I am to Ephraim like a moth, and to the house of Judah like rottenness.",
+        "13": "“When Ephraim saw his sickness, and Judah his wound, then Ephraim went to Assyria, and sent to King Jareb: but he is not able to heal you, neither will he cure you of your wound.",
+        "14": "For I will be to Ephraim like a lion, and like a young lion to the house of Judah. I myself will tear in pieces and go away. I will carry off, and there will be no one to deliver.",
+        "15": "I will go and return to my place, until they acknowledge their offense, and seek my face. In their affliction they will seek me earnestly.”"
+      }
+    }
+  }
+}

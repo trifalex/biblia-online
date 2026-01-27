@@ -1,0 +1,93 @@
+{
+  "book": "2 Corinteni",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pavel, apostol al lui Isus Hristos, prin voia lui Dumnezeu, și fratele Timotei, către Biserica lui Dumnezeu care este în Corint și către toți sfinții, care sunt în toată Ahaia:",
+        "2": "Har și pace vouă de la Dumnezeu, Tatăl nostru, și de la Domnul Isus Hristos! Mângâierile apostolului",
+        "3": "Binecuvântat să fie Dumnezeu, Tatăl Domnului nostru Isus Hristos, Părintele îndurărilor și Dumnezeul oricărei mângâieri,",
+        "4": "care ne mângâie în toate necazurile noastre, pentru ca, prin mângâierea cu care noi înșine suntem mângâiați de Dumnezeu, să putem mângâia pe cei ce se află în vreun necaz!",
+        "5": "Căci, după cum avem parte din belșug de suferințele lui Hristos, tot așa, prin Hristos avem parte din belșug și de mângâiere.",
+        "6": "Așa că, dacă suntem în necaz, suntem pentru mângâierea și mântuirea voastră; dacă suntem mângâiați, suntem pentru mângâierea voastră, care se arată prin faptul că răbdați aceleași suferințe ca și noi.",
+        "7": "Și nădejdea noastră pentru voi este neclintită, pentru că știm că, dacă aveți parte de suferințe, aveți parte și de mângâiere.",
+        "8": "În adevăr, fraților, nu voim să vă lăsăm în necunoștință despre necazul care ne-a lovit în Asia, de care am fost apăsați peste măsură de mult, mai presus de puterile noastre, așa că nici nu mai trăgeam nădejde de viață.",
+        "9": "Ba încă ne spunea gândul că trebuie să murim, pentru ca să ne punem încrederea nu în noi înșine, ci în Dumnezeu, care înviază morții.",
+        "10": "El ne-a izbăvit și ne izbăvește dintr-o astfel de moarte și avem nădejde că ne va mai izbăvi încă.",
+        "11": "Voi înșivă ne veți ajuta cu rugăciunile voastre, pentru ca binefacerea făcută nouă prin rugăciunile multora să fie pentru mulți un prilej de mulțumiri lui Dumnezeu pentru noi. Mărturia cugetului apostolului",
+        "12": "Lauda noastră este mărturia pe care ne-o dă cugetul nostru că ne-am purtat în lume, și mai ales față de voi, cu o sfințenie și curăție de inimă date de Dumnezeu, bizuindu-ne nu pe o înțelepciune lumească, ci pe harul lui Dumnezeu.",
+        "13": "Nu vă scriem altceva decât ce citiți și cunoașteți. Și trag nădejde că până la sfârșit veți cunoaște,",
+        "14": "cum ați și cunoscut în parte, că noi suntem lauda voastră, după cum și voi veți fi lauda noastră în ziua Domnului Isus.",
+        "15": "În această încredințare voiam să vin mai înainte la voi, ca să aveți un al doilea har.",
+        "16": "Voiam să trec pe la voi ca să mă duc în Macedonia; apoi din Macedonia să mă întorc la voi și să fiu petrecut de voi în Iudeea.",
+        "17": "În luarea hotărârii acesteia, am lucrat eu în chip ușuratic? Sau hotărârile mele sunt niște hotărâri pe care le iau în felul lumii, ca să fie în mine „Da, da” și „Nu, nu”?",
+        "18": "Credincios este Dumnezeu că vorbirea noastră față de voi n-a fost și „Da”, și „Nu”.",
+        "19": "Căci Fiul lui Dumnezeu, Isus Hristos, care a fost propovăduit de noi în mijlocul vostru, prin mine, prin Silvan și prin Timotei, n-a fost „Da” și „Nu”, ci în El nu este decât „Da”.",
+        "20": "În adevăr, făgăduințele lui Dumnezeu, oricâte ar fi ele, toate în El sunt „Da”; de aceea și „Amin” pe care-l spunem noi, prin El, este spre slava lui Dumnezeu.",
+        "21": "Și Cel ce ne întărește împreună cu voi, în Hristos, și care ne-a uns este Dumnezeu.",
+        "22": "El ne-a și pecetluit și ne-a pus în inimă arvuna Duhului. Pricina amânării venirii",
+        "23": "Iau pe Dumnezeu martor față de sufletul meu că n-am mai venit până acum la Corint tocmai ca să vă cruț.",
+        "24": "Nu doar că am avea stăpânire peste credința voastră, dar vrem să lucrăm și noi împreună la bucuria voastră, căci stați tari în credință."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Pavel, apostol al lui Isus Cristos prin voia lui Dumnezeu, și fratele Timotei, către Biserica lui Dumnezeu care este în Corint, împreună cu toți sfinții care sunt în toată Ahaia:",
+        "2": "Har și pace vouă de la Dumnezeu, Tatăl nostru, și de la Domnul Isus Cristos! Mulțumiri aduse Dumnezeului oricărei mângâieri",
+        "3": "Binecuvântat să fie Dumnezeu, Tatăl Domnului nostru Isus Cristos, Tatăl îndurărilor și Dumnezeul oricărei mângâieri,",
+        "4": "Cel Care ne mângâie în toate necazurile noastre, pentru a-i putea mângâia pe cei ce sunt în vreun necaz, cu mângâierea cu care noi înșine suntem mângâiați de Dumnezeu.",
+        "5": "Așa cum suferințele lui Cristos sunt din belșug în noi, tot astfel, prin Cristos, avem parte din belșug și de mângâiere sufletească.",
+        "6": "Dacă noi suntem asupriți, este pentru mângâierea și mântuirea voastră. Dacă noi suntem mângâiați sufletește, este pentru mângâierea voastră, care este la lucru în voi prin faptul că răbdați aceleași suferințe pe care le îndurăm și noi.",
+        "7": "Speranța noastră cu privire la voi este neclintită, pentru că știm că, așa cum sunteți părtași cu noi în suferință, tot așa sunteți și în mângâiere.",
+        "8": "Căci nu vrem să nu știți, fraților, despre necazul care a venit peste noi în Asia, pentru că am fost împovărați peste măsură, dincolo de puterea noastră, așa încât pierdusem și speranța că vom mai trăi.",
+        "9": "Într-adevăr, ne-am simțit ca și cum am fi primit condamnarea la moarte, ca să nu ne încredem în noi, ci în Dumnezeu, Care învie morții.",
+        "10": "El ne-a salvat dintr-un mare pericol de moarte și ne va salva din nou. Și ne punem speranța în El că ne va salva din nou,",
+        "11": "în timp ce și voi vă alăturați nouă în rugăciune, pentru ca binecuvântarea de care avem parte prin rugăciunile multor persoane să fie, pentru mulți, un motiv de mulțumire adusă lui Dumnezeu pentru noi. Schimbarea unora din planurile lui Pavel",
+        "12": "Căci lauda noastră este aceasta: mărturia conștiinței noastre că ne-am comportat în lume, și mult mai mult față de voi, cu o curăție și o sinceritate primite de la Dumnezeu, nu cu o înțelepciune firească, ci prin harul lui Dumnezeu.",
+        "13": "Căci noi nu vă scriem altceva decât ceea ce citiți sau cunoașteți deja. Dar sper că, până la sfârșit, veți cunoaște",
+        "14": "(așa cum, de altfel, ne-ați cunoscut și pe noi, în parte) că noi suntem lauda voastră, tot așa cum și voi veți fi lauda noastră în ziua Domnului nostru Isus.",
+        "15": "Având această convingere, doream să vin mai întâi la voi, ca să aveți parte de o a doua favoare,",
+        "16": "apoi să plec de la voi în Macedonia, să mă întorc din Macedonia tot pe la voi și să fiu trimis de voi în Iudeea.",
+        "17": "Deci, dorind aceasta, am dat eu oare dovadă de neseriozitate? Sau lucrurile pe care le hotărăsc, le hotărăsc potrivit firii pământești, ca să spun „da, da“ și „nu, nu“ în același timp?",
+        "18": "Credincios este Dumnezeu, că vorbirea noastră față de voi nu este și „da“, și „nu“.",
+        "19": "Căci Fiul lui Dumnezeu, Isus Cristos, pe Care noi L-am predicat printre voi – eu, Silvanus și Timotei – nu a fost „da“ și „nu“, ci în El a fost „da“,",
+        "20": "pentru că în El toate promisiunile lui Dumnezeu sunt „da“. De aceea prin El spunem „Amin!“, spre gloria lui Dumnezeu.",
+        "21": "Cel Care ne întărește împreună cu voi, în Cristos, și Care ne-a uns, este Dumnezeu.",
+        "22": "El a și pus sigiliul pe noi și ne-a dat, în inimile noastre, garanția Duhului.",
+        "23": "Dar Îl chem pe Dumnezeu ca martor al sufletului meu, că n-am mai venit în Corint tocmai ca să vă cruț.",
+        "24": "Nu că noi domnim peste credința voastră, ci suntem lucrători împreună cu voi pentru bucuria voastră, căci stați fermi în credință."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia:",
+        "2": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "3": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,",
+        "4": "who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.",
+        "5": "For as the sufferings of Christ abound to us, even so our comfort also abounds through Christ.",
+        "6": "But if we are afflicted, it is for your comfort and salvation. If we are comforted, it is for your comfort, which produces in you the patient enduring of the same sufferings which we also suffer.",
+        "7": "Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort.",
+        "8": "For we don’t desire to have you uninformed, brothers, concerning our affliction which happened to us in Asia: that we were weighed down exceedingly, beyond our power, so much that we despaired even of life.",
+        "9": "Yes, we ourselves have had the sentence of death within ourselves, that we should not trust in ourselves, but in God who raises the dead,",
+        "10": "who delivered us out of so great a death, and does deliver, on whom we have set our hope that he will also still deliver us,",
+        "11": "you also helping together on our behalf by your supplication; that, for the gift given to us by means of many, thanks may be given by many persons on your behalf.",
+        "12": "For our boasting is this: the testimony of our conscience that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God, we behaved ourselves in the world, and more abundantly toward you.",
+        "13": "For we write no other things to you than what you read or even acknowledge, and I hope you will acknowledge to the end—",
+        "14": "as also you acknowledged us in part—that we are your boasting, even as you also are ours, in the day of our Lord Jesus.",
+        "15": "In this confidence, I was determined to come first to you, that you might have a second benefit,",
+        "16": "and by you to pass into Macedonia, and again from Macedonia to come to you, and to be sent forward by you on my journey to Judea.",
+        "17": "When I therefore planned this, did I show fickleness? Or the things that I plan, do I plan according to the flesh, that with me there should be the “Yes, yes” and the “No, no?”",
+        "18": "But as God is faithful, our word toward you was not “Yes and no.”",
+        "19": "For the Son of God, Jesus Christ, who was preached among you by us—by me, Silvanus, and Timothy—was not “Yes and no,” but in him is “Yes.”",
+        "20": "For however many are the promises of God, in him is the “Yes.” Therefore also through him is the “Amen”, to the glory of God through us.",
+        "21": "Now he who establishes us with you in Christ and anointed us is God,",
+        "22": "who also sealed us and gave us the down payment of the Spirit in our hearts.",
+        "23": "But I call God for a witness to my soul, that to spare you, I didn’t come to Corinth.",
+        "24": "We don’t control your faith, but are fellow workers with you for your joy. For you stand firm in faith."
+      }
+    }
+  }
+}

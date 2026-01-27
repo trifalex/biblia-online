@@ -1,0 +1,63 @@
+{
+    "book": "Isaia",
+    "chapter": "16",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Trimiteți miei cârmuitorului țării, trimiteți-i din Sela, prin pustie, la muntele fiicei Sionului!",
+                "2": "Ca o pasăre fugară, zgornită din cuib, așa vor fi fiicele Moabului la trecerea Arnonului.",
+                "3": "Și vor zice: ‘Sfătuiește, mijlocește, acoperă-ne ziua-n amiaza mare cu umbra ta ca noaptea neagră, ascunde pe cei ce sunt urmăriți, nu da pe față pe cei fugiți!",
+                "4": "Lasă să locuiască pentru o vreme la tine cei goniți din Moab, fii un loc de scăpare pentru ei împotriva pustiitorului!’ Căci apăsarea va înceta, pustiirea se va sfârși, cel ce calcă țara în picioare va pieri.",
+                "5": "Și atunci, un scaun de domnie se va întări prin îndurare și se va vedea șezând cu credincioșie, în casa lui David, un judecător, prieten al dreptului și plin de râvnă pentru dreptate. –",
+                "6": "‘Auzim îngâmfarea mândrului Moab, fudulia și fala lui, trufia și lăudăroșia lui.’",
+                "7": "De aceea geme Moabul pentru Moab, toți gem; suspinați pe dărâmăturile Chir-Haresetului, adânc mâhniți,",
+                "8": "căci câmpiile Hesbonului lâncezesc; stăpânii neamurilor au sfărâmat butucii viei din Sibma, care se întindeau până la Iaezer și se încâlceau prin pustie: mlădițele ei se întindeau și treceau dincolo de mare.",
+                "9": "De aceea plâng pentru via din Sibma ca pentru Iaezer; vă ud cu lacrimile mele, Hesbonule și Eleale! Căci peste culesul roadelor voastre și peste secerișul vostru a căzut un strigăt de război!",
+                "10": "S-a dus bucuria și veselia din câmpii! Și în vii nu mai sunt cântece, nu mai sunt veselii! Nimeni nu mai calcă vinul în teascuri. Am făcut să înceteze strigătele de bucurie la cules.",
+                "11": "De aceea îmi plânge sufletul pentru Moab ca o harpă și inima, pentru Chir-Hares.",
+                "12": "Și, când se va arăta Moabul, obosindu-se pe înălțimi, și va intra în locașul său cel sfânt să se roage, nu va putea să capete nimic!”",
+                "13": "Acesta este cuvântul pe care l-a rostit Domnul de multă vreme asupra Moabului.",
+                "14": "Iar acum Domnul vorbește și zice: „În trei ani, ca anii unui simbriaș, slava Moabului va fi disprețuită, împreună cu toată această mare mulțime, și ce va rămâne va fi puțin lucru, aproape nimic.”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Trimiteți miei drept tribut stăpânitorului țării, din Sela, pe drumul deșertului, la muntele fiicei Sionului.",
+                "2": "Ca niște păsări alungate, forțate să plece din cuib, la vadurile Arnonului.",
+                "3": "„Dă-ne un sfat! Hotărăște ceva! și schimb-o în noapte! și nu-i trăda pe fugari!",
+                "4": "Primește-i pe cei risipiți ai Moabului să locuiască cu tine! Fii un adăpost pentru ei în fața nimicitorului!“ „Când asupritorul va înceta, și prădătorul va lăsa țara în pace,",
+                "5": "atunci, prin îndurare, va fi întemeiat un tron pe care va sta cu credincioșie, în Cortul lui David, cel ce judecă, cel ce caută justiția, cel prompt în ce privește dreptatea.",
+                "6": "Noi am auzit de aroganța Moabului; el este foarte mândru. Am auzit de impertinența lui, de mândria lui și de aroganța lui. Lăudăroșeniile lui sunt neîntemeiate.",
+                "7": "Astfel, moabiții gem pentru Moab, gem cu toții. Ei se vaită, pe deplin mâhniți, pentru turtele cu stafide din Chir-Hareset.",
+                "8": "Căci câmpiile Heșbonului se usucă; la fel și viile din Sibma. au distrus cele mai alese vițe, care cândva ajungeau până la Iazer, fiind răspândite până spre deșert. și ajungeau până la mare.",
+                "9": "De aceea plâng împreună cu Iazerul pentru viile din Sibma. O, Heșbon! O, Eleale! Vă ud cu lacrimile Mele! a căzut un strigăt de război.",
+                "10": "Bucuria și veselia au dispărut din livezi, iar în vii nu se mai cântă și nu se mai strigă de bucurie. Nimeni nu mai zdrobește strugurii în presă, căci am făcut să înceteze strigătul de bucurie.",
+                "11": "De aceea Îmi plânge ființa ca o liră pentru Moab, Îmi plânge sufletul pentru Chir-Hareset.",
+                "12": "Când se va arăta, când Moabul se va obosi pe înălțime și va intra în sanctuarul lui ca să se roage, nu va reuși“.",
+                "13": "Acesta este cuvântul pe care-l rostise Domnul cu privire la Moab.",
+                "14": "Dar acum, Domnul zice: „În trei ani, numărați ca anii unui lucrător plătit, în pofida mulțimii sale mari, gloria Moabului va fi prăbușită, iar cei ce vor supraviețui vor fi puțini și slabi“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Send the lambs for the ruler of the land from Selah to the wilderness, to the mountain of the daughter of Zion.",
+                "2": "For it will be that as wandering birds, as a scattered nest, so will the daughters of Moab be at the fords of the Arnon.",
+                "3": "Give counsel! Execute justice! Make your shade like the night in the middle of the noonday! Hide the outcasts! Don’t betray the fugitive!",
+                "4": "Let my outcasts dwell with you! As for Moab, be a hiding place for him from the face of the destroyer. For the extortionist is brought to nothing. Destruction ceases. The oppressors are consumed out of the land.",
+                "5": "A throne will be established in loving kindness. One will sit on it in truth, in the tent of David, judging, seeking justice, and swift to do righteousness.",
+                "6": "We have heard of the pride of Moab, that he is very proud; even of his arrogance, his pride, and his wrath. His boastings are nothing.",
+                "7": "Therefore Moab will wail for Moab. Everyone will wail. You will mourn for the raisin cakes of Kir Hareseth, utterly stricken.",
+                "8": "For the fields of Heshbon languish with the vine of Sibmah. The lords of the nations have broken down its choice branches, which reached even to Jazer, which wandered into the wilderness. Its shoots were spread abroad. They passed over the sea.",
+                "9": "Therefore I will weep with the weeping of Jazer for the vine of Sibmah. I will water you with my tears, Heshbon, and Elealeh: for on your summer fruits and on your harvest the battle shout has fallen.",
+                "10": "Gladness is taken away, and joy out of the fruitful field; and in the vineyards there will be no singing, neither joyful noise. Nobody will tread out wine in the presses. I have made the shouting stop.",
+                "11": "Therefore my heart sounds like a harp for Moab, and my inward parts for Kir Heres.",
+                "12": "It will happen that when Moab presents himself, when he wearies himself on the high place, and comes to his sanctuary to pray, that he will not prevail.",
+                "13": "This is the word that Yahweh spoke concerning Moab in time past.",
+                "14": "But now Yahweh has spoken, saying, “Within three years, as a worker bound by contract would count them, the glory of Moab shall be brought into contempt, with all his great multitude; and the remnant will be very small and feeble.”"
+            }
+        }
+    }
+}

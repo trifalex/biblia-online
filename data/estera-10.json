@@ -1,0 +1,30 @@
+{
+  "book": "Estera",
+  "chapter": "10",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Împăratul Ahașveroș a pus un bir asupra țării și asupra ostroavelor mării.",
+        "2": "Toate faptele privitoare la puterea și isprăvile lui și amănuntele despre mărimea la care a ridicat împăratul pe Mardoheu nu sunt scrise în Cartea Cronicilor împăraților mezilor și perșilor?",
+        "3": "Căci iudeul Mardoheu era cel dintâi după împăratul Ahașveroș. El era cu vază între iudei și iubit de mulțimea fraților săi, căci a căutat binele poporului său și a vorbit pentru fericirea întregului său neam."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Împăratul Ahașveroș a stabilit un tribut asupra țării și asupra insulelor mării.",
+        "2": "Toate faptele care au arătat puterea și realizările lui, precum și amănunte despre măreția lui Mardoheu, cel promovat de împărat, nu sunt scrise oare în „Cartea cronicilor împăraților Mediei și Persiei“?",
+        "3": "Iudeul Mardoheu era al doilea în rang după împăratul Ahașveroș și era renumit printre iudei, fiind prețuit de mulțimea fraților săi, pentru că a căutat binele poporului său și a mijlocit pentru pacea întregului său neam."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "King Ahasuerus laid a tribute on the land and on the islands of the sea.",
+        "2": "Aren’t all the acts of his power and of his might, and the full account of the greatness of Mordecai, to which the king advanced him, written in the book of the chronicles of the kings of Media and Persia?",
+        "3": "For Mordecai the Jew was next to King Ahasuerus, and great among the Jews and accepted by the multitude of his brothers, seeking the good of his people and speaking peace to all his descendants."
+      }
+    }
+  }
+}

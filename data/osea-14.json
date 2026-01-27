@@ -1,0 +1,48 @@
+{
+  "book": "Osea",
+  "chapter": "14",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Întoarce-te, Israele, la Domnul Dumnezeul tău! Căci ai căzut prin nelegiuirea ta.",
+        "2": "Aduceți cu voi cuvinte de căință și întoarceți-vă la Domnul. Spuneți-I: „Iartă toate nelegiuirile, primește-ne cu bunăvoință, și Îți vom aduce, în loc de tauri, lauda buzelor noastre.",
+        "3": "Asirianul nu ne va scăpa, nu vrem să mai încălecăm pe cai și nu vrem să mai zicem lucrării mâinilor noastre: ‘Dumnezeul nostru’. Căci la Tine găsește milă orfanul.”",
+        "4": "„Le voi vindeca vătămarea adusă de neascultarea lor, îi voi iubi cu adevărat! Căci mânia Mea s-a abătut de la ei!",
+        "5": "Voi fi ca roua pentru Israel; el va înflori ca crinul și va da rădăcini ca Libanul.",
+        "6": "Ramurile lui se vor întinde; măreția lui va fi ca a măslinului și miresmele lui, ca ale Libanului.",
+        "7": "Iarăși vor locui la umbra lui, iarăși vor da viață grâului, vor înflori ca via și vor avea faima vinului din Liban.",
+        "8": "Ce mai are Efraim a face cu idolii? Îl voi asculta și-l voi privi, voi fi pentru el ca un chiparos verde; de la Mine îți vei primi rodul.”",
+        "9": "Cine este înțelept să ia seama la aceste lucruri! Cine este priceput să le înțeleagă! Căci căile Domnului sunt drepte și cei drepți umblă pe ele, dar cei răzvrătiți cad pe ele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Întoarce-te, Israel, la Domnul, Dumnezeul tău, căci ai căzut din cauza nelegiuirii tale.",
+        "2": "Aduceți cu voi cuvinte de pocăință și întoarceți-vă la Domnul! Spuneți-I: „Ridică pedeapsa pentru toate nelegiuirile noastre, primește-ne cu bunăvoință, și noi Îți vom aduce jertfa buzelor noastre!",
+        "3": "Asiria nu ne poate salva! Nu vom mai încăleca pe cai! Nu vom mai numi «dumnezeul nostru!» lucrarea mâinilor noastre, căci numai la Tine găsește orfanul milă“.",
+        "4": "„Atunci le voi vindeca necredincioșia și îi voi iubi fără limite, căci mânia Mea s-a retras de la ei.",
+        "5": "Voi fi ca roua pentru Israel, iar el va înflori ca floarea de crin. Își va înfige rădăcinile ca Libanul,",
+        "6": "iar ramurile lui se vor întinde. Splendoarea lui va fi ca a măslinului, iar aroma lui ca a Libanului.",
+        "7": "Vor fi din nou locuitori la umbra lui, iar aceștia vor da viață grânelor. Ei vor înflori ca via și vor fi renumiți ca vinul de Liban.",
+        "8": "Efraim, ce am Eu de-a face cu idolii? Eu îi voi răspunde și îi voi purta de grijă. Sunt ca un chiparos verde; din Mine vine rodul tău!“.",
+        "9": "Cine este înțelept? Acela va înțelege aceste lucruri! Cine este priceput? Acela le va cunoaște! Căci căile Domnului sunt drepte! Cei drepți umblă pe ele, însă răzvrătiții se împiedică pe ele."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Israel, return to Yahweh your God; for you have fallen because of your sin.",
+        "2": "Take words with you, and return to Yahweh. Tell him, “Forgive all our sins, and accept that which is good; so we offer bulls as we vowed of our lips.",
+        "3": "Assyria can’t save us. We won’t ride on horses; neither will we say any more to the work of our hands, ‘Our gods!’ for in you the fatherless finds mercy.”",
+        "4": "“I will heal their waywardness. I will love them freely; for my anger is turned away from them.",
+        "5": "I will be like the dew to Israel. He will blossom like the lily, and send down his roots like Lebanon.",
+        "6": "His branches will spread, and his beauty will be like the olive tree, and his fragrance like Lebanon.",
+        "7": "Men will dwell in his shade. They will revive like the grain, and blossom like the vine. Their fragrance will be like the wine of Lebanon.",
+        "8": "Ephraim, what have I to do any more with idols? I answer, and will take care of him. I am like a green cypress tree; from me your fruit is found.”",
+        "9": "Who is wise, that he may understand these things? Who is prudent, that he may know them? For the ways of Yahweh are right, and the righteous walk in them, but the rebellious stumble in them."
+      }
+    }
+  }
+}

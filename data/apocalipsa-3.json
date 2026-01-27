@@ -1,0 +1,87 @@
+{
+  "book": "Apocalipsa",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Îngerului Bisericii din Sardes scrie-i: ‘Iată ce zice Cel ce are cele șapte Duhuri ale lui Dumnezeu și cele șapte stele: «Știu faptele tale: că îți merge numele că trăiești, dar ești mort.",
+        "2": "Veghează și întărește ce rămâne, care e pe moarte, căci n-am găsit faptele tale desăvârșite înaintea Dumnezeului Meu.",
+        "3": "Adu-ți aminte dar cum ai primit și auzit! Ține și pocăiește-te! Dacă nu veghezi, voi veni ca un hoț și nu vei ști în care ceas voi veni peste tine.",
+        "4": "Totuși ai în Sardes câteva nume care nu și-au mânjit hainele. Ei vor umbla împreună cu Mine, îmbrăcați în alb, fiindcă sunt vrednici.",
+        "5": "Cel ce va birui va fi îmbrăcat astfel în haine albe. Nu-i voi șterge nicidecum numele din cartea vieții și voi mărturisi numele lui înaintea Tatălui Meu și înaintea îngerilor Lui.»’",
+        "6": "Cine are urechi, să asculte ce zice Bisericilor Duhul.",
+        "7": "Îngerului Bisericii din Filadelfia scrie-i: ‘Iată ce zice Cel Sfânt, Cel Adevărat, Cel ce ține cheia lui David, Cel ce deschide și nimeni nu va închide, Cel ce închide și nimeni nu va deschide:",
+        "8": "«Știu faptele tale: iată ți-am pus înainte o ușă deschisă pe care nimeni n-o poate închide, căci ai puțină putere și ai păzit Cuvântul Meu și n-ai tăgăduit Numele Meu.",
+        "9": "Iată că îți dau din cei ce sunt în sinagoga Satanei, care zic că sunt iudei și nu sunt, ci mint; iată că îi voi face să vină să se închine la picioarele tale și să știe că te-am iubit.",
+        "10": "Fiindcă ai păzit cuvântul răbdării Mele, te voi păzi și Eu de ceasul încercării care are să vină peste lumea întreagă, ca să încerce pe locuitorii pământului.",
+        "11": "Eu vin curând. Păstrează ce ai, ca nimeni să nu-ți ia cununa.",
+        "12": "Pe cel ce va birui, îl voi face un stâlp în Templul Dumnezeului Meu și nu va mai ieși din el. Voi scrie pe el Numele Dumnezeului Meu și numele cetății Dumnezeului Meu, Noul Ierusalim, care are să se coboare din cer, de la Dumnezeul Meu, și Numele Meu cel nou.»’",
+        "13": "Cine are urechi să asculte ce zice Bisericilor Duhul.",
+        "14": "Îngerului Bisericii din Laodiceea scrie-i: ‘Iată ce zice Cel ce este Amin, Martorul credincios și adevărat, Începutul zidirii lui Dumnezeu:",
+        "15": "«Știu faptele tale: că nu ești nici rece, nici în clocot. O, dacă ai fi rece sau în clocot!",
+        "16": "Dar, fiindcă ești căldicel, nici rece, nici în clocot, am să te vărs din gura Mea.",
+        "17": "Pentru că zici: ‹Sunt bogat, m-am îmbogățit și nu duc lipsă de nimic›, și nu știi că ești ticălos, nenorocit, sărac, orb și gol,",
+        "18": "te sfătuiesc să cumperi de la Mine aur curățit prin foc, ca să te îmbogățești, și haine albe, ca să te îmbraci cu ele și să nu ți se vadă rușinea goliciunii tale, și doctorie pentru ochi, ca să-ți ungi ochii și să vezi.",
+        "19": "Eu mustru și pedepsesc pe toți aceia pe care-i iubesc. Fii plin de râvnă dar și pocăiește-te!",
+        "20": "Iată, Eu stau la ușă și bat. Dacă aude cineva glasul Meu și deschide ușa, voi intra la el, voi cina cu el, și el, cu Mine.",
+        "21": "Celui ce va birui îi voi da să șadă cu Mine pe scaunul Meu de domnie, după cum și Eu am biruit și am șezut cu Tatăl Meu pe scaunul Lui de domnie.»’",
+        "22": "Cine are urechi, să asculte ce zice Bisericilor Duhul.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Îngerului bisericii din Sardes scrie-i: «Acestea sunt cuvintele pe care le spune Cel Ce are cele șapte duhuri ale lui Dumnezeu și cele șapte stele: știu faptele tale. Ai reputația că trăiești, dar ești mort.",
+        "2": "Trezește-te și consolidează lucrurile rămase, care sunt pe moarte, căci n-am găsit faptele tale desăvârșite înaintea Dumnezeului Meu.",
+        "3": "Adu-ți aminte, deci, ce ai primit și auzit! Păzește-le și pocăiește-te! Dacă însă nu te trezești, voi veni ca un hoț și nicidecum nu vei ști la ce oră voi veni la tine.",
+        "4": "Ai totuși în Sardes câteva nume care nu și-au pătat hainele. Ei vor umbla cu Mine, îmbrăcați în alb, pentru că sunt demni de lucrul acesta.",
+        "5": "Cel ce învinge va fi îmbrăcat în haine albe și nu-i voi șterge nicidecum numele din Cartea Vieții, iar Eu îi voi mărturisi numele înaintea Tatălui Meu și înaintea îngerilor Lui.",
+        "6": "Cine are urechi să audă ce zice bisericilor Duhul!». Către îngerul bisericii din Filadelfia",
+        "7": "Îngerului bisericii din Filadelfia scrie-i: «Acestea sunt cuvintele pe care le spune Cel Sfânt, Cel Adevărat, Cel Care are cheia lui David, Cel Care deschide și nimeni nu va închide și Cel Care închide și nimeni nu va deschide:",
+        "8": "știu faptele tale – iată, am pus înaintea ta o ușă deschisă, pe care n-o poate închide nimeni – știu că, deși ai puțină putere, ai păzit Cuvântul Meu și n-ai negat Numele Meu.",
+        "9": "Iată, ți-i dau pe cei din sinagoga lui Satan, care spun despre ei înșiși că sunt iudei, dar nu sunt, ci mint. Iată, îi voi face să vină și să se plece la picioarele tale și să știe că te-am iubit.",
+        "10": "Pentru că ai păzit cuvântul răbdării Mele, te voi păzi și Eu de ceasul încercării, care urmează să vină peste toată omenirea pentru a-i pune la încercare pe locuitorii pământului.",
+        "11": "Eu vin curând. Ține cu fermitate ceea ce ai, pentru ca nimeni să nu-ți ia coroana!",
+        "12": "Pe cel ce învinge îl voi face un stâlp în Templul Dumnezeului Meu și nu va mai ieși din el. Și voi scrie pe el Numele Dumnezeului Meu, numele cetății Dumnezeului Meu, Noul Ierusalim, care coboară din Cer de la Dumnezeul Meu, și Numele Meu cel nou.",
+        "13": "Cine are urechi să audă ce zice bisericilor Duhul!». Către îngerul bisericii din Laodiceea",
+        "14": "Îngerului bisericii din Laodiceea scrie-i: «Acestea sunt cuvintele pe care le spune Cel Ce este Amin, Martorul credincios și adevărat, Inițiatorul creației lui Dumnezeu:",
+        "15": "știu faptele tale, știu că nu ești nici rece, nici în clocot. O, dacă ai fi rece sau în clocot!",
+        "16": "Dar fiindcă ești căldicel – nici în clocot, nici rece – o să te vărs din gura Mea!",
+        "17": "Pentru că zici: ‘Sunt bogat, m-am îmbogățit și n-am nevoie de nimic!’ și nu-ți dai seama că ești nenorocit, demn de milă, sărac, orb și gol,",
+        "18": "te sfătuiesc să cumperi de la Mine aur curățat prin foc, ca să fii bogat, haine albe, ca să te îmbraci și să nu ți se vadă rușinea goliciunii tale, și alifie pentru ochi, ca să-ți ungi ochii și să poți vedea.",
+        "19": "Eu îi mustru și-i disciplinez pe cei pe care-i iubesc. Prin urmare, fii plin de zel și pocăiește-te!",
+        "20": "Iată, Eu stau la ușă și bat! Dacă aude cineva glasul Meu și deschide ușa, voi intra la el și voi cina cu el, și el cu Mine.",
+        "21": "Celui ce învinge îi voi da dreptul să șadă împreună cu Mine pe tronul Meu, tot așa cum și Eu am învins și am șezut împreună cu Tatăl Meu pe tronul Lui.",
+        "22": "Cine are urechi să audă ce zice bisericilor Duhul!»“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“And to the angel of the assembly in Sardis write: “He who has the seven Spirits of God and the seven stars says these things: “I know your works, that you have a reputation of being alive, but you are dead.",
+        "2": "Wake up and strengthen the things that remain, which you were about to throw away, for I have found no works of yours perfected before my God.",
+        "3": "Remember therefore how you have received and heard. Keep it and repent. If therefore you won’t watch, I will come as a thief, and you won’t know what hour I will come upon you.",
+        "4": "Nevertheless you have a few names in Sardis that didn’t defile their garments. They will walk with me in white, for they are worthy.",
+        "5": "He who overcomes will be arrayed in white garments, and I will in no way blot his name out of the book of life, and I will confess his name before my Father, and before his angels.",
+        "6": "He who has an ear, let him hear what the Spirit says to the assemblies.",
+        "7": "“To the angel of the assembly in Philadelphia write: “He who is holy, he who is true, he who has the key of David, he who opens and no one can shut, and who shuts and no one opens, says these things:",
+        "8": "“I know your works (behold, I have set before you an open door, which no one can shut), that you have a little power, and kept my word, and didn’t deny my name.",
+        "9": "Behold, I make some of the synagogue of Satan, of those who say they are Jews, and they are not, but lie—behold, I will make them to come and worship before your feet, and to know that I have loved you.",
+        "10": "Because you kept my command to endure, I also will keep you from the hour of testing which is to come on the whole world, to test those who dwell on the earth.",
+        "11": "I am coming quickly! Hold firmly that which you have, so that no one takes your crown.",
+        "12": "He who overcomes, I will make him a pillar in the temple of my God, and he will go out from there no more. I will write on him the name of my God and the name of the city of my God, the new Jerusalem, which comes down out of heaven from my God, and my own new name.",
+        "13": "He who has an ear, let him hear what the Spirit says to the assemblies.",
+        "14": "“To the angel of the assembly in Laodicea write: “The Amen, the Faithful and True Witness, the Beginning of God’s creation, says these things:",
+        "15": "“I know your works, that you are neither cold nor hot. I wish you were cold or hot.",
+        "16": "So, because you are lukewarm, and neither hot nor cold, I will vomit you out of my mouth.",
+        "17": "Because you say, ‘I am rich, and have gotten riches, and have need of nothing,’ and don’t know that you are the wretched one, miserable, poor, blind, and naked;",
+        "18": "I counsel you to buy from me gold refined by fire, that you may become rich; and white garments, that you may clothe yourself, and that the shame of your nakedness may not be revealed; and eye salve to anoint your eyes, that you may see.",
+        "19": "As many as I love, I reprove and chasten. Be zealous therefore, and repent.",
+        "20": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him and will dine with him, and he with me.",
+        "21": "He who overcomes, I will give to him to sit down with me on my throne, as I also overcame and sat down with my Father on his throne.",
+        "22": "He who has an ear, let him hear what the Spirit says to the assemblies.”"
+      }
+    }
+  }
+}

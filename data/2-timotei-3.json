@@ -1,0 +1,72 @@
+{
+  "book": "2 Timotei",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Să știi că în zilele din urmă vor fi vremuri grele.",
+        "2": "Căci oamenii vor fi iubitori de sine, iubitori de bani, lăudăroși, trufași, hulitori, neascultători de părinți, nemulțumitori, fără evlavie,",
+        "3": "fără dragoste firească, neînduplecați, clevetitori, neînfrânați, neîmblânziți, neiubitori de bine,",
+        "4": "vânzători, obraznici, îngâmfați, iubitori mai mult de plăceri decât iubitori de Dumnezeu,",
+        "5": "având doar o formă de evlavie, dar tăgăduindu-i puterea. Depărtează-te de oamenii aceștia.",
+        "6": "Sunt printre ei unii care se vâră prin case și momesc pe femeile ușuratice, îngreuiate de păcate și frământate de felurite pofte,",
+        "7": "care învață întotdeauna și nu pot ajunge niciodată la deplina cunoștință a adevărului.",
+        "8": "După cum Iane și Iambre s-au împotrivit lui Moise, tot așa și oamenii aceștia se împotrivesc adevărului, ca unii care sunt stricați la minte și osândiți în ceea ce privește credința.",
+        "9": "Dar nu vor mai înainta; căci nebunia lor va fi arătată tuturor, cum a fost arătată și a celor doi oameni.",
+        "10": "Tu însă ai urmărit de aproape învățătura mea, purtarea mea, hotărârea mea, credința mea, îndelunga mea răbdare, dragostea mea, răbdarea mea,",
+        "11": "prigonirile și suferințele care au venit peste mine în Antiohia, în Iconia și în Listra. Știi ce prigoniri am răbdat, și totuși Domnul m-a izbăvit din toate.",
+        "12": "De altfel, toți cei ce voiesc să trăiască cu evlavie în Hristos Isus vor fi prigoniți.",
+        "13": "Dar oamenii răi și înșelători vor merge din rău în mai rău, vor amăgi pe alții și se vor amăgi și pe ei înșiși.",
+        "14": "Tu să rămâi în lucrurile pe care le-ai învățat și de care ești deplin încredințat, căci știi de la cine le-ai învățat:",
+        "15": "din pruncie cunoști Sfintele Scripturi, care pot să-ți dea înțelepciunea care duce la mântuire prin credința în Hristos Isus.",
+        "16": "Toată Scriptura este insuflată de Dumnezeu și de folos ca să învețe, să mustre, să îndrepte, să dea înțelepciune în neprihănire,",
+        "17": "pentru ca omul lui Dumnezeu să fie desăvârșit și cu totul destoinic pentru orice lucrare bună."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Să știi că în zilele de pe urmă vor fi vremuri grele.",
+        "2": "Căci oamenii vor fi iubitori de sine, iubitori de bani, lăudăroși, aroganți, blasfemiatori, neascultători de părinți, nemulțumitori, lipsiți de sfințenie,",
+        "3": "fără afecțiune, neiertători, calomniatori, fără stăpânire de sine, sălbatici, neiubitori de bine,",
+        "4": "trădători, nesăbuiți, încrezuți, iubitori mai degrabă de plăceri decât iubitori de Dumnezeu,",
+        "5": "având o formă de evlavie, dar negându-i puterea. Ferește-te de astfel de oameni.",
+        "6": "Căci dintre aceștia sunt cei care se furișează în case și pun stăpânire pe femeile ușuratice, împovărate de păcate, conduse de diferite pofte,",
+        "7": "care întotdeauna învață, dar nu pot ajunge la cunoașterea adevărului.",
+        "8": "Așa cum Iannes și Iambres i s-au împotrivit lui Moise, tot astfel și acești oameni cu minți pervertite se împotrivesc adevărului, fiind descalificați în ce privește credința.",
+        "9": "Dar ei nu vor mai înainta mult, pentru că, la fel ca în cazul celor doi, nebunia lor va fi arătată tuturor.",
+        "10": "Însă tu mi-ai urmărit îndeaproape învățătura, comportamentul, țelul, credința, îndelunga răbdare, dragostea, perseverența,",
+        "11": "persecuțiile și suferințele, lucrurile care mi s-au întâmplat în Antiohia, în Iconia și în Listra. Am îndurat astfel de persecuții, dar Domnul m-a scăpat din toate.",
+        "12": "Toți cei ce vor să trăiască o viață evlavioasă în Cristos Isus vor fi persecutați.",
+        "13": "Dar oamenii răi și impostorii vor merge din rău în mai rău, ducându-i în rătăcire pe alții și rătăcindu-se ei înșiși.",
+        "14": "Însă tu să rămâi în lucrurile pe care le-ai învățat și de care ai ajuns convins. Tu știi de la cine le-ai învățat",
+        "15": "și cum, din copilărie, ai cunoscut Sfintele Scripturi, care-ți pot da înțelepciunea ce duce la mântuire prin credința în Cristos Isus.",
+        "16": "Toată Scriptura este insuflată de Dumnezeu și de folos să învețe, să mustre, să corecteze, să disciplineze în ce privește dreptatea,",
+        "17": "pentru ca omul lui Dumnezeu să fie desăvârșit și pe deplin echipat pentru orice lucrare bună."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "But know this: that in the last days, grievous times will come.",
+        "2": "For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy,",
+        "3": "without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good,",
+        "4": "traitors, headstrong, conceited, lovers of pleasure rather than lovers of God,",
+        "5": "holding a form of godliness but having denied its power. Turn away from these, also.",
+        "6": "For some of these are people who creep into houses and take captive gullible women loaded down with sins, led away by various lusts,",
+        "7": "always learning and never able to come to the knowledge of the truth.",
+        "8": "Even as Jannes and Jambres opposed Moses, so these also oppose the truth, men corrupted in mind, who concerning the faith are rejected.",
+        "9": "But they will proceed no further. For their folly will be evident to all men, as theirs also came to be.",
+        "10": "But you followed my teaching, conduct, purpose, faith, patience, love, steadfastness,",
+        "11": "persecutions, and sufferings—those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all.",
+        "12": "Yes, and all who desire to live godly in Christ Jesus will suffer persecution.",
+        "13": "But evil men and impostors will grow worse and worse, deceiving and being deceived.",
+        "14": "But you remain in the things which you have learned and have been assured of, knowing from whom you have learned them.",
+        "15": "From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith which is in Christ Jesus.",
+        "16": "Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness,",
+        "17": "that each person who belongs to God may be complete, thoroughly equipped for every good work."
+      }
+    }
+  }
+}

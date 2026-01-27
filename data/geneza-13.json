@@ -1,0 +1,75 @@
+{
+  "book": "GEN",
+  "chapter": "13",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Avram s-a suit din Egipt în țara de la miazăzi, el, nevastă-sa și tot ce avea, împreună cu Lot.",
+        "2": "Avram era foarte bogat în vite, în argint și în aur.",
+        "3": "Din țara de la miazăzi s-a îndreptat și a mers până la Betel, până la locul unde fusese cortul lui la început, între Betel și Ai,",
+        "4": "în locul unde era altarul pe care-l făcuse mai înainte. Și acolo, Avram a chemat Numele Domnului.",
+        "5": "Lot, care călătorea împreună cu Avram, avea și el oi, boi și corturi.",
+        "6": "Și ținutul acela nu-i încăpea să locuiască împreună, căci averile lor erau așa de mari încât nu puteau să locuiască împreună.",
+        "7": "S-a iscat o ceartă între păzitorii vitelor lui Avram și păzitorii vitelor lui Lot. Canaaniții și fereziții locuiau atunci în țară.",
+        "8": "Avram a zis lui Lot: „Te rog, să nu fie ceartă între mine și tine și între păzitorii mei și păzitorii tăi, căci suntem frați.",
+        "9": "Nu-i oare toată țara înaintea ta? Mai bine desparte-te de mine: dacă apuci tu la stânga, eu voi apuca la dreapta; dacă apuci tu la dreapta, eu voi apuca la stânga.”",
+        "10": "Lot și-a ridicat ochii și a văzut că toată Câmpia Iordanului era bine udată în întregime. Înainte de a nimici Domnul Sodoma și Gomora, până la Țoar, era ca o grădină a Domnului, ca țara Egiptului.",
+        "11": "Lot și-a ales toată Câmpia Iordanului și a mers spre răsărit. Astfel s-au despărțit ei unul de altul.",
+        "12": "Avram a locuit în țara Canaan, iar Lot a locuit în cetățile din Câmpie și și-a întins corturile până la Sodoma.",
+        "13": "Oamenii din Sodoma erau răi și afară din cale de păcătoși împotriva Domnului.",
+        "14": "Domnul a zis lui Avram după ce s-a despărțit Lot de el: „Ridică-ți ochii și, din locul în care ești, privește spre miazănoapte și spre miazăzi, spre răsărit și spre apus;",
+        "15": "căci toată țara pe care o vezi ți-o dau ție și seminței tale în veac.",
+        "16": "Îți voi face sămânța ca pulberea pământului de mare; așa că, dacă poate număra cineva pulberea pământului, și sămânța ta va putea să fie numărată.",
+        "17": "Scoală-te, străbate țara în lung și în lat, căci ție ți-o voi da.”",
+        "18": "Avram și-a ridicat corturile și a venit de a locuit lângă stejarii lui Mamre, care sunt lângă Hebron. Și acolo a zidit un altar Domnului."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Avram s-a dus din Egipt în Neghev împreună cu soția lui și cu tot ce avea, iar Lot a mers împreună cu el.",
+        "2": "Avram era foarte bogat în turme, în argint și în aur.",
+        "3": "Din Neghev, el a călătorit până la Betel, până la locul în care fusese cortul lui la început, între Betel și Ai,",
+        "4": "până la locul în care el făcuse un altar mai înainte. Acolo, Avram a chemat Numele Domnului.",
+        "5": "Lot, care a mers împreună cu Avram, avea și el turme, cirezi și corturi.",
+        "6": "Dar teritoriul unde locuiau nu le mai ajungea. Aveau atât de multe bunuri, încât nu mai puteau locui împreună.",
+        "7": "De asemenea, s-a iscat o ceartă între păstorii turmelor lui Avram și păstorii turmelor lui Lot. În vremea aceea canaaniții și periziții locuiau în Canaan.",
+        "8": "Atunci Avram i-a zis lui Lot: „Te rog, să nu fie ceartă între mine și tine, nici între păstorii mei și păstorii tăi, căci suntem frați.",
+        "9": "Nu este oare toată țara înaintea ta? Desparte-te de mine, te rog! Dacă tu o iei la stânga, eu o voi lua la dreapta, iar dacă tu o iei la dreapta, eu o voi lua la stânga“.",
+        "10": "Lot și-a ridicat ochii și a văzut că toată Câmpia Iordanului, până la Țoar, era bine udată, la fel ca grădina Domnului, la fel ca țara Egiptului. Aceasta s-a întâmplat înainte ca Domnul să fi distrus Sodoma și Gomora.",
+        "11": "Lot și-a ales toată Câmpia Iordanului și a pornit spre est. Astfel, ei s-au despărțit unul de celălalt.",
+        "12": "Avram a locuit în țara Canaanului, iar Lot a locuit între cetățile câmpiei și și-a așezat cortul aproape de Sodoma.",
+        "13": "Oamenii din Sodoma erau răi, foarte păcătoși înaintea Domnului.",
+        "14": "Domnul i-a zis lui Avram, după ce Lot s-a despărțit de el: „Ridică-ți ochii acum și, din locul în care ești, privește spre nord și spre sud, spre est și spre vest,",
+        "15": "pentru că toată țara pe care o vezi ți-o voi da ție și descendentului tău pentru totdeauna.",
+        "16": "Îți voi înmulți urmașii ca pulberea pământului, astfel încât, dacă cineva poate număra pulberea pământului, și urmașii tăi vor putea fi numărați.",
+        "17": "Ridică-te, străbate țara în lung și în lat, pentru că ție ți-o voi da“.",
+        "18": "Astfel, Avram și-a mutat cortul și a venit să locuiască lângă stejarii lui Mamre, în Hebron, unde a construit un altar Domnului."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Abram went up out of Egypt—he, his wife, all that he had, and Lot with him—into the South.",
+        "2": "Abram was very rich in livestock, in silver, and in gold.",
+        "3": "He went on his journeys from the South as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,",
+        "4": "to the place of the altar, which he had made there at the first. There Abram called on Yahweh's name.",
+        "5": "Lot also, who went with Abram, had flocks, herds, and tents.",
+        "6": "The land was not able to bear them, that they might live together; for their possessions were so great that they couldn't live together.",
+        "7": "There was strife between the herdsmen of Abram's livestock and the herdsmen of Lot's livestock. The Canaanites and the Perizzites lived in the land at that time.",
+        "8": "Abram said to Lot, \"Please, let there be no strife between you and me, and between your herdsmen and my herdsmen; for we are relatives.",
+        "9": "Isn't the whole land before you? Please separate yourself from me. If you go to the left hand, then I will go to the right. Or if you go to the right hand, then I will go to the left.\"",
+        "10": "Lot lifted up his eyes, and saw all the plain of the Jordan, that it was well-watered everywhere, before Yahweh destroyed Sodom and Gomorrah, like the garden of Yahweh, like the land of Egypt, as you go to Zoar.",
+        "11": "So Lot chose the Plain of the Jordan for himself. Lot traveled east, and they separated themselves from one another.",
+        "12": "Abram lived in the land of Canaan, and Lot lived in the cities of the plain, and moved his tent as far as Sodom.",
+        "13": "Now the men of Sodom were exceedingly wicked and sinners against Yahweh.",
+        "14": "Yahweh said to Abram, after Lot was separated from him, \"Now, lift up your eyes, and look from the place where you are, northward and southward and eastward and westward,",
+        "15": "for I will give all the land which you see to you and to your offspring forever.",
+        "16": "I will make your offspring as the dust of the earth, so that if a man can count the dust of the earth, then your offspring may also be counted.",
+        "17": "Arise, walk through the land in its length and in its width; for I will give it to you.\"",
+        "18": "Abram moved his tent, and came and lived by the oaks of Mamre, which are in Hebron, and built an altar there to Yahweh."
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+    "book": "Isaia",
+    "chapter": "52",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Trezește-te, trezește-te! Îmbracă-te în podoaba ta, Sioane! Pune-ți hainele de sărbătoare, Ierusalime, cetate sfântă! Căci nu va mai intra în tine niciun om netăiat împrejur sau necurat.",
+                "2": "Scutură-ți țărâna de pe tine, scoală-te și șezi în capul oaselor, Ierusalime! Dezleagă-ți legăturile de la gât, fiică, roabă a Sionului!",
+                "3": "Căci așa vorbește Domnul: „Fără plată ați fost vânduți și nu veți fi răscumpărați cu preț de argint.”",
+                "4": "Căci așa vorbește Domnul Dumnezeu: „Odinioară, poporul Meu s-a coborât să locuiască pentru o vreme în Egipt, apoi asirianul l-a asuprit fără temei.",
+                "5": "Și acum, ce am să fac aici”, zice Domnul, „când poporul Meu a fost luat pe nimic? Asupritorii lui strigă de bucurie”, zice Domnul, „și cât e ziulica de mare este batjocorit Numele Meu.",
+                "6": "De aceea, poporul Meu va cunoaște Numele Meu, de aceea va ști, în ziua aceea, că Eu vorbesc și zic: ‘Iată-Mă!’”",
+                "7": "Ce frumoase sunt pe munți picioarele celui ce aduce vești bune, care vestește pacea, picioarele celui ce aduce vești bune, care vestește mântuirea, picioarele celui ce zice Sionului: „Dumnezeul tău împărățește!”",
+                "8": "Iată, glasul străjerilor tăi răsună; ei înalță glasul și strigă toți de veselie, căci văd cu ochii lor cum Se întoarce Domnul în Sion.",
+                "9": "Izbucniți cu toate în strigăte de bucurie, dărâmături ale Ierusalimului! Căci Domnul mângâie pe poporul Său și răscumpără Ierusalimul.",
+                "10": "Domnul Își descoperă brațul Său cel sfânt înaintea tuturor neamurilor și toate marginile pământului vor vedea mântuirea Dumnezeului nostru.",
+                "11": "Plecați, plecați, ieșiți din Babilon! Nu vă atingeți de nimic necurat! Ieșiți din mijlocul lui! Curățiți-vă, cei ce purtați vasele Domnului!",
+                "12": "Nu ieșiți cu grabă, nu plecați în fugă, căci Domnul vă va ieși înainte și Dumnezeul lui Israel vă va tăia calea!",
+                "13": "„Iată, Robul Meu va propăși; Se va sui, Se va ridica, Se va înălța foarte sus.",
+                "14": "După cum pentru mulți a fost o pricină de groază – atât de schimonosită Îi era fața și atât de mult se deosebea înfățișarea Lui de a fiilor oamenilor –,",
+                "15": "tot așa, pentru multe popoare va fi o pricină de bucurie; înaintea Lui, împărații vor închide gura, căci vor vedea ce nu li se mai istorisise și vor auzi ce nu mai auziseră.”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Trezește-te! Trezește-te! Îmbracă-te cu puterea ta, Sionule! Îmbracă-te cu hainele tale frumoase, Ierusalime, cetate sfântă! nu vor mai intra în tine.",
+                "2": "Scutură-te de țărână! Ridică-te! Așază-te pe tron, Ierusalime! Dezleagă-ți legăturile de la gât, fiică a Sionului, aflată în captivitate!",
+                "3": "Căci așa vorbește Domnul: „Fără plată ați fost vânduți, fără argint veți fi și răscumpărați!“.",
+                "4": "Căci așa vorbește Stăpânul Domn: „Odinioară, poporul Meu s-a dus în Egipt, ca să locuiască acolo. Apoi Asiria l-a asuprit fără motiv.",
+                "5": "Prin urmare, ce am să fac acum?“, zice Domnul. „Căci poporul Meu este luat pe nimic, iar stăpânitorii lui urlă, zice Domnul. Numele Meu este blasfemiat continuu, toată ziua.",
+                "6": "De aceea, poporul Meu va cunoaște Numele Meu. De aceea, în ziua aceea, vor ști că Eu Însumi sunt Cel Ce zic: «Iată-Mă!»“.",
+                "7": "Cât de frumoase sunt pe munți care vestește pacea și aduce vești bune, și spune Sionului: „Dumnezeul tău împărățește!“.",
+                "8": "Este glasul străjerilor tăi; ei își înalță glasul și strigă de bucurie împreună, cum Se întoarce Domnul în Sion.",
+                "9": "Izbucniți împreună în strigăte de bucurie, ruine ale Ierusalimului! și a răscumpărat Ierusalimul.",
+                "10": "Domnul Și-a descoperit brațul Său cel sfânt mântuirea Dumnezeului nostru.",
+                "11": "Îndepărtați-vă, îndepărtați-vă! Ieșiți de acolo! Nu atingeți nimic necurat! Ieșiți din mijlocul ei și curățiți-vă, voi, care purtați obiectele Domnului!",
+                "12": "Nu trebuie să ieșiți în grabă sau să plecați în fugă, căci Domnul va merge înaintea voastră, și Dumnezeul lui Israel va fi ariergarda voastră.",
+                "13": "„Iată, Slujitorul Meu va lucra cu înțelepciune! Va fi măreț, va fi înălțat și va ajunge foarte sus.",
+                "14": "Așa cum pentru mulți a fost un motiv de groază – atât de sluțită Îi era fața, diferită de cea a omului, nemaiavând înfățișarea fiilor omului –",
+                "15": "tot așa El va uimi multe națiuni. Împărații își vor închide gura înaintea Lui, căci ceea ce nu li s-a istorisit, vor vedea, și ceea ce n-au auzit, vor înțelege“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Awake, awake! Put on your strength, Zion. Put on your beautiful garments, Jerusalem, the holy city, for from now on the uncircumcised and the unclean will no more come into you.",
+                "2": "Shake yourself from the dust! Arise, sit up, Jerusalem! Release yourself from the bonds of your neck, captive daughter of Zion!",
+                "3": "For Yahweh says, “You were sold for nothing; and you will be redeemed without money.”",
+                "4": "For the Lord Yahweh says: “My people went down at the first into Egypt to live there; and the Assyrian has oppressed them without cause.",
+                "5": "“Now therefore, what do I do here,” says Yahweh, “seeing that my people are taken away for nothing? Those who rule over them mock,” says Yahweh, “and my name is blasphemed continually all day long.",
+                "6": "Therefore my people shall know my name. Therefore they shall know in that day that I am he who speaks. Behold, it is I.”",
+                "7": "How beautiful on the mountains are the feet of him who brings good news, who publishes peace, who brings good news, who proclaims salvation, who says to Zion, “Your God reigns!”",
+                "8": "Your watchmen lift up their voice. Together they sing; for they shall see eye to eye when Yahweh returns to Zion.",
+                "9": "Break out into joy! Sing together, you waste places of Jerusalem; for Yahweh has comforted his people. He has redeemed Jerusalem.",
+                "10": "Yahweh has made his holy arm bare in the eyes of all the nations. All the ends of the earth have seen the salvation of our God.",
+                "11": "Depart! Depart! Go out from there! Touch no unclean thing! Go out from among her! Cleanse yourselves, you who carry Yahweh’s vessels.",
+                "12": "For you shall not go out in haste, neither shall you go by flight; for Yahweh will go before you, and the God of Israel will be your rear guard.",
+                "13": "Behold, my servant will deal wisely. He will be exalted and lifted up, and will be very high.",
+                "14": "Just as many were astonished at you— his appearance was marred more than any man, and his form more than the sons of men—",
+                "15": "so he will cleanse many nations. Kings will shut their mouths at him; for they will see that which had not been told them, and they will understand that which they had not heard."
+            }
+        }
+    }
+}

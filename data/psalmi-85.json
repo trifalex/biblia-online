@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "85",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Tu ai fost binevoitor cu țara Ta, Doamne! Ai adus înapoi pe prinșii de război ai lui Iacov,",
+        "2": "ai iertat nelegiuirea poporului Tău, i-ai acoperit toate păcatele;",
+        "3": "Ți-ai abătut toată aprinderea și Te-ai întors din iuțimea mâniei Tale.",
+        "4": "Întoarce-ne iarăși, Dumnezeul mântuirii noastre! Încetează-Ți mânia împotriva noastră!",
+        "5": "În veci Te vei mânia pe noi? În veci Îți vei lungi mânia?",
+        "6": "Nu ne vei înviora iarăși, pentru ca să se bucure poporul Tău în Tine?",
+        "7": "Arată-ne, Doamne, bunătatea Ta și dă-ne mântuirea Ta!",
+        "8": "Eu voi asculta ce zice Dumnezeu Domnul, căci El vorbește de pace poporului Său și iubiților Lui, numai ei să nu cadă iarăși în nebunie.",
+        "9": "Da, mântuirea Lui este aproape de cei ce se tem de El, pentru ca în țara noastră să locuiască slava.",
+        "10": "Bunătatea și credincioșia se întâlnesc, dreptatea și pacea se sărută.",
+        "11": "Credincioșia răsare din pământ, și dreptatea privește de la înălțimea cerurilor.",
+        "12": "Domnul ne va da și fericirea, și pământul nostru își va da roadele.",
+        "13": "Dreptatea va merge și înaintea Lui și-L va și urma, călcând pe urmele pașilor Lui!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, Tu ai fost binevoitor cu țara Ta, aducându-i înapoi pe prizonierii lui Iacov.",
+        "2": "Ai iertat nelegiuirea poporului Tău, acoperindu-i toate păcatele.",
+        "3": "Ți-ai oprit toată furia, ai renunțat la mânia Ta aprinsă!",
+        "4": "Dumnezeul mântuirii noastre, adu-ne înapoi și fă să înceteze supărarea Ta față de noi!",
+        "5": "Oare să Te fi mâniat Tu pe noi pe vecie? Vei continua Tu să Te mânii din generație în generație?",
+        "6": "Oare să nu ne înviorezi Tu din nou, ca astfel poporul Tău să se bucure în Tine?",
+        "7": "Doamne, arată-ne iarăși îndurarea Ta și dă-ne din nou mântuirea Ta!",
+        "8": "Eu voi asculta ce vorbește Dumnezeu, Domnul, căci El promite pacea poporului Său și credincioșilor Săi, ca ei să nu se mai întoarcă la nebunie.",
+        "9": "Într-adevăr, mântuirea Lui este aproape de cei ce se tem de El, pentru ca gloria să locuiască în țara noastră.",
+        "10": "Îndurarea și credincioșia se întâlnesc, iar dreptatea și pacea se sărută.",
+        "11": "Adevărul răsare din pământ, iar dreptatea privește din ceruri.",
+        "12": "Da, Domnul dă ceea ce este bun, iar pământul nostru își dă rodul.",
+        "13": "Dreptatea merge înaintea Lui și pregătește calea pentru pașii Săi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob.",
+        "2": "You have forgiven the iniquity of your people. You have covered all their sin.",
+        "3": "You have taken away all your wrath. You have turned from the fierceness of your anger.",
+        "4": "Turn us, God of our salvation, and cause your indignation toward us to cease.",
+        "5": "Will you be angry with us forever? Will you draw out your anger to all generations?",
+        "6": "Won’t you revive us again, that your people may rejoice in you?",
+        "7": "Show us your loving kindness, Yahweh. Grant us your salvation.",
+        "8": "I will hear what God, Yahweh, will speak, for he will speak peace to his people, his saints; but let them not turn again to folly.",
+        "9": "Surely his salvation is near those who fear him, that glory may dwell in our land.",
+        "10": "Mercy and truth meet together. Righteousness and peace have kissed each other.",
+        "11": "Truth springs out of the earth. Righteousness has looked down from heaven.",
+        "12": "Yes, Yahweh will give that which is good. Our land will yield its increase.",
+        "13": "Righteousness goes before him, and prepares the way for his steps."
+      }
+    }
+  }
+}

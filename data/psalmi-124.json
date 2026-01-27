@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "124",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "De n-ar fi fost Domnul de partea noastră, să spună Israel acum!",
+        "2": "De n-ar fi fost Domnul de partea noastră când s-au ridicat oamenii împotriva noastră,",
+        "3": "ne-ar fi înghițit de vii când li s-a aprins mânia împotriva noastră;",
+        "4": "ne-ar fi înecat apele, ar fi trecut râurile peste sufletul nostru;",
+        "5": "ar fi trecut peste sufletul nostru valurile năprasnice.",
+        "6": "Binecuvântat să fie Domnul, care nu ne-a dat pradă dinților lor!",
+        "7": "Sufletul ne-a scăpat ca pasărea din lațul păsărarului; lațul s-a rupt, și noi am scăpat.",
+        "8": "Ajutorul nostru este în Numele Domnului, care a făcut cerurile și pământul."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "„De n-ar fi fost Domnul de partea noastră“ – să spună acum Israel lucrul acesta –",
+        "2": "„de n-ar fi fost Domnul de partea noastră, când s-au ridicat oamenii împotriva noastră,",
+        "3": "ne-ar fi înghițit de vii, când s-au mâniat pe noi;",
+        "4": "ne-ar fi inundat apele, ar fi trecut peste noi torentul;",
+        "5": "ar fi trecut peste noi apele cele năprasnice.",
+        "6": "Binecuvântat să fie Domnul, Care nu ne-a lăsat pradă dinților lor.",
+        "7": "Sufletul nostru a scăpat așa cum scapă o pasăre din lațul păsărarilor; lațul s-a rupt, iar noi am scăpat!",
+        "8": "Ajutorul nostru este în Numele Domnului, Creatorul cerurilor și al pământului“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "If it had not been Yahweh who was on our side, let Israel now say,",
+        "2": "if it had not been Yahweh who was on our side, when men rose up against us,",
+        "3": "then they would have swallowed us up alive, when their wrath was kindled against us,",
+        "4": "then the waters would have overwhelmed us, the stream would have gone over our soul.",
+        "5": "Then the proud waters would have gone over our soul.",
+        "6": "Blessed be Yahweh, who has not given us as a prey to their teeth.",
+        "7": "Our soul has escaped like a bird out of the fowler’s snare. The snare is broken, and we have escaped.",
+        "8": "Our help is in Yahweh’s name, who made heaven and earth."
+      }
+    }
+  }
+}

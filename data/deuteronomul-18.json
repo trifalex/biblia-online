@@ -1,0 +1,87 @@
+{
+  "book": "Deuteronomul",
+  "chapter": "18",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Preoții, leviții și toată seminția lui Levi să nu aibă nici parte de moșie, nici moștenire în Israel; să se hrănească din jertfele mistuite de foc în cinstea Domnului și din darurile aduse Domnului.",
+        "2": "Să nu aibă moștenire în mijlocul fraților lor: Domnul va fi moștenirea lor, cum le-a spus.",
+        "3": "Iată care va fi dreptul preoților de la popor: cei ce vor aduce o jertfă, fie bou, fie miel, să dea preotului spata, fălcile și pântecele.",
+        "4": "Să-i dai cele dintâi roade din grâul tău, din mustul tău și din untdelemnul tău și pârga din lâna oilor tale,",
+        "5": "căci pe el l-a ales Domnul Dumnezeul tău dintre toate semințiile, ca să facă slujba în Numele Domnului, el și fiii lui, în toate zilele.",
+        "6": "Când va pleca un levit din una din cetățile tale, din locul unde locuiește el în Israel, ca să se ducă, după deplina dorință a sufletului său, în locul pe care-l va alege Domnul",
+        "7": "și va face slujbă în Numele Domnului Dumnezeului tău, ca toți frații lui leviți care stau înaintea Domnului,",
+        "8": "va primi ca hrană o parte la fel cu a lor și, pe lângă ea, se va bucura și de veniturile ieșite din vânzarea averii lui părintești. Ghicirea și vrăjitoria",
+        "9": "După ce vei intra în țara pe care ți-o dă Domnul Dumnezeul tău, să nu te înveți să faci după urâciunile neamurilor acelora.",
+        "10": "Să nu fie la tine nimeni care să-și treacă pe fiul sau pe fiica lui prin foc, nimeni care să aibă meșteșugul de ghicitor, de cititor în stele, de vestitor al viitorului, de vrăjitor,",
+        "11": "de descântător, nimeni care să întrebe pe cei ce cheamă duhurile sau dau cu ghiocul, nimeni care să întrebe pe morți.",
+        "12": "Căci oricine face aceste lucruri este o urâciune înaintea Domnului și din pricina acestor lucruri va izgoni Domnul Dumnezeul tău pe aceste neamuri dinaintea ta.",
+        "13": "Tu să te ții în totul totului tot numai de Domnul Dumnezeul tău.",
+        "14": "Căci neamurile acelea pe care le vei izgoni ascultă de cei ce citesc în stele și de ghicitori, dar ție, Domnul Dumnezeul tău nu-ți îngăduie lucrul acesta. Un mare proroc",
+        "15": "Domnul Dumnezeul tău îți va ridica din mijlocul tău, dintre frații tăi, un proroc ca mine: să ascultați de el!",
+        "16": "Astfel, el va răspunde la cererea pe care ai făcut-o Domnului Dumnezeului tău la Horeb, în ziua adunării poporului, când ziceai: ‘Să nu mai aud glasul Domnului Dumnezeului meu și să nu mai văd acest foc mare, ca să nu mor.’",
+        "17": "Atunci, Domnul mi-a zis: ‘Ce au zis ei este bine.",
+        "18": "Le voi ridica din mijlocul fraților lor un proroc ca tine, voi pune cuvintele Mele în gura lui și el le va spune tot ce-i voi porunci Eu.",
+        "19": "Și dacă cineva nu va asculta de cuvintele Mele, pe care le va spune el în Numele Meu, Eu îi voi cere socoteală.",
+        "20": "Dar prorocul care va avea îndrăzneala să spună în Numele Meu un cuvânt pe care nu-i voi porunci să-l spună sau care va vorbi în numele altor dumnezei, prorocul acela să fie pedepsit cu moartea.’",
+        "21": "Poate că vei zice în inima ta: ‘Cum vom cunoaște cuvântul pe care nu-l va spune Domnul?’",
+        "22": "Când ceea ce va spune prorocul acela în Numele Domnului nu va avea loc și nu se va întâmpla, va fi un cuvânt pe care nu l-a spus Domnul. Prorocul acela l-a spus din îndrăzneală: să n-ai teamă de el."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Preoții leviți – întreaga seminție a lui Levi – să nu aibă teritoriu sau moștenire împreună cu Israel. Ei se vor hrăni din jertfele mistuite de foc în cinstea Domnului și din moștenirea Lui.",
+        "2": "Să nu aibă moștenire în mijlocul fraților lui, căci Domnul este moștenirea lui, după cum i-a spus.",
+        "3": "Acesta va fi dreptul preoților de la popor, de la cei ce aduc o jertfă, fie un bou, fie o oaie: să i se dea preotului spata, fălcile și viscerele.",
+        "4": "Să-i dai primele roade din grânele tale, din mustul tău și din uleiul tău, și prima lână de la turmele tale.",
+        "5": "Căci Domnul, Dumnezeul tău, l-a ales pe el și pe urmașii lui, dintre toate semințiile tale, ca să stea și să slujească în Numele Domnului în toate zilele vieții lor.",
+        "6": "Dacă un levit se va muta din cetatea în care locuiește în Israel și se va duce, după propria-i dorință, într-un alt loc pe care îl va alege Domnul,",
+        "7": "iar acolo va sluji în Numele Domnului, Dumnezeul lui, asemenea fraților lui leviți, care slujesc acolo în prezența Domnului,",
+        "8": "să aibă ca hrană o parte egală cu a lor, pe lângă bunurile părintești vândute. Practici detestate de Domnul",
+        "9": "Când vei intra în țara pe care ți-o dă Domnul, Dumnezeul tău, să nu înveți să practici urâciunile acelor națiuni.",
+        "10": "Să nu se găsească la tine nimeni care să-și sacrifice fiul sau fata în foc, care să practice divinația, prezicerea, interpretarea semnelor, vrăjitoria,",
+        "11": "care să lege prin descântece, care să întrebe duhurile morților și care să cheme spiritele sau care să caute pe cei morți,",
+        "12": "pentru că, oricine practică toate aceste lucruri este o urâciune înaintea Domnului. Căci din cauza acestor urâciuni, le va alunga dinaintea ta Domnul, Dumnezeul tău, pe aceste națiuni.",
+        "13": "Tu să fii integru înaintea Domnului, Dumnezeul tău.",
+        "14": "Căci națiunile acestea, pe care tu le vei alunga, ascultă de cei ce prezic și practică divinația. Ție însă, Domnul, Dumnezeul tău, nu-ți îngăduie așa ceva. Un Profet asemenea lui Moise",
+        "15": "Domnul, Dumnezeul tău, îți va ridica din mijlocul tău, dintre frații tăi, un Profet asemenea mie. De El să ascultați!",
+        "16": "Căci aceasta este ceea ce ai cerut de la Domnul, Dumnezeul tău, la Horeb, în ziua adunării, zicând: «Să nu mai aud glasul Domnului, Dumnezeul meu, și să nu mai văd focul acesta mare ca să nu mor!».",
+        "17": "Atunci Domnul mi-a zis: «Ceea ce au spus ei este bine.",
+        "18": "Le voi ridica, din mijlocul fraților lor, un Profet asemenea ție. Voi pune cuvintele Mele în gura Lui, iar El le va vorbi tot ceea ce-I voi porunci.",
+        "19": "Dacă cineva nu va asculta de cuvintele pe care le va spune în Numele Meu, Eu îi voi cere socoteală.",
+        "20": "Însă profetul care se va mândri și va îndrăzni să vorbească în Numele Meu un mesaj pe care Eu nu i-am poruncit să-l spună sau care va vorbi în numele altor dumnezei, acel profet va trebui să moară».",
+        "21": "Dacă vei zice în inima ta: «Cum vom recunoaște cuvântul pe care nu l-a spus Domnul?».",
+        "22": "Când ceea ce va spune profetul în Numele Domnului nu va avea loc și nu se va întâmpla, acela va fi un cuvânt pe care nu l-a spus Domnul. Profetul a vorbit din mândrie. Să nu-ți fie teamă de el."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The priests and the Levites—all the tribe of Levi—shall have no portion nor inheritance with Israel. They shall eat the offerings of Yahweh made by fire and his portion.",
+        "2": "They shall have no inheritance among their brothers. Yahweh is their inheritance, as he has spoken to them.",
+        "3": "This shall be the priests’ due from the people, from those who offer a sacrifice, whether it be ox or sheep, that they shall give to the priest: the shoulder, the two cheeks, and the inner parts.",
+        "4": "You shall give him the first fruits of your grain, of your new wine, and of your oil, and the first of the fleece of your sheep.",
+        "5": "For Yahweh your God has chosen him out of all your tribes to stand to minister in Yahweh’s name, him and his sons forever.",
+        "6": "If a Levite comes from any of your gates out of all Israel where he lives, and comes with all the desire of his soul to the place which Yahweh shall choose,",
+        "7": "then he shall minister in the name of Yahweh his God, as all his brothers the Levites do, who stand there before Yahweh.",
+        "8": "They shall have like portions to eat, in addition to that which comes from the sale of his family possessions.",
+        "9": "When you have come into the land which Yahweh your God gives you, you shall not learn to imitate the abominations of those nations.",
+        "10": "There shall not be found with you anyone who makes his son or his daughter to pass through the fire, one who uses divination, one who tells fortunes, or an enchanter, or a sorcerer,",
+        "11": "or a charmer, or someone who consults with a familiar spirit, or a wizard, or a necromancer.",
+        "12": "For whoever does these things is an abomination to Yahweh. Because of these abominations, Yahweh your God drives them out from before you.",
+        "13": "You shall be blameless with Yahweh your God.",
+        "14": "For these nations that you shall dispossess listen to those who practice sorcery and to diviners; but as for you, Yahweh your God has not allowed you so to do.",
+        "15": "Yahweh your God will raise up to you a prophet from among you, of your brothers, like me. You shall listen to him.",
+        "16": "This is according to all that you desired of Yahweh your God in Horeb in the day of the assembly, saying, “Let me not hear again Yahweh my God’s voice, neither let me see this great fire any more, that I not die.”",
+        "17": "Yahweh said to me, “They have well said that which they have spoken.",
+        "18": "I will raise them up a prophet from among their brothers, like you. I will put my words in his mouth, and he shall speak to them all that I shall command him.",
+        "19": "It shall happen, that whoever will not listen to my words which he shall speak in my name, I will require it of him.",
+        "20": "But the prophet who speaks a word presumptuously in my name, which I have not commanded him to speak, or who speaks in the name of other gods, that same prophet shall die.”",
+        "21": "You may say in your heart, “How shall we know the word which Yahweh has not spoken?”",
+        "22": "When a prophet speaks in Yahweh’s name, if the thing doesn’t follow, nor happen, that is the thing which Yahweh has not spoken. The prophet has spoken it presumptuously. You shall not be afraid of him."
+      }
+    }
+  }
+}

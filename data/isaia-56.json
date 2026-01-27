@@ -1,0 +1,57 @@
+{
+    "book": "Isaia",
+    "chapter": "56",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Așa vorbește Domnul: „Păziți ce este drept și faceți ce este bine, căci mântuirea Mea este aproape să vină și neprihănirea Mea este aproape să se arate.",
+                "2": "Ferice de omul care face lucrul acesta și de fiul omului care rămâne statornic în el, păzind Sabatul, ca să nu-l pângărească, și stăpânindu-și mâna, ca să nu facă niciun rău!”",
+                "3": "Străinul care se alipește de Domnul să nu zică: „Domnul mă va despărți de poporul Său!” și famenul să nu zică: „Iată, eu sunt un copac uscat!”",
+                "4": "Căci așa vorbește Domnul: „Famenilor care vor păzi Sabatele Mele, care vor alege ce-Mi este plăcut și vor stărui în legământul Meu,",
+                "5": "le voi da în Casa Mea și înăuntrul zidurilor Mele un loc și un nume mai bun decât fii și fiice; le voi da un nume veșnic, care nu se va stinge.",
+                "6": "Și pe străinii care se vor lipi de Domnul ca să-I slujească și să iubească Numele Domnului, pentru ca să fie slujitorii Lui, și pe toți cei ce vor păzi Sabatul, ca să nu-l pângărească, și vor stărui în legământul Meu",
+                "7": "îi voi aduce la muntele Meu cel sfânt și-i voi umple de veselie în Casa Mea de rugăciune. Arderile-de-tot și jertfele lor vor fi primite pe altarul Meu, căci Casa Mea se va numi o casă de rugăciune pentru toate popoarele.”",
+                "8": "Așa vorbește Domnul Dumnezeu, care strânge pe cei risipiți ai lui Israel: „Voi mai strânge și alte popoare la cei strânși acum din el.”",
+                "9": "Veniți, toate fiarele de pe câmp, veniți de mâncați, toate fiarele din pădure!",
+                "10": "Toți păzitorii lui sunt orbi, fără pricepere; toți sunt niște câini muți, care nu pot să latre; aiurează, stau tolăniți și le place să doarmă.",
+                "11": "Totuși sunt niște câini lacomi, care nu se mai satură. Sunt niște păstori care nu pot pricepe nimic; toți își văd de calea lor, fiecare umblă după folosul lui, fără abatere.",
+                "12": "„Veniți”, zic ei, „am să caut vin și ne vom îmbăta cu băuturi tari! Mâine vom face tot ca azi, ba încă și mai rău!”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Așa vorbește Domnul: „Păziți judecata și faceți dreptate! Căci, în curând, mântuirea Mea va veni și dreptatea Mea va fi arătată.",
+                "2": "Ferice de omul care face lucrul acesta și de fiul omului care se ține strâns de el, care păzește sabatul și nu îl profanează, care își ferește mâna să facă vreun rău“.",
+                "3": "Străinul, care se alipește de Domnul, să nu zică: „Domnul mă va separa, cu siguranță, de poporul Său“. Iar eunucul să nu zică: „Iată, sunt doar un copac uscat“.",
+                "4": "Căci așa vorbește Domnul: „Eunucilor, care păzesc sabaturile Mele, și care se țin strâns de legământul Meu,",
+                "5": "le voi da în Casa Mea și între zidurile Mele mai bun decât al fiilor și al fiicelor; le voi da un nume veșnic, care nu va fi șters.",
+                "6": "Iar pe străinii care se alipesc de Domnul pentru a-I sluji, și pentru a fi slujitorii Lui, pe toți cei ce păzesc sabatul și nu îl profanează, pe toți cei ce se țin strâns de legământul Meu,",
+                "7": "pe aceștia îi voi aduce la muntele Meu cel sfânt în Casa Mea de rugăciune. vor fi acceptate pe altarul Meu, o casă de rugăciune pentru toate popoarele“.",
+                "8": "Stăpânul Domn – Cel Care-i adună pe cei risipiți ai lui Israel – zice: „Voi aduna și pe alții alături de ei, pe lângă cei deja adunați!“.",
+                "9": "Veniți, voi, toate vietățile câmpului! Veniți și devorați, voi, toate vietățile pădurii!",
+                "10": "Străjerii lui Israel sunt orbi, sunt toți fără cunoaștere. Toți sunt niște câini de pază muți, care nu pot să latre, și cărora le place să doarmă.",
+                "11": "Sunt niște câini cu apetit mare, niciodată sătui. Sunt niște păstori fără pricepere, fiecare urmându-și propria cale, fiecare, fără excepție, umblând după câștigul său nedrept.",
+                "12": "„Veniți! Voi scoate vin și ne vom îmbăta cu băutură tare! Iar mâine va fi ca azi, ba încă mai bine!“"
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Yahweh says: “Maintain justice and do what is right, and my righteousness will soon be revealed.",
+                "2": "Blessed is the man who does this, and the son of man who holds it fast; and keeps his hand from doing any evil.”",
+                "3": "Let no foreigner who has joined himself to Yahweh speak, saying, “Yahweh will surely separate me from his people.” Do not let the eunuch say, “Behold, I am a dry tree.”",
+                "4": "For Yahweh says, “To the eunuchs who keep my Sabbaths, choose the things that please me, and hold fast to my covenant,",
+                "5": "I will give them in my house and within my walls a memorial and a name better than of sons and of daughters. I will give them an everlasting name that will not be cut off.",
+                "6": "Also the foreigners who join themselves to Yahweh to serve him, and to love Yahweh’s name, to be his servants, everyone who keeps the Sabbath from profaning it, and holds fast my covenant,",
+                "7": "I will bring these to my holy mountain, and make them joyful in my house of prayer. Their burnt offerings and their sacrifices will be accepted on my altar; for my house will be called a house of prayer for all peoples.”",
+                "8": "The Lord Yahweh, who gathers the outcasts of Israel, says, “I will yet gather others to him, in addition to his own who are gathered.”",
+                "9": "All you animals of the field, come to devour, all you animals in the forest.",
+                "10": "His watchmen are blind. They are all without knowledge. They are all mute dogs. They can’t bark— dreaming, lying down, loving to slumber.",
+                "11": "Yes, the dogs are greedy. They can never have enough. They are shepherds who can’t understand. They have all turned to their own way, each one to his gain, from every quarter.",
+                "12": "“Come,” they say, “I will get wine, and we will fill ourselves with strong drink; and tomorrow will be as today, great beyond measure.”"
+            }
+        }
+    }
+}

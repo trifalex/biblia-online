@@ -1,0 +1,48 @@
+{
+    "book": "Isaia",
+    "chapter": "31",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Vai de cei ce se coboară în Egipt după ajutor, se bizuiesc pe cai și se încred în mulțimea carelor și în puterea călăreților, dar nu privesc spre Sfântul lui Israel și nu caută pe Domnul!",
+                "2": "Dar și El este înțelept și aduce nenorocirea și nu Își ia vorbele înapoi, ci Se ridică împotriva casei celor răi și împotriva ajutorului celor ce săvârșesc nelegiuirea.",
+                "3": "Căci egipteanul este om, nu Dumnezeu, și caii lui sunt carne, nu duh. Doar mâna să-Și întindă Domnul, și ocrotitorul se va clătina, iar cel ocrotit va cădea și vor pieri cu toții.",
+                "4": "Căci așa mi-a vorbit Domnul: „Cum mugesc leul și puiul de leu asupra prăzii, în ciuda tuturor păstorilor strânși împotriva lor, și nu se înspăimântă de glasul lor, nici nu se sperie de numărul lor, așa Se va coborî și Domnul oștirilor să lupte pe muntele Sionului și pe dealul lui.",
+                "5": "Cum își întind păsările aripile peste puii lor, așa va ocroti Domnul oștirilor Ierusalimul, îl va ocroti și-l va izbăvi, îl va cruța și-l va mântui.”",
+                "6": "Întoarceți-vă la Acela de la care v-ați abătut mult, copii ai lui Israel!",
+                "7": "Căci, în ziua aceea, fiecare își va lepăda idolii de argint și de aur pe care vi i-ați făcut cu mâinile voastre nelegiuite.",
+                "8": "„Și asirianul va cădea ucis de o sabie, dar nu a unui om: îl va nimici o sabie, dar nu este a unui om; va fugi de sabie și tinerii lui războinici vor fi robiți.",
+                "9": "Stânca lui se va topi de groază, și căpeteniile lui vor tremura înaintea steagului”, zice Domnul, care Își are focul în Sion și cuptorul în Ierusalim."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Vai de cei ce coboară în Egipt pentru ajutor, bazându-se pe cai! și în marea putere a călăreților, și nu-L caută pe Domnul!",
+                "2": "Dar și El este înțelept și poate aduce dezastrul. El nu-Și retrage cuvintele, și împotriva celor ce-i ajută pe cei ce comit nelegiuirea.",
+                "3": "Egiptenii sunt doar oameni, nu Dumnezeu! Caii lor sunt doar carne, nu duh! Când Domnul Își întinde mâna, cel ce ajută se va împiedica, iar cel ajutat va cădea și amândoi vor pieri împreună.",
+                "4": "Căci Domnul mi-a vorbit astfel: „Ca un leu, ca un leu tânăr care mârâie asupra prăzii, – iar când este chemată o ceată de păstori împotriva lui, și nu-i pasă de zgomotul făcut de ei – să lupte pe muntele Sion și pe dealul lui.",
+                "5": "Cum își întind păsările aripile, așa va proteja Domnul Oștirilor Ierusalimul. Îl va proteja și-l va salva; va trece pe lângă el și-l va elibera“.",
+                "6": "Întoarceți-vă la Cel față de Care ei s-au adâncit în răzvrătire, fii ai lui Israel!",
+                "7": "Căci, în ziua aceea, fiecare își va arunca idolii de argint și idolii de aur, pe care vi i-au făcut mâinile voastre păcătoase.",
+                "8": "„Asiria va pieri printr-o sabie care nu este a unui om; o sabie care nu este a unui muritor o va nimici! Vor fugi de sabie, iar tinerii lor vor fi puși la muncă silnică.",
+                "9": "Fortăreața sa va cădea din cauza terorii și, la vederea steagului, conducătorii ei se vor înspăimânta“, zice Domnul, al Cărui foc se află în Sion, și al Cărui cuptor se află în Ierusalim."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Woe to those who go down to Egypt for help, and rely on horses, and trust in chariots because they are many, and in horsemen because they are very strong, but they don’t look to the Holy One of Israel, and they don’t seek Yahweh!",
+                "2": "Yet he also is wise, and will bring disaster, and will not call back his words, but will arise against the house of the evildoers, and against the help of those who work iniquity.",
+                "3": "Now the Egyptians are men, and not God; and their horses flesh, and not spirit. When Yahweh stretches out his hand, both he who helps shall stumble, and he who is helped shall fall, and they all shall be consumed together.",
+                "4": "For Yahweh says to me, “As the lion and the young lion growling over his prey, if a multitude of shepherds is called together against him, will not be dismayed at their voice, nor abase himself for their noise, so Yahweh of Armies will come down to fight on Mount Zion and on its heights.",
+                "5": "As birds hovering, so Yahweh of Armies will protect Jerusalem. He will protect and deliver it. He will pass over and preserve it.”",
+                "6": "Return to him from whom you have deeply revolted, children of Israel.",
+                "7": "For in that day everyone shall cast away his idols of silver and his idols of gold—sin which your own hands have made for you.",
+                "8": "“The Assyrian will fall by the sword, not of man; and the sword, not of mankind, shall devour him. He will flee from the sword, and his young men will become subject to forced labor.",
+                "9": "His rock will pass away by reason of terror, and his princes will be afraid of the banner,” says Yahweh, whose fire is in Zion, and his furnace in Jerusalem."
+            }
+        }
+    }
+}

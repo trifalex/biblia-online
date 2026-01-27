@@ -1,0 +1,54 @@
+{
+  "book": "Neemia",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Istorisirea lui Neemia, fiul lui Hacalia. În luna Chișleu, în al douăzecilea an, pe când eram în capitala Susa,",
+        "2": "a venit Hanani, unul din frații mei, și câțiva oameni din Iuda. I-am întrebat despre iudeii scăpați care mai rămăseseră din robie și despre Ierusalim.",
+        "3": "Ei mi-au răspuns: „Cei ce au mai rămas din robie sunt acolo, în țară, în cea mai mare nenorocire și ocară; zidurile Ierusalimului sunt dărâmate și porțile sunt arse de foc.”",
+        "4": "Când am auzit aceste lucruri, am șezut jos, am plâns și m-am jelit multe zile. Am postit și m-am rugat înaintea Dumnezeului cerurilor",
+        "5": "și am zis: „Doamne, Dumnezeul cerurilor, Dumnezeule mare și înfricoșat, Tu, care ții legământul Tău și ești plin de îndurare față de cei ce Te iubesc și păzesc poruncile Tale!",
+        "6": "Să ia aminte urechea Ta și ochii să-Ți fie deschiși: ascultă rugăciunea pe care ți-o face robul Tău acum, zi și noapte, pentru robii Tăi, copiii lui Israel, mărturisind păcatele copiilor lui Israel, păcatele făcute de noi împotriva Ta, căci eu și casa tatălui meu am păcătuit.",
+        "7": "Te-am supărat și n-am păzit poruncile Tale, legile și orânduirile pe care le-ai dat robului Tău Moise.",
+        "8": "Adu-Ți aminte de cuvintele acestea pe care le-ai dat robului Tău Moise să le spună: ‘Când veți păcătui, vă voi risipi printre popoare,",
+        "9": "dar, dacă vă veți întoarce la Mine și dacă veți păzi poruncile Mele și le veți împlini, atunci, chiar dacă veți fi izgoniți la marginea cea mai depărtată a cerului, de acolo vă voi aduna și vă voi aduce iarăși în locul pe care l-am ales ca să locuiască Numele Meu acolo.’",
+        "10": "Ei sunt robii Tăi și poporul Tău pe care l-ai răscumpărat prin puterea Ta cea mare și prin mâna Ta cea tare.",
+        "11": "Ah, Doamne, să ia aminte urechea Ta la rugăciunea robului Tău și la rugăciunea robilor Tăi, care vor să se teamă de Numele Tău! Dă astăzi izbândă robului Tău și fă-l să capete trecere înaintea omului acestuia!” Pe atunci eram paharnicul împăratului."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cuvintele lui Neemia, fiul lui Hacalia. În luna chislev, în al douăzecilea an, în timp ce mă aflam în citadela Susei,",
+        "2": "unul dintre frații mei, Hanani, a sosit din Iuda împreună cu câțiva bărbați. I-am întrebat despre iudeii care supraviețuiseră, cei rămași după perioada de captivitate, și despre Ierusalim.",
+        "3": "Ei mi-au răspuns: „Supraviețuitorii, cei care au rămas după perioada de captivitate, sunt acolo, în provincie, în necaz mare și rușine. Zidul Ierusalimului este dărâmat, iar porțile lui sunt arse de foc“.",
+        "4": "Când am auzit aceste lucruri, m-am așezat jos, am plâns și am bocit câteva zile. Am postit și m-am rugat Dumnezeului cerurilor,",
+        "5": "zicând: „O, Doamne, Dumnezeul cerurilor, Dumnezeule mare și de temut, Cel Care Își ține legământul și îndurarea față de cei ce-L iubesc și păzesc poruncile Lui,",
+        "6": "Te rog, să asculte cu atenție urechile Tale, și ochii Tăi să fie deschiși la rugăciunea mea! Ascultă rugăciunea pe care eu, slujitorul Tău, o rostesc înaintea Ta, zi și noapte, cu privire la fiii lui Israel, slujitorii Tăi. Mărturisesc păcatele fiilor lui Israel, pe care noi le-am comis împotriva Ta. Atât eu, cât și familia mea am păcătuit.",
+        "7": "Ne-am abătut foarte tare și n-am păzit poruncile, hotărârile și judecățile pe care le-ai poruncit lui Moise, slujitorul Tău.",
+        "8": "Te rog, adu-Ți aminte de cuvântul pe care i l-ai poruncit lui Moise, slujitorul Tău, zicând: «Dacă veți fi necredincioși, vă voi împrăștia printre popoare,",
+        "9": "dar, dacă vă veți întoarce la Mine, dacă veți păzi poruncile Mele și le veți împlini, atunci, chiar dacă veți fi alungați la capătul cerului, și de acolo vă voi aduna și vă voi aduce în locul unde am ales să locuiască Numele Meu».",
+        "10": "Ei sunt slujitorii Tăi și poporul Tău, pe care l-ai răscumpărat cu puterea Ta cea mare și cu brațul Tău cel puternic.",
+        "11": "O, Stăpâne, Te rog, ascultă cu atenție rugăciunea slujitorului Tău și rugăciunea slujitorilor Tăi care-și găsesc plăcerea în a se teme de Numele Tău. Te rog, fă să reușească slujitorul Tău astăzi! Fă să găsesc bunăvoință înaintea acestui om!“. Pe atunci eram paharnicul împăratului."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The words of Nehemiah the son of Hacaliah. Now in the month Chislev, in the twentieth year, as I was in Susa the palace,",
+        "2": "Hanani, one of my brothers, came, he and certain men out of Judah; and I asked them about the Jews who had escaped, who were left of the captivity, and concerning Jerusalem.",
+        "3": "They said to me, “The remnant who are left of the captivity there in the province are in great affliction and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.”",
+        "4": "When I heard these words, I sat down and wept, and mourned several days; and I fasted and prayed before the God of heaven,",
+        "5": "and said, “I beg you, Yahweh, the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments,",
+        "6": "let your ear now be attentive and your eyes open, that you may listen to the prayer of your servant which I pray before you at this time, day and night, for the children of Israel your servants, while I confess the sins of the children of Israel which we have sinned against you. Yes, I and my father’s house have sinned.",
+        "7": "We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the ordinances, which you commanded your servant Moses.",
+        "8": "“Remember, I beg you, the word that you commanded your servant Moses, saying, ‘If you trespass, I will scatter you among the peoples;",
+        "9": "but if you return to me, and keep my commandments and do them, though your outcasts were in the uttermost part of the heavens, yet I will gather them from there, and will bring them to the place that I have chosen, to cause my name to dwell there.’",
+        "10": "“Now these are your servants and your people, whom you have redeemed by your great power and by your strong hand.",
+        "11": "Lord, I beg you, let your ear be attentive now to the prayer of your servant, and to the prayer of your servants who delight to fear your name; and please prosper your servant today, and grant him mercy in the sight of this man.” Now I was cup bearer to the king."
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "book": "Psalmi",
+  "chapter": "70",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Grăbește, Dumnezeule, de mă izbăvește! Grăbește de-mi ajută, Doamne!",
+        "2": "Să rămână de rușine și înfruntați cei ce vor să-mi ia viața! Să dea înapoi și să roșească cei ce-mi doresc pieirea!",
+        "3": "Să se întoarcă înapoi de rușine cei ce zic: „Aha! Aha!”",
+        "4": "Toți cei ce Te caută să se veselească și să se bucure în Tine! Cei ce iubesc mântuirea Ta să zică neîncetat: „Preamărit să fie Dumnezeu!”",
+        "5": "Eu sunt sărac și lipsit: grăbește să-mi ajuți, Dumnezeule! Tu ești Ajutorul și Izbăvitorul meu: Doamne, nu zăbovi!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeule, eliberează-mă! Doamne, vino degrabă în ajutorul meu!",
+        "2": "Să fie făcuți de rușine și umiliți cei ce încearcă să-mi ia viața! Să dea înapoi și să fie umiliți cei ce-mi doresc răul!",
+        "3": "Să se întoarcă din cauza rușinii lor cei ce zic: „Ha! Ha!“.",
+        "4": "Să tresalte de veselie și să se bucure în Tine toți cei ce Te caută! Cei ce iubesc mântuirea Ta să zică întotdeauna: „Mărit să fie Dumnezeu!“.",
+        "5": "Eu sunt sărac și nevoiaș. Dumnezeule, vino degrabă la mine! Tu ești ajutorul și eliberatorul meu! Doamne, nu întârzia!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hurry, God, to deliver me. Come quickly to help me, Yahweh.",
+        "2": "Let them be disappointed and confounded who seek my soul. Let those who desire my ruin be turned back in disgrace.",
+        "3": "Let them be turned because of their shame who say, “Aha! Aha!”",
+        "4": "Let all those who seek you rejoice and be glad in you. Let those who love your salvation continually say, “Let God be exalted!”",
+        "5": "But I am poor and needy. Come to me quickly, God. You are my help and my deliverer. Yahweh, don’t delay."
+      }
+    }
+  }
+}

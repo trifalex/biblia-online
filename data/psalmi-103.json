@@ -1,0 +1,87 @@
+{
+  "book": "Psalmi",
+  "chapter": "103",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Binecuvântează, suflete, pe Domnul și tot ce este în mine să binecuvânteze Numele Lui cel sfânt!",
+        "2": "Binecuvântează, suflete, pe Domnul și nu uita niciuna din binefacerile Lui!",
+        "3": "El îți iartă toate fărădelegile tale, El îți vindecă toate bolile tale,",
+        "4": "El îți izbăvește viața din groapă, El te încununează cu bunătate și îndurare;",
+        "5": "El îți satură de bunătăți bătrânețea și te face să întinerești iarăși ca vulturul.",
+        "6": "Domnul face dreptate și judecată tuturor celor asupriți.",
+        "7": "El Și-a arătat căile Sale lui Moise și lucrările Sale copiilor lui Israel.",
+        "8": "Domnul este îndurător și milostiv, îndelung răbdător și bogat în bunătate.",
+        "9": "El nu Se ceartă fără încetare și nu ține mânia pe vecie.",
+        "10": "Nu ne face după păcatele noastre, nu ne pedepsește după fărădelegile noastre,",
+        "11": "ci, cât sunt de sus cerurile față de pământ, atât este de mare bunătatea Lui pentru cei ce se tem de El;",
+        "12": "cât de departe este răsăritul de apus, atât de mult depărtează El fărădelegile noastre de la noi.",
+        "13": "Cum se îndură un tată de copiii lui, așa Se îndură Domnul de cei ce se tem de El.",
+        "14": "Căci El știe din ce suntem făcuți; Își aduce aminte că suntem țărână.",
+        "15": "Omul – zilele lui sunt ca iarba, și înflorește ca floarea de pe câmp!",
+        "16": "Când trece un vânt peste ea, nu mai este și locul pe care-l cuprindea n-o mai cunoaște.",
+        "17": "Dar bunătatea Domnului ține în veci pentru cei ce se tem de El și îndurarea Lui, pentru copiii copiilor lor,",
+        "18": "pentru cei ce păzesc legământul Lui și își aduc aminte de poruncile Lui ca să le împlinească.",
+        "19": "Domnul Și-a așezat scaunul de domnie în ceruri și domnia Lui stăpânește peste tot.",
+        "20": "Binecuvântați pe Domnul, îngerii Lui, care sunteți tari în putere, care împliniți poruncile Lui și care ascultați de glasul cuvântului Lui!",
+        "21": "Binecuvântați pe Domnul, toate oștirile Lui, robii Lui, care faceți voia Lui!",
+        "22": "Binecuvântați pe Domnul, toate lucrările Lui, în toate locurile stăpânirii Lui! Binecuvântează, suflete, pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Suflete al meu, binecuvântează-L pe Domnul și tot ce este în mine să binecuvânteze Numele Lui cel sfânt!",
+        "2": "Suflete al meu, binecuvântează-L pe Domnul și nu uita niciuna din binefacerile Lui!",
+        "3": "El îți iartă toate nelegiuirile, îți vindecă toate bolile,",
+        "4": "îți răscumpără viața din groapă, te încununează cu îndurare și milă,",
+        "5": "îți satură de bine viața, și tinerețea ta este reînnoită, ca a vulturului.",
+        "6": "Domnul le face dreptate și judecată tuturor celor asupriți.",
+        "7": "El Și-a revelat căile Sale lui Moise și lucrările Sale fiilor lui Israel.",
+        "8": "Domnul este milostiv și plin de har, încet la mânie și bogat în îndurare.",
+        "9": "El nu Se ceartă veșnic și nu ține mânie pe vecie.",
+        "10": "El nu ne face după păcatele noastre și nu ne răsplătește după nelegiuirile noastre,",
+        "11": "ci cât de înalte sunt cerurile față de pământ, tot atât de mare este și îndurarea Lui pentru cei ce se tem de El –",
+        "12": "cât de departe este estul de vest, tot atât de mult îndepărtează El fărădelegile noastre de la noi.",
+        "13": "Cum se îndură un tată de copiii lui, așa Se îndură Domnul de cei ce se tem de El,",
+        "14": "căci El știe din ce suntem făcuți, Își amintește că suntem țărână.",
+        "15": "Cât despre om, zilele lui sunt ca iarba. Înflorește ca floarea de pe câmp,",
+        "16": "iar când trece un vânt peste ea, nu mai este și nu i se mai cunoaște locul unde a fost.",
+        "17": "Însă îndurarea Domnului este din veșnicie în veșnicie pentru cei ce se tem de El, iar dreptatea Lui este pentru copiii copiilor lor,",
+        "18": "pentru cei ce păzesc legământul Lui și pentru cei ce-și amintesc de reglementările Lui, ca să le urmeze.",
+        "19": "Domnul Și-a stabilit tronul în Ceruri, iar domnia Lui stăpânește peste toate.",
+        "20": "Binecuvântați-L pe Domnul, îngeri ai Lui tari în putere, care împliniți porunca Lui, care ascultați de glasul cuvântului Său!",
+        "21": "Binecuvântați-L pe Domnul, toată armata Lui, slujitorii Lui, care-I împliniți voia!",
+        "22": "Binecuvântați-L pe Domnul, toate lucrările Lui, din toate locurile stăpânirii Lui! Suflete al meu, binecuvântează-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yahweh, my soul! All that is within me, praise his holy name!",
+        "2": "Praise Yahweh, my soul, and don’t forget all his benefits,",
+        "3": "who forgives all your sins, who heals all your diseases,",
+        "4": "who redeems your life from destruction, who crowns you with loving kindness and tender mercies,",
+        "5": "who satisfies your desire with good things, so that your youth is renewed like the eagle’s.",
+        "6": "Yahweh executes righteous acts, and justice for all who are oppressed.",
+        "7": "He made known his ways to Moses, his deeds to the children of Israel.",
+        "8": "Yahweh is merciful and gracious, slow to anger, and abundant in loving kindness.",
+        "9": "He will not always accuse; neither will he stay angry forever.",
+        "10": "He has not dealt with us according to our sins, nor repaid us for our iniquities.",
+        "11": "For as the heavens are high above the earth, so great is his loving kindness toward those who fear him.",
+        "12": "As far as the east is from the west, so far has he removed our transgressions from us.",
+        "13": "Like a father has compassion on his children, so Yahweh has compassion on those who fear him.",
+        "14": "For he knows how we are made. He remembers that we are dust.",
+        "15": "As for man, his days are like grass. As a flower of the field, so he flourishes.",
+        "16": "For the wind passes over it, and it is gone. Its place remembers it no more.",
+        "17": "But Yahweh’s loving kindness is from everlasting to everlasting with those who fear him, his righteousness to children’s children,",
+        "18": "to those who keep his covenant, to those who remember to obey his precepts.",
+        "19": "Yahweh has established his throne in the heavens. His kingdom rules over all.",
+        "20": "Praise Yahweh, you angels of his, who are mighty in strength, who fulfill his word, obeying the voice of his word.",
+        "21": "Praise Yahweh, all you armies of his, you servants of his, who do his pleasure.",
+        "22": "Praise Yahweh, all you works of his, in all places of his dominion. Praise Yahweh, my soul!"
+      }
+    }
+  }
+}

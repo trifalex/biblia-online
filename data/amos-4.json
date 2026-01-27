@@ -1,0 +1,60 @@
+{
+  "book": "Amos",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultați cuvântul acesta, juncane din Basan, de pe muntele Samariei, voi, care asupriți pe cei sărmani, zdrobiți pe cei lipsiți și ziceți bărbaților voștri: „Dați-ne să bem!”",
+        "2": "Domnul Dumnezeu a jurat pe sfințenia Lui și a zis: „Iată, vin zile pentru voi când vă vor prinde cu cârligele și rămășița voastră, cu undițe de pescari;",
+        "3": "veți ieși prin spărturi, fiecare drept înainte, și veți fi lepădate în Harmon”, zice Domnul.",
+        "4": "„Duceți-vă numai la Betel și păcătuiți! Duceți-vă la Ghilgal și păcătuiți și mai mult! Aduceți-vă jertfele în fiecare dimineață și zeciuielile la fiecare trei zile!",
+        "5": "Faceți să fumege jertfe de mulțumire făcute cu aluat! Trâmbițați-vă, vestiți-vă darurile de mâncare de bunăvoie! Căci așa vă place, copii ai lui Israel”, zice Domnul Dumnezeu.",
+        "6": "„Și Eu, de partea Mea, v-am trimis foametea în toate cetățile voastre și lipsa de pâine în toate locuințele voastre. Cu toate acestea, tot nu v-ați întors la Mine”, zice Domnul.",
+        "7": "„N-am vrut să vă dau nici ploaie când mai erau încă trei luni până la secerat; am dat ploaie peste o cetate, dar n-am dat ploaie peste o altă cetate; într-un ogor a plouat, și altul, în care n-a plouat, s-a uscat.",
+        "8": "Două, trei cetăți s-au dus la alta ca să bea apă, și tot nu și-au potolit setea. Cu toate acestea, tot nu v-ați întors la Mine”, zice Domnul.",
+        "9": "„V-am lovit cu rugină în grâu și cu tăciune; grădinile voastre cele multe, viile, smochinii și măslinii voștri i-au mâncat deseori lăcustele. Cu toate acestea, tot nu v-ați întors la Mine”, zice Domnul.",
+        "10": "„Am trimis în voi ciuma, ca în Egipt; v-am ucis tinerii cu sabia și am lăsat să vi se ia caii, am făcut să vi se suie în nări duhoarea taberei voastre. Și, cu toate acestea, tot nu v-ați întors la Mine”, zice Domnul.",
+        "11": "„V-am nimicit ca pe Sodoma și Gomora, pe care le-a nimicit Dumnezeu, și ați fost ca un tăciune scos din foc. Cu toate acestea, tot nu v-ați întors la Mine”, zice Domnul.",
+        "12": "„De aceea îți voi face astfel, Israele, și, fiindcă îți voi face astfel, pregătește-te să întâlnești pe Dumnezeul tău, Israele!”",
+        "13": "Căci iată că El a întocmit munții, a făcut vântul și spune omului până și gândurile lui. El preface zorile în întuneric și umblă pe înălțimile pământului: Domnul Dumnezeul oștirilor este Numele Lui."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultați cuvântul acesta, vaci ale Bașanului, care sunteți pe muntele Samariei, care-i asupriți pe cei săraci, care-i zdrobiți pe cei nevoiași, care ziceți stăpânilor voștri: „Aduceți-ne să bem!“.",
+        "2": "Stăpânul Domn a jurat pe sfințenia Sa, zicând: „Iată vin zile pentru voi când vă vor trage cu cârlige, iar pe ultimele dintre voi – cu cârlige de pescuit.",
+        "3": "Veți ieși prin spărturile zidului, fiecare drept înainte, și veți fi alungate în Harmon“, zice Domnul.",
+        "4": "„Duceți-vă la Betel și păcătuiți! Duceți-vă la Ghilgal și păcătuiți și mai mult! Aduceți-vă dimineața jertfele și dați-vă zeciuielile la fiecare trei zile!",
+        "5": "Aduceți jertfă de mulțumire din pâine dospită și lăudați-vă cu darurile de bunăvoie, trâmbițați despre ele, căci aceasta vă place, fii ai lui Israel“, zice Stăpânul Domn. Eșecul Israelului în a învăța prin disciplinare",
+        "6": "„Prin urmare, și Eu v-am trimis foamete în toate cetățile voastre și am adus lipsă de pâine în toate locurile voastre. Dar tot nu v-ați întors la Mine“, zice Domnul.",
+        "7": "„Mai mult, tot Eu am oprit ploaia pentru voi, când mai erau încă trei luni până la seceriș. Am dat ploaie peste o cetate, dar peste alta n-am lăsat să plouă. Peste un teren a plouat, dar altul n-a avut parte de ploaie și s-a uscat.",
+        "8": "Două-trei cetăți s-au dus însetate la alta ca să bea apă, dar nu s-au săturat. Cu toate acestea, nu v-ați întors la Mine“, zice Domnul.",
+        "9": "„De multe ori v-am lovit grădinile și viile cu filoxera și cu mălura. Apoi lăcustele v-au devorat smochinii și măslinii, dar tot nu v-ați întors la Mine“, zice Domnul.",
+        "10": "„Am trimis împotriva voastră molima, ca în Egipt. I-am ucis pe tinerii voștri cu sabia și am tăiat caii voștri căzuți ca pradă. Am ridicat duhoarea taberei voastre până la nările voastre, dar tot nu v-ați întors la Mine“, zice Domnul.",
+        "11": "„Pe unii dintre voi i-am distrus, cum a distrus Dumnezeu Sodoma și Gomora. Ați ajuns ca tăciunele scos din jar, dar tot nu v-ați întors la Mine“, zice Domnul.",
+        "12": "„De aceea îți voi face astfel, Israel, și, pentru că îți voi face astfel, pregătește-te să-L întâlnești pe Dumnezeul tău, Israel!“",
+        "13": "Căci iată că El este Cel Ce a făcut munții, Cel Ce a creat vântul și i-a descoperit omului gândul Său, Cel Ce a transformat zorii în întuneric și Cel Ce umblă pe înălțimile pământului – Domnul, Dumnezeul Oștirilor, este Numele Său."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Listen to this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who tell their husbands, “Bring us drinks!”",
+        "2": "The Lord Yahweh has sworn by his holiness, “Behold, the days shall come on you that they will take you away with hooks, and the last of you with fish hooks.",
+        "3": "You will go out at the breaks in the wall, everyone straight before her; and you will cast yourselves into Harmon,” says Yahweh.",
+        "4": "“Go to Bethel, and sin; to Gilgal, and sin more. Bring your sacrifices every morning, your tithes every three days,",
+        "5": "offer a sacrifice of thanksgiving of that which is leavened, and proclaim free will offerings and brag about them; for this pleases you, you children of Israel,” says the Lord Yahweh.",
+        "6": "“I also have given you cleanness of teeth in all your cities, and lack of bread in every town; yet you haven’t returned to me,” says Yahweh.",
+        "7": "“I also have withheld the rain from you, when there were yet three months to the harvest; and I caused it to rain on one city, and caused it not to rain on another city. One field was rained on, and the field where it didn’t rain withered.",
+        "8": "So two or three cities staggered to one city to drink water, and were not satisfied; yet you haven’t returned to me,” says Yahweh.",
+        "9": "“I struck you with blight and mildew many times in your gardens and your vineyards, and the swarming locusts have devoured your fig trees and your olive trees; yet you haven’t returned to me,” says Yahweh.",
+        "10": "“I sent plagues among you like I did Egypt. I have slain your young men with the sword, and have carried away your horses. I filled your nostrils with the stench of your camp, yet you haven’t returned to me,” says Yahweh.",
+        "11": "“I have overthrown some of you, as when God overthrew Sodom and Gomorrah, and you were like a burning stick plucked out of the fire; yet you haven’t returned to me,” says Yahweh.",
+        "12": "“Therefore I will do this to you, Israel; because I will do this to you, prepare to meet your God, Israel.",
+        "13": "For, behold, he who forms the mountains, creates the wind, declares to man what is his thought, who makes the morning darkness, and treads on the high places of the earth: Yahweh, the God of Armies, is his name.”"
+      }
+    }
+  }
+}

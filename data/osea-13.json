@@ -1,0 +1,69 @@
+{
+  "book": "Osea",
+  "chapter": "13",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Când vorbea, Efraim răspândea groaza în Israel. Dar cum a păcătuit cu Baal, a murit.",
+        "2": "Și acum ei păcătuiesc întruna, își fac chipuri turnate din argintul lor, idoli născociți de ei, lucrare făcută de meșteri. Acestora le vorbesc ei și, jertfind oameni, sărută viței!",
+        "3": "De aceea vor fi ca norul de dimineață, ca roua care trece repede, ca pleava suflată de vânt din arie, ca fumul care iese din horn.",
+        "4": "„Dar Eu sunt Domnul Dumnezeul tău, din țara Egiptului încoace. Tu cunoști că nu este alt Dumnezeu afară de Mine și nu este alt Mântuitor afară de Mine.",
+        "5": "Eu te-am cunoscut în pustie, într-un pământ fără apă.",
+        "6": "Dar, când au dat de pășune, s-au săturat și, când s-au săturat, inima li s-a umflat de mândrie, de aceea M-au uitat.",
+        "7": "Eu M-am făcut ca un leu pentru ei și-i pândesc ca un pardos pe drum.",
+        "8": "Mă năpustesc asupra lor ca o ursoaică lipsită de puii ei, le sfâșii învelișul inimii, îi înghit pe dată ca un leu și fiarele câmpului îi vor face bucăți.",
+        "9": "Pieirea ta, Israele, este că ai fost împotriva Mea, împotriva Celui ce te putea ajuta.",
+        "10": "Unde este împăratul tău ca să te scape în toate cetățile tale? Unde sunt judecătorii tăi despre care ziceai: ‘Dă-mi un împărat și domni’?",
+        "11": "Ți-am dat un împărat în mânia Mea și ți-l iau în urgia Mea!",
+        "12": "Nelegiuirea lui Efraim este strânsă, păcatul lui este păstrat.",
+        "13": "Îl vor apuca durerile nașterii; este un copil neînțelept, căci nu poate să nască la vremea sorocită!",
+        "14": "Îi voi răscumpăra din mâna Locuinței morților, îi voi izbăvi de la moarte. Moarte, unde îți este ciuma? Locuință a morților, unde îți este nimicirea? Căința este ascunsă de privirile Mele!”",
+        "15": "Oricât de roditor ar fi Efraim în mijlocul fraților săi, tot va veni vântul de răsărit, se va stârni din pustie un vânt al Domnului, îi va usca izvoarele și-i va seca fântânile; va jefui vistieria de toate vasele ei de preț.",
+        "16": "Samaria este pedepsită pentru că s-a răzvrătit împotriva Dumnezeului ei. Vor cădea uciși de sabie; pruncii lor vor fi zdrobiți și vor spinteca pântecele femeilor lor însărcinate."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Când vorbea Efraim, răspândea groază! El era respectat în Israel, dar a păcătuit cu Baal și a murit.",
+        "2": "Acum ei păcătuiesc întruna; din argintul lor își fac chipuri turnate, idoli, potrivit cu îndemânarea lor, toți fiind lucrarea meșterilor. Se zice despre ei: „Acei oameni care aduc jertfe, care sărută idolii în formă de vițel“.",
+        "3": "De aceea vor fi ca norul de dimineață și ca roua care dispare devreme, ca pleava suflată de furtună în arie și ca fumul care iese din horn.",
+        "4": "„Dar Eu sunt Domnul, Dumnezeul tău, încă din țara Egiptului. Tu cunoști că nu este niciun alt Dumnezeu în afară de Mine și nu este niciun alt Mântuitor în afară de Mine.",
+        "5": "Eu te-am cunoscut când erai în deșert, într-o regiune uscată.",
+        "6": "Când au dat însă de pășune, s-au săturat, iar după ce s-au săturat, s-au mândrit în inima lor și, astfel, M-au uitat.",
+        "7": "Prin urmare, voi fi pentru ei ca un leu, îi voi pândi pe drum ca un leopard.",
+        "8": "Voi da peste ei ca o ursoaică ai cărei pui au fost furați și le voi sfâșia pieptul. Îi voi devora ca un leu, iar vietățile câmpului îi vor sfâșia.",
+        "9": "Distrugerea ta, Israel, a venit din cauză că ai fost împotriva Mea, împotriva Ajutorului tău.",
+        "10": "Unde-ți este regele, ca să te poată salva acum? Unde sunt judecătorii din toate cetățile tale? Unde sunt aceia despre care ziceai: «Dă-mi un rege și conducători!»?",
+        "11": "Ți-am dat un rege, în mânia Mea, și ți l-am luat, în furia Mea!",
+        "12": "Nelegiuirea Efraimului este adunată și păcatul lui este păstrat.",
+        "13": "Durerile nașterii au venit la el, însă el este un fiu neînțelept, căci în momentul nașterii, nu stă la ieșirea din pântec.",
+        "14": "Îi voi elibera din mâna Locuinței Morților. Îi voi răscumpăra de la moarte. Moarte, unde îți sunt molimele? Locuință a Morților, unde îți este distrugerea? Căința va fi ascunsă de ochii Mei,",
+        "15": "oricât de roditor va fi el printre frații săi. Vântul de est va veni, o suflare a Domnului se va stârni din deșert. Acesta îi va usca izvorul și îi va seca fântâna. Vistieria îi va fi jefuită de toate lucrurile prețioase.",
+        "16": "Samaria își va purta vina pentru că s-a răzvrătit împotriva Dumnezeului ei. Vor cădea uciși de sabie; copiii lor vor fi măcelăriți, iar femeile lor însărcinate vor fi spintecate“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "When Ephraim spoke, there was trembling. He exalted himself in Israel, but when he became guilty through Baal, he died.",
+        "2": "Now they sin more and more, and have made themselves molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen. They say of them, ‘They offer human sacrifice and kiss the calves.’",
+        "3": "Therefore they will be like the morning mist, like the dew that passes away early, like the chaff that is driven with the whirlwind out of the threshing floor, and like the smoke out of the chimney.",
+        "4": "“Yet I am Yahweh your God from the land of Egypt; and you shall acknowledge no god but me, and besides me there is no savior.",
+        "5": "I knew you in the wilderness, in the land of great drought.",
+        "6": "According to their pasture, so were they filled; they were filled, and their heart was exalted. Therefore they have forgotten me.",
+        "7": "Therefore I am like a lion to them. Like a leopard, I will lurk by the path.",
+        "8": "I will meet them like a bear that is bereaved of her cubs, and will tear the covering of their heart. There I will devour them like a lioness. The wild animal will tear them.",
+        "9": "You are destroyed, Israel, because you are against me, against your helper.",
+        "10": "Where is your king now, that he may save you in all your cities? And your judges, of whom you said, ‘Give me a king and princes’?",
+        "11": "I have given you a king in my anger, and have taken him away in my wrath.",
+        "12": "The guilt of Ephraim is stored up. His sin is stored up.",
+        "13": "The sorrows of a travailing woman will come on him. He is an unwise son, for when it is time, he doesn’t come to the opening of the womb.",
+        "14": "I will ransom them from the power of Sheol. I will redeem them from death! Death, where are your plagues? Sheol, where is your destruction? “Compassion will be hidden from my eyes.",
+        "15": "Though he is fruitful among his brothers, an east wind will come, the breath of Yahweh coming up from the wilderness; and his spring will become dry, and his fountain will be dried up. He will plunder the storehouse of treasure.",
+        "16": "Samaria will bear her guilt, for she has rebelled against her God. They will fall by the sword. Their infants will be dashed in pieces, and their pregnant women will be ripped open.”"
+      }
+    }
+  }
+}

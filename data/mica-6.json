@@ -1,0 +1,69 @@
+{
+  "book": "Mica",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultați dar ce zice Domnul: „Scoală-te, judecă-te înaintea munților și dealurile să-ți audă glasul!…",
+        "2": "Ascultați, munți, pricina Domnului și luați aminte, temelii tari ale pământului! Căci Domnul are o judecată cu poporul Său și vrea să Se judece cu Israel.",
+        "3": "Poporul Meu, ce ți-am făcut și cu ce te-am ostenit? Răspunde-Mi!",
+        "4": "Căci te-am scos din țara Egiptului, te-am izbăvit din casa robiei și am trimis înaintea ta pe Moise, Aaron și Maria!",
+        "5": "Poporul Meu, adu-ți aminte ce plănuia Balac, împăratul Moabului, și ce i-a răspuns Balaam, fiul lui Beor, și ce s-a întâmplat din Sitim până la Ghilgal, ca să cunoști binefacerile Domnului!”",
+        "6": "Cu ce voi întâmpina pe Domnul și cu ce mă voi pleca înaintea Dumnezeului celui Preaînalt? Îl voi întâmpina oare cu arderi-de-tot, cu viței de un an?",
+        "7": "Dar primește Domnul oare mii de berbeci sau zeci de mii de râuri de untdelemn? Să dau eu pentru fărădelegile mele pe întâiul meu născut, rodul trupului meu, pentru păcatul sufletului meu?",
+        "8": "Ți s-a arătat, omule, ce este bine! Și ce alta cere Domnul de la tine decât să faci dreptate, să iubești mila și să umbli smerit cu Dumnezeul tău?",
+        "9": "Glasul Domnului strigă cetății și omul înțelept se teme de Numele Tău. „Ascultați pedeapsa și pe Cel ce o trimite!",
+        "10": "Mai sunt în casa celui rău comori nelegiuite și blestemata efă mică?",
+        "11": "Pot socoti Eu curat pe cel ce are o cumpănă nedreaptă și greutăți strâmbe în sac?",
+        "12": "Pentru că bogații lui sunt plini de silnicie, locuitorii lui spun minciuni și limba lor este numai înșelătorie în gura lor,",
+        "13": "de aceea, și Eu te voi lovi cu suferință, te voi pustii pentru păcatele tale.",
+        "14": "Vei mânca, și tot nu te vei sătura, ci foamea va rămâne în tine; ce vei lua dinaintea vrăjmașului nu vei scăpa, căci ce vei scăpa, voi da pradă sabiei.",
+        "15": "Vei semăna, dar nu vei secera; vei stoarce măsline, dar nu te vei unge cu untdelemnul lor; vei face must, dar nu vei bea vin!",
+        "16": "Căci ei păzesc toate orânduirile lui Omri și lucrează tocmai cum a lucrat casa lui Ahab și umblă după sfaturile lor, de aceea te voi face de pomină, îți voi face locuitorii de batjocură și vei purta ocara poporului Meu.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultați ce zice Domnul: „Ridică-te și apără-ți cauza înaintea munților și dealurile să-ți asculte glasul!",
+        "2": "Munți, ascultați acuza Domnului! Ascultați cu atenție, temelii trainice ale pământului, căci Domnul are o acuză de adus poporului Său și Se judecă cu Israel!",
+        "3": "Poporul Meu, ce ți-am făcut? Cu ce te-am împovărat? Răspunde-Mi!",
+        "4": "Căci te-am scos din țara Egiptului și te-am răscumpărat din casa sclavilor! I-am trimis înaintea ta pe Moise, pe Aaron și pe Miriam!",
+        "5": "Poporul Meu, adu-ți aminte ce plănuia Balak, regele Moabului, și ce i-a răspuns Balaam, fiul lui Beor! Amintește-ți ce s-a întâmplat de la Șitim la Ghilgal, ca să pricepi faptele drepte ale Domnului!“.",
+        "6": "Cu ce-L voi întâmpina pe Domnul, cu ce mă voi pleca înaintea Dumnezeului celui Preaînalt? Să-L întâmpin oare cu arderi-de-tot, cu viței de un an?",
+        "7": "Va fi, oare, Domnul mulțumit cu mii de berbeci, cu zeci de mii de râuri de ulei? Să dau, oare, pentru fărădelegea mea pe întâiul meu născut, rodul pântecului meu pentru păcatul sufletului meu?",
+        "8": "El ți-a arătat, omule, ce este bine! Și ce altceva cere Domnul de la tine, decât să faci dreptate, să iubești îndurarea și să fii smerit în umblarea cu Dumnezeul tău? Vina și pedeapsa lui Israel",
+        "9": "Glasul Domnului strigă cetății (Cel ce privește la Numele Tău are înțelepciune!): „Ascultați, seminție și cine a adunat cetatea!",
+        "10": "Mai sunt în casa celui rău comorile nelegiuirii și blestemata efă mică?",
+        "11": "Pot considera Eu curat pe cel cu talere măsluite și cu greutăți înșelătoare în sac?",
+        "12": "Bogații ei sunt plini de violență; locuitorii ei spun minciuni și limba le este înșelătoare.",
+        "13": "De aceea și Eu te voi lovi cu boală, te voi pustii pentru păcatele tale!",
+        "14": "Vei mânca, dar nu te vei sătura, iar foamea va rămâne în mijlocul tău. Vei duce lucruri, dar nu le vei putea adăposti, iar ceea ce vei adăposti voi da pradă sabiei.",
+        "15": "Vei semăna, dar nu vei secera; vei stoarce măsline, dar nu te vei unge cu uleiul lor; vei face must, dar nu vei bea vin.",
+        "16": "Tu păzești hotărârea lui Omri și orice lucrare a Casei lui Ahab; umbli potrivit sfaturilor lor. De aceea, te voi da pradă pustiirii; locuitorii tăi vor fi un motiv de fluierat, și veți purta disprețul poporului Meu“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Listen now to what Yahweh says: “Arise, plead your case before the mountains, and let the hills hear what you have to say.",
+        "2": "Hear, you mountains, Yahweh’s indictment, and you enduring foundations of the earth; for Yahweh has a case against his people, and he will contend with Israel.",
+        "3": "My people, what have I done to you? How have I burdened you? Answer me!",
+        "4": "For I brought you up out of the land of Egypt, and redeemed you out of the house of bondage. I sent before you Moses, Aaron, and Miriam.",
+        "5": "My people, remember now what Balak king of Moab devised, and what Balaam the son of Beor answered him from Shittim to Gilgal, that you may know the righteous acts of Yahweh.”",
+        "6": "How shall I come before Yahweh, and bow myself before the exalted God? Shall I come before him with burnt offerings, with calves a year old?",
+        "7": "Will Yahweh be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the sin of my soul?",
+        "8": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?",
+        "9": "Yahweh’s voice calls to the city— and wisdom fears your name— “Listen to the rod, and he who appointed it.",
+        "10": "Are there yet treasures of wickedness in the house of the wicked, and a short ephah that is accursed?",
+        "11": "Shall I tolerate dishonest scales, and a bag of deceitful weights?",
+        "12": "Her rich men are full of violence, her inhabitants speak lies, and their tongue is deceitful in their speech.",
+        "13": "Therefore I also have struck you with a grievous wound. I have made you desolate because of your sins.",
+        "14": "You shall eat, but not be satisfied. Your hunger will be within you. You will store up, but not save, and that which you save I will give up to the sword.",
+        "15": "You will sow, but won’t reap. You will tread the olives, but won’t anoint yourself with oil; and crush grapes, but won’t drink the wine.",
+        "16": "For the statutes of Omri are kept, and all the works of Ahab’s house. You walk in their counsels, that I may make you a ruin, and your inhabitants a hissing. You will bear the reproach of my people.”"
+      }
+    }
+  }
+}

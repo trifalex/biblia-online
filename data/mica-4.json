@@ -1,0 +1,60 @@
+{
+  "book": "Mica",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "În vremurile de pe urmă, muntele Casei Domnului va fi întemeiat tare, ca cel mai înalt munte, se va înălța deasupra dealurilor și popoarele vor veni grămadă la el.",
+        "2": "Neamurile se vor duce cu grămada la el și vor zice: „Veniți, haidem să ne suim la muntele Domnului, la Casa Dumnezeului lui Iacov, ca să ne învețe căile Lui și să umblăm pe cărările Lui!” Căci din Sion va ieși Legea și din Ierusalim, Cuvântul Domnului.",
+        "3": "El va judeca între multe popoare, va hotărî între neamuri puternice, depărtate. Din săbiile lor își vor făuri fiare de plug și din sulițele lor, cosoare; niciun neam nu va mai trage sabia împotriva altuia și nu vor mai învăța să facă război,",
+        "4": "ci fiecare va locui sub vița lui și sub smochinul lui și nimeni nu-l va mai tulbura. Căci gura Domnului oștirilor a vorbit.",
+        "5": "Pe când toate popoarele umblă fiecare în numele dumnezeului său, noi vom umbla în Numele Domnului Dumnezeului nostru totdeauna și în veci de veci!",
+        "6": "„În ziua aceea”, zice Domnul, „voi aduna pe cei șchiopi, voi strânge grămadă pe cei izgoniți și pe aceia pe care-i chinuisem.",
+        "7": "Din cei șchiopi voi face o rămășiță, din cei ce erau risipiți, un neam puternic, și Domnul va împărăți peste ei, pe muntele Sionului, de acum și până-n veac!",
+        "8": "Iar la tine, turn al turmei, deal al fiicei Sionului, la tine va veni și la tine va ajunge vechea stăpânire, împărăția fiicei Ierusalimului!”",
+        "9": "Pentru ce strigi tu însă acum așa de tare? N-ai împărat? Nu mai ai sfetnic de te apucă durerea ca pe o femeie la naștere?",
+        "10": "Suferă, fiica Sionului, și gemi ca o femeie la naștere! Căci acum vei ieși din cetate și vei locui în câmp și te vei duce până la Babilon! Acolo vei fi izbăvită, acolo te va răscumpăra Domnul din mâna vrăjmașilor tăi.",
+        "11": "Căci acum multe neamuri s-au strâns împotriva ta și zic: „Să fie pângărită, ca să ne vadă ochii împlinindu-ni-se dorința față de Sion!”",
+        "12": "Dar ei nu cunosc gândurile Domnului, nu-I înțeleg planurile, nu știu că i-a strâns ca pe niște snopi în arie.",
+        "13": "„Scoală-te, fiica Sionului și treieră! Căci îți fac un corn de fier și o copită de aramă, ca să sfărâmi multe popoare și să închini Domnului prada lor, să închini Domnului întregului pământ averile lor!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În zilele de pe urmă, muntele Casei Domnului va fi întemeiat drept cel mai înalt dintre munți, va fi înălțat deasupra dealurilor și popoarele vor curge spre el.",
+        "2": "Multe națiuni vor veni și vor zice: „Să mergem și să ne suim la muntele Domnului, la Casa Dumnezeului lui Iacov! El să ne învețe căile Sale, și noi să umblăm pe cărările Sale!“. Căci din Sion va ieși Legea, iar Cuvântul Domnului – din Ierusalim.",
+        "3": "El va judeca între multe popoare și va hotărî pentru națiuni puternice, depărtate. Ei își vor face din săbii pluguri, și din sulițe – cosoare. Nicio națiune nu va mai ridica sabia împotriva altei națiuni și nu se vor mai pregăti pentru război.",
+        "4": "Fiecare va locui sub vița lui și sub smochinul lui și nimeni nu-l va mai înspăimânta, căci gura Domnului Oștirilor a vorbit.",
+        "5": "Toate popoarele umblă, fiecare în numele dumnezeilor lor. Noi însă vom umbla în Numele Domnului, Dumnezeul nostru, pentru veci de veci! Promisiunea restaurării",
+        "6": "„În ziua aceea“, zice Domnul, „îi voi aduna pe cei șchiopi și îi voi strânge laolaltă pe cei alungați, pe cei pe care i-am rănit.",
+        "7": "Voi face din cei șchiopi o rămășiță și din cei alungați – o națiune puternică. Domnul va împărăți peste ei pe muntele Sion, de acum și pentru totdeauna.",
+        "8": "Cât despre tine, turn de veghe al turmei, deal al fiicei Sionului, stăpânirea de odinioară îți va fi redată, regatul se va întoarce la fiica Ierusalimului“.",
+        "9": "Acum, de ce strigi așa de tare? Nu este niciun rege în mijlocul tău? Ți-a pierit sfetnicul, de te apucă durerea ca pe o femeie la naștere?",
+        "10": "Zvârcolește-te și geme, fiică a Sionului, ca o femeie la naștere, căci acum va trebui să ieși din cetate și vei locui în câmp! Te vei duce la Babilon și abia acolo vei fi eliberată. Acolo, Domnul te va răscumpăra din mâna dușmanilor tăi.",
+        "11": "Dar acum multe națiuni sunt adunate împotriva ta, zicând: „Să fie pângărit, iar ochii noștri să privească de sus Sionul!“.",
+        "12": "Ei însă nu cunosc gândurile Domnului, nu înțeleg planul Lui, nu știu că El i-a strâns ca pe niște snopi în aria de treierat.",
+        "13": "„Ridică-te și treieră, fiică a Sionului, căci îți voi face cornul din fier. Copitele ți le voi face din bronz, ca să sfărâmi multe popoare“. Vei închina Domnului câștigul lor nedrept, iar bogăția lor – Stăpânului întregului pământ."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "But in the latter days, it will happen that the mountain of Yahweh’s temple will be established on the top of the mountains, and it will be exalted above the hills; and peoples will stream to it.",
+        "2": "Many nations will go and say, “Come! Let’s go up to the mountain of Yahweh, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths.” For the law will go out of Zion, and Yahweh’s word from Jerusalem;",
+        "3": "and he will judge between many peoples, and will decide concerning strong nations afar off. They will beat their swords into plowshares, and their spears into pruning hooks. Nation will not lift up sword against nation, neither will they learn war any more.",
+        "4": "But every man will sit under his vine and under his fig tree. No one will make them afraid, for the mouth of Yahweh of Armies has spoken.",
+        "5": "Indeed all the nations may walk in the name of their gods, but we will walk in the name of Yahweh our God forever and ever.",
+        "6": "“In that day,” says Yahweh, “I will assemble that which is lame, and I will gather that which is driven away, and that which I have afflicted;",
+        "7": "and I will make that which was lame a remnant, and that which was cast far off a strong nation: and Yahweh will reign over them on Mount Zion from then on, even forever.”",
+        "8": "You, tower of the flock, the hill of the daughter of Zion, to you it will come. Yes, the former dominion will come, the kingdom of the daughter of Jerusalem.",
+        "9": "Now why do you cry out aloud? Is there no king in you? Has your counselor perished, that pains have taken hold of you as of a woman in travail?",
+        "10": "Be in pain, and labor to give birth, daughter of Zion, like a woman in travail; for now you will go out of the city, and will dwell in the field, and will come even to Babylon. There you will be rescued. There Yahweh will redeem you from the hand of your enemies.",
+        "11": "Now many nations have assembled against you, that say, “Let her be defiled, and let our eye gloat over Zion.”",
+        "12": "But they don’t know the thoughts of Yahweh, neither do they understand his counsel; for he has gathered them like the sheaves to the threshing floor.",
+        "13": "Arise and thresh, daughter of Zion, for I will make your horn iron, and I will make your hoofs bronze. You will beat in pieces many peoples. I will devote their gain to Yahweh, and their substance to the Lord of the whole earth."
+      }
+    }
+  }
+}

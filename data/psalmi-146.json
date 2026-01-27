@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "146",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Laudă, suflete, pe Domnul!",
+        "2": "Voi lăuda pe Domnul cât voi trăi, voi lăuda pe Dumnezeul meu cât voi fi.",
+        "3": "Nu vă încredeți în cei mari, în fiii oamenilor, în care nu este ajutor.",
+        "4": "Suflarea lor trece, se întorc în pământ și în aceeași zi le pier și planurile lor.",
+        "5": "Ferice de cine are ca ajutor pe Dumnezeul lui Iacov, ferice de cine-și pune nădejdea în Domnul Dumnezeul său!",
+        "6": "El a făcut cerurile și pământul, marea și tot ce este în ea. El ține credincioșia în veci.",
+        "7": "El face dreptate celor asupriți; dă pâine celor flămânzi; Domnul izbăvește pe prinșii de război;",
+        "8": "Domnul deschide ochii orbilor; Domnul îndreaptă pe cei încovoiați; Domnul iubește pe cei neprihăniți.",
+        "9": "Domnul ocrotește pe cei străini, sprijină pe orfan și pe văduvă, dar răstoarnă calea celor răi.",
+        "10": "Domnul împărățește în veci; Dumnezeul tău, Sioane, rămâne din veac în veac! Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Suflete al meu, laudă-L pe Domnul!",
+        "2": "Îl voi lăuda pe Domnul cât voi trăi! Voi cânta spre lauda Dumnezeului meu cât voi fi!",
+        "3": "Nu vă încredeți în nobili, în fiii oamenilor care nu pot salva.",
+        "4": "Omul, când îl părăsește duhul, se întoarce în țărână și în aceeași zi îi pier toate planurile.",
+        "5": "Ferice de cel ce Îl are pe Dumnezeul lui Iacov ca ajutor și a cărui speranță este în Domnul, Dumnezeul lui,",
+        "6": "Creatorul cerurilor și al pământului, al mării și a tot ce cuprinde ea, Păzitorul credincioșiei pe veci,",
+        "7": "Cel Ce susține cauza celor asupriți, Cel Ce dă pâine celor flămânzi, Domnul, Cel Care eliberează prizonierii,",
+        "8": "Domnul, Cel Care deschide ochii orbilor, Domnul, Cel Care îi îndreaptă pe cei încovoiați, Domnul, Cel Care îi iubește pe cei drepți;",
+        "9": "Domnul îi păzește pe străini și sprijină orfanul și văduva, dar sucește calea celor răi.",
+        "10": "Domnul împărățește pe veci, Dumnezeul tău, Sionule, din generație în generație! Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yah! Praise Yahweh, my soul.",
+        "2": "While I live, I will praise Yahweh. I will sing praises to my God as long as I exist.",
+        "3": "Don’t put your trust in princes, in a son of man in whom there is no help.",
+        "4": "His spirit departs, and he returns to the earth. In that very day, his thoughts perish.",
+        "5": "Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God,",
+        "6": "who made heaven and earth, the sea, and all that is in them; who keeps truth forever;",
+        "7": "who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners.",
+        "8": "Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous.",
+        "9": "Yahweh preserves the foreigners. He upholds the fatherless and widow, but he turns the way of the wicked upside down.",
+        "10": "Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!"
+      }
+    }
+  }
+}

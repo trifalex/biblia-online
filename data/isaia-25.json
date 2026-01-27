@@ -1,0 +1,57 @@
+{
+    "book": "Isaia",
+    "chapter": "25",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Doamne, Tu ești Dumnezeul meu; pe Tine Te voi înălța! Laud Numele Tău, căci ai făcut lucruri minunate; planurile Tale făcute mai dinainte s-au împlinit cu credincioșie.",
+                "2": "Căci ai prefăcut cetatea (Babilon) într-un morman de pietre, cetățuia cea tare într-o grămadă de dărâmături; cetatea cea mare a străinilor este nimicită și niciodată nu va mai fi zidită.",
+                "3": "De aceea Te slăvesc popoarele puternice și cetățile neamurilor puternice se tem de Tine.",
+                "4": "Căci Tu ai fost un loc de scăpare pentru cel slab, un loc de scăpare pentru cel nenorocit în necaz, un adăpost împotriva furtunii, un umbrar împotriva căldurii, căci suflarea asupritorilor este ca vijelia care izbește în zid.",
+                "5": "Cum domolești căldura într-un pământ arzător, așa ai domolit zarva străinilor; cum este înădușită căldura de umbra unui nor, așa au fost înădușite cântările de biruință ale asupritorilor.",
+                "6": "Domnul oștirilor pregătește tuturor popoarelor, pe muntele acesta, un ospăț de bucate gustoase, un ospăț de vinuri vechi, de bucate miezoase, pline de măduvă, de vinuri vechi și limpezite.",
+                "7": "Și, pe muntele acesta, înlătură marama care acoperă toate popoarele și învelitoarea care înfășoară toate neamurile;",
+                "8": "nimicește moartea pe vecie: Domnul Dumnezeu șterge lacrimile de pe toate fețele și îndepărtează de pe tot pământul ocara poporului Său; da, Domnul a vorbit.",
+                "9": "În ziua aceea, vor zice: „Iată, acesta este Dumnezeul nostru, în care aveam încredere că ne va mântui. Acesta este Domnul, în care ne încredeam. Acum, să ne veselim și să ne bucurăm de mântuirea Lui!”",
+                "10": "Căci mâna Domnului se odihnește pe muntele acesta, dar Moabul este călcat în picioare pe loc cum este călcat în picioare paiul în bălegar.",
+                "11": "În mijlocul acestei băltoace, el își întinde mâinile cum le întinde înotătorul ca să înoate, dar Domnul îi doboară mândria și face de nimica dibăcia mâinilor lui.",
+                "12": "El surpă, prăbușește întăriturile înalte ale zidurilor tale, le prăbușește la pământ, în țărână."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "O, Doamne, Tu ești Dumnezeul meu! Te voi înălța și voi aduce mulțumiri Numelui Tău, căci ai făcut lucruri minunate, lucruri plănuite demult, care s-au împlinit cu credincioșie.",
+                "2": "Ai transformat cetatea într-un morman de moloz, citadela într-o ruină. Fortăreața străinilor nu mai este o cetate; ea nu va mai fi niciodată reconstruită.",
+                "3": "De aceea popoarele puternice Te vor glorifica și cetățile națiunilor groaznice se vor teme de Tine.",
+                "4": "Căci Tu ai fost un refugiu pentru cel sărac, un refugiu pentru cel nevoiaș în necazul său, și o umbră în mijlocul caniculei, era ca furtuna împotriva unui zid,",
+                "5": "ca arșița soarelui într-un loc uscat. și, așa cum căldura este domolită de umbra unui nor, tot astfel și cântarea celor groaznici încetează.",
+                "6": "Domnul Oștirilor va pregăti pe muntele acesta, pentru toate popoarele, un ospăț cu cărnuri grase, un ospăț cu vinuri bune – și vinuri limpezite.",
+                "7": "Pe muntele acesta El va nimici vălul care acoperă toate popoarele, învelitoarea care înfășoară toate națiunile.",
+                "8": "El va înghiți moartea pentru totdeauna. disprețul poporului Său, căci Domnul a vorbit.",
+                "9": "În ziua aceea se va zice: „Iată, Acesta este Dumnezeul nostru. Ne-am pus speranța în El și El ne-a mântuit. Acesta este Domnul în Care ne-am pus speranța. Să fim veseli și să ne bucurăm în mântuirea Sa!“.",
+                "10": "Mâna Domnului se va odihni pe muntele acesta. Moabiții însă vor fi călcați de El în picioare, așa cum este călcat în picioare paiul în bălegar.",
+                "11": "Acolo, pe munte, își vor întinde mâinile, așa cum își întinde înotătorul mâinile să înoate. El le va doborî mândria, în pofida abilității mâinilor lor.",
+                "12": "El va dărâma fortificațiile înalte ale zidurilor tale, și le va arunca la pământ, chiar în țărână."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Yahweh, you are my God. I will exalt you! I will praise your name, for you have done wonderful things, things planned long ago, in complete faithfulness and truth.",
+                "2": "For you have made a city into a heap, a fortified city into a ruin, a palace of strangers to be no city. It will never be built.",
+                "3": "Therefore a strong people will glorify you. A city of awesome nations will fear you.",
+                "4": "For you have been a stronghold to the poor, a stronghold to the needy in his distress, a refuge from the storm, a shade from the heat, when the blast of the dreaded ones is like a storm against the wall.",
+                "5": "As the heat in a dry place you will bring down the noise of strangers; as the heat by the shade of a cloud, the song of the dreaded ones will be brought low.",
+                "6": "In this mountain, Yahweh of Armies will make all peoples a feast of choice meat, a feast of choice wines, of choice meat full of marrow, of well refined choice wines.",
+                "7": "He will destroy in this mountain the surface of the covering that covers all peoples, and the veil that is spread over all nations.",
+                "8": "He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces. He will take the reproach of his people away from off all the earth, for Yahweh has spoken it.",
+                "9": "It shall be said in that day, “Behold, this is our God! We have waited for him, and he will save us! This is Yahweh! We have waited for him. We will be glad and rejoice in his salvation!”",
+                "10": "For Yahweh’s hand will rest in this mountain. Moab will be trodden down in his place, even like straw is trodden down in the water of the dunghill.",
+                "11": "He will spread out his hands in the middle of it, like one who swims spreads out hands to swim, but his pride will be humbled together with the craft of his hands.",
+                "12": "He has brought the high fortress of your walls down, laid low, and brought to the ground, even to the dust."
+            }
+        }
+    }
+}

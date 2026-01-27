@@ -1,0 +1,42 @@
+{
+    "book": "Isaia",
+    "chapter": "18",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Vai de tine, țară în care răsună zăngănit de arme și care ești dincolo de râurile Etiopiei!",
+                "2": "Tu, care trimiți soli pe mare în corăbii de papură, care plutesc pe luciul apelor! Duceți-vă, soli iuți, la neamul acela tare și puternic, la poporul acela înfricoșat de la începutul lui, neam puternic care zdrobește totul și a cărui țară este tăiată de râuri!",
+                "3": "Voi, toți locuitori ai lumii, și voi, locuitori ai pământului, luați seama când se înalță steagul pe munți și ascultați când sună trâmbița!",
+                "4": "Căci așa mi-a vorbit Domnul: „Eu privesc liniștit din locuința Mea pe căldura arzătoare a luminii soarelui și pe aburul de rouă, în vipia secerișului.",
+                "5": "Dar, înainte de seceriș, când cade floarea și rodul se face aguridă, el taie îndată mlădițele cu cosoare, ba taie chiar lăstarii și-i aruncă…”",
+                "6": "Și asirienii vor fi lăsați astfel pradă păsărilor răpitoare din munți și fiarelor pământului; păsările de pradă vor petrece vara pe trupurile lor moarte, și fiarele pământului vor ierna pe ele.",
+                "7": "În vremea aceea, se vor aduce daruri de mâncare Domnului oștirilor de poporul cel tare și puternic, de poporul cel înfricoșat de la începutul lui, neam puternic, care zdrobește totul și a cărui țară este tăiată de râuri: vor fi aduse acolo unde locuiește Numele Domnului oștirilor, pe muntele Sionului."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Vai de tine, țară în care se aude fluturat de aripi, țară de dincolo de râurile lui Cuș,",
+                "2": "care-ți trimiți mesagerii pe calea apei, în corăbii de papirus. Duceți-vă, mesageri iuți! Duceți-vă la o națiune înaltă și cu pielea netedă, la un popor de temut, atât în preajma lui, cât și în depărtări, la o națiune puternică și cuceritoare, a cărei țară este străbătută de râuri.",
+                "3": "Voi toți, locuitori ai lumii, toți care locuiți pe pământ, când se ridică steagul pe munți, să vă uitați, iar când sună trâmbița, să ascultați!",
+                "4": "Căci Domnul mi-a vorbit astfel: „Eu voi sta liniștit și voi privi din locul șederii Mele; și ca un nor de rouă în căldura secerișului“.",
+                "5": "Căci înainte de seceriș, când mugurele s-a dus, iar floarea a devenit strugure copt, și va îndepărta vlăstarii, îi va reteza.",
+                "6": "Toți vor fi lăsați și animalelor sălbatice. și toate animalele sălbatice vor ierna pe ei.",
+                "7": "În vremea aceea, un popor înalt și cu pielea netedă, de temut atât în preajma lui, cât și în depărtări, o națiune puternică și cuceritoare, a cărei țară este străbătută de râuri, va aduce un dar Domnului Oștirilor la muntele Sion, locul Numelui Domnului Oștirilor."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia;",
+                "2": "that sends ambassadors by the sea, even in vessels of papyrus on the waters, saying, “Go, you swift messengers, to a nation tall and smooth, to a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide!”",
+                "3": "All you inhabitants of the world, and you dwellers on the earth, when a banner is lifted up on the mountains, look! When the trumpet is blown, listen!",
+                "4": "For Yahweh said to me, “I will be still, and I will see in my dwelling place, like clear heat in sunshine, like a cloud of dew in the heat of harvest.”",
+                "5": "For before the harvest, when the blossom is over, and the flower becomes a ripening grape, he will cut off the sprigs with pruning hooks, and he will cut down and take away the spreading branches.",
+                "6": "They will be left together for the ravenous birds of the mountains, and for the animals of the earth. The ravenous birds will eat them in the summer, and all the animals of the earth will eat them in the winter.",
+                "7": "In that time, a present will be brought to Yahweh of Armies from a people tall and smooth, even from a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide, to the place of the name of Yahweh of Armies, Mount Zion."
+            }
+        }
+    }
+}

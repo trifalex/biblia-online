@@ -1,0 +1,75 @@
+{
+  "book": "2 Tesaloniceni",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Încolo, fraților, rugați-vă pentru noi ca Cuvântul Domnului să se răspândească și să fie proslăvit, cum este la voi,",
+        "2": "și să fim izbăviți de oamenii nechibzuiți și răi, căci nu toți au credința.",
+        "3": "Credincios este Domnul: El vă va întări și vă va păzi de cel rău.",
+        "4": "Cu privire la voi, avem încredere în Domnul că faceți și veți face ce vă poruncim.",
+        "5": "Domnul să vă îndrepte inimile spre dragostea lui Dumnezeu și spre răbdarea lui Hristos!",
+        "6": "În Numele Domnului nostru Isus Hristos, vă poruncim, fraților, să vă depărtați de orice frate care trăiește în neorânduială, și nu după învățăturile pe care le-ați primit de la noi.",
+        "7": "Voi înșivă știți ce trebuie să faceți ca să ne urmați; căci noi n-am trăit în neorânduială între voi.",
+        "8": "N-am mâncat de pomană pâinea nimănui; ci, lucrând și ostenindu-ne, am muncit zi și noapte, ca să nu fim povară nimănui dintre voi.",
+        "9": "Nu că n-am fi avut dreptul acesta, dar am vrut să vă dăm în noi înșine o pildă vrednică de urmat.",
+        "10": "Căci, când eram la voi, vă spuneam lămurit: „Cine nu vrea să lucreze nici să nu mănânce.”",
+        "11": "Auzim însă că unii dintre voi trăiesc în neorânduială, nu lucrează nimic, ci se țin de nimicuri.",
+        "12": "Îndemnăm pe oamenii aceștia și-i sfătuim, în Domnul nostru Isus Hristos, să-și mănânce pâinea lucrând în liniște.",
+        "13": "Voi, fraților, să nu osteniți în facerea binelui.",
+        "14": "Și dacă n-ascultă cineva ce spunem noi în această epistolă, însemnați-vi-l și să n-aveți niciun fel de legături cu el, ca să-i fie rușine.",
+        "15": "Să nu-l socotiți ca pe un vrăjmaș, ci să-l mustrați ca pe un frate.",
+        "16": "Însuși Domnul păcii să vă dea totdeauna pacea în orice fel. Domnul să fie cu voi cu toți!",
+        "17": "Urarea de sănătate este scrisă cu mâna mea: Pavel. Acesta este semnul în fiecare epistolă; așa scriu eu.",
+        "18": "Harul Domnului nostru Isus Hristos să fie cu voi cu toți! Amin."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În cele din urmă, fraților, rugați-vă pentru noi, ca să se răspândească repede Cuvântul Domnului și să fie glorificat, așa cum este și între voi,",
+        "2": "și să fim scăpați de oamenii neascultători și răi, căci nu toți au credința.",
+        "3": "Însă Domnul este credincios. El vă va întări și vă va păzi de cel rău.",
+        "4": "Cu privire la voi, suntem încrezători în Domnul că faceți și veți continua să faceți lucrurile pe care le poruncim.",
+        "5": "Domnul să vă îndrepte inimile către dragostea lui Dumnezeu și răbdarea lui Cristos!",
+        "6": "Vă poruncim, fraților, în Numele Domnului nostru Isus Cristos, să vă îndepărtați de orice frate care trăiește în lenevie și nu după învățătura pe care ați primit-o de la noi.",
+        "7": "Căci voi înșivă știți cum trebuie să urmați exemplul nostru, fiindcă n-am fost leneși cât am stat printre voi,",
+        "8": "nici n-am mâncat fără plată pâinea nimănui, ci cu efort și muncă grea am lucrat zi și noapte, ca să nu fim o povară pentru niciunul dintre voi.",
+        "9": "Și aceasta nu pentru că n-am fi avut acest drept, ci ca să fim un exemplu pe care să-l urmați.",
+        "10": "Căci, când eram cu voi, v-am dat această poruncă: „Dacă cineva nu vrea să lucreze, nici să nu mănânce!“.",
+        "11": "Auzim însă că unii dintre voi trăiesc în lenevie, nelucrând nimic, ci amestecându-se în treburile altora.",
+        "12": "Unor astfel de oameni le poruncim și îi îndemnăm, în Domnul Isus Cristos, să-și mănânce pâinea, lucrând în liniște.",
+        "13": "Însă voi, fraților, fiți neobosiți în facerea de bine!",
+        "14": "Și dacă cineva nu ascultă cuvântul nostru din această scrisoare, însemnați-vi-l și să nu aveți nimic de-a face cu el, ca să-i fie rușine.",
+        "15": "Să nu-l priviți ca pe un dușman, ci mustrați-l ca pe un frate.",
+        "16": "Însuși Domnul păcii să vă dea întotdeauna pacea în orice fel. Domnul să fie cu voi toți!",
+        "17": "Salutul este scris cu mâna mea: Pavel. Acesta este semnul în fiecare scrisoare a mea; așa scriu eu.",
+        "18": "Harul Domnului Isus Cristos să fie cu voi toți! Amin."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you,",
+        "2": "and that we may be delivered from unreasonable and evil men; for not all have faith.",
+        "3": "But the Lord is faithful, who will establish you and guard you from the evil one.",
+        "4": "We have confidence in the Lord concerning you, that you both do and will do the things we command.",
+        "5": "May the Lord direct your hearts into God’s love and into the perseverance of Christ.",
+        "6": "Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother who walks in rebellion and not after the tradition which they received from us.",
+        "7": "For you know how you ought to imitate us. For we didn’t behave ourselves rebelliously among you,",
+        "8": "neither did we eat bread from anyone’s hand without paying for it, but in labor and travail worked night and day, that we might not burden any of you.",
+        "9": "This was not because we don’t have the right, but to make ourselves an example to you, that you should imitate us.",
+        "10": "For even when we were with you, we commanded you this: “If anyone is not willing to work, don’t let him eat.”",
+        "11": "For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies.",
+        "12": "Now those who are that way, we command and exhort in the Lord Jesus Christ, that they work with quietness and eat their own bread.",
+        "13": "But you, brothers, don’t be weary in doing what is right.",
+        "14": "If any man doesn’t obey our word in this letter, note that man and have no company with him, to the end that he may be ashamed.",
+        "15": "Don’t count him as an enemy, but admonish him as a brother.",
+        "16": "Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.",
+        "17": "I, Paul, write this greeting with my own hand, which is the sign in every letter. This is how I write.",
+        "18": "The grace of our Lord Jesus Christ be with you all. Amen."
+      }
+    }
+  }
+}

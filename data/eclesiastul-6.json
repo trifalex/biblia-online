@@ -1,0 +1,57 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Este un rău pe care l-am văzut sub soare și care se întâlnește des între oameni.",
+        "2": "Este, de pildă, un om căruia i-a dat Dumnezeu avere, bogății și slavă, așa că nu-i lipsește nimic din ce-i dorește sufletul, dar Dumnezeu nu-l lasă să se bucure de ele, ci un străin se bucură de ele: aceasta este o deșertăciune și un rău mare.",
+        "3": "Chiar dacă un om ar avea o sută de copii și ar trăi mulți ani, oricât de mult i s-ar mări numărul zilelor anilor lui, dar dacă nu i se satură sufletul de bunătățile agonisite de el și dacă nici de înmormântare n-are parte, eu zic că o stârpitură este mai fericită decât el.",
+        "4": "Căci aceasta din urmă piere odată cu venirea ei, se duce în întuneric și numele îi rămâne acoperit cu întuneric;",
+        "5": "n-a văzut, nici n-a cunoscut soarele, și de aceea este mai bine de ea decât de omul acela.",
+        "6": "Și de ar trăi chiar de două ori o mie de ani un astfel de om, fără să se bucure de fericire, nu merg toate la un loc?",
+        "7": "Toată truda omului este pentru gura lui, și totuși poftele nu i se împlinesc niciodată.",
+        "8": "Căci ce are înțeleptul mai mult decât nebunul? Ce folos are nenorocitul care știe să se poarte înaintea celor vii?",
+        "9": "Mai bine ce vezi cu ochii decât frământare de pofte neîmplinite: și aceasta este o deșertăciune și goană după vânt.",
+        "10": "Ce este omul se cunoaște după numele care i s-a dat demult: se știe că este din pământ și nu poate să se judece cu cel ce este mai tare decât el.",
+        "11": "Căci chiar dacă face multă vorbă, care doar înmulțește deșertăciunea, ce folos are omul din ea?",
+        "12": "Căci cine știe ce este bine pentru om în viață, în toate zilele vieții lui de viețuire deșartă, pe care le petrece ca o umbră? Și cine poate să spună omului ce va fi după el sub soare?"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Există un rău pe care l-am văzut sub soare, un mare rău pentru fiii oamenilor.",
+        "2": "Dumnezeu îi dă unui om bogăție, averi și glorie, așa încât nu-i lipsește nimic din ceea ce-și dorește, însă Dumnezeu nu-i dă dreptul să se bucure de ele, ci dă acest drept unui străin. Aceasta este o deșertăciune și un rău tulburător!",
+        "3": "Dacă unui om i s-ar naște o sută de copii și el ar trăi mulți ani, iar zilele anilor lui i s-ar înmulți, dar sufletul lui nu s-ar sătura de fericire și n-ar avea parte nici măcar de înmormântare, eu zic că îi este mai bine unui avorton, decât îi este lui.",
+        "4": "Căci aceasta vine în zadar și pleacă în întuneric, iar numele îi rămâne acoperit în întuneric.",
+        "5": "Deși n-a văzut și n-a cunoscut soarele, totuși, este mai multă liniște pentru aceasta, decât pentru celălalt,",
+        "6": "chiar dacă celălalt ar fi trăit de două ori o mie de ani, dar fără să fi văzut fericirea. Oare nu merg toate într-un singur loc?",
+        "7": "Toată munca omului este pentru a se hrăni; totuși, pofta lui rămâne neîmplinită.",
+        "8": "Căci ce avantaj are înțeleptul față de cel nesăbuit? Ce avantaj are săracul, știind cum să se poarte înaintea celor vii?",
+        "9": "Mai bine ce vezi cu ochii, decât să umbli după pofte. Dar și aceasta este deșertăciune și goană după vânt.",
+        "10": "Ceea ce există de mult timp și-a primit deja numele și ceea ce este un om se știe deja; el nu se poate judeca cu Cel Ce este mai tare decât el.",
+        "11": "Cu cât sunt mai numeroase cuvintele, cu atât este mai mare deșertăciunea! Și ce folos are omul din aceasta?",
+        "12": "Cine știe ce este bine cu adevărat pentru om în scurta lui viață, în zilele vieții lui deșarte, pe care le petrece ca o umbră? Cine îi poate spune omului ce va fi după el sub soare?"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "There is an evil which I have seen under the sun, and it is heavy on men:",
+        "2": "a man to whom God gives riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God gives him no power to eat of it, but an alien eats it. This is vanity, and it is an evil disease.",
+        "3": "If a man fathers a hundred children, and lives many years, so that the days of his years are many, but his soul is not filled with good, and moreover he has no burial, I say that a stillborn child is better than he;",
+        "4": "for it comes in vanity, and departs in darkness, and its name is covered with darkness.",
+        "5": "Moreover it has not seen the sun nor known it. This has rest rather than the other.",
+        "6": "Yes, though he live a thousand years twice told, and yet fails to enjoy good, don’t all go to one place?",
+        "7": "All the labor of man is for his mouth, and yet the appetite is not filled.",
+        "8": "For what advantage has the wise more than the fool? What has the poor man, that knows how to walk before the living?",
+        "9": "Better is the sight of the eyes than the wandering of the desire. This also is vanity and a chasing after wind.",
+        "10": "Whatever has been, its name was given long ago; and it is known what man is; neither can he contend with him who is mightier than he.",
+        "11": "For there are many words that create vanity. What does that profit man?",
+        "12": "For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell a man what will be after him under the sun?"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "book": "Psalmi",
+  "chapter": "133",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Iată ce plăcut și ce dulce este să locuiască frații împreună!",
+        "2": "Este ca untdelemnul de preț, care, turnat pe capul lui, se coboară pe barbă, pe barba lui Aaron, se coboară pe marginea veșmintelor lui.",
+        "3": "Este ca roua Hermonului, care se coboară pe munții Sionului, căci acolo dă Domnul binecuvântarea, viața, pentru veșnicie."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Iată ce bine și ce plăcut este când frații locuiesc împreună, în unitate!",
+        "2": "Este ca uleiul prețios pe creștetul capului, coborând pe barbă, pe barba lui Aaron, coborând pe marginea veșmintelor lui.",
+        "3": "Este ca roua Hermonului, care coboară pe munții Sionului, căci acolo a poruncit Domnul binecuvântarea, viața veșnică."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "See how good and how pleasant it is for brothers to live together in unity!",
+        "2": "It is like the precious oil on the head, that ran down on the beard, even Aaron’s beard, that came down on the edge of his robes,",
+        "3": "like the dew of Hermon, that comes down on the hills of Zion; for there Yahweh gives the blessing, even life forever more."
+      }
+    }
+  }
+}

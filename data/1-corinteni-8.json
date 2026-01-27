@@ -1,0 +1,60 @@
+{
+  "book": "1 Corinteni",
+  "chapter": "8",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "În ce privește lucrurile jertfite idolilor, știm că toți avem cunoștință. Dar cunoștința îngâmfă, pe când dragostea zidește.",
+        "2": "Dacă crede cineva că știe ceva, încă n-a cunoscut cum trebuie să cunoască.",
+        "3": "Dar dacă iubește cineva pe Dumnezeu, este cunoscut de Dumnezeu.",
+        "4": "Deci, cât despre mâncarea lucrurilor jertfite idolilor, știm că în lume un idol este tot una cu nimic și că nu este decât un singur Dumnezeu.",
+        "5": "Căci chiar dacă ar fi așa-numiții „dumnezei”, fie în cer, fie pe pământ (cum și sunt în adevăr mulți „dumnezei” și mulți „domni”),",
+        "6": "totuși, pentru noi, nu este decât un singur Dumnezeu: Tatăl, de la care vin toate lucrurile și pentru care trăim și noi, și un singur Domn: Isus Hristos, prin care sunt toate lucrurile și, prin El, și noi.",
+        "7": "Dar nu toți au cunoștința aceasta. Ci unii, fiind obișnuiți până acum cu idolul, mănâncă un lucru ca fiind jertfit unui idol; și cugetul lor, care este slab, este întinat.",
+        "8": "Dar nu carnea ne face pe noi plăcuți lui Dumnezeu: nu câștigăm nimic dacă mâncăm din ea și nu pierdem nimic dacă nu mâncăm.",
+        "9": "Luați seama însă ca nu cumva această slobozenie a voastră să ajungă o piatră de poticnire pentru cei slabi.",
+        "10": "Căci dacă te vede cineva pe tine, care ai cunoștință, că șezi la masă într-un templu de idoli, cugetul lui, care este slab, nu-l va împinge pe el să mănânce din lucrurile jertfite idolilor?",
+        "11": "Și astfel, el, care este slab, va pieri din pricina acestei cunoștințe a ta; el, fratele pentru care a murit Hristos!",
+        "12": "Dacă păcătuiți astfel împotriva fraților și le răniți cugetul lor slab, păcătuiți împotriva lui Hristos.",
+        "13": "De aceea, dacă o mâncare face pe fratele meu să păcătuiască, nu voi mânca niciodată carne, ca să nu fac pe fratele meu să păcătuiască."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cu privire la ceea ce este jertfit idolilor, știm că toți avem cunoștință. Însă cunoștința îngâmfă, pe când dragostea consolidează.",
+        "2": "Dacă cineva crede că știe ceva, încă n-a cunoscut cum trebuie să cunoască.",
+        "3": "Dacă însă cineva Îl iubește pe Dumnezeu, atunci acesta este cunoscut de către Dumnezeu.",
+        "4": "Așadar, cu privire la mâncarea jertfită idolilor, știm că, în lume, un idol este nimic și că nu există decât un singur Dumnezeu.",
+        "5": "Într-adevăr, chiar dacă există așa-numiți „dumnezei“ în cer sau pe pământ, așa cum există de fapt mulți „dumnezei“ și mulți „domni“,",
+        "6": "totuși, pentru noi există un singur Dumnezeu – Tatăl, din Care sunt toate și pentru Care suntem și noi – și un singur Domn: Isus Cristos, prin Care sunt toate și prin Care suntem și noi.",
+        "7": "Însă nu în toți este cunoștința aceasta. Unii, fiind până acum obișnuiți cu idolii, mănâncă ceva ca fiind jertfit unui idol și astfel conștiința lor, fiind slabă, este pângărită.",
+        "8": "Dar nu mâncarea ne va duce mai aproape de Dumnezeu. Nu pierdem nimic dacă nu mâncăm din ea, și nu câștigăm nimic dacă mâncăm.",
+        "9": "Fiți atenți, însă, ca nu cumva dreptul vostru să devină ceva care să-i facă pe cei slabi să cadă.",
+        "10": "Căci, dacă cineva te vede pe tine, care ai cunoștință, că mănânci în templul unui idol, oare conștiința lui slabă nu-l va încuraja să mănânce ceea ce este jertfit idolilor?",
+        "11": "Astfel, cel slab piere din cauza cunoștinței tale, el, fratele pentru care a murit Cristos!",
+        "12": "Când păcătuiți astfel împotriva fraților și le răniți conștiința lor slabă, păcătuiți împotriva lui Cristos.",
+        "13": "De aceea, dacă o mâncare îl face pe fratele meu să păcătuiască, atunci nu voi mânca în veci carne, ca să nu-l fac pe fratele meu să păcătuiască."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up.",
+        "2": "But if anyone thinks that he knows anything, he doesn’t yet know as he ought to know.",
+        "3": "But anyone who loves God is known by him.",
+        "4": "Therefore concerning the eating of things sacrificed to idols, we know that no idol is anything in the world, and that there is no other God but one.",
+        "5": "For though there are things that are called “gods”, whether in the heavens or on earth—as there are many “gods” and many “lords”—",
+        "6": "yet to us there is one God, the Father, of whom are all things, and we for him; and one Lord, Jesus Christ, through whom are all things, and we live through him.",
+        "7": "However, that knowledge isn’t in all men. But some, with consciousness of an idol until now, eat as of a thing sacrificed to an idol, and their conscience, being weak, is defiled.",
+        "8": "But food will not commend us to God. For neither, if we don’t eat are we the worse, nor if we eat are we the better.",
+        "9": "But be careful that by no means does this liberty of yours become a stumbling block to the weak.",
+        "10": "For if a man sees you who have knowledge sitting in an idol’s temple, won’t his conscience, if he is weak, be emboldened to eat things sacrificed to idols?",
+        "11": "And through your knowledge, he who is weak perishes, the brother for whose sake Christ died.",
+        "12": "Thus, sinning against the brothers, and wounding their conscience when it is weak, you sin against Christ.",
+        "13": "Therefore, if food causes my brother to stumble, I will eat no meat forever more, that I don’t cause my brother to stumble."
+      }
+    }
+  }
+}

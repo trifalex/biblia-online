@@ -1,0 +1,30 @@
+{
+  "book": "Psalmi",
+  "chapter": "131",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, eu n-am o inimă îngâmfată, nici priviri trufașe, nu mă îndeletnicesc cu lucruri prea mari și prea înalte pentru mine.",
+        "2": "Dimpotrivă, sufletul îmi este liniștit și potolit ca un copil înțărcat care stă lângă mama sa; da, sufletul meu este ca un copil înțărcat.",
+        "3": "Pune-ți nădejdea în Domnul, Israele, de acum și până în veac!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, inima mea nu este arogantă, iar privirea mea nu este mândră. Nu umblu după lucruri prea mari și prea mărețe pentru mine.",
+        "2": "Dimpotrivă, mi-am odihnit și mi-am liniștit sufletul, ca un copil înțărcat lângă mama lui; sufletul îmi este ca un copil înțărcat.",
+        "3": "Israel, pune-ți speranța în Domnul, de acum și pentru totdeauna!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, my heart isn’t arrogant, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me.",
+        "2": "Surely I have stilled and quieted my soul, like a weaned child with his mother, like a weaned child is my soul within me.",
+        "3": "Israel, hope in Yahweh, from this time forward and forever more."
+      }
+    }
+  }
+}

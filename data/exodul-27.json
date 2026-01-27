@@ -1,0 +1,84 @@
+{
+  "book": "Exodul",
+  "chapter": "27",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Altarul să-l faci din lemn de salcâm; lungimea lui să fie de cinci coți și lățimea lui, de cinci coți. Altarul să fie în patru colțuri și înălțimea lui să fie de cinci coți.",
+        "2": "În cele patru colțuri, să faci niște coarne care să fie dintr-o bucată cu altarul și să-l acoperi cu aramă.",
+        "3": "Să faci pentru altar oale de scos cenușa, lopeți, lighene, furculițe și tigăi pentru cărbuni; toate uneltele lui să le faci de aramă.",
+        "4": "Să faci altarului un grătar de aramă, în chip de rețea, și să pui patru verigi de aramă la cele patru colțuri ale rețelei.",
+        "5": "Grătarul să-l pui sub streașina altarului, începând de jos, așa că grătarul să vină până la jumătatea altarului.",
+        "6": "Să faci apoi niște drugi pentru altar, drugi de lemn de salcâm, și să-i acoperi cu aramă.",
+        "7": "Să vâri drugii în verigi, și drugii să fie de amândouă părțile altarului când îl vor purta.",
+        "8": "Să-l faci din scânduri și gol pe dinăuntru. Să fie făcut așa cum ți s-a arătat pe munte. Curtea cortului",
+        "9": "Curtea cortului s-o faci astfel. Înspre partea de miazăzi, pentru alcătuirea curții, să fie niște pânze de in subțire, răsucit, pe o lungime de o sută de coți pentru această primă latură,",
+        "10": "cu douăzeci de stâlpi, care să stea pe douăzeci de picioare de aramă; cârligele stâlpilor și bețele lor de legătură să fie de argint.",
+        "11": "Înspre partea de miazănoapte, să fie, de asemenea, niște pânze pe o lungime de o sută de coți, cu douăzeci de stâlpi și cu cele douăzeci de picioare ale lor de aramă; cârligele stâlpilor și bețele lor de legătură să fie de argint.",
+        "12": "Înspre partea de apus, să fie pentru lățimea curții niște pânze de cincizeci de coți, cu zece stâlpi și cele zece picioare ale lor.",
+        "13": "Înspre partea de răsărit, pe lângă cei cincizeci de coți pentru lățimea curții,",
+        "14": "să mai fie cincisprezece coți de pânză pentru o aripă, cu trei stâlpi și cele trei picioare ale lor,",
+        "15": "și cincisprezece coți de pânză pentru a doua aripă, cu trei stâlpi și cele trei picioare ale lor.",
+        "16": "Pentru poarta curții cortului, să fie o perdea lată de douăzeci de coți, albastră, purpurie și cârmâzie și de in subțire răsucit, lucrată la gherghef, cu patru stâlpi și cele patru picioare ale lor.",
+        "17": "Toți stâlpii curții de jur împrejur să aibă bețe de legătură de argint, cârlige de argint și picioare de aramă.",
+        "18": "Lungimea curții să fie de o sută de coți; lățimea, de cincizeci de coți de fiecare parte și înălțimea, de cinci coți; pânzele să fie de in subțire răsucit, iar picioarele să fie de aramă.",
+        "19": "Toate uneltele rânduite pentru slujba cortului, toți țărușii lui și toți țărușii curții să fie de aramă. Untdelemnul sfânt",
+        "20": "Să poruncești copiilor lui Israel să-ți aducă pentru sfeșnic untdelemn curat de măsline, fără drojdii, ca să ardă în candele necurmat.",
+        "21": "Aaron și fiii săi să-l pregătească în cortul întâlnirii, dincoace de perdeaua care este înaintea chivotului mărturiei, pentru ca să ardă de seara până dimineața înaintea Domnului. Aceasta este o lege veșnică pentru urmașii lor și pe care copiii lui Israel vor trebui s-o țină."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Să faci altarul din lemn de salcâm, lung de cinci coți și lat de cinci coți. Altarul să fie în formă de pătrat, iar înălțimea lui să fie de trei coți.",
+        "2": "La cele patru colțuri să-i faci niște coarne care să fie din aceeași bucată cu el, apoi să-l poleiești cu bronz.",
+        "3": "Să-i faci oale pentru cenușa îmbibată de grăsime, lopeți, vase, furculițe și fărașe pentru cărbuni. Toate uneltele lui să le faci din bronz.",
+        "4": "Să-i faci un grătar din bronz, ca o rețea, și pe el să torni patru inele de bronz, la cele patru colțuri ale sale.",
+        "5": "Să-l pui sub pervazul altarului, astfel încât grătarul să fie la jumătatea înălțimii altarului.",
+        "6": "Apoi să faci drugi pentru altar, drugi din lemn de salcâm pe care să-i poleiești cu bronz.",
+        "7": "Drugii să fie introduși prin inelele de pe laturile altarului, astfel încât acesta să poată fi dus.",
+        "8": "Altarul să fie făcut din scânduri, gol în interior, așa cum ți-a fost arătat pe munte.",
+        "9": "Curtea Tabernaculului s-o faci astfel: în partea de sud, pe o lungime de o sută de coți, să pui draperii din fir de in subțire răsucit.",
+        "10": "Cei douăzeci de stâlpi cu cele douăzeci de piedestale ale lor să fie din bronz, iar cârligele stâlpilor și legăturile lor să fie din argint.",
+        "11": "În partea de nord, pe o lungime de o sută de coți, să pui draperiile cu cei douăzeci de stâlpi ai lor și cele douăzeci de piedestale din bronz ale acestora; cârligele stâlpilor și legăturile lor să fie din argint.",
+        "12": "Pe lățimea curții, în partea de vest, să pui draperii pe o lungime de cincizeci de coți, cu cei zece stâlpi ai lor și cele zece piedestale ale acestora.",
+        "13": "În partea de est, lățimea curții să fie de cincizeci de coți.",
+        "14": "Draperiile pentru o parte a intrării să se întindă pe o lungime de cincisprezece coți, cu cei trei stâlpi ai lor și cele trei piedestale ale acestora.",
+        "15": "În cealaltă parte să fie puse draperii pe o lungime de cincisprezece coți, cu cei trei stâlpi ai lor și cele trei piedestale ale acestora.",
+        "16": "Pentru intrarea curții să fie o draperie lungă de douăzeci de coți, din fire de culoare albastră, purpurie și stacojie, din fir de in subțire răsucit, lucrată la gherghef, cu cei patru stâlpi ai ei și cele patru piedestale ale acestora.",
+        "17": "Toți stâlpii de jur împrejurul curții să aibă legăturile și cârligele din argint, iar piedestalele din bronz.",
+        "18": "Curtea să fie lungă de o sută de coți, lată de cincizeci de coți și înaltă de cinci coți, având draperii din fir de in subțire răsucit și piedestale din bronz.",
+        "19": "Toate uneltele folosite pentru întreaga slujbă de la Tabernacul, toți țărușii lui și toți țărușii curții să fie din bronz.",
+        "20": "Să poruncești fiilor lui Israel să-ți aducă pentru luminat ulei pur din măsline presate, ca să ardă în candele și, astfel, sfeșnicul să lumineze continuu.",
+        "21": "Aaron și fiii lui să-l pregătească în Cortul Întâlnirii, dincoace de draperia care este în fața Mărturiei, ca să ardă înaintea Domnului de seara până dimineața. Aceasta să fie o hotărâre veșnică pentru fiii lui Israel, de-a lungul generațiilor lor."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“You shall make the altar of acacia wood, five cubits long, and five cubits wide. The altar shall be square. Its height shall be three cubits.",
+        "2": "You shall make its horns on its four corners. Its horns shall be of one piece with it. You shall overlay it with bronze.",
+        "3": "You shall make its pots to take away its ashes; and its shovels, its basins, its meat hooks, and its fire pans. You shall make all its vessels of bronze.",
+        "4": "You shall make a grating for it of network of bronze. On the net you shall make four bronze rings in its four corners.",
+        "5": "You shall put it under the ledge around the altar beneath, that the net may reach halfway up the altar.",
+        "6": "You shall make poles for the altar, poles of acacia wood, and overlay them with bronze.",
+        "7": "Its poles shall be put into the rings, and the poles shall be on the two sides of the altar when carrying it.",
+        "8": "You shall make it hollow with planks. They shall make it as it has been shown you on the mountain.",
+        "9": "“You shall make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen one hundred cubits long for one side.",
+        "10": "Its pillars shall be twenty, and their sockets twenty, of bronze. The hooks of the pillars and their fillets shall be of silver.",
+        "11": "Likewise for the length of the north side, there shall be hangings one hundred cubits long, and its pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their fillets, of silver.",
+        "12": "For the width of the court on the west side shall be hangings of fifty cubits; their pillars ten, and their sockets ten.",
+        "13": "The width of the court on the east side eastward shall be fifty cubits.",
+        "14": "The hangings for the one side of the gate shall be fifteen cubits; their pillars three, and their sockets three.",
+        "15": "For the other side shall be hangings of fifteen cubits; their pillars three, and their sockets three.",
+        "16": "For the gate of the court shall be a screen of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer; their pillars four, and their sockets four.",
+        "17": "All the pillars of the court around shall be filleted with silver; their hooks of silver, and their sockets of bronze.",
+        "18": "The length of the court shall be one hundred cubits, and the width fifty throughout, and the height five cubits, of fine twined linen, and their sockets of bronze.",
+        "19": "All the instruments of the tabernacle in all its service, and all its pins, and all the pins of the court, shall be of bronze.",
+        "20": "“You shall command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually.",
+        "21": "In the Tent of Meeting, outside the veil which is before the covenant, Aaron and his sons shall keep it in order from evening to morning before Yahweh: it shall be a statute forever throughout their generations on the behalf of the children of Israel."
+      }
+    }
+  }
+}

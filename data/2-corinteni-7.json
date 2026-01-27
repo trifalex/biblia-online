@@ -1,0 +1,69 @@
+{
+  "book": "2 Corinteni",
+  "chapter": "7",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Deci, fiindcă avem astfel de făgăduințe, preaiubiților, să ne curățim de orice întinăciune a cărnii și a duhului și să ne ducem sfințirea până la capăt, în frica de Dumnezeu. Bucuria lui Pavel",
+        "2": "Înțelegeți-ne bine! N-am nedreptățit pe nimeni, n-am vătămat pe nimeni, n-am înșelat pe nimeni.",
+        "3": "Nu spun aceste lucruri ca să vă osândesc, căci am spus mai înainte că sunteți în inimile noastre pe viață și pe moarte.",
+        "4": "Am o mare încredere în voi. Am tot dreptul să mă laud cu voi. Sunt plin de mângâiere, îmi saltă inima de bucurie în toate necazurile noastre.",
+        "5": "Căci și după venirea noastră în Macedonia, trupul nostru n-a avut nicio odihnă. Am fost necăjiți în toate chipurile: de afară lupte, dinăuntru temeri.",
+        "6": "Dar Dumnezeu, care mângâie pe cei smeriți, ne-a mângâiat prin venirea lui Tit.",
+        "7": "Și nu numai prin venirea lui, ci și prin mângâierea cu care a fost mângâiat și el de voi. El ne-a istorisit despre dorința voastră arzătoare, despre lacrimile voastre, despre râvna voastră pentru mine, așa că bucuria mea a fost și mai mare.",
+        "8": "Măcar că v-am întristat prin epistola mea, nu-mi pare rău și chiar dacă mi-ar fi părut rău – căci văd că epistola aceea v-a întristat (măcar că pentru puțină vreme) –",
+        "9": "totuși acum mă bucur, nu pentru că ați fost întristați, ci pentru că întristarea voastră v-a adus la pocăință. Căci ați fost întristați după voia lui Dumnezeu, ca să n-aveți nicio pagubă din partea noastră.",
+        "10": "În adevăr, când întristarea este după voia lui Dumnezeu, aduce o pocăință care duce la mântuire și de care cineva nu se căiește niciodată, pe când întristarea lumii aduce moartea.",
+        "11": "Căci uite, tocmai întristarea aceasta a voastră după voia lui Dumnezeu ce frământare a trezit în voi! Și ce cuvinte de dezvinovățire! Ce mânie! Ce frică! Ce dorință aprinsă! Ce râvnă! Ce pedeapsă! În toate voi ați arătat că sunteți curați în privința aceasta.",
+        "12": "Așa că, dacă v-am scris, nu v-am scris nici din pricina celui ce a făcut ocara, nici din pricina celui ce a suferit ocara, ci ca să se arate marea noastră purtare de grijă pentru voi înaintea lui Dumnezeu.",
+        "13": "De aceea am fost mângâiați. Dar, pe lângă mângâierea aceasta a noastră, ne-am bucurat și mai mult de bucuria lui Tit, al cărui duh a fost răcorit de voi toți.",
+        "14": "Și dacă m-am lăudat puțin cu voi înaintea lui, n-am fost dat de rușine. Ci, după cum în orice lucru v-am spus adevărul, tot așa și lauda noastră cu voi înaintea lui Tit s-a adeverit.",
+        "15": "El are o și mai mare dragoste pentru voi, când își aduce aminte de ascultarea voastră a tuturor și de primirea pe care i-ați făcut-o, cu frică și cutremur.",
+        "16": "Mă bucur că mă pot încrede în voi în toate privințele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Preaiubiților, întrucât avem aceste promisiuni, să ne curățim de orice poate întina trupul și duhul și să ne ducem astfel sfințenia până la capăt în frică de Dumnezeu. Bucuria lui Pavel",
+        "2": "Faceți-ne loc în inima voastră! N-am făcut rău nimănui, n-am ruinat pe nimeni, n-am profitat de nimeni.",
+        "3": "Nu spun aceasta ca să vă condamn, căci am spus mai înainte că sunteți în inimile noastre, atât ca să murim împreună, cât și să trăim împreună.",
+        "4": "Mare este îndrăzneala mea față de voi! Mare este lauda mea cu voi! Sunt plin de încurajare, sunt copleșit de bucurie în orice necaz al nostru.",
+        "5": "Căci și după ce am venit în Macedonia, trupurile noastre n-au avut odihnă, ci am fost în necaz în toate: conflicte din afară, temeri din interior.",
+        "6": "Însă Dumnezeu, Care-i încurajează pe cei descurajați, ne-a încurajat prin venirea lui Titus,",
+        "7": "și nu doar prin venirea sa, ci și prin încurajarea cu care el a fost încurajat de voi, înștiințându-ne despre dorința voastră puternică, despre durerea voastră adâncă și despre zelul vostru pentru mine. Astfel, m-am bucurat și mai mult.",
+        "8": "Chiar dacă v-am întristat prin scrisoarea mea, nu regret. Și chiar dacă am regretat, căci văd că scrisoarea mea v-a întristat, deși numai pentru puțin timp,",
+        "9": "totuși, acum mă bucur, nu pentru că ați fost întristați, ci pentru că ați fost întristați spre pocăință. Căci ați fost întristați după voia lui Dumnezeu, ca nimeni să nu sufere nicio pierdere din cauza noastră.",
+        "10": "Căci întristarea după voia lui Dumnezeu produce o pocăință care duce la mântuire, fără regret, dar întristarea lumii produce moarte.",
+        "11": "Căci iată ce devotament a produs în voi această întristare după voia lui Dumnezeu, ce apărare, ce indignare, ce teamă, ce dorință, ce zel, ce dorință de dreptate! În toate ați dovedit că sunteți curați în această privință.",
+        "12": "Astfel, deși v-am scris, n-am făcut-o din cauza celui ce a făcut răul, nici din cauza celui ce a suferit răul, ci ca să vedeți voi înșivă, înaintea lui Dumnezeu, devotamentul pe care-l aveți față de noi.",
+        "13": "În felul acesta am fost încurajați. Dar, pe lângă încurajarea aceasta a noastră, ne-am bucurat și mai mult de bucuria lui Titus, pentru că duhul lui a fost înviorat de voi toți.",
+        "14": "Căci, dacă m-am lăudat înaintea lui cu ceva despre voi, nu am fost făcut de rușine, ci, așa cum tot ce v-am spus a fost adevărat, tot astfel și lauda noastră cu voi înaintea lui Titus s-a dovedit adevărată.",
+        "15": "Astfel, simțămintele lui față de voi sunt și mai puternice când își amintește de ascultarea voastră, a tuturor, de felul cum l-ați primit cu respect și cu mari emoții.",
+        "16": "Mă bucur că pot avea deplină încredere în voi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Having therefore these promises, beloved, let’s cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God.",
+        "2": "Open your hearts to us. We wronged no one. We corrupted no one. We took advantage of no one.",
+        "3": "I say this not to condemn you, for I have said before that you are in our hearts to die together and live together.",
+        "4": "Great is my boldness of speech toward you. Great is my boasting on your behalf. I am filled with comfort. I overflow with joy in all our affliction.",
+        "5": "For even when we had come into Macedonia, our flesh had no relief, but we were afflicted on every side. Fightings were outside. Fear was inside.",
+        "6": "Nevertheless, he who comforts the lowly, God, comforted us by the coming of Titus,",
+        "7": "and not by his coming only, but also by the comfort with which he was comforted in you while he told us of your longing, your mourning, and your zeal for me, so that I rejoiced still more.",
+        "8": "For though I grieved you with my letter, I do not regret it, though I did regret it. For I see that my letter made you grieve, though just for a while.",
+        "9": "I now rejoice, not that you were grieved, but that you were grieved to repentance. For you were grieved in a godly way, that you might suffer loss by us in nothing.",
+        "10": "For godly sorrow produces repentance leading to salvation, which brings no regret. But the sorrow of the world produces death.",
+        "11": "For behold, this same thing, that you were grieved in a godly way, what earnest care it worked in you. Yes, what defense, indignation, fear, longing, zeal, and vindication! In everything you demonstrated yourselves to be pure in the matter.",
+        "12": "So although I wrote to you, I wrote not for his cause that did the wrong, nor for his cause that suffered the wrong, but that your earnest care for us might be revealed in you in the sight of God.",
+        "13": "Therefore we have been comforted. In our comfort we rejoiced the more exceedingly for the joy of Titus, because his spirit has been refreshed by you all.",
+        "14": "For if in anything I have boasted to him on your behalf, I was not disappointed. But as we spoke all things to you in truth, so our glorying also which I made before Titus was found to be truth.",
+        "15": "His affection is more abundantly toward you, while he remembers all of your obedience, how with fear and trembling you received him.",
+        "16": "I rejoice that in everything I am confident concerning you."
+      }
+    }
+  }
+}

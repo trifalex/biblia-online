@@ -1,0 +1,48 @@
+{
+  "book": "Iosua",
+  "chapter": "20",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul a vorbit lui Iosua și a zis:",
+        "2": "„Vorbește copiilor lui Israel și spune-le: ‘Hotărâți-vă, cum v-am poruncit prin Moise, cetăți de scăpare,",
+        "3": "unde să poată fugi ucigașul care va omorî pe cineva fără voie, fără să aibă vreun gând să-l omoare; ele să vă fie un loc de scăpare împotriva răzbunătorului sângelui.",
+        "4": "Ucigașul să fugă într-una din aceste cetăți, să se oprească la intrarea porții cetății și să spună întâmplarea lui bătrânilor cetății aceleia; ei să-l primească la ei în cetate și să-i dea o locuință, ca să locuiască împreună cu ei.",
+        "5": "Dacă răzbunătorul sângelui îl va urmări, ei să nu dea pe ucigaș în mâinile lui, căci fără să vrea a omorât pe aproapele lui și fără să-i fi fost vrăjmaș mai înainte.",
+        "6": "El să rămână în cetatea aceasta până se va înfățișa înaintea adunării ca să fie judecat, până la moartea marelui preot care va fi atunci în slujbă. Atunci, ucigașul să se întoarcă și să intre iarăși în cetatea și în casa lui, în cetatea de unde fugise.’”",
+        "7": "Ei au pus deoparte Chedeșul în Galileea, în muntele lui Neftali, Sihemul în muntele lui Efraim și Chiriat-Arba, sau Hebronul, în muntele lui Iuda.",
+        "8": "Și de cealaltă parte a Iordanului, la răsăritul Ierihonului, a ales Bețerul, în pustie, în câmpie, în seminția lui Ruben, Ramotul în Galaad, în seminția lui Gad, și Golanul în Basan, în seminția lui Manase.",
+        "9": "Acestea au fost cetățile hotărâte pentru toți copiii lui Israel și pentru străinul care locuiește în mijlocul lor, pentru ca cel ce va ucide pe cineva fără voie să poată fugi în ele și să nu moară ucis de mâna răzbunătorului sângelui înainte de a se înfățișa înaintea adunării."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Atunci Domnul i-a vorbit lui Iosua, zicând:",
+        "2": "„Vorbește-le fiilor lui Israel și spune-le: «Alegeți-vă cetățile de refugiu despre care v-am vorbit prin Moise.",
+        "3": "Ele vor fi un loc de refugiu pentru ucigașul care va omorî fără voie o persoană (adică din greșeală) și care va vrea să scape de răzbunătorul sângelui.",
+        "4": "Când se va refugia într-una dintre aceste cetăți, să se oprească la intrarea porții cetății și să vorbească despre situația sa în auzul bătrânilor acelei cetăți. Ei să-l primească în cetate și să-i dea un loc ca să locuiască împreună cu ei.",
+        "5": "Dacă răzbunătorul sângelui îl va urmări, ei să nu-l dea pe ucigaș în mâinile lui, deoarece l-a ucis fără voie pe semenul său, fără să-l fi urât mai dinainte.",
+        "6": "Ucigașul să rămână în cetatea aceea până se va înfățișa înaintea comunității ca să fie judecat și până la moartea marelui preot care va fi în slujbă în acea perioadă. Numai atunci se va putea întoarce din cetatea în care fugise în cetatea și în casa lui»“.",
+        "7": "Ei au pus deoparte Kedeșul, în Galileea, în muntele lui Neftali, Șechemul, în muntele lui Efraim și Chiriat-Arba (Hebron), în muntele lui Iuda.",
+        "8": "Iar de cealaltă parte a Iordanului, la est de Ierihon, au ales Bețerul, în deșert, în podișul seminției lui Ruben, Ramotul, în Ghilad, pe teritoriul seminției lui Gad, și Golanul, în Bașan, pe teritoriul seminției lui Manase.",
+        "9": "Acestea erau cetățile alese pentru toți fiii lui Israel și pentru străinii care locuiau în mijlocul lor, pentru ca orice ucigaș, care omora fără voie o persoană, să poată fugi acolo și să nu fie omorât de răzbunătorul sângelui înainte de a se înfățișa în fața comunității."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh spoke to Joshua, saying,",
+        "2": "“Speak to the children of Israel, saying, ‘Assign the cities of refuge, of which I spoke to you by Moses,",
+        "3": "that the man slayer who kills any person accidentally or unintentionally may flee there. They shall be to you for a refuge from the avenger of blood.",
+        "4": "He shall flee to one of those cities, and shall stand at the entrance of the gate of the city, and declare his case in the ears of the elders of that city. They shall take him into the city with them, and give him a place, that he may live among them.",
+        "5": "If the avenger of blood pursues him, then they shall not deliver up the man slayer into his hand; because he struck his neighbor unintentionally, and didn’t hate him before.",
+        "6": "He shall dwell in that city until he stands before the congregation for judgment, until the death of the high priest that shall be in those days. Then the man slayer shall return, and come to his own city, and to his own house, to the city he fled from.’”",
+        "7": "They set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (also called Hebron) in the hill country of Judah.",
+        "8": "Beyond the Jordan at Jericho eastward, they assigned Bezer in the wilderness in the plain out of the tribe of Reuben, Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.",
+        "9": "These were the appointed cities for all the children of Israel, and for the alien who lives among them, that whoever kills any person unintentionally might flee there, and not die by the hand of the avenger of blood, until he stands trial before the congregation."
+      }
+    }
+  }
+}

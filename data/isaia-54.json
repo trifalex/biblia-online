@@ -1,0 +1,72 @@
+{
+    "book": "Isaia",
+    "chapter": "54",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "„Bucură-te, stearpo, care nu mai naști! Izbucnește în strigăte de bucurie și veselie, tu, care nu mai ai durerile nașterii! Căci fiii celei lăsate de bărbat vor fi mai mulți decât fiii celei măritate”, zice Domnul.",
+                "2": "„Lărgește locul cortului tău și întinde învelitoarele locuinței tale! Nu te opri! Lungește-ți funiile și întărește-ți țărușii!",
+                "3": "Căci te vei întinde la dreapta și la stânga, sămânța ta va cotropi neamurile și va locui cetățile pustii.",
+                "4": "Nu te teme, căci nu vei rămâne de rușine; nu roși, căci nu vei fi acoperită de rușine, ci vei uita și rușinea tinereții tale și nu-ți vei mai aduce aminte de văduvia ta,",
+                "5": "căci Făcătorul tău este bărbatul tău: Domnul este Numele Lui, și Răscumpărătorul tău este Sfântul lui Israel. El Se numește Dumnezeul întregului pământ,",
+                "6": "căci Domnul te cheamă înapoi ca pe o femeie părăsită și cu inima întristată, ca pe o nevastă din tinerețe care a fost izgonită”, zice Dumnezeul tău.",
+                "7": "„Câteva clipe te părăsisem, dar te voi primi înapoi cu mare dragoste.",
+                "8": "Într-o izbucnire de mânie, Îmi ascunsesem o clipă Fața de tine, dar Mă voi îndura de tine cu o dragoste veșnică”, zice Domnul, Răscumpărătorul tău.",
+                "9": "„Și lucrul acesta va fi pentru Mine ca și cu apele lui Noe: după cum jurasem că apele lui Noe nu vor mai veni pe pământ, tot așa jur că nu Mă voi mai mânia pe tine și nu te voi mai mustra.",
+                "10": "Pot să se mute munții, pot să se clatine dealurile, dar dragostea Mea nu se va muta de la tine și legământul Meu de pace nu se va clătina”, zice Domnul, care are milă de tine.",
+                "11": "„Nenorocito, bătuto de furtună și nemângâiato! Iată, îți voi împodobi pietrele scumpe cu antimoniu și-ți voi da temelii de safir.",
+                "12": "Îți voi face crestele zidurilor de rubin, porțile de pietre scumpe și tot ocolul de nestemate.",
+                "13": "Toți fiii tăi vor fi ucenici ai Domnului și mare va fi propășirea fiilor tăi.",
+                "14": "Vei fi întărită prin neprihănire. Izgonește neliniștea, căci n-ai nimic de temut, și spaima, căci nu se va apropia de tine.",
+                "15": "Dacă se urzesc uneltiri, nu vin de la Mine; oricine se va uni împotriva ta va cădea sub puterea ta.",
+                "16": "Iată, Eu am făcut pe meșterul care suflă cărbunii în foc și face o armă după meșteșugul lui. Dar tot Eu am făcut și pe nimicitor ca s-o sfărâme.",
+                "17": "Orice armă făurită împotriva ta va fi fără putere și, pe orice limbă care se va ridica la judecată împotriva ta, o vei osândi. Aceasta este moștenirea robilor Domnului, așa este mântuirea care le vine de la Mine”, zice Domnul."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "„Să se bucure cea care nu poate rămâne însărcinată; ea nu naște! Să tresalte și să strige de bucurie; ea nu este în durerile nașterii! decât fiii celei măritate“, zice Domnul.",
+                "2": "„Lărgește locul cortului tău și întinde pânzele locuințelor tale! Nu te opri! și consolidează-ți țărușii!",
+                "3": "Căci te vei întinde la dreapta și la stânga, și vor face să fie locuite cetățile pustiite.",
+                "4": "Să nu-ți fie frică, căci nu vei fi făcută de rușine! Să nu te temi, căci nu vei fi umilită! și nu-ți vei mai aminti de disprețul văduviei tale.",
+                "5": "Căci Creatorul tău îți este soț – Domnul Oștirilor este Numele Său – și Răscumpărătorul tău este Sfântul lui Israel. El este numit Dumnezeul întregului pământ.",
+                "6": "Ca pe o soție părăsită și cu duhul îndurerat, așa te-a chemat Domnul, ca pe o soție respinsă în tinerețe, zice Dumnezeul tău.",
+                "7": "Pentru o clipă te-am părăsit, și te voi aduce înapoi.",
+                "8": "Într-o izbucnire de mânie Mi-am ascuns fața de tine pentru o clipă, dar Mă voi îndura de tine cu o dragoste veșnică“, zice Domnul, Răscumpărătorul tău.",
+                "9": "„Pentru Mine, aceasta va fi ca în zilele lui Noe, nu vor mai inunda pământul. și nu te voi mai mustra.",
+                "10": "Pot să se mute munții și să se clatine dealurile, nu se va clătina“, zice Domnul, Cel Ce Se îndură de tine.",
+                "11": "„Tu, cea sărmană, bătută de furtună și nemângâiată! Iată, îți voi reclădi pietrele în antimoniu și-ți voi pune temelii de safir.",
+                "12": "Îți voi face meterezele din rubin, și toate granițele din pietre scumpe.",
+                "13": "Toți fiii tăi vor fi învățați de Domnul și mare va fi pacea fiilor tăi.",
+                "14": "Vei fi întemeiată în dreptate, departe de tiranie, căci nu vei avea de ce să te temi, departe de teroare, căci aceasta nu se va mai apropia de tine.",
+                "15": "Iată, cel ce va îndrăzni să atace nu va fi trimis de Mine; va capitula în fața ta.",
+                "16": "Iată, Eu l-am creat pe fierarul și prelucrează o armă potrivită pentru scopul ei. Eu l-am creat și pe distrugător ca să devasteze.",
+                "17": "Orice armă pregătită împotriva ta va da greș și pe orice limbă care se ridică să te judece o vei condamna. și dreptatea lor din partea Mea“, zice Domnul."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "“Sing, barren, you who didn’t give birth! Break out into singing, and cry aloud, you who didn’t travail with child! For more are the children of the desolate than the children of the married wife,” says Yahweh.",
+                "2": "“Enlarge the place of your tent, and let them stretch out the curtains of your habitations; don’t spare; lengthen your cords, and strengthen your stakes.",
+                "3": "For you will spread out on the right hand and on the left; and settle in desolate cities.",
+                "4": "“Don’t be afraid, for you will not be ashamed. Don’t be confounded, for you will not be disappointed. For you will forget the shame of your youth. You will remember the reproach of your widowhood no more.",
+                "5": "For your Maker is your husband; Yahweh of Armies is his name. The Holy One of Israel is your Redeemer. He will be called the God of the whole earth.",
+                "6": "For Yahweh has called you as a wife forsaken and grieved in spirit, even a wife of youth, when she is cast off,” says your God.",
+                "7": "“For a small moment I have forsaken you, but I will gather you with great mercies.",
+                "8": "In overflowing wrath I hid my face from you for a moment, but with everlasting loving kindness I will have mercy on you,” says Yahweh your Redeemer.",
+                "9": "“For this is like the waters of Noah to me; for as I have sworn that the waters of Noah will no more go over the earth, so I have sworn that I will not be angry with you, nor rebuke you.",
+                "10": "For the mountains may depart, and the hills be removed, but my loving kindness will not depart from you, and my covenant of peace will not be removed,” says Yahweh who has mercy on you.",
+                "11": "“You afflicted, tossed with storms, and not comforted, behold, I will set your stones in beautiful colors, and lay your foundations with sapphires.",
+                "12": "I will make your pinnacles of rubies, your gates of sparkling jewels, and all your walls of precious stones.",
+                "13": "All your children will be taught by Yahweh, and your children’s peace will be great.",
+                "14": "You will be established in righteousness. You will be far from oppression, for you will not be afraid, and far from terror, for it shall not come near you.",
+                "15": "Behold, they may gather together, but not by me. Whoever gathers together against you will fall because of you.",
+                "16": "“Behold, I have created the blacksmith who fans the coals into flame, and forges a weapon for his work; and I have created the destroyer to destroy.",
+                "17": "No weapon that is formed against you will prevail; and you will condemn every tongue that rises against you in judgment. This is the heritage of Yahweh’s servants, and their righteousness is of me,” says Yahweh."
+            }
+        }
+    }
+}

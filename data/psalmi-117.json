@@ -1,0 +1,27 @@
+{
+  "book": "Psalmi",
+  "chapter": "117",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul, toate neamurile, lăudați-L, toate popoarele!",
+        "2": "Căci mare este bunătatea Lui față de noi și credincioșia Lui ține în veci. Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul, toate națiunile! Să-I aducă laude, toate popoarele!",
+        "2": "Căci măreață Îi este îndurarea față de noi, și credincioșia Domnului este veșnică. Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yahweh, all you nations! Extol him, all you peoples!",
+        "2": "For his loving kindness is great toward us. Yahweh’s faithfulness endures forever. Praise Yah!"
+      }
+    }
+  }
+}

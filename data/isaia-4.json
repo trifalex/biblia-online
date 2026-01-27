@@ -1,0 +1,39 @@
+{
+    "book": "Isaia",
+    "chapter": "4",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Șapte femei vor apuca în ziua aceea un singur bărbat și vor zice: „Vom mânca pâinea noastră însene și ne vom îmbrăca în hainele noastre însene; numai fă-ne să-ți purtăm numele și ia ocara de peste noi!”",
+                "2": "În vremea aceea, odrasla Domnului va fi plină de măreție și slavă și rodul țării va fi plin de strălucire și frumusețe pentru cei mântuiți ai lui Israel.",
+                "3": "Și cel rămas în Sion, cel lăsat în Ierusalim, se va numi „sfânt”, oricine va fi scris printre cei vii, la Ierusalim.",
+                "4": "După ce va spăla Domnul murdăriile fiicelor Sionului și va curăți Ierusalimul de vinovăția de sânge din mijlocul lui, cu duhul judecății și cu duhul nimicirii,",
+                "5": "Domnul va așeza, peste toată întinderea muntelui Sionului și peste locurile lui de adunare, un nor de fum ziua și un foc de flăcări strălucitoare noaptea. Da, peste toată slava va fi un adăpost,",
+                "6": "o colibă, ca umbrar împotriva căldurii zilei și ca loc de adăpost și de ocrotire împotriva furtunii și ploii."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "În ziua aceea, șapte femei vor pune mâna pe un bărbat, zicând: „Ne vom mânca propria pâine și ne vom purta propriile haine, numai lasă-ne să-ți purtăm numele! Îndepărtează de la noi disprețul!“.",
+                "2": "În ziua aceea, Vlăstarul Domnului va fi frumos și glorios, iar rodul țării va fi măreția și onoarea supraviețuitorilor lui Israel.",
+                "3": "Oricine este lăsat în Sion și rămâne în Ierusalim, toți cei înscriși ca fiind vii în Ierusalim, vor fi numiți sfinți.",
+                "4": "Odată ce Stăpânul va spăla murdăria fetelor Sionului și va curăța petele de sânge din Ierusalim, printr-un duh de judecată și unul de foc,",
+                "5": "Domnul va crea, peste întreg muntele Sion și peste cei ce se adună acolo, un nor de fum ziua și un foc de flăcări strălucitoare noaptea. Da, peste toată gloria va fi un baldachin;",
+                "6": "va fi o colibă și o umbră în arșița zilei, un adăpost și un loc ascuns de furtună și de ploaie."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Seven women shall take hold of one man in that day, saying, “We will eat our own bread, and wear our own clothing. Just let us be called by your name. Take away our reproach.”",
+                "2": "In that day, Yahweh’s branch will be beautiful and glorious, and the fruit of the land will be the beauty and glory of the survivors of Israel.",
+                "3": "It will happen that he who is left in Zion and he who remains in Jerusalem shall be called holy, even everyone who is written among the living in Jerusalem,",
+                "4": "when the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from within it, by the spirit of justice and by the spirit of burning.",
+                "5": "Yahweh will create over the whole habitation of Mount Zion and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night, for over all the glory will be a canopy.",
+                "6": "There will be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain."
+            }
+        }
+    }
+}

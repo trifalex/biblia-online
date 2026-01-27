@@ -1,0 +1,63 @@
+{
+  "book": "Osea",
+  "chapter": "12",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lui Efraim îi place vântul și aleargă după vântul de răsărit; zilnic mărește minciuna și înșelătoria; face legământ cu Asiria și duce untdelemn în Egipt.",
+        "2": "Domnul este în ceartă și cu Iuda și va pedepsi pe Iacov după purtarea lui; îi va răsplăti după faptele lui.",
+        "3": "Încă din pântecele mamei a apucat Iacov pe frate-său de călcâi și, în puterea lui, s-a luptat cu Dumnezeu.",
+        "4": "S-a luptat cu îngerul și a fost biruitor, a plâns și s-a rugat de el. Iacov l-a întâlnit la Betel și acolo ne-a vorbit Dumnezeu.",
+        "5": "Domnul este Dumnezeul oștirilor; Numele Lui este Domnul.",
+        "6": "Tu dar întoarce-te la Dumnezeul tău, păstrează bunătatea și iubirea și nădăjduiește totdeauna în Dumnezeul tău.",
+        "7": "Efraim este un negustor care are în mână o cumpănă mincinoasă. Îi place să înșele.",
+        "8": "Și Efraim zice: ‘Cu adevărat, m-am îmbogățit, am făcut avere și, în toată munca mea, nu mi s-ar putea găsi nicio nelegiuire care să fie un păcat.’",
+        "9": "Și totuși Eu sunt Domnul Dumnezeul tău, din țara Egiptului și până acum; Eu te voi face să locuiești iarăși în corturi ca în zilele de sărbătoare!",
+        "10": "Eu am vorbit prorocilor, am dat o mulțime de vedenii și am spus pilde prin proroci.”",
+        "11": "Dacă Galaadul s-a dedat la slujba idolilor, galaadiții vor fi nimiciți negreșit. Ei jertfesc boi în Ghilgal, de aceea altarele lor vor ajunge niște mormane de pietre pe brazdele câmpiilor.",
+        "12": "Iacov a fugit odinioară în câmpia Aram, Israel a slujit pentru o femeie și pentru o femeie a păzit turmele.",
+        "13": "Dar printr-un proroc a scos Domnul pe Israel din Egipt și printr-un proroc a fost păzit Israel.",
+        "14": "Efraim a mâniat rău pe Domnul, dar Domnul său va arunca asupra lui sângele pe care l-a vărsat și-i va răsplăti ocara pe care I-a făcut-o."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Efraim se hrănește cu vânt; toată ziua aleargă după vântul de est și înmulțește minciuna și violența. El a încheiat legământ cu Asiria și a dus uleiul în Egipt.",
+        "2": "Domnul are o acuză de adus lui Iuda; El îl va pedepsi pe Iacov după căile lui și îi va răsplăti după faptele lui.",
+        "3": "Încă din pântec el l-a apucat pe fratele său de călcâi, iar când a fost în putere s-a luptat cu Dumnezeu.",
+        "4": "S-a luptat cu Îngerul și a învins; a plâns și a căutat bunăvoință la El. El L-a găsit la Betel, iar acolo Dumnezeu a vorbit cu noi.",
+        "5": "Domnul este Dumnezeul Oștirilor; Numele prin care să fie amintit este Domnul.",
+        "6": "Tu, deci, întoarce-te la Dumnezeul tău, păstrează îndurarea și dreptatea și pune-ți tot timpul speranța în Dumnezeul tău.",
+        "7": "Efraim este un negustor care are în mână talere înșelătoare; îi place să jecmănească.",
+        "8": "Efraim zice: „M-am îmbogățit într-adevăr! Am făcut avere! În toate câștigurile mele, nu mi-ar putea găsi vreo nelegiuire care să fie păcat!“.",
+        "9": "„Eu sunt Domnul Dumnezeul tău, din țara Egiptului. Te voi face să locuiești iarăși în corturi, ca în zilele de sărbătoare.",
+        "10": "Eu le-am vorbit profeților; Eu am înmulțit vedeniile și am vorbit în pilde prin profeți“.",
+        "11": "Este Ghiladul nelegiuit? Cu siguranță va ajunge un nimic! Ei jertfesc boi la Ghilgal; de aceea altarele lor vor ajunge mormane de pietre pe brazdele câmpului.",
+        "12": "Iacov a fugit în țara Aramului. Israel a slujit pentru o soție; pentru o soție a păzit el oile.",
+        "13": "Domnul l-a scos pe Israel din Egipt printr-un profet; printr-un profet a fost el păzit.",
+        "14": "Amarnic L-a mai mâniat Efraim pe Dumnezeu! Dar Stăpânul său va lăsa asupra lui vina sângelui vărsat și va întoarce împotriva lui disprețul său."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Ephraim feeds on wind, and chases the east wind. He continually multiplies lies and desolation. They make a covenant with Assyria, and oil is carried into Egypt.",
+        "2": "Yahweh also has a controversy with Judah, and will punish Jacob according to his ways; according to his deeds he will repay him.",
+        "3": "In the womb he took his brother by the heel, and in his manhood he contended with God.",
+        "4": "Indeed, he struggled with the angel, and prevailed; he wept, and made supplication to him. He found him at Bethel, and there he spoke with us—",
+        "5": "even Yahweh, the God of Armies. Yahweh is his name of renown!",
+        "6": "Therefore turn to your God. Keep kindness and justice, and wait continually for your God.",
+        "7": "A merchant has dishonest scales in his hand. He loves to defraud.",
+        "8": "Ephraim said, “Surely I have become rich. I have found myself wealth. In all my wealth they won’t find in me any iniquity that is sin.”",
+        "9": "“But I am Yahweh your God from the land of Egypt. I will yet again make you dwell in tents, as in the days of the solemn feast.",
+        "10": "I have also spoken to the prophets, and I have multiplied visions; and by the ministry of the prophets I have used parables.",
+        "11": "If Gilead is wicked, surely they are worthless. In Gilgal they sacrifice bulls. Indeed, their altars are like heaps in the furrows of the field.",
+        "12": "Jacob fled into the country of Aram. Israel served to get a wife. For a wife he tended flocks and herds.",
+        "13": "By a prophet Yahweh brought Israel up out of Egypt, and by a prophet he was preserved.",
+        "14": "Ephraim has bitterly provoked anger. Therefore his blood will be left on him, and his Lord will repay his contempt."
+      }
+    }
+  }
+}

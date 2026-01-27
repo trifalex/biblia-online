@@ -1,0 +1,81 @@
+{
+  "book": "Mica",
+  "chapter": "7",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Vai de mine! Căci parcă sunt la strângerea poamelor și la strângerea bobițelor după culesul strugurilor: nu mai este niciun strugure de mâncare, nici cea dintâi smochină, dorită de sufletul meu!",
+        "2": "S-a dus omul de bine din țară și nu mai este niciun om cinstit printre oameni; toți stau la pândă ca să verse sânge, fiecare întinde o cursă fratelui său.",
+        "3": "Mâinile lor sunt îndreptate să facă rău: cârmuitorul cere daruri, judecătorul cere plată, cel mare își arată pe față ce dorește cu lăcomie, și astfel merg mână-n mână.",
+        "4": "Cel mai bun dintre ei este ca un mărăcine, cel mai cinstit este mai rău decât un tufiș de spini. Ziua vestită de toți prorocii Tăi, pedeapsa Ta, se apropie! Atunci va fi uluiala lor.",
+        "5": "Nu crede pe un prieten, nu te încrede în ruda cea mai de aproape; păzește-ți ușa gurii de cea care îți stă în brațe!",
+        "6": "Căci fiul batjocorește pe tatăl, fata se scoală împotriva mamei ei, nora împotriva soacrei sale; vrăjmașii omului sunt cei din casa lui!",
+        "7": "Eu însă voi privi spre Domnul, îmi voi pune nădejdea în Dumnezeul mântuirii mele, Dumnezeul meu mă va asculta.",
+        "8": "Nu te bucura de mine, vrăjmașă, căci, chiar dacă am căzut, mă voi scula iarăși; chiar dacă stau în întuneric, totuși Domnul este Lumina mea!",
+        "9": "Voi suferi mânia Domnului – căci am păcătuit împotriva Lui – până ce El îmi va apăra pricina și-mi va face dreptate; El mă va scoate la lumină și voi privi dreptatea Lui.",
+        "10": "Când va vedea vrăjmașa mea lucrul acesta, va fi acoperită de rușine, ea, care-mi zicea: „Unde este Domnul Dumnezeul tău?” Ochii mei își vor vedea dorința împlinită față de ea. Atunci, ea va fi călcată în picioare ca noroiul de pe uliță.",
+        "11": "În ziua când îți vor zidi iarăși zidurile, în ziua aceea ți se vor lărgi hotarele.",
+        "12": "În ziua aceea, vor veni la tine, din Asiria până în Egipt, din Egipt până la râu, de la o mare la alta și de la un munte la altul.",
+        "13": "Dar, mai întâi, țara va fi pustiită din pricina locuitorilor ei, în urma faptelor lor rele.",
+        "14": "Paște-Ți poporul cu toiagul Tău, paște turma moștenirii Tale, care locuiește singură în pădurea din mijlocul Carmelului; ca să pască pe Basan și în Galaad, ca în zilele de altădată.",
+        "15": "„Îți voi arăta lucruri minunate”, zice Domnul, „ca în ziua când ai ieșit din țara Egiptului.”",
+        "16": "Neamurile vor vedea lucrul acesta și se vor rușina cu toată puterea lor; vor pune mâna la gură și își vor astupa urechile.",
+        "17": "Vor linge pulberea ca șarpele; vor ieși tremurând ca târâtoarele pământului, afară din cetățuile lor, vor veni pline de frică înaintea Domnului Dumnezeului nostru și se vor teme de Tine.",
+        "18": "Care Dumnezeu este ca Tine, care ierți nelegiuirea și treci cu vederea păcatele rămășiței moștenirii Tale? El nu-Și ține mânia pe vecie, ci Îi place îndurarea!",
+        "19": "El va avea iarăși milă de noi, va călca în picioare nelegiuirile noastre și va arunca în fundul mării toate păcatele lor.",
+        "20": "Vei da cu credincioșie lui Iacov și vei ține cu îndurare față de Avraam ce ai jurat părinților noștri în zilele de odinioară."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Vai de mine! Căci sunt ca după culesul fructelor, ca după culesul viilor! Nu mai este niciun ciorchine de mâncat nimic din smochinele timpurii, după care tânjește sufletul meu!",
+        "2": "A pierit cel evlavios din țară și n-a mai rămas niciun om drept! Cu toții stau la pândă, ca să verse sânge, fiecare îl vânează pe fratele său cu o mreajă.",
+        "3": "Mâinile lor sunt obișnuite cu răul, ca să-l înfăptuiască bine! Conducătorul cere daruri, iar judecătorul cere mită. Cel mare își spune dorința sufletului său și apoi conspiră împreună.",
+        "4": "Cel mai bun dintre ei este ca un mărăcine; cel mai drept este mai rău ca un gard de spini. Ziua vestită de străjerii tăi, ziua pedepsei tale, a sosit! Acum va fi stupoare pentru voi!",
+        "5": "Nu-l crede pe prieten, nu te încrede în amic! Păzește-ți ușa gurii de cea care se odihnește la pieptul tău!",
+        "6": "Căci fiul își desconsideră tatăl, fata se ridică împotriva mamei ei, iar nora se ridică împotriva soacrei ei, așa încât dușmanii unui om sunt chiar cei din familia lui.",
+        "7": "Eu, însă, voi privi la Domnul, îmi voi pune speranța în Dumnezeul mântuirii mele! Dumnezeul meu mă va asculta! Israel va fi restaurat",
+        "8": "Nu te bucura din cauza mea, rivala mea, căci, deși am căzut, mă voi ridica! Deși locuiesc în întuneric, Domnul va fi lumina mea!",
+        "9": "Voi îndura furia Domnului, căci am păcătuit împotriva Lui, o voi îndura până când El îmi va apăra cauza și-mi va face dreptate. El mă va scoate la lumină; Îi voi vedea dreptatea.",
+        "10": "Când va vedea rivala mea lucrul acesta, va fi acoperită de rușine, ea, care-mi zicea: „Unde este Domnul, Dumnezeul tău?“. Ochii mei vor vedea căderea ei! Atunci ea va fi călcată în picioare ca noroiul de pe drumuri.",
+        "11": "Va fi o zi a reclădirii zidurilor tale, o zi în care ți se va extinde granița!",
+        "12": "În ziua aceea, vor veni la tine oameni din Asiria și până dinspre cetățile Egiptului, din Egipt și până la râu, de la o mare și până la cealaltă, de la un munte și până la celălalt.",
+        "13": "Pământul va fi pustiit din cauza locuitorilor lui, ca rod al faptelor lor rele. Rugăciune și laudă",
+        "14": "Păstorește-Ți cu toiagul poporul, turma moștenirii Tale, care locuiește în singurătate, în pădurea din mijlocul Carmelului. Să pască în Bașan și în Ghilad ca în zilele de odinioară.",
+        "15": "„Îi voi arăta lucruri minunate, ca în ziua ieșirii tale din țara Egiptului!“",
+        "16": "Națiunile vor vedea și se vor rușina de toată puterea lor. Își vor pune mâna la gură și urechile le vor asurzi.",
+        "17": "Vor linge țărâna ca șarpele și ca târâtoarele pământului. Vor ieși tremurând din cetățuile lor, se vor înfricoșa de Domnul, Dumnezeul nostru, și se vor teme de Tine.",
+        "18": "Cine este Dumnezeu ca Tine, Care ridică pedeapsa pentru nelegiuire și trece cu vederea fărădelegea rămășiței moștenirii Lui? El nu rămâne mânios pe vecie, ci Își găsește plăcerea în îndurare.",
+        "19": "El va avea iarăși milă de noi și va supune nelegiuirile noastre. Tu vei arunca în adâncurile mării toate păcatele lor.",
+        "20": "Tu vei arăta credincioșie față de Iacov și îndurare față de Avraam, așa cum ai jurat strămoșilor noștri în zilele din vechime."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Misery is mine! Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard. There is no cluster of grapes to eat. My soul desires to eat the early fig.",
+        "2": "The godly man has perished out of the earth, and there is no one upright among men. They all lie in wait for blood; every man hunts his brother with a net.",
+        "3": "Their hands are on that which is evil to do it diligently. The ruler and judge ask for a bribe. The powerful man dictates the evil desire of his soul. Thus they conspire together.",
+        "4": "The best of them is like a brier. The most upright is worse than a thorn hedge. The day of your watchmen, even your visitation, has come; now is the time of their confusion.",
+        "5": "Don’t trust in a neighbor. Don’t put confidence in a friend. With the woman lying in your embrace, be careful of the words of your mouth!",
+        "6": "For the son dishonors the father, the daughter rises up against her mother, the daughter-in-law against her mother-in-law; a man’s enemies are the men of his own house.",
+        "7": "But as for me, I will look to Yahweh. I will wait for the God of my salvation. My God will hear me.",
+        "8": "Don’t rejoice against me, my enemy. When I fall, I will arise. When I sit in darkness, Yahweh will be a light to me.",
+        "9": "I will bear the indignation of Yahweh, because I have sinned against him, until he pleads my case and executes judgment for me. He will bring me out to the light. I will see his righteousness.",
+        "10": "Then my enemy will see it, and shame will cover her who said to me, “Where is Yahweh your God?” My eyes will see her. Now she will be trodden down like the mire of the streets.",
+        "11": "A day to build your walls! In that day, he will extend your boundary.",
+        "12": "In that day they will come to you from Assyria and the cities of Egypt, and from Egypt even to the River, and from sea to sea, and mountain to mountain.",
+        "13": "Yet the land will be desolate because of those who dwell therein, for the fruit of their doings.",
+        "14": "Shepherd your people with your staff, the flock of your heritage, who dwell by themselves in a forest. Let them feed in the middle of fertile pasture land, in Bashan and Gilead, as in the days of old.",
+        "15": "“As in the days of your coming out of the land of Egypt, I will show them marvelous things.”",
+        "16": "The nations will see and be ashamed of all their might. They will lay their hand on their mouth. Their ears will be deaf.",
+        "17": "They will lick the dust like a serpent. Like crawling things of the earth, they will come trembling out of their dens. They will come with fear to Yahweh our God, and will be afraid because of you.",
+        "18": "Who is a God like you, who pardons iniquity, and passes over the disobedience of the remnant of his heritage? He doesn’t retain his anger forever, because he delights in loving kindness.",
+        "19": "He will again have compassion on us. He will tread our iniquities under foot. You will cast all their sins into the depths of the sea.",
+        "20": "You will give truth to Jacob, and mercy to Abraham, as you have sworn to our fathers from the days of old."
+      }
+    }
+  }
+}

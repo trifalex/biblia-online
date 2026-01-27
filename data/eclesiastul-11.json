@@ -1,0 +1,51 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "11",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Aruncă-ți pâinea pe ape și, după multă vreme, o vei găsi iarăși!",
+        "2": "Împarte-o în șapte și chiar în opt, căci nu știi ce nenorocire poate da peste pământ.",
+        "3": "Când se umplu norii de ploaie, o varsă pe pământ. Oriîncotro ar cădea copacul, fie spre miazăzi, fie spre miazănoapte, în locul unde cade, acolo rămâne.",
+        "4": "Cine se uită după vânt nu va semăna și cine se uită după nori nu va secera.",
+        "5": "Cum nu știi care este calea vântului, nici cum se fac oasele în pântecele femeii însărcinate, tot așa nu cunoști nici lucrarea lui Dumnezeu, care le face pe toate.",
+        "6": "Dimineața seamănă-ți sămânța și până seara nu lăsa mâna să ți se odihnească, fiindcă nu știi ce va izbuti: aceasta sau aceea sau dacă amândouă sunt deopotrivă de bune.",
+        "7": "Dulce este lumina și o plăcere pentru ochi să vadă soarele.",
+        "8": "Deci, dacă un om trăiește mulți ani, să se bucure în toți anii aceștia și să se gândească ce multe vor fi zilele de întuneric. Tot ce va veni este deșertăciune.",
+        "9": "Bucură-te, tinere, în tinerețea ta, fii cu inima veselă cât ești tânăr, umblă pe căile alese de inima ta și plăcute ochilor tăi, dar să știi că, pentru toate acestea, te va chema Dumnezeu la judecată.",
+        "10": "Gonește orice necaz din inima ta și depărtează răul din trupul tău, căci tinerețea și zorile vieții sunt trecătoare."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Aruncă-ți pâinea pe ape, căci după multe zile o vei găsi iarăși;",
+        "2": "împarte-o în șapte sau chiar în opt, căci nu știi ce rău va veni pe pământ.",
+        "3": "Când norii sunt plini de apă, atunci ei o varsă pe pământ; când un copac cade spre sud sau spre nord, în locul în care cade, acolo rămâne.",
+        "4": "Cine se uită după vânt nu mai seamănă, iar cine se uită după nori nu mai seceră.",
+        "5": "Așa cum nu știi calea vântului și nici cum se formează oasele în pântecul femeii însărcinate, tot astfel nu cunoști nici lucrarea lui Dumnezeu, Cel Care le face pe toate.",
+        "6": "Seamănă sămânță dimineața, iar seara nu-ți odihni mâna de la semănat, fiindcă nu știi care sămânță va răsări, aceasta sau cealaltă, și nici dacă amândouă vor fi la fel de bune. Adu-ți aminte, la tinerețe, de Creatorul tău!",
+        "7": "Lumina este plăcută și este bine pentru ochi să vadă soarele.",
+        "8": "Dacă un om trăiește mulți ani, să se bucure de toți aceștia, dar să se gândească și la zilele de întuneric, căci vor fi multe, pentru că tot ce urmează să vină este deșertăciune.",
+        "9": "Bucură-te, tinere, în tinerețea ta, și înveselește-ți inima cât ești tânăr! Umblă pe căile dorite de inima ta și plăcute ochilor tăi, dar să știi că pentru toate acestea te va chema Dumnezeu la judecată!",
+        "10": "Îndepărtează orice supărare din inima ta, alungă răul din trupul tău, căci tinerețea și zorile vieții sunt deșarte."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Cast your bread on the waters; for you shall find it after many days.",
+        "2": "Give a portion to seven, yes, even to eight; for you don’t know what evil will be on the earth.",
+        "3": "If the clouds are full of rain, they empty themselves on the earth; and if a tree falls toward the south, or toward the north, in the place where the tree falls, there shall it be.",
+        "4": "He who observes the wind won’t sow; and he who regards the clouds won’t reap.",
+        "5": "As you don’t know what is the way of the wind, nor how the bones grow in the womb of her who is with child; even so you don’t know the work of God who does all.",
+        "6": "In the morning sow your seed, and in the evening don’t withhold your hand; for you don’t know which will prosper, whether this or that, or whether they both will be equally good.",
+        "7": "Truly the light is sweet, and it is a pleasant thing for the eyes to see the sun.",
+        "8": "Yes, if a man lives many years, let him rejoice in them all; but let him remember the days of darkness, for they shall be many. All that comes is vanity.",
+        "9": "Rejoice, young man, in your youth, and let your heart cheer you in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes; but know that for all these things God will bring you into judgment.",
+        "10": "Therefore remove sorrow from your heart, and put away evil from your flesh; for youth and the dawn of life are vanity."
+      }
+    }
+  }
+}

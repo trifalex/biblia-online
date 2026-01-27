@@ -1,0 +1,93 @@
+{
+  "book": "Proverbe",
+  "chapter": "18",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cel ursuz caută ce-i place lui, se supără de orice lucru bun.",
+        "2": "Nebunului nu-i este de învățătură, ci vrea să arate ce știe el.",
+        "3": "Când vine cel rău, vine și disprețul și, odată cu rușinea, vine și ocara.",
+        "4": "Cuvintele gurii unui om sunt ca niște ape adânci; izvorul înțelepciunii este ca un șuvoi care curge întruna.",
+        "5": "Nu este bine să ai în vedere fața celui rău, ca să nedreptățești pe cel neprihănit la judecată.",
+        "6": "Vorbele nebunului aduc ceartă și gura lui înjură până stârnește lovituri.",
+        "7": "Gura nebunului îi aduce pieirea și buzele îi sunt o cursă pentru suflet.",
+        "8": "Cuvintele bârfitorului sunt ca prăjiturile: alunecă până în fundul măruntaielor.",
+        "9": "Cine se lenevește în lucrul lui este frate cu cel ce nimicește.",
+        "10": "Numele Domnului este un turn tare; cel neprihănit fuge în el și stă la adăpost.",
+        "11": "Averea este o cetate întărită pentru cel bogat; în închipuirea lui, ea este un zid înalt.",
+        "12": "Înainte de pieire, inima omului se îngâmfă, dar smerenia merge înaintea slavei.",
+        "13": "Cine răspunde fără să fi ascultat face o prostie și își trage rușinea.",
+        "14": "Duhul omului îl sprijină la boală. Dar duhul doborât de întristare, cine-l va ridica?",
+        "15": "O inimă pricepută dobândește știința și urechea celor înțelepți caută știința.",
+        "16": "Darurile unui om îi fac loc și-i deschid intrarea înaintea celor mari.",
+        "17": "Cel care vorbește întâi în pricina lui pare că are dreptate, dar vine celălalt și-l ia la cercetare.",
+        "18": "Sorțul pune capăt neînțelegerilor și hotărăște între cei puternici.",
+        "19": "Frații nedreptățiți sunt mai greu de câștigat decât o cetate întărită și certurile lor sunt tot așa de greu de înlăturat ca zăvoarele unei case împărătești.",
+        "20": "Din rodul gurii lui își satură omul trupul, din venitul buzelor lui se satură.",
+        "21": "Moartea și viața sunt în puterea limbii; oricine o iubește îi va mânca roadele.",
+        "22": "Cine găsește o nevastă bună găsește fericirea; este un har pe care-l capătă de la Domnul.",
+        "23": "Săracul vorbește rugându-se, dar bogatul răspunde cu asprime.",
+        "24": "Cine își face mulți prieteni îi face spre nenorocirea lui, dar este un prieten care ține mai mult la tine decât un frate."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cine se izolează își caută propria plăcere, el se dezlănțuie împotriva oricărei înțelepciuni.",
+        "2": "Cel nesăbuit nu-și găsește plăcerea în pricepere, ci doar în a face cunoscut ce este în inima lui.",
+        "3": "Când vine cel rău, vine și disprețul, iar odată cu rușinea, vine și reproșul.",
+        "4": "Cuvintele gurii unui om sunt ca niște ape adânci; izvorul înțelepciunii este ca un pârâu curgător.",
+        "5": "Nu este bine să-l favorizezi pe cel rău sau să-l nedreptățești la judecată pe cel drept.",
+        "6": "Buzele nesăbuitului aduc ceartă, iar gura lui invită la lovituri.",
+        "7": "Gura celui nesăbuit îi aduce ruina, iar buzele lui îi sunt o capcană pentru suflet.",
+        "8": "Cuvintele bârfitorului sunt ca niște prăjituri, alunecă până în cămările pântecului.",
+        "9": "Cine este leneș în lucrul lui este frate cu cel ce distruge.",
+        "10": "Numele Domnului este un turn tare; cel drept fuge în el și este protejat la înălțime.",
+        "11": "Pentru cel bogat, averea este o cetate fortificată, el și-o închipuie ca pe un zid înalt.",
+        "12": "Înainte de pieire, inima omului se îngâmfă, dar smerenia merge înaintea gloriei.",
+        "13": "Cine răspunde fără să fi ascultat face o prostie și își atrage rușinea.",
+        "14": "Duhul omului îl sprijină în boală, dar cine poate ridica un duh zdrobit?",
+        "15": "O inimă cu discernământ dobândește cunoștință și urechea celor înțelepți caută cunoștință.",
+        "16": "Un dar deschide uși celui ce îl oferă și-l duce înaintea celor mari.",
+        "17": "Primul care-și apără cauza pare drept, însă doar până intră semenul său și-l cercetează.",
+        "18": "Sorțul pune capăt neînțelegerilor și decide între cei puternici.",
+        "19": "Un frate nedreptățit este mai greu de câștigat decât o cetate fortificată, iar neînțelegerile sunt ca porțile închise ale unei cetăți.",
+        "20": "Din rodul gurii lui, omul își satură pântecul; din venitul buzelor lui, se satură.",
+        "21": "Moartea și viața sunt în puterea limbii, iar cei ce o iubesc îi vor mânca roadele.",
+        "22": "Cel ce-și găsește o soție găsește ce este bine și primește astfel bunăvoință de la Domnul.",
+        "23": "Săracul vorbește cu rugăminți, dar bogatul răspunde cu asprime.",
+        "24": "Cine are mulți prieteni poate ajunge la ruină, dar există un amic care ține la tine mai mult decât un frate."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "A man who isolates himself pursues selfishness, and defies all sound judgment.",
+        "2": "A fool has no delight in understanding, but only in revealing his own opinion.",
+        "3": "When wickedness comes, contempt also comes, and with shame comes disgrace.",
+        "4": "The words of a man’s mouth are like deep waters. The fountain of wisdom is like a flowing brook.",
+        "5": "To be partial to the faces of the wicked is not good, nor to deprive the innocent of justice.",
+        "6": "A fool’s lips come into strife, and his mouth invites beatings.",
+        "7": "A fool’s mouth is his destruction, and his lips are a snare to his soul.",
+        "8": "The words of a gossip are like dainty morsels: they go down into a person’s innermost parts.",
+        "9": "One who is slack in his work is brother to him who is a master of destruction.",
+        "10": "Yahweh’s name is a strong tower: the righteous run to him, and are safe.",
+        "11": "The rich man’s wealth is his strong city, like an unscalable wall in his own imagination.",
+        "12": "Before destruction the heart of man is proud, but before honor is humility.",
+        "13": "He who answers before he hears, that is folly and shame to him.",
+        "14": "A man’s spirit will sustain him in sickness, but a crushed spirit, who can bear?",
+        "15": "The heart of the discerning gets knowledge. The ear of the wise seeks knowledge.",
+        "16": "A man’s gift makes room for him, and brings him before great men.",
+        "17": "He who pleads his cause first seems right— until another comes and questions him.",
+        "18": "The lot settles disputes, and keeps strong ones apart.",
+        "19": "A brother offended is more difficult than a fortified city. Disputes are like the bars of a fortress.",
+        "20": "A man’s stomach is filled with the fruit of his mouth. With the harvest of his lips he is satisfied.",
+        "21": "Death and life are in the power of the tongue; those who love it will eat its fruit.",
+        "22": "Whoever finds a wife finds a good thing, and obtains favor of Yahweh.",
+        "23": "The poor plead for mercy, but the rich answer harshly.",
+        "24": "A man of many companions may be ruined, but there is a friend who sticks closer than a brother."
+      }
+    }
+  }
+}

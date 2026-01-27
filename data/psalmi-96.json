@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "96",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cântați Domnului o cântare nouă! Cântați Domnului, toți locuitorii pământului!",
+        "2": "Cântați Domnului, binecuvântați Numele Lui, vestiți din zi în zi mântuirea Lui!",
+        "3": "Povestiți printre neamuri slava Lui, printre toate popoarele minunile Lui!",
+        "4": "Căci Domnul este mare și foarte vrednic de laudă. El este mai de temut decât toți dumnezeii.",
+        "5": "Căci toți dumnezeii popoarelor sunt niște idoli, dar Domnul a făcut cerurile.",
+        "6": "Strălucirea și măreția sunt înaintea Feței Lui, slava și podoaba sunt în Locașul Lui cel Sfânt.",
+        "7": "Familiile popoarelor, dați Domnului, dați Domnului slavă și cinste!",
+        "8": "Dați Domnului slava cuvenită Numelui Lui! Aduceți daruri de mâncare și intrați în curțile Lui!",
+        "9": "Închinați-vă înaintea Domnului îmbrăcați cu podoabe sfinte, tremurați înaintea Lui, toți locuitorii pământului!",
+        "10": "Spuneți printre neamuri: „Domnul împărățește! De aceea lumea este tare și nu se clatină.” Domnul judecă popoarele cu dreptate.",
+        "11": "Să se bucure cerurile și să se veselească pământul; să mugească marea cu tot ce cuprinde ea!",
+        "12": "Să tresalte câmpia cu tot ce e pe ea, toți copacii pădurii să strige de bucurie",
+        "13": "înaintea Domnului! Căci El vine, vine să judece pământul. El va judeca lumea cu dreptate și popoarele după credincioșia Lui."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cântați Domnului o cântare nouă, cântați Domnului, toți locuitorii pământului!",
+        "2": "Cântați Domnului, binecuvântați-I Numele! Vestiți în fiecare zi mântuirea Lui!",
+        "3": "Istorisiți printre națiuni gloria Lui și printre toate popoarele – minunile Lui!",
+        "4": "Căci mare este Domnul și foarte demn să fie lăudat! El este mai de temut decât toți dumnezeii.",
+        "5": "Căci toți dumnezeii popoarelor sunt idoli, dar Domnul a făcut cerurile.",
+        "6": "Splendoarea și măreția sunt înaintea Lui, iar puterea și frumusețea se află în Sfântul Său Lăcaș.",
+        "7": "Familii ale popoarelor, dați Domnului, dați Domnului glorie și lăudați-L pentru puterea Lui!",
+        "8": "Dați Domnului gloria cuvenită Numelui Său! Aduceți un dar de mâncare și veniți în curțile Lui!",
+        "9": "Închinați-vă Domnului îmbrăcați în haine sfinte! Tremurați înaintea Lui, voi, toți locuitorii pământului!",
+        "10": "Spuneți printre națiuni: „Domnul împărățește! De aceea lumea este trainică și nu poate fi clătinată. El va judeca popoarele cu imparțialitate“.",
+        "11": "Să se bucure cerurile și să se înveselească pământul! Să vuiască marea și tot ce este în ea!",
+        "12": "Să tresalte câmpia și tot ce este pe ea! Atunci toți copacii pădurii vor striga de bucurie",
+        "13": "înaintea Domnului, căci El vine, vine să judece pământul, vine să judece lumea cu dreptate și popoarele după credincioșia Sa."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Sing to Yahweh a new song! Sing to Yahweh, all the earth.",
+        "2": "Sing to Yahweh! Bless his name! Proclaim his salvation from day to day!",
+        "3": "Declare his glory among the nations, his marvelous works among all the peoples.",
+        "4": "For Yahweh is great, and greatly to be praised! He is to be feared above all gods.",
+        "5": "For all the gods of the peoples are idols, but Yahweh made the heavens.",
+        "6": "Honor and majesty are before him. Strength and beauty are in his sanctuary.",
+        "7": "Ascribe to Yahweh, you families of nations, ascribe to Yahweh glory and strength.",
+        "8": "Ascribe to Yahweh the glory due to his name. Bring an offering, and come into his courts.",
+        "9": "Worship Yahweh in holy array. Tremble before him, all the earth.",
+        "10": "Say among the nations, “Yahweh reigns.” The world is also established. It can’t be moved. He will judge the peoples with equity.",
+        "11": "Let the heavens be glad, and let the earth rejoice. Let the sea roar, and its fullness!",
+        "12": "Let the field and all that is in it exult! Then all the trees of the woods shall sing for joy",
+        "13": "before Yahweh; for he comes, for he comes to judge the earth. He will judge the world with righteousness, the peoples with his truth."
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "book": "Psalmi",
+  "chapter": "48",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Mare este Domnul și lăudat de toți în cetatea Dumnezeului nostru, pe muntele Lui cel sfânt.",
+        "2": "Frumoasă înălțime, bucuria întregului pământ, este muntele Sionului; în partea de miazănoapte este cetatea Marelui Împărat.",
+        "3": "Dumnezeu, în casele Lui împărătești, este cunoscut ca un turn de scăpare.",
+        "4": "Căci iată că împărații se adunaseră: doar au trecut împreună,",
+        "5": "au privit-o, au înlemnit, s-au temut și au luat-o la fugă.",
+        "6": "I-a apucat un tremur acolo, ca durerea unei femei la facere.",
+        "7": "Au fost izgoniți de parcă ar fi fost luați de vântul de răsărit, care sfărâmă corăbiile din Tarsis.",
+        "8": "Întocmai cum auziserăm spunându-se, așa am văzut în cetatea Domnului oștirilor, în cetatea Dumnezeului nostru: Dumnezeu o va face să dăinuiască pe vecie.",
+        "9": "Dumnezeule, la bunătatea Ta ne gândim în mijlocul Templului Tău!",
+        "10": "Ca și Numele Tău, Dumnezeule, și lauda Ta răsună până la marginile pământului; dreapta Ta este plină de îndurare.",
+        "11": "Se bucură muntele Sionului și se veselesc fiicele lui Iuda de judecățile Tale.",
+        "12": "Străbateți Sionul și ocoliți-l, numărați-i turnurile,",
+        "13": "priviți-i întăritura și cercetați-i palatele, ca să povestiți celor ce vor veni după ei!",
+        "14": "Iată, Dumnezeul acesta este Dumnezeul nostru în veci de veci; El va fi călăuza noastră până la moarte."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Mare este Domnul și foarte demn de laudă, în cetatea Dumnezeului nostru, muntele Lui cel sfânt!",
+        "2": "Frumoasă înălțime, bucuria întregului pământ, este muntele Sion, în părțile îndepărtate ale nordului, cetatea Marelui Împărat!",
+        "3": "În palatele ei, Dumnezeu Se revelează ca fiind locul ei de scăpare.",
+        "4": "Iată că regii se adunaseră și înaintaseră cu toții,",
+        "5": "dar când au văzut cetatea, au înlemnit, s-au îngrozit și s-au grăbit să fugă.",
+        "6": "I-a apucat un tremur acolo, un chin ca al unei femei care naște.",
+        "7": "Cu vântul de est ai sfărâmat corăbiile de Tarșiș.",
+        "8": "Ceea ce am auzit, am și văzut în cetatea Domnului Oștirilor, în cetatea Dumnezeului nostru: Dumnezeu o consolidează pentru totdeauna!",
+        "9": "Dumnezeule, la îndurarea Ta ne gândim în mijlocul Templului Tău!",
+        "10": "Dumnezeule, așa cum este Numele Tău, tot astfel și lauda Ta ajunge până la marginile lumii. Dreapta Ta este plină de dreptate.",
+        "11": "Muntele Sion se bucură și satele lui Iuda se înveselesc datorită judecăților Tale.",
+        "12": "Ocoliți Sionul, înconjurați-l, numărați-i turnurile!",
+        "13": "Admirați-i fortificațiile, străbateți-i citadelele, ca să istorisiți generației următoare!",
+        "14": "Acest Dumnezeu este Dumnezeul nostru pentru veci de veci! El ne va conduce până la moarte!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Great is Yahweh, and greatly to be praised, in the city of our God, in his holy mountain.",
+        "2": "Beautiful in elevation, the joy of the whole earth, is Mount Zion, on the north sides, the city of the great King.",
+        "3": "God has shown himself in her citadels as a refuge.",
+        "4": "For, behold, the kings assembled themselves, they passed by together.",
+        "5": "They saw it, then they were amazed. They were dismayed. They hurried away.",
+        "6": "Trembling took hold of them there, pain, as of a woman in travail.",
+        "7": "With the east wind, you break the ships of Tarshish.",
+        "8": "As we have heard, so we have seen, in the city of Yahweh of Armies, in the city of our God. God will establish it forever.",
+        "9": "We have thought about your loving kindness, God, in the middle of your temple.",
+        "10": "As is your name, God, so is your praise to the ends of the earth. Your right hand is full of righteousness.",
+        "11": "Let Mount Zion be glad! Let the daughters of Judah rejoice because of your judgments.",
+        "12": "Walk about Zion, and go around her. Number its towers.",
+        "13": "Notice her bulwarks. Consider her palaces, that you may tell it to the next generation.",
+        "14": "For this God is our God forever and ever. He will be our guide even to death."
+      }
+    }
+  }
+}

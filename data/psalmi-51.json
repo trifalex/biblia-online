@@ -1,0 +1,78 @@
+{
+  "book": "Psalmi",
+  "chapter": "51",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ai milă de mine, Dumnezeule, în bunătatea Ta! După îndurarea Ta cea mare, șterge fărădelegile mele!",
+        "2": "Spală-mă cu desăvârșire de nelegiuirea mea și curățește-mă de păcatul meu!",
+        "3": "Căci îmi cunosc bine fărădelegile și păcatul meu stă necurmat înaintea mea.",
+        "4": "Împotriva Ta, numai împotriva Ta am păcătuit și am făcut ce este rău înaintea Ta; așa că vei fi drept în hotărârea Ta și fără vină în judecata Ta.",
+        "5": "Iată că sunt născut în nelegiuire și în păcat m-a zămislit mama mea.",
+        "6": "Dar Tu ceri ca adevărul să fie în adâncul inimii: fă dar să pătrundă înțelepciunea înăuntrul meu!",
+        "7": "Curățește-mă cu isop și voi fi curat; spală-mă și voi fi mai alb decât zăpada!",
+        "8": "Fă-mă să aud veselie și bucurie și oasele pe care le-ai zdrobit Tu se vor bucura!",
+        "9": "Întoarce-Ți privirea de la păcatele mele, șterge toate nelegiuirile mele!",
+        "10": "Zidește în mine o inimă curată, Dumnezeule, pune în mine un duh nou și statornic!",
+        "11": "Nu mă lepăda de la Fața Ta și nu lua de la mine Duhul Tău cel Sfânt!",
+        "12": "Dă-mi iarăși bucuria mântuirii Tale și sprijină-mă cu un duh de bunăvoință!",
+        "13": "Atunci voi învăța căile Tale pe cei ce le calcă, și păcătoșii se vor întoarce la Tine.",
+        "14": "Dumnezeule, Dumnezeul mântuirii mele! Izbăvește-mă de vina sângelui vărsat și limba mea va lăuda îndurarea Ta!",
+        "15": "Doamne, deschide-mi buzele și gura mea va vesti lauda Ta!",
+        "16": "Dacă ai fi voit jertfe, Ți-aș fi adus, dar Ție nu-Ți plac arderile-de-tot.",
+        "17": "Jertfele plăcute lui Dumnezeu sunt un duh zdrobit: Dumnezeule, Tu nu disprețuiești o inimă zdrobită și mâhnită.",
+        "18": "În îndurarea Ta, varsă-Ți binefacerile asupra Sionului și zidește zidurile Ierusalimului!",
+        "19": "Atunci vei primi jertfe neprihănite, arderi-de-tot și jertfe întregi; atunci se vor aduce pe altarul Tău viței."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Arată-Ți bunăvoința față de mine, Dumnezeule, potrivit îndurării Tale. În mila Ta cea mare, șterge fărădelegile mele!",
+        "2": "Spală-mă de nelegiuirea mea și curățește-mă de păcatul meu!",
+        "3": "Căci îmi cunosc fărădelegile, și păcatul meu stă tot timpul înaintea mea.",
+        "4": "Împotriva Ta, numai împotriva Ta am păcătuit și am făcut ceea ce este rău înaintea ochilor Tăi, așa că Tu ești drept când vorbești și integru când judeci.",
+        "5": "Iată că am fost născut în nelegiuire și în păcat m-a conceput mama mea.",
+        "6": "Iată, Tu dorești ca adevărul să fie în adâncurile ființei; Tu mă vei face să cunosc înțelepciunea înăuntrul meu.",
+        "7": "Curățește-mă cu isop și voi fi curat, spală-mă și voi fi mai alb decât zăpada.",
+        "8": "Fă-mă să aud veselie și bucurie, iar oasele pe care Tu le-ai zdrobit se vor veseli.",
+        "9": "Ascunde-Ți fața de păcatele mele, șterge toate nelegiuirile mele!",
+        "10": "Zidește în mine o inimă curată, Dumnezeule, și pune înăuntrul meu un duh nou și statornic!",
+        "11": "Nu mă alunga din prezența Ta și nu lua de la mine Duhul Tău cel Sfânt!",
+        "12": "Dă-mi iarăși bucuria mântuirii Tale, sprijină-mă cu un duh de bunăvoință!",
+        "13": "Atunci îi voi învăța căile Tale pe cei ce încalcă legea și păcătoșii se vor întoarce la Tine.",
+        "14": "Dumnezeule, Dumnezeul mântuirii mele, eliberează-mă de vina sângelui vărsat, și limba mea va aclama cu bucurie dreptatea Ta!",
+        "15": "Stăpâne, deschide-mi buzele, iar gura mea va vesti lauda Ta!",
+        "16": "Dacă Ți-ar fi plăcut jertfele, Ți-aș fi adus, dar Ție nu-Ți plac arderile-de-tot.",
+        "17": "Jertfa plăcută lui Dumnezeu este un duh zdrobit. Dumnezeule, Tu nu disprețuiești o inimă frântă și mâhnită.",
+        "18": "În bunăvoința Ta, fă bine Sionului și construiește zidurile Ierusalimului!",
+        "19": "Atunci Îți vei găsi plăcerea în jertfele dreptății, în arderea-de-tot și în jertfa întreagă; atunci se vor aduce tauri ca jertfă pe altarul Tău."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions.",
+        "2": "Wash me thoroughly from my iniquity. Cleanse me from my sin.",
+        "3": "For I know my transgressions. My sin is constantly before me.",
+        "4": "Against you, and you only, I have sinned, and done that which is evil in your sight, so you may be proved right when you speak, and justified when you judge.",
+        "5": "Behold, I was born in iniquity. My mother conceived me in sin.",
+        "6": "Behold, you desire truth in the inward parts. You teach me wisdom in the inmost place.",
+        "7": "Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow.",
+        "8": "Let me hear joy and gladness, that the bones which you have broken may rejoice.",
+        "9": "Hide your face from my sins, and blot out all of my iniquities.",
+        "10": "Create in me a clean heart, O God. Renew a right spirit within me.",
+        "11": "Don’t throw me from your presence, and don’t take your Holy Spirit from me.",
+        "12": "Restore to me the joy of your salvation. Uphold me with a willing spirit.",
+        "13": "Then I will teach transgressors your ways. Sinners will be converted to you.",
+        "14": "Deliver me from the guilt of bloodshed, O God, the God of my salvation. My tongue will sing aloud of your righteousness.",
+        "15": "Lord, open my lips. My mouth will declare your praise.",
+        "16": "For you don’t delight in sacrifice, or else I would give it. You have no pleasure in burnt offering.",
+        "17": "The sacrifices of God are a broken spirit. O God, you will not despise a broken and contrite heart.",
+        "18": "Do well in your good pleasure to Zion. Build the walls of Jerusalem.",
+        "19": "Then you will delight in the sacrifices of righteousness, in burnt offerings and in whole burnt offerings. Then they will offer bulls on your altar."
+      }
+    }
+  }
+}

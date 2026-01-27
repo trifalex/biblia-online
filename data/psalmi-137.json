@@ -1,0 +1,48 @@
+{
+  "book": "Psalmi",
+  "chapter": "137",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pe malurile râurilor Babilonului, ședeam jos și plângeam când ne aduceam aminte de Sion.",
+        "2": "În sălciile din ținutul acela ne atârnaserăm harpele.",
+        "3": "Căci, acolo, biruitorii noștri ne cereau cântări și asupritorii noștri ne cereau bucurie zicând: „Cântați-ne câteva din cântările Sionului!”",
+        "4": "Cum să cântăm noi cântările Domnului pe un pământ străin?",
+        "5": "Dacă te voi uita, Ierusalime, să-și uite dreapta mea destoinicia ei!",
+        "6": "Să mi se lipească limba de cerul gurii dacă nu-mi voi aduce aminte de tine, dacă nu voi face din Ierusalim culmea bucuriei mele!",
+        "7": "Adu-Ți aminte, Doamne, de copiii Edomului, care, în ziua nenorocirii Ierusalimului, ziceau: „Radeți-l, radeți-l din temelii!”",
+        "8": "Ah! fiica Babilonului, sortită pustiirii, ferice de cine-ți va întoarce la fel răul pe care ni l-ai făcut!",
+        "9": "Ferice de cine va apuca pe pruncii tăi și-i va zdrobi de stâncă!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Pe malurile râurilor Babilonului, stăteam jos și plângeam amintindu-ne de Sion.",
+        "2": "Ne atârnaserăm lirele în sălciile din acel loc,",
+        "3": "căci acolo, cei ce ne-au luat captivi ne cereau cântări, asupritorii noștri ne cereau bucurie: „Cântați-ne din cântările Sionului!“.",
+        "4": "Cum să cântăm noi cântările Domnului pe un pământ străin?",
+        "5": "Ierusalime, dacă te voi uita, să-și uite și dreapta mea îndemânarea!",
+        "6": "Limba mea să se lipească de cerul gurii mele, dacă nu-mi voi aminti de tine și dacă nu voi face din Ierusalim culmea bucuriei mele!",
+        "7": "Doamne, adu-Ți aminte de fiii lui Edom, care, în ziua distrugerii Ierusalimului, ziceau: „Radeți! Radeți tot până la temelie!“.",
+        "8": "Fiică distrugătoare a Babilonului! Ferice de acela care te va pedepsi pentru ceea ce ne-ai făcut!",
+        "9": "Ferice de cel ce-i va apuca pe copiii tăi și-i va zdrobi de stâncă!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion.",
+        "2": "On the willows in that land, we hung up our harps.",
+        "3": "For there, those who led us captive asked us for songs. Those who tormented us demanded songs of joy: “Sing us one of the songs of Zion!”",
+        "4": "How can we sing Yahweh’s song in a foreign land?",
+        "5": "If I forget you, Jerusalem, let my right hand forget its skill.",
+        "6": "Let my tongue stick to the roof of my mouth if I don’t remember you, if I don’t prefer Jerusalem above my chief joy.",
+        "7": "Remember, Yahweh, against the children of Edom in the day of Jerusalem, who said, “Raze it! Raze it even to its foundation!”",
+        "8": "Daughter of Babylon, doomed to destruction, he will be happy who repays you, as you have done to us.",
+        "9": "Happy shall he be, who takes and dashes your little ones against the rock."
+      }
+    }
+  }
+}

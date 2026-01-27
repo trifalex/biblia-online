@@ -1,0 +1,54 @@
+{
+  "book": "Cantarea Cantarilor",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Am căutat noaptea în așternutul meu, am căutat pe iubitul inimii mele; l-am căutat, dar nu l-am găsit…",
+        "2": "M-am sculat atunci și am cutreierat cetatea, ulițele și piețele, și am căutat pe iubitul inimii mele… L-am căutat, dar nu l-am găsit!",
+        "3": "M-au întâlnit păzitorii care dădeau ocol cetății și i-am întrebat: „N-ați văzut pe iubitul inimii mele?”",
+        "4": "Abia trecusem de ei, și am găsit pe iubitul inimii mele. L-am apucat și nu l-am mai lăsat până nu l-am adus în casa mamei mele, în odaia celei ce m-a zămislit. –",
+        "5": "Vă jur, fiice ale Ierusalimului, pe căprioarele și cerboaicele de pe câmp, nu stârniți, nu treziți dragostea până nu vine ea. –",
+        "6": "Ce se vede suindu-se din pustie ca niște stâlpi de fum, în mijlocul aburilor de mir și de tămâie, înconjurată de toate miresmele negustorilor de mir? –",
+        "7": "Iată, este patașca lui Solomon, cu șaizeci de viteji de jur împrejur, cei mai viteji din Israel.",
+        "8": "Toți sunt înarmați cu săbii și toți sunt deprinși la luptă, fiecare cu sabia la coapsă, ca să n-aibă nimic de temut în timpul nopții.",
+        "9": "Împăratul Solomon și-a făcut această patașcă din lemn din Liban.",
+        "10": "Stâlpii i-a făcut de argint, rezemătoarea, de aur, scaunul, de purpură, iar mijlocul împodobit cu o țesătură aleasă, lucrată de dragostea fiicelor Ierusalimului.",
+        "11": "Ieșiți, fetele Sionului, și priviți pe împăratul Solomon, cu cununa cu care l-a încununat mama sa în ziua cununiei lui, în ziua veseliei inimii lui. –"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Am tânjit toată noaptea, în patul meu, după iubitul sufletului meu; am tânjit după el, dar nu l-am găsit.",
+        "2": "Însă acum mă voi ridica și voi străbate cetatea, voi merge pe străzile și în piețele ei; îl voi căuta pe iubitul sufletului meu. L-am căutat, dar nu l-am găsit.",
+        "3": "M-au găsit străjerii care dădeau ocol cetății. „Nu l-ați văzut pe iubitul sufletului meu?“.",
+        "4": "Abia trecusem de ei și l-am găsit pe iubitul sufletului meu. L-am prins și nu l-am mai lăsat până nu l-am adus în casa mamei mele, în camera celei ce m-a născut.",
+        "5": "Vă pun să jurați, fete ale Ierusalimului, pe gazelele sau pe cerboaicele câmpului: nu stârniți și nu treziți iubirea până nu-i face ei plăcere…",
+        "6": "Ce se ivește din pustiu, ca niște coloane de fum, parfumate cu smirnă și tămâie, preparate din toate aromele negustorului?",
+        "7": "Iată, este lectica lui Solomon, cu șaizeci de viteji în jurul ei, dintre bărbații cei mai viteji ai lui Israel,",
+        "8": "toți înarmați cu săbii și având experiență în luptă, fiecare purtându-și sabia la șold, din cauza groazei din timpul nopții.",
+        "9": "Regele Solomon și-a făcut o lectică din lemn de Liban.",
+        "10": "Stâlpii i-a făcut din argint, iar cadrul din aur. Scaunul a fost făcut din purpură, iar interiorul a fost împodobit cu piele de către fetele Ierusalimului.",
+        "11": "Ieșiți, fete ale Sionului, și priviți-l pe regele Solomon purtând coroana, coroana primită de la mama sa în ziua căsătoriei lui, în ziua bucuriei inimii lui!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "By night on my bed, I sought him whom my soul loves. I sought him, but I didn’t find him.",
+        "2": "I will get up now, and go about the city; in the streets and in the squares I will seek him whom my soul loves. I sought him, but I didn’t find him.",
+        "3": "The watchmen who go about the city found me; “Have you seen him whom my soul loves?”",
+        "4": "I had scarcely passed from them, when I found him whom my soul loves. I held him, and would not let him go, until I had brought him into my mother’s house, into the room of her who conceived me.",
+        "5": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up nor awaken love, until it so desires.",
+        "6": "Who is this who comes up from the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the merchant?",
+        "7": "Behold, it is Solomon’s carriage! Sixty mighty men are around it, of the mighty men of Israel.",
+        "8": "They all handle the sword, and are expert in war. Every man has his sword on his thigh, because of fear in the night.",
+        "9": "King Solomon made himself a carriage of the wood of Lebanon.",
+        "10": "He made its pillars of silver, its bottom of gold, its seat of purple, the middle of it being paved with love, from the daughters of Jerusalem.",
+        "11": "Go out, you daughters of Zion, and see King Solomon, with the crown with which his mother has crowned him, in the day of his weddings, in the day of the gladness of his heart."
+      }
+    }
+  }
+}

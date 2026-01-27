@@ -1,0 +1,51 @@
+{
+  "book": "Exodul",
+  "chapter": "11",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul a zis lui Moise: „Voi mai aduce o urgie asupra lui Faraon și asupra Egiptului. După aceea, vă va lăsa să plecați de aici. Când vă va lăsa să plecați de tot, chiar vă va izgoni de aici.",
+        "2": "Vorbește cu poporul ca atunci fiecare să ceară de la vecinul său și fiecare de la vecina ei vase de argint și vase de aur.”",
+        "3": "Domnul a făcut ca poporul să capete trecere înaintea egiptenilor. Chiar Moise era foarte bine văzut în țara Egiptului, înaintea slujitorilor lui Faraon și înaintea poporului.",
+        "4": "Moise a zis: „Așa vorbește Domnul: ‘Pe la miezul nopții, voi trece prin Egipt",
+        "5": "și toți întâii născuți din țara Egiptului vor muri, de la întâiul născut al lui Faraon, care șade pe scaunul lui de domnie, până la întâiul născut al roabei care stă la râșniță și până la toți întâii născuți ai dobitoacelor.",
+        "6": "În toată țara Egiptului vor fi țipete mari, așa cum n-au fost și nu vor mai fi.",
+        "7": "Dar dintre toți copiii lui Israel, de la oameni până la dobitoace, nici măcar un câine nu va chelălăi cu limba lui, ca să știți ce deosebire face Domnul între egipteni și Israel.",
+        "8": "Atunci, toți acești slujitori ai tăi se vor coborî la mine și se vor închina până la pământ înaintea mea, zicând: «Ieși, tu și tot poporul care te urmează!» După aceea, voi ieși.’” Moise a ieșit de la Faraon aprins de mânie.",
+        "9": "Domnul a zis lui Moise: „Faraon n-are s-asculte de voi, pentru ca să se înmulțească minunile Mele în țara Egiptului.”",
+        "10": "Moise și Aaron au făcut toate aceste minuni înaintea lui Faraon. Domnul a împietrit inima lui Faraon, și Faraon n-a lăsat pe copiii lui Israel să plece din țara lui."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Domnul îi zisese lui Moise: „Voi mai aduce încă o urgie peste Faraon și peste Egipt. După aceasta, el vă va lăsa să plecați de aici. Când vă va lăsa să plecați de aici, de fapt el vă va alunga de tot.",
+        "2": "Spune poporului ca orice om să ceară vecinului său și orice femeie să ceară vecinei ei lucruri de argint și de aur“.",
+        "3": "Domnul a făcut ca poporul să găsească bunăvoință înaintea egiptenilor. Mai mult, Moise a devenit un om foarte însemnat în țara Egiptului, atât în ochii slujitorilor lui Faraon, cât și în ochii poporului.",
+        "4": "Moise a zis: ‒ Așa vorbește Domnul: „La miezul nopții voi ieși în mijlocul Egiptului.",
+        "5": "Toți întâii născuți din țara Egiptului vor muri, de la întâiul născut al lui Faraon care stă pe tron, până la întâiul născut al slujitoarei care învârte la râșniță și până la toți întâii născuți ai vitelor.",
+        "6": "Apoi va fi un mare strigăt în toată țara Egiptului, așa cum n-a mai fost și nu va mai fi.",
+        "7": "Dar între fiii lui Israel nici măcar un câine nu va lătra, nici la animale, nici la oameni, ca să știți ce deosebire face Domnul între Egipt și Israel“.",
+        "8": "Atunci toți acești slujitori ai tăi vor veni la mine și se vor pleca până la pământ înaintea mea, zicând: „Ieși, tu și tot poporul care te urmează!“. După aceea voi ieși. Și, plin de mânie, Moise a ieșit de la Faraon.",
+        "9": "Domnul i-a zis lui Moise: „Faraon nu vă va asculta, pentru ca minunile Mele să se înmulțească în țara Egiptului“.",
+        "10": "Moise și Aaron au făcut toate aceste minuni înaintea lui Faraon, dar Domnul i-a împietrit inima lui Faraon și acesta nu i-a lăsat pe fiii lui Israel să plece din țara sa."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh said to Moses, “I will bring yet one more plague on Pharaoh, and on Egypt; afterwards he will let you go. When he lets you go, he will surely thrust you out altogether.",
+        "2": "Speak now in the ears of the people, and let every man ask of his neighbor, and every woman of her neighbor, jewels of silver, and jewels of gold.”",
+        "3": "Yahweh gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people.",
+        "4": "Moses said, “This is what Yahweh says: ‘About midnight I will go out into the middle of Egypt,",
+        "5": "and all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the female servant who is behind the mill, and all the firstborn of livestock.",
+        "6": "There will be a great cry throughout all the land of Egypt, such as there has not been, nor will be any more.",
+        "7": "But against any of the children of Israel a dog won’t even bark or move its tongue, against man or animal, that you may know that Yahweh makes a distinction between the Egyptians and Israel.",
+        "8": "All these servants of yours will come down to me, and bow down themselves to me, saying, “Get out, with all the people who follow you;” and after that I will go out.’” He went out from Pharaoh in hot anger.",
+        "9": "Yahweh said to Moses, “Pharaoh won’t listen to you, that my wonders may be multiplied in the land of Egypt.”",
+        "10": "Moses and Aaron did all these wonders before Pharaoh, but Yahweh hardened Pharaoh’s heart, and he didn’t let the children of Israel go out of his land."
+      }
+    }
+  }
+}

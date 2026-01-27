@@ -1,0 +1,75 @@
+{
+  "book": "Psalmi",
+  "chapter": "10",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pentru ce stai așa de departe, Doamne? Pentru ce Te ascunzi la vreme de necaz?",
+        "2": "Cel rău, în mândria lui, urmărește pe cei nenorociți și ei cad jertfă curselor urzite de el.",
+        "3": "Căci cel rău se fălește cu pofta lui, iar răpitorul batjocorește și nesocotește pe Domnul.",
+        "4": "Cel rău zice cu trufie: „Nu pedepsește Domnul! Nu este Dumnezeu!” Iată toate gândurile lui.",
+        "5": "Treburile îi merg bine în orice vreme; judecățile Tale sunt prea înalte pentru el, ca să le poată vedea, și suflă cu dispreț împotriva tuturor potrivnicilor lui.",
+        "6": "El zice în inima lui: „Nu mă clatin, în veci sunt scutit de nenorocire!”",
+        "7": "Gura îi este plină de blesteme, de înșelătorii și de vicleșuguri și sub limbă are răutate și fărădelege.",
+        "8": "Stă la pândă lângă sate și ucide pe cel nevinovat în locuri dosnice; ochii lui pândesc pe cel nenorocit.",
+        "9": "Stă la pândă în ascunzătoarea lui, ca leul în vizuină: stă la pândă să prindă pe cel nenorocit. Îl prinde și-l trage în lațul lui;",
+        "10": "se îndoaie, se pleacă și-i cad săracii în gheare!",
+        "11": "El zice în inima lui: „Dumnezeu uită! Își ascunde Fața și în veac nu va vedea!”",
+        "12": "Scoală-Te, Doamne Dumnezeule, ridică mâna! Nu uita pe cei nenorociți!",
+        "13": "Pentru ce să hulească cel rău pe Dumnezeu? Pentru ce să zică în inima lui că Tu nu pedepsești?",
+        "14": "Dar Tu vezi; căci Tu privești necazul și suferința, ca să iei în mână pricina lor. În nădejdea Ta se lasă cel nenorocit și Tu vii în ajutor orfanului.",
+        "15": "Zdrobește brațul celui rău, pedepsește-i fărădelegile, ca să piară din ochii Tăi!",
+        "16": "Domnul este Împărat în veci de veci; neamurile sunt nimicite din țara Lui.",
+        "17": "Tu auzi rugăciunile celor ce suferă, Doamne! Le întărești inima, Îți pleci urechea spre ei,",
+        "18": "ca să faci dreptate orfanului și celui asuprit și ca să nu mai insufle groaza omul cel luat din pământ."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "De ce stai departe, Doamne, și Te ascunzi în vremuri de lipsă?",
+        "2": "Cel rău îl urmărește cu aroganță pe cel sărac, însă ei sunt prinși în planurile pe care le-au conceput.",
+        "3": "Căci cel rău se laudă cu pofta sufletului său, binecuvântându-l pe cel lacom și disprețuindu-L pe Domnul.",
+        "4": "Cel rău, în înfumurarea lui, nu-L caută. Toate gândurile lui sunt: „Nu există Dumnezeu!“.",
+        "5": "Căile lui sunt prospere întotdeauna; judecățile Tale sunt departe de el; el vorbește cu dispreț împotriva tuturor dușmanilor săi.",
+        "6": "El zice în inima lui: „Nimic nu mă va clătina de-a lungul generațiilor, pe mine, care nu sunt în nenorocire!“.",
+        "7": "Gura îi este plină de blestem, înșelătorii și asuprire; sub limba lui este numai necaz și nelegiuire.",
+        "8": "El locuiește în ascunzișurile din preajma așezărilor; îl ucide în ascunzători pe cel nevinovat; ochii lui stau la pândă după vreun neajutorat.",
+        "9": "Pândește din ascunziș ca leul din desiș; pândește să-l prindă pe cel sărac, să-l prindă pe cel sărac și să-l atragă în lațul lui.",
+        "10": "Victimele lui sunt zdrobite și se prăbușesc; cad sub puterea lui.",
+        "11": "El zice în inima lui: „Dumnezeu a uitat! Și-a ascuns fața. În veac nu va vedea!“.",
+        "12": "Ridică-Te, Doamne Dumnezeule! Ridică-Ți mâna! Nu-i uita pe cei săraci!",
+        "13": "De ce-L disprețuiește cel rău pe Dumnezeu? De ce zice în inima lui: „Tu nu ceri socoteală!“?",
+        "14": "Tu însă vezi necazul și întristarea; Te uiți, ca să le iei în mâna Ta! Ție Ți se încredințează cel neajutorat; Tu ești ajutorul orfanului.",
+        "15": "Zdrobește deci brațul celui rău și al celui nelegiuit; cere-le socoteală de răutatea lor, ca să nu mai fie de găsit!",
+        "16": "Domnul este Împărat în veci de veci! Națiunile vor pieri din țara Lui!",
+        "17": "Tu, Doamne, asculți dorința celor nevoiași; Tu le întărești inima, plecându-Ți urechea spre ei,",
+        "18": "ca să faci dreptate orfanului și celui asuprit, pentru ca omul, care este din țărână, să nu mai insufle groaza."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Why do you stand far off, Yahweh? Why do you hide yourself in times of trouble?",
+        "2": "In arrogance, the wicked hunt down the weak. They are caught in the schemes that they devise.",
+        "3": "For the wicked boasts of his heart’s cravings. He blesses the greedy and condemns Yahweh.",
+        "4": "The wicked, in the pride of his face, has no room in his thoughts for God.",
+        "5": "His ways are prosperous at all times. He is arrogant, and your laws are far from his sight. As for all his adversaries, he sneers at them.",
+        "6": "He says in his heart, “I shall not be shaken. For generations I shall have no trouble.”",
+        "7": "His mouth is full of cursing, deceit, and oppression. Under his tongue is mischief and iniquity.",
+        "8": "He lies in wait near the villages. From ambushes, he murders the innocent. His eyes are secretly set against the helpless.",
+        "9": "He lurks in secret as a lion in his ambush. He lies in wait to catch the helpless. He catches the helpless when he draws him in his net.",
+        "10": "The helpless are crushed. They collapse. They fall under his strength.",
+        "11": "He says in his heart, “God has forgotten. He hides his face. He will never see it.”",
+        "12": "Arise, Yahweh! God, lift up your hand! Don’t forget the helpless.",
+        "13": "Why does the wicked person condemn God, and say in his heart, “God won’t call me into account”?",
+        "14": "But you do see trouble and grief. You consider it to take it into your hand. You help the victim and the fatherless.",
+        "15": "Break the arm of the wicked. As for the evil man, seek out his wickedness until you find none.",
+        "16": "Yahweh is King forever and ever! The nations will perish out of his land.",
+        "17": "Yahweh, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear,",
+        "18": "to judge the fatherless and the oppressed, that man who is of the earth may terrify no more."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "60",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeule, ne-ai lepădat, ne-ai împrăștiat și Te-ai mâniat: ridică-ne iarăși!",
+        "2": "Ai cutremurat pământul, l-ai despicat; drege-i spărturile, căci se clatină!",
+        "3": "Ai făcut pe poporul Tău să treacă prin lucruri grele, ne-ai adăpat cu un vin de amorțire.",
+        "4": "Ai dat celor ce se tem de Tine un steag, ca să-l înalțe spre biruința adevărului.",
+        "5": "Pentru ca preaiubiții Tăi să fie izbăviți, scapă-ne prin dreapta Ta și ascultă-ne!",
+        "6": "Dumnezeu a zis în sfințenia Lui: „Voi ieși biruitor, voi împărți Sihemul și voi măsura valea Sucot.",
+        "7": "Al Meu este Galaadul, al Meu este Manase, Efraim este tăria capului Meu, iar Iuda, toiagul Meu de cârmuire.",
+        "8": "Moab este ligheanul în care Mă spăl; peste Edom Îmi arunc încălțămintea; țara filistenilor strigă de bucurie din pricina Mea!”",
+        "9": "Cine mă va duce în cetatea întărită? Cine mă va duce la Edom?",
+        "10": "Oare nu Tu, Dumnezeule, care ne-ai lepădat și nu mai ieși, Dumnezeule, cu oștirile noastre?",
+        "11": "Dă-ne ajutor, ca să scăpăm din necaz! Căci ajutorul omului este zadarnic.",
+        "12": "Cu Dumnezeu vom face isprăvi mari, și El va zdrobi pe vrăjmașii noștri."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeule, ne-ai respins, Te-ai dezlănțuit împotriva noastră, Te-ai mâniat! Acum, întoarce-Te la noi!",
+        "2": "Ai cutremurat țara și ai despicat-o. Vindecă-i fisurile, căci se clatină!",
+        "3": "Ai făcut ca poporul Tău să treacă prin vremuri grele, ne-ai dat să bem vin amețitor.",
+        "4": "Pentru cei ce se tem de Tine, însă, ai ridicat un steag, în jurul căruia să se grupeze împotriva arcului.",
+        "5": "Pentru ca preaiubiții Tăi să fie salvați, ajută-ne, cu dreapta Ta, și răspunde-mi!",
+        "6": "Dumnezeu a vorbit din Lăcașul Său: „Voi triumfa, voi împărți Șechemul și voi măsura Valea Sucot.",
+        "7": "Al Meu este Ghiladul, al Meu este și Manase. Efraim este coiful capului Meu, iar Iuda – sceptrul Meu.",
+        "8": "Moab este vasul în care Mă spăl. Deasupra Edomului Îmi arunc încălțămintea, iar strigătele Mele de triumf se aud peste Filistia“.",
+        "9": "Cine mă va conduce la cetatea fortificată? Cine mă va călăuzi până la Edom?",
+        "10": "Oare nu Tu, Dumnezeule, Care ne-ai respins? Dumnezeule, nu vei mai ieși cu armatele noastre?",
+        "11": "Dă-ne ajutor împotriva dușmanului, căci zadarnic este ajutorul omului!",
+        "12": "Cu Dumnezeu vom lupta vitejește, și El îi va călca în picioare pe dușmanii noștri."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God, you have rejected us. You have broken us down. You have been angry. Restore us, again.",
+        "2": "You have made the land tremble. You have torn it. Mend its fractures, for it quakes.",
+        "3": "You have shown your people hard things. You have made us drink the wine that makes us stagger.",
+        "4": "You have given a banner to those who fear you, that it may be displayed because of the truth.",
+        "5": "So that your beloved may be delivered, save with your right hand, and answer us.",
+        "6": "God has spoken from his sanctuary: “I will triumph. I will divide Shechem, and measure out the valley of Succoth.",
+        "7": "Gilead is mine, and Manasseh is mine. Ephraim also is the defense of my head. Judah is my scepter.",
+        "8": "Moab is my wash basin. I will throw my sandal on Edom. I shout in triumph over Philistia.”",
+        "9": "Who will bring me into the strong city? Who has led me to Edom?",
+        "10": "Haven’t you, God, rejected us? You don’t go out with our armies, God.",
+        "11": "Give us help against the adversary, for the help of man is vain.",
+        "12": "Through God we will do valiantly, for it is he who will tread down our adversaries."
+      }
+    }
+  }
+}

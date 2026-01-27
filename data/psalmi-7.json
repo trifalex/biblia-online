@@ -1,0 +1,72 @@
+{
+  "book": "Psalmi",
+  "chapter": "7",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne Dumnezeule, în Tine îmi caut scăparea! Scapă-mă de toți prigonitorii mei și izbăvește-mă,",
+        "2": "ca să nu mă sfâșie ca un leu, care înghite fără să sară cineva în ajutor!",
+        "3": "Doamne Dumnezeule, dacă am făcut un astfel de rău, dacă este fărădelege pe mâinile mele,",
+        "4": "dacă am răsplătit cu rău pe cel ce trăia în pace cu mine și n-am izbăvit pe cel ce mă asuprea fără temei,",
+        "5": "atunci să mă urmărească vrăjmașul și să m-ajungă, să-mi calce viața la pământ și slava mea în pulbere să mi-o arunce!",
+        "6": "Scoală-Te, Doamne, cu mânia Ta! Scoală-Te împotriva urgiei potrivnicilor mei, trezește-Te ca să-mi ajuți și rânduiește o judecată!",
+        "7": "Să Te înconjoare adunarea popoarelor și șezi mai sus decât ea, la înălțime!",
+        "8": "Domnul judecă popoarele: fă-mi dreptate, Doamne, după neprihănirea și nevinovăția mea!",
+        "9": "Ah, pune odată capăt răutății celor răi și întărește pe cel neprihănit, Tu, care cercetezi inimile și rărunchii, Dumnezeule drept!",
+        "10": "Scutul meu este în Dumnezeu, care mântuiește pe cei cu inima curată.",
+        "11": "Dumnezeu este un judecător drept, un Dumnezeu care Se mânie în orice vreme.",
+        "12": "Dacă cel rău nu se întoarce la Dumnezeu, Dumnezeu Își ascute sabia, Își încordează arcul și-l ochește,",
+        "13": "îndreaptă asupra lui săgeți omorâtoare și-i aruncă săgeți arzătoare!",
+        "14": "Iată că cel rău pregătește răul, zămislește fărădelegea și naște înșelăciunea:",
+        "15": "face o groapă, o sapă și tot el cade în groapa pe care a făcut-o.",
+        "16": "Fărădelegea pe care a urzit-o se întoarce asupra capului lui și silnicia pe care a făcut-o se coboară înapoi pe țeasta capului lui.",
+        "17": "Eu voi lăuda pe Domnul pentru dreptatea Lui și voi cânta Numele Domnului, Numele Celui Preaînalt."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, Dumnezeul meu, în Tine mă adăpostesc! Scapă-mă de toți cei ce mă urmăresc, salvează-mă,",
+        "2": "ca să nu-mi sfâșie sufletul ca un leu, să nu mă rupă în bucăți și să nu fie nimeni să mă scape!",
+        "3": "Doamne, Dumnezeul meu, dacă am făcut așa ceva, dacă este fărădelege pe mâinile mele,",
+        "4": "dacă am răsplătit cu rău pe cel ce trăia în pace cu mine, dacă mi-am jefuit dușmanul pe nedrept,",
+        "5": "atunci fie ca dușmanul să-mi urmărească sufletul și să mă ajungă, să-mi calce viața în picioare și să-mi culce gloria în țărână!",
+        "6": "Ridică-Te, Doamne, în mânia Ta, scoală-Te din cauza furiei dușmanilor mei, trezește-Te, Dumnezeul Meu, și poruncește o judecată!",
+        "7": "Adunarea popoarelor să Te înconjoare; stăpânește asupra ei din înălțime!",
+        "8": "Să judece Domnul popoarele! Fă-mi dreptate, Doamne, conform dreptății și integrității mele, o, Preaînalte!",
+        "9": "Oprește răutatea celor răi și întărește-l pe cel drept, Tu, Care cercetezi inimile și adâncul ființei, Dumnezeule drept!",
+        "10": "Scutul meu este în Dumnezeu, Mântuitorul celor cu inima dreaptă.",
+        "11": "Dumnezeu este un judecător drept, Dumnezeu Se mânie în fiecare zi.",
+        "12": "Pentru cel care nu se întoarce la Dumnezeu, El Își ascute sabia, Își încordează arcul și-l țintește.",
+        "13": "Lui îi pregătește armele morții, săgeți aprinse îi pregătește.",
+        "14": "Iată-l pe cel ce naște nelegiuirea, concepe necazul și dă naștere înșelăciunii!",
+        "15": "Sapă o groapă, o adâncește și cade tocmai el în adâncitura pe care a făcut-o.",
+        "16": "Necazul pe care-l pregătește se întoarce împotriva capului său, iar violența lui coboară asupra creștetului său.",
+        "17": "Îi voi mulțumi Domnului pentru dreptatea Lui și voi cânta spre lauda Numelui Domnului, Cel Preaînalt."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, my God, I take refuge in you. Save me from all those who pursue me, and deliver me,",
+        "2": "lest they tear apart my soul like a lion, ripping it in pieces, while there is no one to deliver.",
+        "3": "Yahweh, my God, if I have done this, if there is iniquity in my hands,",
+        "4": "if I have rewarded evil to him who was at peace with me (yes, I have plundered him who without cause was my adversary),",
+        "5": "let the enemy pursue my soul, and overtake it; yes, let him tread my life down to the earth, and lay my glory in the dust.",
+        "6": "Arise, Yahweh, in your anger. Lift up yourself against the rage of my adversaries. Awake for me. You have commanded judgment.",
+        "7": "Let the congregation of the peoples surround you. Rule over them on high.",
+        "8": "Yahweh administers judgment to the peoples. Judge me, Yahweh, according to my righteousness, and to my integrity that is in me.",
+        "9": "Oh let the wickedness of the wicked come to an end, but establish the righteous; their minds and hearts are searched by the righteous God.",
+        "10": "My shield is with God, who saves the upright in heart.",
+        "11": "God is a righteous judge, yes, a God who has indignation every day.",
+        "12": "If a man doesn’t repent, he will sharpen his sword; he has bent and strung his bow.",
+        "13": "He has also prepared for himself the instruments of death. He makes ready his flaming arrows.",
+        "14": "Behold, he travails with iniquity. Yes, he has conceived mischief, and brought out falsehood.",
+        "15": "He has dug a hole, and has fallen into the pit which he made.",
+        "16": "The trouble he causes shall return to his own head. His violence shall come down on the crown of his own head.",
+        "17": "I will give thanks to Yahweh according to his righteousness, and will sing praise to the name of Yahweh Most High."
+      }
+    }
+  }
+}

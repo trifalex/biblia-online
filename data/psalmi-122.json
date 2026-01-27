@@ -1,0 +1,48 @@
+{
+  "book": "Psalmi",
+  "chapter": "122",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Mă bucur când mi se zice: „Haidem la Casa Domnului!”",
+        "2": "Picioarele mi se opresc în porțile tale, Ierusalime!",
+        "3": "Ierusalime, tu ești zidit ca o cetate făcută dintr-o bucată!",
+        "4": "Acolo se suie semințiile, semințiile Domnului, după legea lui Israel, ca să laude Numele Domnului.",
+        "5": "Căci acolo sunt scaunele de domnie pentru judecată, scaunele de domnie ale casei lui David.",
+        "6": "Rugați-vă pentru pacea Ierusalimului! Cei ce te iubesc să se bucure de odihnă.",
+        "7": "Pacea să fie între zidurile tale și liniștea, în casele tale domnești!",
+        "8": "Din pricina fraților și a prietenilor mei, doresc pacea în sânul tău.",
+        "9": "Din pricina Casei Domnului Dumnezeului nostru, fac urări pentru fericirea ta."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "M-am bucurat când mi s-a zis: „Să mergem la Casa Domnului!“.",
+        "2": "Picioarele ni se opresc la porțile tale, Ierusalime.",
+        "3": "Ierusalimul este construit ca o cetate care-și adună poporul în unitate.",
+        "4": "Acolo se suie semințiile, semințiile Domnului, ca să aducă mulțumiri Numelui Domnului, așa cum s-a hotărât pentru Israel.",
+        "5": "Căci acolo sunt așezate tronurile de judecată, tronurile Casei lui David.",
+        "6": "Rugați-vă pentru pacea Ierusalimului! Cei ce te iubesc să prospere!",
+        "7": "Pacea să fie între zidurile tale, și liniștea – în palatele tale.",
+        "8": "Datorită fraților mei și a prietenilor mei, îți urez: „Pacea fie în tine!“.",
+        "9": "Datorită Casei Domnului, Dumnezeul nostru, voi căuta binele tău."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I was glad when they said to me, “Let’s go to Yahweh’s house!”",
+        "2": "Our feet are standing within your gates, Jerusalem!",
+        "3": "Jerusalem is built as a city that is compact together,",
+        "4": "where the tribes go up, even Yah’s tribes, according to an ordinance for Israel, to give thanks to Yahweh’s name.",
+        "5": "For there are set thrones for judgment, the thrones of David’s house.",
+        "6": "Pray for the peace of Jerusalem. Those who love you will prosper.",
+        "7": "Peace be within your walls, and prosperity within your palaces.",
+        "8": "For my brothers’ and companions’ sakes, I will now say, “Peace be within you.”",
+        "9": "For the sake of the house of Yahweh our God, I will seek your good."
+      }
+    }
+  }
+}

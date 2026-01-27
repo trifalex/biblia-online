@@ -1,0 +1,72 @@
+{
+  "book": "Psalmi",
+  "chapter": "90",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, Tu ai fost locul nostru de adăpost din neam în neam.",
+        "2": "Înainte ca să se fi născut munții și înainte ca să se fi făcut pământul și lumea, din veșnicie în veșnicie, Tu ești Dumnezeu!",
+        "3": "Tu întorci pe oameni în țărână și zici: „Întoarceți-vă, fiii oamenilor!”",
+        "4": "Căci înaintea Ta, o mie de ani sunt ca ziua de ieri, care a trecut, și ca o strajă din noapte.",
+        "5": "Îi mături ca un vis: dimineața sunt ca iarba, care încolțește iarăși:",
+        "6": "înflorește dimineața și crește, iar seara este tăiată și se usucă.",
+        "7": "Noi suntem mistuiți de mânia Ta și îngroziți de urgia Ta.",
+        "8": "Tu pui înaintea Ta nelegiuirile noastre și scoți la lumina Feței Tale păcatele noastre cele ascunse.",
+        "9": "Toate zilele noastre pier de urgia Ta, vedem cum ni se duc anii ca un sunet.",
+        "10": "Anii vieții noastre se ridică la șaptezeci de ani, iar, pentru cei mai tari, la optzeci de ani; și lucrul cu care se mândrește omul în timpul lor nu este decât trudă și durere, căci trec iute, și noi zburăm.",
+        "11": "Dar cine ia seama la tăria mâniei Tale și la urgia Ta, așa cum se cuvine să se teamă de Tine?",
+        "12": "Învață-ne să ne numărăm bine zilele, ca să căpătăm o inimă înțeleaptă!",
+        "13": "Întoarce-te, Doamne! Până când zăbovești? Ai milă de robii Tăi!",
+        "14": "Satură-ne în fiecare dimineață de bunătatea Ta și toată viața noastră ne vom bucura și ne vom veseli!",
+        "15": "Înveselește-ne tot atâtea zile câte ne-ai smerit, tot atâția ani câți am văzut nenorocirea!",
+        "16": "Să se arate robilor Tăi lucrarea Ta și slava Ta fiilor lor!",
+        "17": "Fie peste noi bunăvoința Domnului Dumnezeului nostru! Și întărește lucrarea mâinilor noastre, da, întărește lucrarea mâinilor noastre!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Stăpâne, Tu ai fost un adăpost pentru noi din generație în generație.",
+        "2": "Înainte ca să se fi născut munții, înainte ca Tu să fi plăsmuit pământul și lumea, din veșnicie în veșnicie, Tu ești Dumnezeu.",
+        "3": "Tu întorci pe oameni în țărână, spunându-le: „Întoarceți-vă, fii ai omului!“.",
+        "4": "Căci o mie de ani, în ochii Tăi, sunt ca ziua de ieri care a trecut, ca o strajă a nopții.",
+        "5": "Tu îi mături pe oameni ca prin somn; ei sunt ca iarba care răsare dimineața.",
+        "6": "Deși răsare dimineața, ea trece repede, așa încât seara este veștejită și se usucă.",
+        "7": "Suntem distruși de mânia Ta și îngroziți de furia Ta.",
+        "8": "Ai pus nelegiuirile noastre înaintea Ta și ai adus păcatele noastre ascunse la lumina feței Tale.",
+        "9": "Toate zilele noastre trec sub apăsarea mâniei Tale; anii noștri se sfârșesc repede, ca un oftat.",
+        "10": "Zilele anilor noștri ajung la șaptezeci, iar dacă avem putere – chiar până la optzeci. Cei mai mulți dintre ei sunt numai necaz și muncă grea, căci trec repede, iar noi zburăm.",
+        "11": "Cine cunoaște puterea mâniei Tale și furia Ta, care este la fel de mare ca teama de Tine?",
+        "12": "Învață-ne să ne numărăm bine zilele, ca să avem parte de o inimă înțeleaptă!",
+        "13": "Întoarce-Te, Doamne! Până când…? Ai milă de slujitorii Tăi!",
+        "14": "Satură-ne dimineața cu îndurarea Ta, iar noi vom striga de bucurie și ne vom veseli în toate zilele noastre.",
+        "15": "Înveselește-ne pentru tot atâtea zile în care ne-ai asuprit și pentru tot atâția ani în care am văzut nenorocirea!",
+        "16": "Să se arate slujitorilor Tăi lucrarea Ta și măreția Ta fiilor lor!",
+        "17": "Fie peste noi bunăvoința Stăpânului, Dumnezeul nostru. Consolidează lucrarea mâinilor noastre! Da, consolidează lucrarea mâinilor noastre!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Lord, you have been our dwelling place for all generations.",
+        "2": "Before the mountains were born, before you had formed the earth and the world, even from everlasting to everlasting, you are God.",
+        "3": "You turn man to destruction, saying, “Return, you children of men.”",
+        "4": "For a thousand years in your sight are just like yesterday when it is past, like a watch in the night.",
+        "5": "You sweep them away as they sleep. In the morning they sprout like new grass.",
+        "6": "In the morning it sprouts and springs up. By evening, it is withered and dry.",
+        "7": "For we are consumed in your anger. We are troubled in your wrath.",
+        "8": "You have set our iniquities before you, our secret sins in the light of your presence.",
+        "9": "For all our days have passed away in your wrath. We bring our years to an end as a sigh.",
+        "10": "The days of our years are seventy, or even by reason of strength eighty years; yet their pride is but labor and sorrow, for it passes quickly, and we fly away.",
+        "11": "Who knows the power of your anger, your wrath according to the fear that is due to you?",
+        "12": "So teach us to count our days, that we may gain a heart of wisdom.",
+        "13": "Relent, Yahweh! How long? Have compassion on your servants!",
+        "14": "Satisfy us in the morning with your loving kindness, that we may rejoice and be glad all our days.",
+        "15": "Make us glad for as many days as you have afflicted us, for as many years as we have seen evil.",
+        "16": "Let your work appear to your servants, your glory to their children.",
+        "17": "Let the favor of the Lord our God be on us. Establish the work of our hands for us. Yes, establish the work of our hands."
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "111",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Voi lăuda pe Domnul din toată inima mea, în tovărășia oamenilor fără prihană și în adunare.",
+        "2": "Mari sunt lucrările Domnului, cercetate de toți cei ce le iubesc!",
+        "3": "Strălucire și măreție este lucrarea Lui, și dreptatea Lui ține în veci!",
+        "4": "El a lăsat o aducere aminte a minunilor Lui; Domnul este îndurător și milostiv.",
+        "5": "El a dat hrană celor ce se tem de El; El Își aduce pururea aminte de legământul Lui.",
+        "6": "El a arătat poporului Său puterea lucrărilor Lui, căci le-a dat moștenirea neamurilor.",
+        "7": "Lucrările mâinilor Lui sunt credincioșie și dreptate; toate poruncile Lui sunt adevărate,",
+        "8": "întărite pentru veșnicie, făcute cu credincioșie și neprihănire.",
+        "9": "A trimis poporului Său izbăvirea, a așezat legământul Său în veci; Numele Lui este sfânt și înfricoșat.",
+        "10": "Frica de Domnul este începutul înțelepciunii; toți cei ce o păzesc au o minte sănătoasă și slava Lui ține în veci."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Îi voi mulțumi Domnului din toată inima mea, în adunarea celor drepți și în comunitate!",
+        "2": "Mari sunt lucrările Domnului; ele sunt cercetate de toți cei ce găsesc plăcere în ele.",
+        "3": "Plină de măreție și splendoare este lucrarea Lui, iar dreptatea Lui rămâne pe vecie.",
+        "4": "El a făcut minuni care vor rămâne în amintire. Domnul este plin de har și milostiv!",
+        "5": "El dă hrană celor ce se tem de El; El Își aduce întotdeauna aminte de legământul Său.",
+        "6": "El a arătat poporului Său puterea lucrărilor Sale, dându-i ca moștenire posesiunile națiunilor.",
+        "7": "Lucrările mâinilor Lui sunt credincioșie și dreptate; toate reglementările Lui sunt demne de încredere,",
+        "8": "sunt consolidate pe veci de veci, fiind făcute în credincioșie și dreptate.",
+        "9": "El a trimis poporului Său răscumpărarea; Și-a decretat legământul pe vecie. Sfânt și de temut este Numele Lui!",
+        "10": "Teama de Domnul este începutul înțelepciunii. Toți cei ce păzesc reglementările Lui au un discernământ bun. Lauda Lui rămâne pe vecie."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yah! I will give thanks to Yahweh with my whole heart, in the council of the upright, and in the congregation.",
+        "2": "Yahweh’s works are great, pondered by all those who delight in them.",
+        "3": "His work is honor and majesty. His righteousness endures forever.",
+        "4": "He has caused his wonderful works to be remembered. Yahweh is gracious and merciful.",
+        "5": "He has given food to those who fear him. He always remembers his covenant.",
+        "6": "He has shown his people the power of his works, in giving them the heritage of the nations.",
+        "7": "The works of his hands are truth and justice. All his precepts are sure.",
+        "8": "They are established forever and ever. They are done in truth and uprightness.",
+        "9": "He has sent redemption to his people. He has ordained his covenant forever. His name is holy and awesome!",
+        "10": "The fear of Yahweh is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever!"
+      }
+    }
+  }
+}

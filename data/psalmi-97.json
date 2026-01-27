@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "97",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul împărățește: să se veselească pământul și să se bucure ostroavele cele multe!",
+        "2": "Norii și negura Îl înconjoară, dreptatea și judecata sunt temelia scaunului Său de domnie.",
+        "3": "Înaintea Lui merge focul și arde de jur împrejur pe potrivnicii Lui.",
+        "4": "Fulgerele Lui luminează lumea: pământul Îl vede și se cutremură.",
+        "5": "Munții se topesc ca ceara înaintea Domnului, înaintea Domnului întregului pământ.",
+        "6": "Cerurile vestesc dreptatea Lui și toate popoarele văd slava Lui.",
+        "7": "Sunt rușinați toți cei ce slujesc icoanelor și care se fălesc cu idolii: toți dumnezeii se închină înaintea Lui.",
+        "8": "Sionul aude lucrul acesta și se bucură, se veselesc fiicele lui Iuda de judecățile Tale, Doamne!",
+        "9": "Căci Tu, Doamne, Tu ești Cel Preaînalt peste tot pământul, Tu ești preaînălțat, mai presus de toți dumnezeii.",
+        "10": "Urâți răul, cei ce iubiți pe Domnul! El păzește sufletele credincioșilor Lui și-i izbăvește din mâna celor răi.",
+        "11": "Lumina este semănată pentru cel neprihănit și bucuria, pentru cei cu inima curată.",
+        "12": "Neprihăniților, bucurați-vă în Domnul și măriți prin laudele voastre sfințenia Lui!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Domnul împărățește! Să se înveselească pământul și să se bucure insulele cele multe!",
+        "2": "Norii și negura Îl înconjoară, dreptatea și judecata sunt temelia tronului Său.",
+        "3": "Înaintea Lui merge focul, arzându-i pe dușmanii Lui dimprejur.",
+        "4": "Fulgerele Lui luminează lumea, pământul vede și se cutremură.",
+        "5": "Munții se topesc precum ceara înaintea Domnului, înaintea Stăpânului întregului pământ.",
+        "6": "Cerurile vestesc dreptatea Lui, și toate popoarele văd gloria Lui.",
+        "7": "Sunt făcuți de rușine toți cei ce slujesc chipurilor cioplite și cei ce se laudă cu idolii. Toți dumnezeii să se închine înaintea Lui!",
+        "8": "Sionul aude și se bucură, se veselesc fiicele lui Iuda datorită judecăților Tale, Doamne!",
+        "9": "Căci Tu, Doamne, ești Cel Preaînalt peste întreg pământul; Tu ești înălțat mai presus de toți dumnezeii!",
+        "10": "Cei ce-L iubiți pe Domnul, urâți răul! El păzește sufletele credincioșilor Săi și îi salvează din mâna celor răi.",
+        "11": "Lumina este semănată pentru cel drept, și bucuria – pentru cel cu inima dreaptă.",
+        "12": "Bucurați-vă în Domnul, voi, cei drepți! Mulțumiți-I, amintindu-vă de sfințenia Lui!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh reigns! Let the earth rejoice! Let the multitude of islands be glad!",
+        "2": "Clouds and darkness are around him. Righteousness and justice are the foundation of his throne.",
+        "3": "A fire goes before him, and burns up his adversaries on every side.",
+        "4": "His lightning lights up the world. The earth sees, and trembles.",
+        "5": "The mountains melt like wax at the presence of Yahweh, at the presence of the Lord of the whole earth.",
+        "6": "The heavens declare his righteousness. All the peoples have seen his glory.",
+        "7": "Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!",
+        "8": "Zion heard and was glad. The daughters of Judah rejoiced because of your judgments, Yahweh.",
+        "9": "For you, Yahweh, are most high above all the earth. You are exalted far above all gods.",
+        "10": "You who love Yahweh, hate evil! He preserves the souls of his saints. He delivers them out of the hand of the wicked.",
+        "11": "Light is sown for the righteous, and gladness for the upright in heart.",
+        "12": "Be glad in Yahweh, you righteous people! Give thanks to his holy Name."
+      }
+    }
+  }
+}

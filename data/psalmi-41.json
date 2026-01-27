@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "41",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ferice de cel ce îngrijește de cel sărac, căci în ziua nenorocirii Domnul îl izbăvește;",
+        "2": "Domnul îl păzește și-l ține în viață. El este fericit pe pământ și nu-l lași la bunul plac al vrăjmașilor lui.",
+        "3": "Domnul îl sprijină când este pe patul de suferință: îi ușurezi durerile în toate bolile lui.",
+        "4": "Eu zic: „Doamne, ai milă de mine! Vindecă-mi sufletul, căci am păcătuit împotriva Ta!”",
+        "5": "Vrăjmașii mei zic cu răutate despre mine: „Când va muri? Când îi va pieri numele?”",
+        "6": "Dacă vine cineva să mă vadă, vorbește neadevăruri, strânge temeiuri ca să mă vorbească de rău; și când pleacă, mă vorbește de rău pe afară.",
+        "7": "Toți vrăjmașii mei șoptesc între ei împotriva mea și cred că nenorocirea mea îmi va aduce pieirea.",
+        "8": "„Este atins rău de tot”, zic ei, „iată-l culcat, n-are să se mai scoale!”",
+        "9": "Chiar și acela cu care trăiam în pace, în care îmi puneam încrederea și care mânca din pâinea mea, ridică și el călcâiul împotriva mea.",
+        "10": "Dar Tu, Doamne, ai milă de mine și ridică-mă, ca să le răsplătesc cum li se cuvine!",
+        "11": "Prin aceasta voi cunoaște că mă iubești, dacă nu mă va birui vrăjmașul meu.",
+        "12": "Tu m-ai sprijinit din pricina neprihănirii mele și m-ai așezat pe vecie înaintea Ta.",
+        "13": "Binecuvântat să fie Domnul Dumnezeul lui Israel, din veșnicie în veșnicie! Amin! Amin!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ferice de omul care are grijă de cel sărman; Domnul îl va scăpa în ziua cea rea.",
+        "2": "Domnul îl va păzi și-l va ține în viață. El va fi numit binecuvântat în țară. Să nu-l lași la bunul plac al dușmanilor lui!",
+        "3": "Domnul îl va sprijini când va fi pe patul de suferință. Tu îl vei vindeca complet de boala lui.",
+        "4": "Cât despre mine, eu am zis: „Doamne, arată-Ți bunăvoința față de mine!“. Vindecă-mi sufletul, căci am păcătuit împotriva Ta!",
+        "5": "Dușmanii mei vorbesc despre mine cu răutate, zicând: „Când va muri și-i va pieri numele?“.",
+        "6": "Chiar dacă vine vreunul să mă vadă, vorbește cu prefăcătorie, în timp ce adună nelegiuire în inima lui. Apoi, când iese afară, mă vorbește pe la spate.",
+        "7": "Toți cei ce mă urăsc, șușotesc împreună împotriva mea, plănuiesc ce este rău pentru mine.",
+        "8": "„Ceva rău a fost turnat împotriva lui! Nu se va mai ridica din locul în care s-a culcat!“.",
+        "9": "Chiar și prietenul apropiat în care m-am încrezut, cel ce mănâncă pâinea mea, și-a ridicat călcâiul împotriva mea.",
+        "10": "Tu însă, Doamne, arată-Ți bunăvoința față de mine! Ridică-mă, ca să le dau răsplata cuvenită!",
+        "11": "Prin aceasta știu că-Ți găsești plăcerea în mine, căci dușmanul meu nu triumfă asupra mea.",
+        "12": "Tu mă sprijini în integritatea mea și mă faci să stau în prezența Ta pe vecie.",
+        "13": "Binecuvântat să fie Domnul, Dumnezeul lui Israel, din veșnicie în veșnicie. Amin! Amin!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Blessed is he who considers the poor. Yahweh will deliver him in the day of evil.",
+        "2": "Yahweh will preserve him, and keep him alive. He shall be blessed on the earth, and he will not surrender him to the will of his enemies.",
+        "3": "Yahweh will sustain him on his sickbed, and restore him from his bed of illness.",
+        "4": "I said, “Yahweh, have mercy on me! Heal me, for I have sinned against you.”",
+        "5": "My enemies speak evil against me: “When will he die, and his name perish?”",
+        "6": "If he comes to see me, he speaks falsehood. His heart gathers iniquity to itself. When he goes abroad, he tells it.",
+        "7": "All who hate me whisper together against me. They imagine the worst for me.",
+        "8": "“An evil disease”, they say, “has afflicted him. Now that he lies he shall rise up no more.”",
+        "9": "Yes, my own familiar friend, in whom I trusted, who ate bread with me, has lifted up his heel against me.",
+        "10": "But you, Yahweh, have mercy on me, and raise me up, that I may repay them.",
+        "11": "By this I know that you delight in me, because my enemy doesn’t triumph over me.",
+        "12": "As for me, you uphold me in my integrity, and set me in your presence forever.",
+        "13": "Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen."
+      }
+    }
+  }
+}

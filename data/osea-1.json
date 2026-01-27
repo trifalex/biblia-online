@@ -1,0 +1,54 @@
+{
+  "book": "Osea",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cuvântul Domnului, spus lui Osea, fiul lui Beeri, pe vremea lui Ozia, Iotam, Ahaz, Ezechia, împărații lui Iuda, și pe vremea lui Ieroboam, fiul lui Ioas, împăratul lui Israel.",
+        "2": "Întâia dată când a vorbit Domnul către Osea, Domnul a zis lui Osea: „Du-te și ia-ți o nevastă curvă și copii din curvie, căci țara a săvârșit o mare curvie, părăsind pe Domnul!”",
+        "3": "El s-a dus și a luat pe Gomera, fiica lui Diblaim. Ea a zămislit și i-a născut un fiu.",
+        "4": "Și Domnul i-a zis: „Pune-i numele Izreel, căci, peste puțină vreme, voi pedepsi casa lui Iehu pentru sângele vărsat la Izreel și voi pune capăt domniei lui peste casa lui Israel.",
+        "5": "În ziua aceea, voi sfărâma arcul lui Israel în valea Izreel.”",
+        "6": "Ea a zămislit din nou și a născut o fată. Și Domnul a zis lui Osea: „Pune-i numele Lo-Ruhama (Cea fără îndurare); căci nu voi mai avea milă de casa lui Israel, n-o voi mai ierta!",
+        "7": "Dar voi avea milă de casa lui Iuda și-i voi izbăvi prin Domnul Dumnezeul lor, dar nu-i voi izbăvi nici prin arc, nici prin sabie, nici prin lupte, nici prin cai, nici prin călăreți.”",
+        "8": "Ea a înțărcat pe Lo-Ruhama, apoi iar a zămislit și a născut un fiu.",
+        "9": "Și Domnul a zis: „Pune-i numele Lo-Ami (Nu-i poporul meu), căci voi nu sunteți poporul Meu și Eu nu voi fi Dumnezeul vostru.",
+        "10": "Totuși numărul copiilor lui Israel va fi ca nisipul mării, care nu se poate nici măsura, nici număra, și de unde li se zicea: ‘Nu sunteți poporul Meu’, li se va zice: ‘Copiii Dumnezeului celui viu!’",
+        "11": "Atunci, copiii lui Iuda și copiii lui Israel se vor strânge la un loc, își vor pune o singură căpetenie și vor ieși din țară, căci mare va fi ziua lui Izreel."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Acesta este Cuvântul Domnului care i-a fost spus lui Osea, fiul lui Beeri, pe vremea lui Uzia, Iotam, Ahaz și Ezechia, regii lui Iuda, și pe vremea lui Ieroboam, fiul lui Iehoaș, regele lui Israel. Soția și copiii lui Osea",
+        "2": "Când Domnul a vorbit la început prin Osea, Domnul i-a zis acestuia: „Du-te și ia-ți de soție o prostituată care să-ți nască copii, căci țara s-a prostituat mult, părăsindu-L pe Domnul“.",
+        "3": "El s-a dus și a luat-o de soție pe Gomera, fata lui Diblaim. Ea a rămas însărcinată și i-a născut un fiu.",
+        "4": "Domnul i-a zis lui Osea: „Pune-i numele Izreel, căci peste puțin timp voi pedepsi Casa lui Iehu pentru sângele vărsat la Izreel și voi pune capăt regatului Casei lui Israel.",
+        "5": "În ziua aceea, voi rupe arcul lui Israel în Valea Izreel“.",
+        "6": "Ea a rămas din nou însărcinată și a născut o fată. Domnul i-a zis lui Osea: „Pune-i numele Lo-Ruhama, căci nu voi mai avea milă de cei din Casa lui Israel, nu-i voi mai ierta.",
+        "7": "Totuși, voi avea milă de cei din Casa lui Iuda și-i voi salva doar prin Domnul Dumnezeul lor. Nu-i voi salva nici prin arc, nici prin sabie, nici prin luptă și nici prin cai sau călăreți“.",
+        "8": "După ce a înțărcat-o pe Lo-Ruhama, Gomera a rămas din nou însărcinată și a născut un fiu.",
+        "9": "Domnul i-a zis lui Osea: „Pune-i numele Lo-Ammi, căci voi nu sunteți poporul Meu, iar Eu nu sunt Dumnezeul vostru.",
+        "10": "Totuși, numărul fiilor lui Israel va fi ca nisipul mării, care nu poate fi nici măsurat, nici numărat. Și în locul unde li s-a spus: «Voi nu sunteți poporul Meu!», acolo vor fi numiți «fii ai Dumnezeului celui Viu».",
+        "11": "Fiii lui Iuda vor fi aduși împreună cu fiii lui Israel, își vor pune o singură căpetenie și vor ieși din țară, căci mare va fi ziua lui Izreel!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+        "2": "When Yahweh spoke at first by Hosea, Yahweh said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking Yahweh.”",
+        "3": "So he went and took Gomer the daughter of Diblaim; and she conceived, and bore him a son.",
+        "4": "Yahweh said to him, “Call his name Jezreel, for yet a little while, and I will avenge the blood of Jezreel on the house of Jehu, and will cause the kingdom of the house of Israel to cease.",
+        "5": "It will happen in that day that I will break the bow of Israel in the valley of Jezreel.”",
+        "6": "She conceived again, and bore a daughter. Then he said to him, “Call her name Lo-Ruhamah, for I will no longer have mercy on the house of Israel, that I should in any way pardon them.",
+        "7": "But I will have mercy on the house of Judah, and will save them by Yahweh their God, and will not save them by bow, sword, battle, horses, or horsemen.”",
+        "8": "Now when she had weaned Lo-Ruhamah, she conceived, and bore a son.",
+        "9": "He said, “Call his name Lo-Ammi, for you are not my people, and I will not be yours.",
+        "10": "Yet the number of the children of Israel will be as the sand of the sea, which can’t be measured or counted; and it will come to pass that, in the place where it was said to them, ‘You are not my people,’ they will be called ‘sons of the living God.’",
+        "11": "The children of Judah and the children of Israel will be gathered together, and they will appoint themselves one head, and will go up from the land; for great will be the day of Jezreel."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "84",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cât de plăcute sunt locașurile Tale, Doamne al oștirilor!",
+        "2": "Sufletul meu suspină și tânjește de dor după curțile Domnului, inima și carnea mea strigă către Dumnezeul cel viu!",
+        "3": "Până și pasărea își găsește o casă acolo și rândunica, un cuib unde își pune puii… Ah, altarele Tale, Doamne al oștirilor, Împăratul meu și Dumnezeul meu!",
+        "4": "Ferice de cei ce locuiesc în Casa Ta, căci ei tot mai pot să Te laude!",
+        "5": "Ferice de cei ce-și pun tăria în Tine, în a căror inimă locuiește încrederea!",
+        "6": "Când străbat aceștia Valea Plângerii, o prefac într-un loc plin de izvoare și ploaia timpurie o acoperă cu binecuvântări.",
+        "7": "Ei merg din putere în putere și se înfățișează înaintea lui Dumnezeu în Sion.",
+        "8": "Doamne, Dumnezeul oștirilor, ascultă rugăciunea mea! Ia aminte, Dumnezeul lui Iacov!",
+        "9": "Tu, care ești scutul nostru, vezi, Dumnezeule, și privește fața unsului Tău!",
+        "10": "Căci mai mult face o zi în curțile Tale decât o mie în altă parte; eu vreau mai bine să stau în pragul Casei Dumnezeului meu decât să locuiesc în corturile răutății!",
+        "11": "Căci Domnul Dumnezeu este un soare și un scut, Domnul dă îndurare și slavă și nu lipsește de niciun bine pe cei ce duc o viață fără prihană.",
+        "12": "Doamne al oștirilor, ferice de omul care se încrede în Tine!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cât de plăcute sunt locuințele Tale, Doamne al Oștirilor!",
+        "2": "Sufletul meu tânjește și se topește de dor după curțile Domnului. Inima și trupul meu strigă de bucurie către Dumnezeul cel Viu.",
+        "3": "Chiar și pasărea își găsește o casă, chiar și rândunica își găsește un cuib pentru ea, un loc unde să-și pună puii, un loc la altarele Tale, Doamne al Oștirilor, Împăratul meu și Dumnezeul meu!",
+        "4": "Ferice de cei ce locuiesc în Casa Ta! Ei Te laudă tot timpul.",
+        "5": "Ferice de omul a cărui putere este în Tine! Drumurile spre Sion se află în inima lor.",
+        "6": "Când străbat ei Valea Plângerii, o transformă într-un izvor. Ploaia timpurie o acoperă, de asemenea, cu binecuvântări.",
+        "7": "Ei merg din putere în putere și se înfățișează înaintea lui Dumnezeu, în Sion.",
+        "8": "Doamne, Dumnezeul Oștirilor, ascultă-mi rugăciunea! Ascultă-mă cu atenție, Dumnezeu al lui Iacov!",
+        "9": "Dumnezeule, uită-Te la scutul nostru! Privește la fața unsului Tău!",
+        "10": "Căci mai bine o zi în curțile Tale, decât o mie în altă parte! Am ales să stau în pragul Casei Dumnezeului meu, decât să locuiesc în corturile răutății.",
+        "11": "Căci Domnul Dumnezeu este soare și scut; El arată bunăvoință și oferă glorie. Nu lipsește de niciun bine pe cei ce umblă cu integritate.",
+        "12": "Doamne al Oștirilor, ferice de omul care se încrede în Tine!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "How lovely are your dwellings, Yahweh of Armies!",
+        "2": "My soul longs, and even faints for the courts of Yahweh. My heart and my flesh cry out for the living God.",
+        "3": "Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, Yahweh of Armies, my King, and my God.",
+        "4": "Blessed are those who dwell in your house. They are always praising you.",
+        "5": "Blessed are those whose strength is in you, who have set their hearts on a pilgrimage.",
+        "6": "Passing through the valley of Weeping, they make it a place of springs. Yes, the autumn rain covers it with blessings.",
+        "7": "They go from strength to strength. Every one of them appears before God in Zion.",
+        "8": "Yahweh, God of Armies, hear my prayer. Listen, God of Jacob.",
+        "9": "Behold, God our shield, look at the face of your anointed.",
+        "10": "For a day in your courts is better than a thousand. I would rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.",
+        "11": "For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly.",
+        "12": "Yahweh of Armies, blessed is the man who trusts in you."
+      }
+    }
+  }
+}

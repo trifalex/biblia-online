@@ -1,0 +1,84 @@
+{
+    "book": "Isaia",
+    "chapter": "57",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Piere cel neprihănit, și nimănui nu-i pasă; se duc oamenii de bine, și nimeni nu ia aminte că din pricina răutății este luat cel neprihănit.",
+                "2": "El intră în pace în groapa lui: cel ce umblă pe drumul cel drept se odihnește în culcușul lui.",
+                "3": "„Dar voi apropiați-vă încoace, fii ai vrăjitoarei, sămânța preacurvarului și a curvei!",
+                "4": "De cine vă bateți voi joc? Împotriva cui vă deschideți voi gura larg și scoateți limba? Nu sunteți voi niște copii ai păcatului, o sămânță a minciunii,",
+                "5": "care se încălzește pentru idoli sub orice copac verde, care înjunghie pe copii în văi, sub crăpăturile stâncilor?",
+                "6": "În pietrele lustruite din pâraie este partea ta de moștenire, ele sunt soarta ta; lor le torni și jertfe de băutură și le aduci daruri de mâncare. Pot Eu să fiu nesimțitor la lucrul acesta?",
+                "7": "Pe un munte înalt și ridicat îți faci culcușul; tot acolo te sui să aduci jertfe.",
+                "8": "Îți pui pomenirea în dosul ușii și ușorilor, căci, departe de Mine, îți ridici învelitoarea și te sui în pat, îți lărgești culcușul și faci legământ cu ei; îți place legătura cu ei și iei seama la semnul lor.",
+                "9": "Te duci la împărat cu untdelemn, îți înmulțești miresmele, îți trimiți solii departe și te pleci până la Locuința morților.",
+                "10": "Obosești mergând și nu zici: ‘Încetez!’ Tot mai găsești putere în mâna ta, de aceea nu te doboară întristarea.",
+                "11": "Și de cine te sfiai, de cine te temeai, de nu Mi-ai fost credincioasă, de nu ți-ai adus aminte și nu ți-a păsat de Mine? Și Eu tac, și încă de multă vreme, de aceea nu te temi tu de Mine.",
+                "12": "Dar acum îți voi da pe față neprihănirea, și faptele tale nu-ți vor folosi!",
+                "13": "Și atunci să strigi și să te izbăvească mulțimea idolilor tăi! Căci îi va lua vântul pe toți, o suflare îi va ridica. Dar cel ce se încrede în Mine va moșteni țara și va stăpâni muntele Meu cel sfânt.”",
+                "14": "Și El zice: „Croiți, croiți drum, pregătiți calea, luați orice piedică din calea poporului Meu!”",
+                "15": "Căci așa vorbește Cel Preaînalt, a cărui locuință este veșnică și al cărui Nume este sfânt: „Eu locuiesc în locuri înalte și în sfințenie, dar sunt cu omul zdrobit și smerit, ca să înviorez duhurile smerite și să îmbărbătez inimile zdrobite.",
+                "16": "Nu vreau să cert în veci, nici să țin o mânie necurmată, când înaintea Mea cad în leșin duhurile și sufletele pe care le-am făcut.",
+                "17": "Din pricina păcatului lăcomiei lui M-am mâniat și l-am lovit, M-am ascuns, în supărarea Mea, și cel răzvrătit a urmat și mai mult pe căile inimii lui.",
+                "18": "I-am văzut căile, și totuși îl voi tămădui; îl voi călăuzi și-l voi mângâia, pe el și pe cei ce plâng împreună cu el.",
+                "19": "Voi pune lauda pe buze: Pace, pace celui de departe și celui de aproape!”, zice Domnul. „Da, Eu îl voi tămădui!",
+                "20": "Dar cei răi sunt ca marea înfuriată, care nu se poate liniști și ale cărei ape aruncă afară noroi și mâl.",
+                "21": "Cei răi n-au pace”, zice Dumnezeul meu."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Cel drept piere și nimănui nu-i pasă. Oamenii devotați sunt luați, pentru a fi cruțați de nenorocire.",
+                "2": "Cei ce umblă drept și se vor odihni în culcușurile lor.",
+                "3": "„Cât despre voi, veniți încoace, fii de prezicătoare, sămânță din bărbat adulter și femeie prostituată!",
+                "4": "De cine vă bateți joc? și scoateți limba? Nu sunteți decât niște copii ai fărădelegii, sămânță a minciunii,",
+                "5": "care vă aprindeți de poftă printre stejari și sub orice copac verde, care vă sacrificați copiii în văi, printre crăpăturile stâncilor.",
+                "6": "Idolii dintre pietrele netede ale pârâului sunt moștenirea ta; ei, da, ei sunt soarta ta. și le aduci daruri de mâncare. la vederea acestor fapte?",
+                "7": "Ți-ai așezat patul pe un munte înalt și semeț și acolo te-ai urcat ca să aduci jertfă.",
+                "8": "În spatele ușii și al unuia din stâlpii ei ți-ai așezat aducerea-aminte. Căci, uitând de Mine, ți-ai dezvelit patul, te-ai urcat în el și l-ai lărgit. Ai făcut legământ cu ei, le-ai iubit patul, ai privit goliciunea.",
+                "9": "Ai călătorit până la rege cu ulei, ți-ai înmulțit parfumurile, ți-ai trimis ambasadori până departe, i-ai trimis chiar până în Locuința Morților.",
+                "10": "Ai obosit de atâta drum, dar nu zici: «Renunț!». și de aceea nu ești sleit.",
+                "11": "De cine te-ai înspăimântat și te-ai temut atât încât să minți, și să nu-ți pese? și de aceea nu te temi de Mine.",
+                "12": "Voi face cunoscute însă dreptatea ta și faptele tale, dar ele nu-ți vor fi de folos.",
+                "13": "Când vei striga după ajutor, să te scape grămezile tale de idoli! Pe toți îi va duce însă vântul, îi va lua o suflare. și va stăpâni muntele Meu cel sfânt“.",
+                "14": "Se va zice: „Construiți! Construiți! Pregătiți calea! Înlăturați orice obstacol din calea poporului Meu!“.",
+                "15": "Căci așa vorbește Cel Măreț și Înălțat, Cel Ce trăiește veșnic și al Cărui Nume este sfânt: „Eu locuiesc într-un loc înalt și sfânt, dar sunt și cu cel zdrobit și smerit în duh, și să învigorez inimile celor zdrobiți.",
+                "16": "Nu voi certa pe vecie și nu voi fi pentru totdeauna mânios, ar leșina înaintea Mea.",
+                "17": "M-am mâniat pentru nelegiuirea câștigului său nedrept, l-am lovit și, de mânie, Mi-am ascuns fața. Dar el a continuat, răzvrătit, să umble pe calea inimii lui.",
+                "18": "I-am văzut căile, dar îl voi vindeca, îl voi călăuzi și-i voi aduce mângâiere, lui și celor ce-l bocesc.",
+                "19": "Voi fi Cel Ce creează rodul buzelor. Pace, pace celui de departe și celui de aproape“, zice Domnul. „Eu îl voi vindeca!",
+                "20": "Dar cei răi sunt ca marea agitată, și ale cărei valuri aruncă numai noroi și mâl.",
+                "21": "Pentru cei răi nu este pace“, zice Dumnezeul meu."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "The righteous perish, and no one lays it to heart. Merciful men are taken away, and no one considers that the righteous is taken away from the evil.",
+                "2": "He enters into peace. They rest in their beds, each one who walks in his uprightness.",
+                "3": "“But draw near here, you sons of a sorceress, you offspring of adulterers and prostitutes.",
+                "4": "Whom do you mock? and stick out your tongue? Aren’t you children of disobedience and offspring of falsehood,",
+                "5": "you who inflame yourselves among the oaks, under every green tree; who kill the children in the valleys, under the clefts of the rocks?",
+                "6": "Among the smooth stones of the valley is your portion. They, they are your lot. You have even poured a drink offering to them. You have offered an offering. Shall I be appeased for these things?",
+                "7": "On a high and lofty mountain you have set your bed. You also went up there to offer sacrifice.",
+                "8": "You have set up your memorial behind the doors and the posts, for you have exposed yourself to someone besides me, and have gone up. and made a covenant for yourself with them. You loved what you saw on their bed.",
+                "9": "You went to the king with oil, increased your perfumes, sent your ambassadors far off, and degraded yourself even to Sheol.",
+                "10": "You were wearied with the length of your ways; yet you didn’t say, ‘It is in vain.’ You found a reviving of your strength; therefore you weren’t faint.",
+                "11": "“Whom have you dreaded and feared, so that you lie, and have not remembered me, nor laid it to your heart? Haven’t I held my peace for a long time, and you don’t fear me?",
+                "12": "I will declare your righteousness; and as for your works, they will not benefit you.",
+                "13": "When you cry, let those whom you have gathered deliver you, but the wind will take them. A breath will carry them all away, but he who takes refuge in me will possess the land, and will inherit my holy mountain.”",
+                "14": "He will say, “Build up, build up, prepare the way! Remove the stumbling-block out of the way of my people.”",
+                "15": "For the high and lofty One who inhabits eternity, whose name is Holy, says: “I dwell in the high and holy place, with him also who is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite.",
+                "16": "For I will not contend forever, neither will I always be angry; for the spirit would faint before me, and the souls whom I have made.",
+                "17": "I was angry because of the iniquity of his covetousness and struck him. I hid myself and was angry; and he went on backsliding in the way of his heart.",
+                "18": "I have seen his ways, and will heal him. I will lead him also, and restore comforts to him and to his mourners.",
+                "19": "I create the fruit of the lips: Peace, peace, to him who is far off and to him who is near,” says Yahweh; “and I will heal them.”",
+                "20": "But the wicked are like the troubled sea; for it can’t rest and its waters cast up mire and mud.",
+                "21": "“There is no peace”, says my God, “for the wicked.”"
+            }
+        }
+    }
+}

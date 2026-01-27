@@ -1,0 +1,75 @@
+{
+  "book": "2 Corinteni",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ca unii care lucrăm împreună cu Dumnezeu, vă sfătuim să faceți așa ca să nu fi primit în zadar harul lui Dumnezeu.",
+        "2": "Căci El zice: „La vremea potrivită, te-am ascultat; în ziua mântuirii, te-am ajutat. Iată că acum este vremea potrivită; iată că acum este ziua mântuirii.”",
+        "3": "Noi nu dăm nimănui niciun prilej de poticnire, pentru ca slujba noastră să nu fie defăimată.",
+        "4": "Ci, în toate privințele, arătăm că suntem niște vrednici slujitori ai lui Dumnezeu, prin multă răbdare, în necazuri, în nevoi, în strâmtorări,",
+        "5": "în bătăi, în temnițe, în răscoale, în osteneli, în vegheri, în posturi;",
+        "6": "prin curăție, prin înțelepciune, prin îndelungă răbdare, prin bunătate, prin Duhul Sfânt, printr-o dragoste neprefăcută,",
+        "7": "prin cuvântul adevărului, prin puterea lui Dumnezeu, prin armele de lovire și de apărare pe care le dă neprihănirea;",
+        "8": "în slavă și în ocară, în vorbire de rău și în vorbire de bine. Suntem priviți ca niște înșelători, măcar că spunem adevărul;",
+        "9": "ca niște necunoscuți, măcar că suntem bine cunoscuți; ca unii care murim și iată că trăim; ca niște pedepsiți, măcar că nu suntem omorâți;",
+        "10": "ca niște întristați și totdeauna suntem veseli; ca niște săraci, și totuși îmbogățim pe mulți; ca neavând nimic, și totuși stăpânind toate lucrurile. Dragostea apostolului pentru ei",
+        "11": "Am dat drumul gurii față de voi, corintenilor! Ni s-a lărgit inima.",
+        "12": "Voi nu sunteți la strâmtoare în noi; dar inima voastră s-a strâns pentru noi.",
+        "13": "Faceți-ne și voi la fel: vă vorbesc ca unor copii ai mei – lărgiți-vă și voi! Credincioșii și necredincioșii",
+        "14": "Nu vă înjugați la un jug nepotrivit cu cei necredincioși. Căci ce legătură este între neprihănire și fărădelege? Sau cum poate sta împreună lumina cu întunericul?",
+        "15": "Ce înțelegere poate fi între Hristos și Belial? Sau ce legătură are cel credincios cu cel necredincios?",
+        "16": "Cum se împacă Templul lui Dumnezeu cu idolii? Căci noi suntem Templul Dumnezeului celui viu, cum a zis Dumnezeu: „Eu voi locui și voi umbla în mijlocul lor; Eu voi fi Dumnezeul lor și ei vor fi poporul Meu.”",
+        "17": "De aceea: „‘Ieșiți din mijlocul lor și despărțiți-vă de ei’, zice Domnul. ‘Nu vă atingeți de ce este necurat și vă voi primi.",
+        "18": "Eu vă voi fi Tată, și voi Îmi veți fi fii și fiice’, zice Domnul cel Atotputernic.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Așadar, lucrând împreună, vă îndemnăm, de asemenea, să nu primiți în zadar harul lui Dumnezeu.",
+        "2": "Căci El spune: „La vremea îndurării te-am ascultat și în ziua mântuirii te-am ajutat“. Iată că acum este vremea îndurării! Iată că acum este ziua mântuirii! Slujitorii lui Dumnezeu",
+        "3": "Noi nu punem niciun obstacol în calea nimănui, pentru ca slujba noastră să nu fie denigrată,",
+        "4": "ci în toate ne recomandăm pe noi înșine ca pe niște slujitori ai lui Dumnezeu, prin multă răbdare, în necazuri, în nevoi, în dificultăți,",
+        "5": "în bătăi, în închisori, în tulburări, în muncă, în nopți nedormite, în posturi,",
+        "6": "prin curăție, prin cunoaștere, prin îndelungă răbdare, prin bunătate, prin Duhul Sfânt, printr-o dragoste fără ipocrizie,",
+        "7": "prin Cuvântul adevărului, prin puterea lui Dumnezeu, prin armele dreptății, în mâna dreaptă și în mâna stângă,",
+        "8": "prin glorie și dezonoare, prin defăimare și vorbire de bine. Suntem priviți ca niște impostori, deși spunem adevărul;",
+        "9": "ca niște necunoscuți, deși suntem bine cunoscuți; ca unii care murim, deși iată că trăim; ca niște pedepsiți, deși nu suntem omorâți;",
+        "10": "ca niște întristați, deși ne bucurăm întotdeauna; ca niște săraci, deși îmbogățim pe mulți; ca neavând nimic, deși deținem toate lucrurile.",
+        "11": "Ni s-a deschis gura față de voi, corintenilor! Inima ne este larg deschisă!",
+        "12": "Noi nu avem rețineri față de voi, dar voi aveți rețineri în simțămintele voastre față de noi.",
+        "13": "Deci, la rândul vostru – vă vorbesc ca unor copii – deschideți-vă și voi larg inimile! Relația dintre credincioși și necredincioși",
+        "14": "Nu vă prindeți la jug cu cei necredincioși. Căci ce legătură este între dreptate și fărădelege? Sau ce părtășie are lumina cu întunericul?",
+        "15": "Ce acord are Cristos cu Beliar? Sau ce are în comun cel credincios cu cel necredincios?",
+        "16": "Ce înțelegere are Templul lui Dumnezeu cu idolii? Noi suntem Templul Dumnezeului celui Viu, așa cum a spus Dumnezeu: „Voi locui și voi umbla printre ei și voi fi Dumnezeul lor, iar ei vor fi poporul Meu“.",
+        "17": "De aceea, „Ieșiți din mijlocul lor și separați-vă! zice Domnul. Nu atingeți nimic necurat, iar Eu vă voi primi“.",
+        "18": "Și „Eu voi fi Tatăl vostru, iar voi veți fi fiii și fiicele Mele, zice Domnul cel Atotputernic“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Working together, we entreat also that you do not receive the grace of God in vain.",
+        "2": "For he says, “At an acceptable time I listened to you. In a day of salvation I helped you.” Behold, now is the acceptable time. Behold, now is the day of salvation.",
+        "3": "We give no occasion of stumbling in anything, that our service may not be blamed,",
+        "4": "but in everything commending ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,",
+        "5": "in beatings, in imprisonments, in riots, in labors, in watchings, in fastings,",
+        "6": "in pureness, in knowledge, in perseverance, in kindness, in the Holy Spirit, in sincere love,",
+        "7": "in the word of truth, in the power of God, by the armor of righteousness on the right hand and on the left,",
+        "8": "by glory and dishonor, by evil report and good report, as deceivers and yet true,",
+        "9": "as unknown and yet well known, as dying and behold—we live, as punished and not killed,",
+        "10": "as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing and yet possessing all things.",
+        "11": "Our mouth is open to you, Corinthians. Our heart is enlarged.",
+        "12": "You are not restricted by us, but you are restricted by your own affections.",
+        "13": "Now in return—I speak as to my children—you also open your hearts.",
+        "14": "Don’t be unequally yoked with unbelievers, for what fellowship do righteousness and iniquity have? Or what fellowship does light have with darkness?",
+        "15": "What agreement does Christ have with Belial? Or what portion does a believer have with an unbeliever?",
+        "16": "What agreement does a temple of God have with idols? For you are a temple of the living God. Even as God said, “I will dwell in them and walk in them. I will be their God and they will be my people.”",
+        "17": "Therefore “‘Come out from among them, and be separate,’ says the Lord. ‘Touch no unclean thing. I will receive you.",
+        "18": "I will be to you a Father. You will be to me sons and daughters,’ says the Lord Almighty.”"
+      }
+    }
+  }
+}

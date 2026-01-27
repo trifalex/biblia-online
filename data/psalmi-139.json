@@ -1,0 +1,93 @@
+{
+  "book": "Psalmi",
+  "chapter": "139",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, Tu mă cercetezi de aproape și mă cunoști,",
+        "2": "știi când stau jos și când mă scol și de departe îmi pătrunzi gândul.",
+        "3": "Știi când umblu și când mă culc și cunoști toate căile mele.",
+        "4": "Căci nu-mi ajunge cuvântul pe limbă, și Tu, Doamne, îl și cunoști în totul.",
+        "5": "Tu mă înconjori pe dinapoi și pe dinainte și-Ți pui mâna peste mine.",
+        "6": "O știință atât de minunată este mai presus de puterile mele: este prea înaltă ca s-o pot prinde.",
+        "7": "Unde mă voi duce departe de Duhul Tău și unde voi fugi departe de Fața Ta?",
+        "8": "Dacă mă voi sui în cer, Tu ești acolo; dacă mă voi culca în Locuința morților, iată-Te și acolo.",
+        "9": "Dacă voi lua aripile zorilor și mă voi duce să locuiesc la marginea mării,",
+        "10": "și acolo mâna Ta mă va călăuzi și dreapta Ta mă va apuca.",
+        "11": "Dacă voi zice: „Cel puțin întunericul mă va acoperi și se va face noapte lumina dimprejurul meu”,",
+        "12": "iată că nici chiar întunericul nu este întunecos pentru Tine, ci noaptea strălucește ca ziua și întunericul, ca lumina.",
+        "13": "Tu mi-ai întocmit rărunchii, Tu m-ai țesut în pântecele mamei mele:",
+        "14": "Te laud că sunt o făptură așa de minunată. Minunate sunt lucrările Tale și ce bine vede sufletul meu lucrul acesta!",
+        "15": "Trupul meu nu era ascuns de Tine când am fost făcut într-un loc tainic, țesut în chip ciudat, ca în adâncimile pământului.",
+        "16": "Când nu eram decât un plod fără chip, ochii Tăi mă vedeau și în cartea Ta erau scrise toate zilele care-mi erau rânduite, mai înainte de a fi fost vreuna din ele.",
+        "17": "Cât de nepătrunse mi se par gândurile Tale, Dumnezeule, și cât de mare este numărul lor!",
+        "18": "Dacă le număr, sunt mai multe decât boabele de nisip. Când mă trezesc, sunt tot cu Tine.",
+        "19": "O, Dumnezeule, de ai ucide pe cel rău! Depărtați-vă de la mine, oameni setoși de sânge!",
+        "20": "Ei vorbesc despre Tine în chip nelegiuit, Îți iau Numele ca să mintă, ei, vrăjmașii Tăi!",
+        "21": "Să nu urăsc eu, Doamne, pe cei ce Te urăsc și să nu-mi fie scârbă de cei ce se ridică împotriva Ta?",
+        "22": "Da, îi urăsc cu o ură desăvârșită; îi privesc ca pe vrăjmași ai mei.",
+        "23": "Cercetează-mă, Dumnezeule, și cunoaște-mi inima! Încearcă-mă și cunoaște-mi gândurile!",
+        "24": "Vezi dacă sunt pe o cale rea și du-mă pe calea veșniciei!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, Tu mă cercetezi și mă cunoști!",
+        "2": "Tu știi când stau jos și când mă ridic și, de departe, îmi cunoști gândurile.",
+        "3": "Tu știi când umblu și când mă culc, și toate căile mele îți sunt cunoscute.",
+        "4": "Căci nici nu-mi ajunge cuvântul pe limbă și iată că Tu, Doamne, îl și cunoști pe de-a-ntregul.",
+        "5": "Tu mă învălui pe dinapoi și pe dinainte și-Ți pui mâna peste mine.",
+        "6": "O asemenea cunoștință este prea minunată pentru mine: este atât de înaltă, încât nu o pot pricepe.",
+        "7": "Unde să plec dinaintea Duhului Tău, unde să fug dinaintea feței Tale?",
+        "8": "Dacă mă sui în cer, Tu ești acolo! Dacă îmi întind patul în Locuința Morților, iată-Te și acolo!",
+        "9": "Purtat de aripile zorilor, mă așez la capătul mării,",
+        "10": "dar și acolo mâna Ta mă conduce și dreapta Ta mă apucă.",
+        "11": "Dacă aș spune: „Sigur întunericul mă va ascunde, iar lumina dimprejurul meu se va schimba în noapte“,",
+        "12": "nici chiar întunericul nu este întunecos pentru Tine; noaptea luminează ca ziua, iar întunericul este ca lumina.",
+        "13": "Căci Tu mi-ai creat ființa; m-ai țesut în pântecul mamei mele.",
+        "14": "Îți mulțumesc că sunt o făptură atât de minunată. Minunate sunt lucrările Tale, și sufletul meu știe foarte bine lucrul acesta.",
+        "15": "Oasele mele nu erau ascunse de Tine când am fost creat într-un loc tainic, când am fost țesut în cele mai de jos locuri ale pământului.",
+        "16": "Când eram doar o făptură fără chip, ochii Tăi mă vedeau, mai înainte să existe vreuna dintre ele.",
+        "17": "Cât de greu de pătruns mi se par gândurile Tale, Dumnezeule! Cât de mare este numărul lor!",
+        "18": "Când le număr, sunt mai multe decât boabele de nisip. Când mă trezesc, sunt tot cu Tine.",
+        "19": "Dumnezeule, de l-ai ucide pe cel rău! Depărtați-vă de la mine oameni setoși de sânge!",
+        "20": "Ei, care vorbesc de Tine cu intenții rele, dușmanii Tăi, care Îți folosesc Numele ca să mintă!",
+        "21": "Să nu-i urăsc pe cei ce Te urăsc, Doamne? Să nu-mi fie scârbă de cei ce se ridică împotriva Ta?",
+        "22": "Îi urăsc cu o ură desăvârșită: pentru mine, ei sunt niște dușmani.",
+        "23": "Cercetează-mă, Dumnezeule, și cunoaște-mi inima, încearcă-mă și cunoaște-mi frământările!",
+        "24": "Vezi dacă sunt pe o cale idolatră și condu-mă pe calea veșniciei!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, you have searched me, and you know me.",
+        "2": "You know my sitting down and my rising up. You perceive my thoughts from afar.",
+        "3": "You search out my path and my lying down, and are acquainted with all my ways.",
+        "4": "For there is not a word on my tongue, but behold, Yahweh, you know it altogether.",
+        "5": "You hem me in behind and before. You laid your hand on me.",
+        "6": "This knowledge is beyond me. It’s lofty. I can’t attain it.",
+        "7": "Where could I go from your Spirit? Or where could I flee from your presence?",
+        "8": "If I ascend up into heaven, you are there. If I make my bed in Sheol, behold, you are there!",
+        "9": "If I take the wings of the dawn, and settle in the uttermost parts of the sea,",
+        "10": "even there your hand will lead me, and your right hand will hold me.",
+        "11": "If I say, “Surely the darkness will overwhelm me. The light around me will be night,”",
+        "12": "even the darkness doesn’t hide from you, but the night shines as the day. The darkness is like light to you.",
+        "13": "For you formed my inmost being. You knit me together in my mother’s womb.",
+        "14": "I will give thanks to you, for I am fearfully and wonderfully made. Your works are wonderful. My soul knows that very well.",
+        "15": "My frame wasn’t hidden from you, when I was made in secret, woven together in the depths of the earth.",
+        "16": "Your eyes saw my body. In your book they were all written, the days that were ordained for me, when as yet there were none of them.",
+        "17": "How precious to me are your thoughts, God! How vast is their sum!",
+        "18": "If I would count them, they are more in number than the sand. When I wake up, I am still with you.",
+        "19": "If only you, God, would kill the wicked. Get away from me, you bloodthirsty men!",
+        "20": "For they speak against you wickedly. Your enemies take your name in vain.",
+        "21": "Yahweh, don’t I hate those who hate you? Am I not grieved with those who rise up against you?",
+        "22": "I hate them with perfect hatred. They have become my enemies.",
+        "23": "Search me, God, and know my heart. Try me, and know my thoughts.",
+        "24": "See if there is any wicked way in me, and lead me in the everlasting way."
+      }
+    }
+  }
+}

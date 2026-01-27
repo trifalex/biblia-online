@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "61",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultă, Dumnezeule, strigătele mele, ia aminte la rugăciunea mea!",
+        "2": "De la capătul pământului strig către Tine cu inima mâhnită și zic: „Du-mă pe stânca pe care n-o pot ajunge, căci este prea înaltă pentru mine!”",
+        "3": "Căci Tu ești un adăpost pentru mine, un turn tare împotriva vrăjmașului.",
+        "4": "Aș vrea să locuiesc pe vecie în cortul Tău, să alerg la adăpostul aripilor Tale.",
+        "5": "Căci Tu, Dumnezeule, îmi asculți juruințele, Tu îmi dai moștenirea celor ce se tem de Numele Tău.",
+        "6": "Tu adaugi zile la zilele împăratului: lungească-i-se anii pe vecie!",
+        "7": "În veci să rămână el pe scaunul de domnie, înaintea lui Dumnezeu! Fă ca bunătatea și credincioșia Ta să vegheze asupra lui!",
+        "8": "Atunci voi cânta neîncetat Numele Tău și zi de zi îmi voi împlini juruințele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultă, Dumnezeule, strigătul meu! Ascultă cu atenție rugăciunea mea!",
+        "2": "Te chem de la capătul pământului cu inima mâhnită: „Condu-mă la o stâncă mai înaltă decât mine!“.",
+        "3": "Căci Tu ești un adăpost pentru mine, un turn tare împotriva dușmanului.",
+        "4": "Aș vrea să locuiesc în cortul Tău pe vecie, să mă adăpostesc sub învelișul aripilor Tale.",
+        "5": "Căci Tu, Dumnezeule, mi-ai ascultat jurămintele; Tu mi-ai dat moștenirea celor ce se tem de Numele Tău.",
+        "6": "Adaugă zile la zilele regelui! Anii lui să-i fie ca ai multor generații!",
+        "7": "Să troneze veșnic în prezența lui Dumnezeu! Fă ca îndurarea și credincioșia să vegheze asupra lui!",
+        "8": "Atunci voi cânta spre lauda Numelui Tău întotdeauna și-mi voi împlini jurămintele zi de zi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear my cry, God. Listen to my prayer.",
+        "2": "From the end of the earth, I will call to you when my heart is overwhelmed. Lead me to the rock that is higher than I.",
+        "3": "For you have been a refuge for me, a strong tower from the enemy.",
+        "4": "I will dwell in your tent forever. I will take refuge in the shelter of your wings.",
+        "5": "For you, God, have heard my vows. You have given me the heritage of those who fear your name.",
+        "6": "You will prolong the king’s life. His years will be for generations.",
+        "7": "He shall be enthroned in God’s presence forever. Appoint your loving kindness and truth, that they may preserve him.",
+        "8": "So I will sing praise to your name forever, that I may fulfill my vows daily."
+      }
+    }
+  }
+}

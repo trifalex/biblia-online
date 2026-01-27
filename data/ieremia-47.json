@@ -1,0 +1,42 @@
+{
+    "book": "Ieremia",
+    "chapter": "47",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Iată Cuvântul Domnului spus prorocului Ieremia cu privire la filisteni, înainte ca Faraon să bată Gaza:",
+                "2": "„Așa vorbește Domnul: ‘Iată, se ridică niște ape de la miazănoapte, cresc ca un râu ieșit din matcă, îneacă țara și ce cuprinde ea, cetatea și locuitorii ei. Țipă oamenii și se bocesc toți locuitorii țării",
+                "3": "de tropăitul copitelor cailor lui puternici, de huruitul carelor lui și de scârțâitul roților; părinții nu se mai întorc spre copiii lor, atât le sunt de slăbite mâinile,",
+                "4": "pentru că vine ziua când vor fi nimiciți toți filistenii și stârpiți toți cei ce slujeau ca ajutoare Tirului și Sidonului. Căci Domnul va nimici pe filisteni, rămășițele ostrovului Caftor.",
+                "5": "Gaza a ajuns pleșuvă, Ascalonul piere cu rămășița văilor lui! Până când îți vei face tăieturi de jale în piele? –",
+                "6": "Ah! Sabie a Domnului, când te vei odihni odată? Întoarce-te în teacă, oprește-te și fii liniștită! –",
+                "7": "Dar cum ar putea să se odihnească? Când Domnul doar îi poruncește și o îndreaptă împotriva Ascalonului și coastei mării.’”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Iată Cuvântul Domnului spus profetului Ieremia cu privire la filisteni, înainte ca Faraon să atace Gaza.",
+                "2": "Așa vorbește Domnul: „Iată cum se ridică niște ape din nord; ele cresc asemenea unui șuvoi care se revarsă. Ele inundă țara și tot ce cuprinde ea, cetatea și pe cei ce locuiesc în ea.",
+                "3": "la sunetul tropăitului copitelor armăsarilor lui, și la huruitul roților lui. Părinții nu se vor întoarce după copiii lor, atât de încremenite le vor fi mâinile.",
+                "4": "Căci vine ziua când vor fi nimiciți toți filistenii, care ar putea ajuta Tyrul și Sidonul. Domnul îi va nimici pe filisteni, rămășița insulei Caftor.",
+                "5": "Cei din Gaza se vor rade pe cap, iar Așchelonul va fi redus la tăcere. Rămășiță din câmpie, până când îți vei face singură tăieturi?“.",
+                "6": "„Vai, sabie a Domnului, când te vei liniști? Întoarce-te în teaca ta! Oprește-te și stai liniștită!“",
+                "7": "„Dar cum să stai liniștită? Domnul i-a poruncit. Împotriva Așchelonului și împotriva coastei mării, acolo i-a indicat să atace!“"
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Yahweh’s word that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck Gaza.",
+                "2": "Yahweh says: “Behold, waters rise up out of the north, and will become an overflowing stream, and will overflow the land and all that is therein, the city and those who dwell therein. The men will cry, and all the inhabitants of the land will wail.",
+                "3": "At the noise of the stamping of the hoofs of his strong ones, at the rushing of his chariots, at the rumbling of his wheels, the fathers don’t look back for their children because their hands are so feeble,",
+                "4": "because of the day that comes to destroy all the Philistines, to cut off from Tyre and Sidon every helper who remains; for Yahweh will destroy the Philistines, the remnant of the isle of Caphtor.",
+                "5": "Baldness has come on Gaza; Ashkelon is brought to nothing. You remnant of their valley, how long will you cut yourself?",
+                "6": "“‘You sword of Yahweh, how long will it be before you are quiet? Put yourself back into your scabbard; rest, and be still.’",
+                "7": "“How can you be quiet, since Yahweh has given you a command? Against Ashkelon, and against the seashore, there he has appointed it.”"
+            }
+        }
+    }
+}

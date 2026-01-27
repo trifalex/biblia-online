@@ -1,0 +1,87 @@
+{
+  "book": "Psalmi",
+  "chapter": "34",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Voi binecuvânta pe Domnul în orice vreme; lauda Lui va fi totdeauna în gura mea.",
+        "2": "Să mi se laude sufletul în Domnul! Să asculte cei nenorociți și să se bucure!",
+        "3": "Înălțați pe Domnul împreună cu mine! Să lăudăm cu toții Numele Lui!",
+        "4": "Eu am căutat pe Domnul și mi-a răspuns: m-a izbăvit din toate temerile mele.",
+        "5": "Când îți întorci privirile spre El, te luminezi de bucurie și nu ți se umple fața de rușine.",
+        "6": "Când strigă un nenorocit, Domnul aude și-l scapă din toate necazurile lui.",
+        "7": "Îngerul Domnului tăbărăște în jurul celor ce se tem de El și-i scapă din primejdie.",
+        "8": "Gustați și vedeți ce bun este Domnul! Ferice de omul care se încrede în El!",
+        "9": "Temeți-vă de Domnul voi, sfinții Lui, căci de nimic nu duc lipsă cei ce se tem de El!",
+        "10": "Puii de leu duc lipsă și li-i foame, dar cei ce caută pe Domnul nu duc lipsă de niciun bine.",
+        "11": "Veniți, fiilor, și ascultați-mă, căci vă voi învăța frica de Domnul!",
+        "12": "Cine este omul care dorește viața și vrea să aibă parte de zile fericite?",
+        "13": "Ferește-ți limba de rău și buzele de cuvinte înșelătoare!",
+        "14": "Depărtează-te de rău și fă binele; caută pacea și aleargă după ea!",
+        "15": "Ochii Domnului sunt peste cei fără prihană și urechile Lui iau aminte la strigătele lor.",
+        "16": "Domnul Își întoarce Fața împotriva celor răi, ca să le șteargă pomenirea de pe pământ.",
+        "17": "Când strigă cei fără prihană, Domnul aude și-i scapă din toate necazurile lor.",
+        "18": "Domnul este aproape de cei cu inima înfrântă și mântuiește pe cei cu duhul zdrobit.",
+        "19": "De multe ori vine nenorocirea peste cel fără prihană, dar Domnul îl scapă totdeauna din ea.",
+        "20": "Toate oasele i le păzește, ca niciunul din ele să nu i se sfărâme.",
+        "21": "Pe cel rău îl omoară nenorocirea, dar vrăjmașii celui fără prihană sunt pedepsiți.",
+        "22": "Domnul scapă sufletul robilor Săi și niciunul din cei ce se încred în El nu este osândit."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Îl voi lăuda pe Domnul în orice vreme, lauda Lui va fi întotdeauna în gura mea!",
+        "2": "Sufletul meu se laudă în Domnul; să audă și să se bucure cei smeriți!",
+        "3": "Preamăriți-L pe Domnul împreună cu mine! Să înălțăm cu toții Numele Lui!",
+        "4": "Eu L-am căutat pe Domnul, și El mi-a răspuns; m-a scăpat de toate temerile mele.",
+        "5": "Cei care privesc spre El se luminează, iar fețele lor nu se rușinează.",
+        "6": "Acest sărac a strigat, iar Domnul l-a auzit și l-a salvat din toate necazurile lui.",
+        "7": "Îngerul Domnului Își așază tabăra împrejurul celor ce se tem de El și îi salvează.",
+        "8": "Gustați și vedeți că Domnul este bun! Ferice de omul care se adăpostește în El!",
+        "9": "Temeți-vă de Domnul, voi sfinții Lui, căci cei ce se tem de El nu duc lipsă de nimic!",
+        "10": "Puii de leu duc lipsă și flămânzesc, dar cei ce-L caută pe Domnul nu duc lipsă de niciun bine.",
+        "11": "Veniți, fiilor! Ascultați-mă! Vă voi învăța teama de Domnul!",
+        "12": "Cine este omul care dorește viața, care iubește zilele multe și vrea să vadă binele?",
+        "13": "Păzește-ți limba de rău, iar buzele tale să nu rostească înșelătoria!",
+        "14": "Întoarce-te de la rău și fă ce este bine! Caută pacea și urmărește-o!",
+        "15": "Ochii Domnului se uită la cei drepți, iar urechile Lui aud strigătul lor după ajutor.",
+        "16": "Dar fața Domnului este împotriva celor ce comit fapte rele, ca să le șteargă amintirea de pe pământ.",
+        "17": "Când strigă cei drepți, Domnul aude și-i scapă din toate necazurile lor.",
+        "18": "Domnul este aproape de cei cu inima zdrobită și-i salvează pe cei cu duhul zdrobit.",
+        "19": "De multe necazuri are parte cel drept, dar Domnul îl scapă din toate.",
+        "20": "El îi păzește toate oasele și, astfel, nici măcar unul nu îi va fi rupt.",
+        "21": "Răul va aduce moartea celui nelegiuit, iar cei ce-l urăsc pe cel drept vor fi condamnați.",
+        "22": "Domnul răscumpără sufletul slujitorilor Săi și niciunul dintre cei ce se adăpostesc în El nu este condamnat."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I will bless Yahweh at all times. His praise will always be in my mouth.",
+        "2": "My soul shall boast in Yahweh. The humble shall hear of it and be glad.",
+        "3": "Oh magnify Yahweh with me. Let’s exalt his name together.",
+        "4": "I sought Yahweh, and he answered me, and delivered me from all my fears.",
+        "5": "They looked to him, and were radiant. Their faces shall never be covered with shame.",
+        "6": "This poor man cried, and Yahweh heard him, and saved him out of all his troubles.",
+        "7": "Yahweh’s angel encamps around those who fear him, and delivers them.",
+        "8": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him.",
+        "9": "Oh fear Yahweh, you his saints, for there is no lack with those who fear him.",
+        "10": "The young lions do lack, and suffer hunger, but those who seek Yahweh shall not lack any good thing.",
+        "11": "Come, you children, listen to me. I will teach you the fear of Yahweh.",
+        "12": "Who is someone who desires life, and loves many days, that he may see good?",
+        "13": "Keep your tongue from evil, and your lips from speaking lies.",
+        "14": "Depart from evil, and do good. Seek peace, and pursue it.",
+        "15": "Yahweh’s eyes are toward the righteous. His ears listen to their cry.",
+        "16": "Yahweh’s face is against those who do evil, to cut off their memory from the earth.",
+        "17": "The righteous cry, and Yahweh hears, and delivers them out of all their troubles.",
+        "18": "Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit.",
+        "19": "Many are the afflictions of the righteous, but Yahweh delivers him out of them all.",
+        "20": "He protects all of his bones. Not one of them is broken.",
+        "21": "Evil shall kill the wicked. Those who hate the righteous shall be condemned.",
+        "22": "Yahweh redeems the soul of his servants. None of those who take refuge in him shall be condemned."
+      }
+    }
+  }
+}

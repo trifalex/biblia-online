@@ -1,0 +1,72 @@
+{
+  "book": "Cantarea Cantarilor",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cântarea cântărilor, făcută de Solomon.",
+        "2": "Să mă sărute cu sărutările gurii lui! Căci toate dezmierdările tale sunt mai bune decât vinul,",
+        "3": "mirodeniile tale au un miros plăcut. Numele tău este ca o mireasmă vărsată. De aceea te iubesc pe tine fetele!",
+        "4": "Trage-mă după tine! Și haidem să alergăm! Împăratul mă duce în odăile lui… Ne vom veseli și ne vom bucura de tine; vom lăuda dezmierdările tale mai mult decât vinul! Pe drept ești iubit.",
+        "5": "Sunt neagră, dar sunt frumoasă, fiice ale Ierusalimului, cum sunt corturile Chedarului și cum sunt covoarele lui Solomon.",
+        "6": "Nu vă uitați că sunt așa de negricioasă, căci m-a ars soarele. Fiii mamei mele s-au mâniat pe mine și m-au pus păzitoare la vii. Dar via frumuseții mele n-am păzit-o.",
+        "7": "Spune-mi tu, pe care te iubește inima mea, unde îți paști oile, unde te odihnești la amiază? Căci de ce să umblu ca o rătăcită pe la turmele tovarășilor tăi? –",
+        "8": "Dacă nu știi, o, tu, cea mai frumoasă dintre femei, ieși pe urmele oilor și paște-ți iezii lângă colibele păstorilor!",
+        "9": "Cu iapa înhămată la carele lui Faraon te asemăn eu pe tine, scumpa mea.",
+        "10": "Ce frumoși îți sunt obrajii în mijlocul lănțișoarelor de la gât și ce frumos îți este gâtul în mijlocul șirurilor de mărgăritare!",
+        "11": "Îți vom face deci lănțișoare de aur, cu stropituri de argint. –",
+        "12": "Cât stă împăratul la masa lui, nardul meu își răspândește mirosul.",
+        "13": "Preaiubitul meu îmi este ca un mănunchi de mir care se odihnește între țâțele mele.",
+        "14": "Preaiubitul meu este pentru mine un strugure de măliniță din viile din En-Ghedi. –",
+        "15": "Ce frumoasă ești, iubito, uite ce frumoasă ești, cu ochii tăi de porumbiță! –",
+        "16": "Ce frumos ești, preaiubitule, ce plăcut ești! Verdeața este patul nostru! –",
+        "17": "Cedrii sunt grinzile caselor noastre și chiparoșii sunt pardoselile noastre. –"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cântarea Cântărilor, care este a lui Solomon. Șulamita",
+        "2": "Să mă sărute cu sărutările gurii lui! Căci iubirea ta este mai plăcută decât vinul.",
+        "3": "Mirosul uleiurilor tale este unul plăcut, iar numele tău este ca uleiul care se revarsă. De aceea te iubesc pe tine fecioarele!",
+        "4": "Trage-mă după tine! Să fugim împreună! Fie ca regele să mă ducă în camerele lui. Corul Ne vom veseli și ne vom bucura de tine; îți vom lăuda iubirea mai mult decât vinul. Șulamita Tu meriți să fii iubit.",
+        "5": "Sunt neagră, dar sunt frumoasă, fete ale Ierusalimului, asemenea corturilor din Chedar, asemenea draperiilor lui Solomon.",
+        "6": "Nu vă mirați că sunt neagră, fiindcă m-a ars soarele. Fiii mamei mele s-au mâniat pe mine și m-au pus să păzesc viile; însă via mea nu am păzit-o.",
+        "7": "Spune-mi, iubitul sufletului meu, unde îți paști turma și unde te odihnești la amiază? De ce să fiu ca una care umblă acoperită, pe la turmele prietenilor tăi? Corul",
+        "8": "Dacă nu știi, tu, cea mai frumoasă dintre femei, atunci mergi pe urmele lăsate de turmă și paște-ți iezii lângă corturile păstorilor! Iubitul",
+        "9": "Iubita mea, eu te asemăn cu o iapă înhămată la unul dintre carele lui Faraon.",
+        "10": "Cât de frumoși îți sunt obrajii, înconjurați de podoabe, și gâtul tău cu șiraguri de mărgele!",
+        "11": "Îți vom face podoabe de aur, stropite cu argint. Șulamita",
+        "12": "În timp ce regele era la masa lui, nardul meu își revărsa parfumul.",
+        "13": "Iubitul meu îmi este ca un mănunchi de smirnă, odihnindu-se între sânii mei.",
+        "14": "Iubitul meu este pentru mine ca un buchet de flori de hena, în viile din En-Ghedi. Iubitul",
+        "15": "Iată, ești atât de frumoasă, iubita mea! Iată, ești atât de frumoasă cu ochii tăi de porumbiță! Șulamita",
+        "16": "Iată, ești atât de frumos, iubitul meu, atât de plăcut! Patul nostru este verdeața.",
+        "17": "Grinzile casei noastre sunt cedrii, iar tavanele ei sunt brazii."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The Song of songs, which is Solomon’s. Beloved",
+        "2": "Let him kiss me with the kisses of his mouth; for your love is better than wine.",
+        "3": "Your oils have a pleasing fragrance. Your name is oil poured out, therefore the virgins love you.",
+        "4": "Take me away with you. Let’s hurry. The king has brought me into his rooms. Friends We will be glad and rejoice in you. We will praise your love more than wine! Beloved They are right to love you.",
+        "5": "I am dark, but lovely, you daughters of Jerusalem, like Kedar’s tents, like Solomon’s curtains.",
+        "6": "Don’t stare at me because I am dark, because the sun has scorched me. My mother’s sons were angry with me. They made me keeper of the vineyards. I haven’t kept my own vineyard.",
+        "7": "Tell me, you whom my soul loves, where you graze your flock, where you rest them at noon; for why should I be as one who is veiled beside the flocks of your companions? Lover",
+        "8": "If you don’t know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds’ tents.",
+        "9": "I have compared you, my love, to a steed in Pharaoh’s chariots.",
+        "10": "Your cheeks are beautiful with earrings, your neck with strings of jewels. Friends",
+        "11": "We will make you earrings of gold, with studs of silver. Beloved",
+        "12": "While the king sat at his table, my perfume spread its fragrance.",
+        "13": "My beloved is to me a sachet of myrrh, that lies between my breasts.",
+        "14": "My beloved is to me a cluster of henna blossoms from the vineyards of En Gedi. Lover",
+        "15": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves. Beloved",
+        "16": "Behold, you are beautiful, my beloved, yes, pleasant; and our couch is verdant. Lover",
+        "17": "The beams of our house are cedars. Our rafters are firs."
+      }
+    }
+  }
+}

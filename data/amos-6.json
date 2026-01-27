@@ -1,0 +1,63 @@
+{
+  "book": "Amos",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Vai de cei ce trăiesc fără grijă în Sion și la adăpost pe muntele Samariei, vai de mai-marii aceștia ai celui dintâi dintre neamuri, la care aleargă casa lui Israel!…",
+        "2": "Treceți la Calne și vedeți, duceți-vă de acolo până la Hamatul cel mare și coborâți-vă în Gat, la filisteni. Sunt oare cetățile acestea mai înfloritoare decât cele două împărății ale voastre și este ținutul lor mai întins decât al vostru?…",
+        "3": "Credeți că ziua nenorocirii este departe și faceți să se apropie domnia silniciei.",
+        "4": "Ei se culcă pe paturi de fildeș și stau întinși alene pe așternuturile lor; mănâncă miei din turmă și viței puși la îngrășat.",
+        "5": "Aiurează în sunetul alăutei, se cred iscusiți ca David în instrumentele de muzică.",
+        "6": "Beau vin cu pahare largi, se ung cu cel mai bun untdelemn și nu se întristează de prăpădul lui Iosif!",
+        "7": "De aceea vor merge în robie în fruntea prinșilor de război și vor înceta strigătele de veselie ale acestor desfătați.",
+        "8": "Domnul Dumnezeu a jurat pe Sine Însuși și Domnul Dumnezeul oștirilor a zis: „Mi-e scârbă de mândria lui Iacov și-i urăsc palatele, de aceea voi da în mâna vrăjmașului cetatea cu tot ce este în ea.”",
+        "9": "Și, dacă vor mai rămâne zece oameni într-o casă, vor muri.",
+        "10": "Când unchiul său va lua pe cel mort să-l ardă, ridicându-i oasele din casă, și va întreba pe cel din fundul casei: „Mai este cineva cu tine?”, acela va răspunde: „Nimeni…” Iar celălalt va zice: „Tăcere! Căci nu trebuie să pomenim acum Numele Domnului!”",
+        "11": "Căci iată că Domnul poruncește să se dărâme casa cea mare și să se facă bucăți casa cea mică.",
+        "12": "Pot caii să alerge pe o stâncă? Sau poate cineva să are marea cu boii, de ați prefăcut judecata în otravă și roada dreptății în pelin?",
+        "13": "Vă bucurați de lucruri de nimic și ziceți: „Oare nu prin tăria noastră am câștigat noi putere?”",
+        "14": "„De aceea, iată, voi ridica împotriva voastră, casa lui Israel”, zice Domnul Dumnezeul oștirilor, „un neam care vă va asupri de la intrarea Hamatului până la pârâul pustiei.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Vai de cei ce trăiesc fără grijă în Sion, de cei ce se încred în muntele Samariei, oameni distinși ai celei mai de seamă dintre națiuni, la care apelează Casa lui Israel!",
+        "2": "Treceți la Calne și priviți! Mergeți de acolo la marele Hamat și duceți-vă apoi la Gatul filistenilor! Sunt ele mai bune decât cele două regate ale voastre? Sunt teritoriile lor mai mari decât ale voastre?",
+        "3": "Ați îndepărtat ziua cea rea și ați adus aproape tronul violenței.",
+        "4": "Ei se culcă pe paturi de fildeș, lenevesc în așternuturile lor, mănâncă miei din turmă și viței din mijlocul grajdului.",
+        "5": "Petrec în sunetul harfei, și, asemenea lui David, improvizează la instrumentele muzicale!",
+        "6": "Beau vin din pahare mari și se ung cu cele mai bune uleiuri, dar nu sunt mâhniți din cauza dezastrului lui Iosif!",
+        "7": "De aceea vor merge acum în captivitate în fruntea captivilor, și vor înceta astfel strigătele de veselie ale celor ce leneveau! Domnul detestă mândria lui Israel",
+        "8": "Stăpânul Domn a jurat pe Sine Însuși. Așa vorbește Domnul, Dumnezeul Oștirilor: „Mi-e scârbă de mândria lui Iacov și îi urăsc fortărețele; voi da pe mâna dușmanului cetatea și tot ce este în ea!“.",
+        "9": "Dacă vor mai fi lăsați zece bărbați într-o casă și aceia vor muri!",
+        "10": "Iar când ruda vreunuia va veni să-i scoată trupul din casă, ca să-l ardă, și-l va întreba pe cel care încă mai este ascuns în interiorul casei: „Mai este cineva cu tine?“, i se va răspunde: „Nu!“. Atunci ruda va zice: „Tăcere! Căci nu trebuie să amintim Numele Domnului!“.",
+        "11": "Căci iată că Domnul poruncește și casa cea mare va fi transformată în fărâme, iar casa cea mică – în bucățele!",
+        "12": "Pot caii să alerge pe stâncă sau poate cineva să are acolo cu boii? Totuși, voi ați transformat judecata în fiere, iar rodul dreptății – în pelin.",
+        "13": "Voi vă bucurați că ați cucerit Lo-Debarul și ziceți: „Oare nu prin puterea noastră ne-am însușit noi Karnaimul?“.",
+        "14": "„Dar iată că voi ridica împotriva ta, Casă a lui Israel“, zice Domnul, Dumnezeul Oștirilor, „o națiune care te va asupri de la Lebo Hamat până la Valea Arabei“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Woe to those who are at ease in Zion, and to those who are secure on the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come!",
+        "2": "Go to Calneh, and see. From there go to Hamath the great. Then go down to Gath of the Philistines. Are they better than these kingdoms? Is their border greater than your border?",
+        "3": "Alas for you who put far away the evil day, and cause the seat of violence to come near,",
+        "4": "who lie on beds of ivory, and stretch themselves on their couches, and eat the lambs out of the flock, and the calves out of the middle of the stall,",
+        "5": "who strum on the strings of a harp, who invent for themselves instruments of music, like David;",
+        "6": "who drink wine in bowls, and anoint themselves with the best oils, but they are not grieved for the affliction of Joseph.",
+        "7": "Therefore they will now go captive with the first who go captive. The feasting and lounging will end.",
+        "8": "“The Lord Yahweh has sworn by himself,” says Yahweh, the God of Armies: “I abhor the pride of Jacob, and detest his fortresses. Therefore I will deliver up the city with all that is in it.",
+        "9": "It will happen that if ten men remain in one house, they will die.",
+        "10": "“When a man’s relative carries him, even he who burns him, to bring bodies out of the house, and asks him who is in the innermost parts of the house, ‘Is there yet any with you?’ And he says, ‘No;’ then he will say, ‘Hush! Indeed we must not mention Yahweh’s name.’",
+        "11": "“For, behold, Yahweh commands, and the great house will be smashed to pieces, and the little house into bits.",
+        "12": "Do horses run on the rocky crags? Does one plow there with oxen? But you have turned justice into poison, and the fruit of righteousness into bitterness,",
+        "13": "you who rejoice in a thing of nothing, who say, ‘Haven’t we taken for ourselves horns by our own strength?’",
+        "14": "For, behold, I will raise up against you a nation, house of Israel,” says Yahweh, the God of Armies; “and they will afflict you from the entrance of Hamath to the brook of the Arabah.”"
+      }
+    }
+  }
+}

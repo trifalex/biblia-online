@@ -1,0 +1,69 @@
+{
+  "book": "Mica",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cuvântul Domnului, spus lui Mica, din Moreșet, pe vremea lui Iotam, Ahaz, Ezechia, împărații lui Iuda, prorocie asupra Samariei și Ierusalimului.",
+        "2": "Ascultați voi, popoare toate! Ia aminte, pământule și ce este pe el! Domnul Dumnezeu să fie martor împotriva voastră, Domnul care este în Templul Lui cel sfânt!",
+        "3": "Căci iată că Domnul iese din locuința Lui, Se coboară și umblă pe înălțimile pământului!",
+        "4": "Sub El se topesc munții, văile crapă ca ceara înaintea focului, ca apa care curge prin râpe.",
+        "5": "Și toate acestea din pricina nelegiuirii lui Iacov, din pricina păcatelor casei lui Israel! Dar care este nelegiuirea lui Iacov? Nu este oare Samaria? Și care este păcatul lui Iuda? Nu este oare Ierusalimul?…",
+        "6": "„De aceea voi preface Samaria într-un morman de pietre pe câmp, într-un loc de sădit vie; îi voi prăvăli pietrele în vale și-i voi dezgoli temeliile.",
+        "7": "Toate chipurile ei cioplite vor fi sfărâmate, toate plățile ei de curvă vor fi arse în foc și-i voi pustii toți idolii, căci din plăți de curvă i-a adunat și în plăți de curvă se vor preface…”",
+        "8": "De aceea plâng, mă bocesc, umblu desculț și gol, strig ca șacalul și gem ca struțul.",
+        "9": "Căci rana ei este fără leac; se întinde până la Iuda, pătrunde până la poarta poporului meu, până la Ierusalim.",
+        "10": "Nu spuneți lucrul acesta în Gat și nu plângeți în Aco; tăvăliți-vă în țărână la Bet-Leafra.",
+        "11": "Treci, locuitoare din Șafir, cu rușinea descoperită; locuitoarea din Țaanan nu îndrăznește să iasă, jalea Bet-Haețelului vă ia gustul să vă opriți în el.",
+        "12": "Căci locuitoarea din Marot tremură pentru pierderea fericirii ei, fiindcă s-a coborât nenorocirea din partea Domnului până la poarta Ierusalimului.",
+        "13": "Înhamă-ți caii cei iuți la car, locuitoare din Lachis; tu ai fost cea dintâi pricină de păcat pentru fiica Sionului, căci în tine s-au găsit nelegiuirile lui Israel.",
+        "14": "De aceea te vei despărți de Moreșet-Gat, casele din Aczib vor fi o amăgire pentru împărații lui Israel.",
+        "15": "Îți voi aduce un nou stăpân, locuitoare din Mareșa; slava lui Israel va merge la Adulam.",
+        "16": "Rade-ți, taie-ți părul din pricina copiilor tăi iubiți; lărgește-ți pleșuvia ca vulturul, căci ei se duc în robie departe de tine!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cuvântul Domnului, care i-a fost descoperit lui Mica din Moreșet pe vremea lui Iotam, Ahaz și Ezechia, regii lui Iuda – ce a văzut el cu privire la Samaria și la Ierusalim:",
+        "2": "Ascultați, toate popoarele! Să asculte cu atenție pământul și tot ce este pe el! Stăpânul Domn să fie martor împotriva voastră, Stăpânul, din Templul Său cel sfânt! Judecată împotriva Samariei și a Ierusalimului",
+        "3": "Iată, Domnul iese din Lăcașul Lui; El coboară și pășește pe înălțimile pământului!",
+        "4": "Munții se topesc sub El și văile se despică precum ceara înaintea focului și ca apele care țâșnesc printre versanți.",
+        "5": "Toate acestea se întâmplă din cauza fărădelegii lui Iacov, din cauza păcatelor Casei lui Israel. Care este fărădelegea lui Iacov? Oare nu Samaria? Care sunt înălțimile Iudeei? Oare nu Ierusalimul?",
+        "6": "„Voi preface Samaria într-un morman de pietre pe câmp, în plantații pentru viță. Îi voi rostogoli în vale pietrele și-i voi dezveli temeliile.",
+        "7": "Toate chipurile ei cioplite vor fi sfărâmate, tot câștigul ei va fi ars în foc și pe toți idolii ei îi voi lăsa pradă pustiirii, căci din plată de prostituată i-a adunat și în plată de prostituată se vor preface“. Plânset și jale",
+        "8": "Din cauza aceasta voi jeli și voi geme, voi umbla desculț și gol, voi scoate strigăte precum șacalii și voi boci ca struții.",
+        "9": "Căci rana ei este de nevindecat; ea s-a întins până în Iuda, a ajuns până la poarta poporului meu, până la Ierusalim.",
+        "10": "Nu anunțați lucrul acesta în Gat, nu plângeți deloc! Tăvăliți-vă în țărână, la Bet-Leafra!",
+        "11": "Treci, locuitoare a Șafirului, goală și plină de rușine! Locuitoarea Țaananului nu îndrăznește să iasă. Bet-Ețelul este în jale; sprijinul lui a fost luat de la voi.",
+        "12": "Locuitoarea Marotului tânjește după vremuri mai bune, căci a coborât nenorocirea din partea Domnului până la poarta Ierusalimului.",
+        "13": "Înhamă-ți armăsarii la carul de luptă, locuitoare a Lachișului! Tu ai fost cea unde a început păcatul fiicei Sionului, căci în tine au fost găsite fărădelegile lui Israel.",
+        "14": "De aceea îi vei da daruri de despărțire lui Moreșet-Gat. Casele din Aczib vor fi o amăgire pentru regii lui Israel.",
+        "15": "Voi aduce un stăpânitor împotriva ta, locuitor din Mareșa! Gloria lui Israel va veni la Adulam.",
+        "16": "Tunde-te chel! Rade-ți părul, din cauza fiilor tăi, care erau bucuria ta. Lărgește-ți chelia, ca vulturul, căci vor pleca de la tine în captivitate."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+        "2": "Hear, you peoples, all of you! Listen, O earth, and all that is therein. Let the Lord Yahweh be witness against you, the Lord from his holy temple.",
+        "3": "For behold, Yahweh comes out of his place, and will come down and tread on the high places of the earth.",
+        "4": "The mountains melt under him, and the valleys split apart like wax before the fire, like waters that are poured down a steep place.",
+        "5": "“All this is for the disobedience of Jacob, and for the sins of the house of Israel. What is the disobedience of Jacob? Isn’t it Samaria? And what are the high places of Judah? Aren’t they Jerusalem?",
+        "6": "Therefore I will make Samaria like a rubble heap of the field, like places for planting vineyards; and I will pour down its stones into the valley, and I will uncover its foundations.",
+        "7": "All her idols will be beaten to pieces, all her temple gifts will be burned with fire, and I will destroy all her images; for of the hire of a prostitute has she gathered them, and to the hire of a prostitute shall they return.”",
+        "8": "For this I will lament and wail. I will go stripped and naked. I will howl like the jackals and mourn like the ostriches.",
+        "9": "For her wounds are incurable; for it has come even to Judah. It reaches to the gate of my people, even to Jerusalem.",
+        "10": "Don’t tell it in Gath. Don’t weep at all. At Beth Ophrah I have rolled myself in the dust.",
+        "11": "Pass on, inhabitant of Shaphir, in nakedness and shame. The inhabitant of Zaanan won’t come out. The wailing of Beth Ezel will take from you his protection.",
+        "12": "For the inhabitant of Maroth waits anxiously for good, because evil has come down from Yahweh to the gate of Jerusalem.",
+        "13": "Harness the chariot to the swift steed, inhabitant of Lachish. She was the beginning of sin to the daughter of Zion; for the transgressions of Israel were found in you.",
+        "14": "Therefore you will give a parting gift to Moresheth Gath. The houses of Achzib will be a deceitful thing to the kings of Israel.",
+        "15": "I will yet bring a conqueror to you, inhabitants of Mareshah. The glory of Israel will come to Adullam.",
+        "16": "Shave your heads, and cut off your hair for the children of your delight. Enlarge your baldness like the vulture, for they have gone into captivity from you!"
+      }
+    }
+  }
+}

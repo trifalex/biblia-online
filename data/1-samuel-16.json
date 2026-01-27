@@ -1,0 +1,90 @@
+{
+  "book": "1 Samuel",
+  "chapter": "16",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul a zis lui Samuel: „Când vei înceta să plângi pe Saul, pentru că l-am lepădat ca să nu mai domnească peste Israel? Umple-ți cornul cu untdelemn și du-te; te voi trimite la Isai, Betleemitul, căci pe unul din fiii lui Mi l-am ales ca împărat.”",
+        "2": "Samuel a zis: „Cum să mă duc? Saul are să afle și mă va ucide.” Și Domnul a zis: „Să iei cu tine un vițel și să zici: ‘Vin să aduc o jertfă Domnului.’",
+        "3": "Să poftești pe Isai la jertfă; Eu îți voi arăta ce trebuie să faci și Îmi vei unge pe acela pe care-ți voi spune să-l ungi.”",
+        "4": "Samuel a făcut ce zisese Domnul și s-a dus la Betleem. Bătrânii cetății au alergat înspăimântați înaintea lui și au zis: „Ce vestește venirea ta: ceva bun?”",
+        "5": "El a răspuns: „Da, vin să aduc o jertfă Domnului. Sfințiți-vă și veniți cu mine la jertfă.” A sfințit și pe Isai cu fiii lui și i-a poftit la jertfă.",
+        "6": "Când au intrat ei, Samuel, văzând pe Eliab, și-a zis: „Negreșit, unsul Domnului este aici, înaintea Lui.”",
+        "7": "Și Domnul a zis lui Samuel: „Nu te uita la înfățișarea și înălțimea staturii lui, căci l-am lepădat. Domnul nu Se uită la ce se uită omul; omul se uită la ceea ce izbește ochii, dar Domnul Se uită la inimă.”",
+        "8": "Isai a chemat pe Abinadab și l-a trecut pe dinaintea lui Samuel, și Samuel a zis: „Nici pe acesta nu l-a ales Domnul.”",
+        "9": "Isai a trecut pe Șama, și Samuel a zis: „Nici pe acesta nu l-a ales Domnul.”",
+        "10": "Și așa a trecut Isai pe cei șapte fii ai lui pe dinaintea lui Samuel, și Samuel a zis lui Isai: „Domnul n-a ales pe niciunul din ei.”",
+        "11": "Apoi Samuel a zis lui Isai: „Aceștia sunt toți fiii tăi?” Și el a răspuns: „A mai rămas cel mai tânăr, dar paște oile.” Atunci, Samuel a zis lui Isai: „Trimite să-l aducă, fiindcă nu vom ședea la masă până nu va veni aici.”",
+        "12": "Isai a trimis să-l aducă. Și el era cu păr bălai, cu ochi frumoși și față frumoasă. Domnul a zis lui Samuel: „Scoală-te și unge-l, căci el este!”",
+        "13": "Samuel a luat cornul cu untdelemn și l-a uns în mijlocul fraților lui. Duhul Domnului a venit peste David începând din ziua aceea și în cele următoare. Samuel s-a sculat și s-a dus la Rama. David cântă din harpă lui Saul",
+        "14": "Duhul Domnului S-a depărtat de la Saul; și a fost muncit de un duh rău, care venea de la Domnul.",
+        "15": "Slujitorii lui Saul i-au zis: „Iată că un duh rău de la Dumnezeu te muncește.",
+        "16": "Poruncească numai domnul nostru! Robii tăi sunt înaintea ta. Ei vor căuta un om care să știe să cânte cu harpa și, când duhul rău trimis de Dumnezeu va fi peste tine, el va cânta cu mâna și vei fi ușurat.”",
+        "17": "Saul a răspuns slujitorilor săi: „Găsiți-mi dar un om care să cânte bine și aduceți-l la mine.”",
+        "18": "Unul din slujitori a luat cuvântul și a zis: „Iată, am văzut pe un fiu al lui Isai, Betleemitul, care știe să cânte; el este și un om tare și voinic, un războinic, vorbește bine, este frumos la chip și Domnul este cu el.”",
+        "19": "Saul a trimis niște oameni la Isai să-i spună: „Trimite-mi pe fiul tău David, care este cu oile.”",
+        "20": "Isai a luat un măgar, l-a încărcat cu pâine, cu un burduf cu vin și cu un ied și a trimis lui Saul aceste lucruri, prin fiul său David.",
+        "21": "David a ajuns la Saul și s-a înfățișat înaintea lui; i-a plăcut mult lui Saul și a fost pus să-i poarte armele.",
+        "22": "Saul a trimis vorbă lui Isai, zicând: „Te rog să lași pe David în slujba mea, căci a căpătat trecere înaintea mea.”",
+        "23": "Și, când duhul trimis de Dumnezeu venea peste Saul, David lua harpa și cânta cu mâna lui; Saul răsufla atunci mai ușor, se simțea ușurat și duhul cel rău pleca de la el."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Domnul i-a zis lui Samuel: ‒ Până când vei mai boci pentru Saul, de vreme ce Eu l-am respins, ca să nu mai domnească peste Israel? Umple-ți cornul cu ulei și du-te acolo unde te trimit: la Ișai, betleemitul, pentru că pe unul dintre fiii săi Mi l-am ales ca rege.",
+        "2": "Dar Samuel I-a zis: ‒ Cum aș putea să plec? Saul va auzi lucrul acesta și mă va ucide. Domnul i-a răspuns: ‒ Să iei o juncană cu tine și să zici: „Am venit să aduc Domnului o jertfă“.",
+        "3": "Invită la aducerea jertfei și pe Ișai, iar eu îți voi arăta ce să faci. Vei unge pentru Mine pe acela pe care ți-l voi arăta.",
+        "4": "Samuel a făcut ceea ce-i spusese Domnul și a venit la Betleem. Bătrânilor cetății le era frică să se întâlnească cu el. Ei au întrebat: ‒ Vii cu pace?",
+        "5": "El a răspuns: ‒ Da, cu pace. Vin ca să aduc o jertfă Domnului. Sfințiți-vă și veniți cu mine la aducerea jertfei. Samuel l-a sfințit pe Ișai și pe fiii săi și i-a invitat la aducerea jertfei.",
+        "6": "Când au sosit aceștia, Samuel l-a văzut pe Eliab și și-a zis: „Cu siguranță unsul Domnului se află aici, înaintea Lui“.",
+        "7": "Însă Domnul i-a zis: „Nu te uita la înfățișarea sau la înălțimea staturii lui, pentru că l-am respins, căci Domnul nu Se uită la ceea ce se uită omul. Omul se uită la înfățișare, pe când Domnul Se uită la inimă“.",
+        "8": "Atunci Ișai l-a chemat pe Abinadab și l-a pus să treacă prin fața lui Samuel. El i-a zis: ‒ Nici pe acesta nu l-a ales Domnul.",
+        "9": "Apoi Ișai l-a pus pe Șama să-i treacă prin față, dar Samuel a zis: ‒ Nici pe acesta nu l-a ales Domnul.",
+        "10": "Așa i-a pus Ișai pe șapte dintre fiii săi să treacă prin fața lui Samuel, însă Samuel i-a zis lui Ișai: ‒ Domnul nu i-a ales nici pe aceștia.",
+        "11": "Apoi Samuel i-a zis lui Ișai: ‒ Aceștia sunt toți fiii pe care îi ai? Ișai i-a răspuns: ‒ A mai rămas cel mai tânăr, dar iată că el paște turmele. Samuel i-a zis lui Ișai: ‒ Trimite după el și adu-l, căci nu ne vom aduna în jurul mesei până nu vine aici.",
+        "12": "Ișai a trimis după el și a fost adus. El era roșcat, cu ochi frumoși și plăcut la chip. Domnul i-a zis lui Samuel: „Ridică-te și unge-l, căci el este!“.",
+        "13": "Samuel a luat cornul cu ulei și l-a uns în mijlocul fraților lui, iar Duhul Domnului a venit peste David, începând din ziua aceea. După toate acestea, Samuel s-a ridicat și a plecat la Rama. David la curtea lui Saul",
+        "14": "Duhul Domnului S-a îndepărtat de la Saul, și un duh rău de la Domnul îl chinuia.",
+        "15": "Slujitorii lui Saul i-au zis: ‒ Iată că un duh rău de la Dumnezeu te chinuie.",
+        "16": "Să poruncească stăpânul nostru slujitorilor tăi, care stau înaintea ta, să caute un om care știe să cânte la liră. Atunci când duhul cel rău de la Dumnezeu va veni peste tine, el va cânta cu mâna lui și te vei simți mai bine.",
+        "17": "Saul le-a zis slujitorilor săi: ‒ Găsiți-mi un om care știe să cânte bine și aduceți-l la mine.",
+        "18": "Atunci unul dintre tinerii slujitori a zis: ‒ Iată, l-am văzut pe unul dintre fiii lui Ișai din Betleem, care este iscusit la cântat. Este un războinic viteaz, priceput la vorbire și cu o înfățișare plăcută, iar Domnul este cu el.",
+        "19": "Saul a trimis mesageri la Ișai, zicând: ‒ Trimite-mi-l pe David, fiul tău, cel care este cu turmele.",
+        "20": "Ișai a luat un măgar încărcat cu pâine, un burduf de vin și un ied și le-a trimis lui Saul prin fiul său David.",
+        "21": "David a venit la Saul și s-a înfățișat înaintea lui. Acestuia i-a plăcut foarte mult de David și l-a luat să-i poarte armele.",
+        "22": "Saul a trimis la Ișai să-i spună: ‒ Dă-i voie lui David să rămână în slujba mea, pentru că a găsit bunăvoință înaintea mea.",
+        "23": "Ori de câte ori venea duhul de la Dumnezeu asupra lui Saul, David lua lira și cânta. Atunci Saul avea parte de alinare, se simțea mai bine, iar duhul cel rău pleca de la el."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh said to Samuel, “How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons.”",
+        "2": "Samuel said, “How can I go? If Saul hears it, he will kill me.” Yahweh said, “Take a heifer with you, and say, ‘I have come to sacrifice to Yahweh.’",
+        "3": "Call Jesse to the sacrifice, and I will show you what you shall do. You shall anoint to me him whom I name to you.”",
+        "4": "Samuel did that which Yahweh spoke, and came to Bethlehem. The elders of the city came to meet him trembling, and said, “Do you come peaceably?”",
+        "5": "He said, “Peaceably; I have come to sacrifice to Yahweh. Sanctify yourselves, and come with me to the sacrifice.” He sanctified Jesse and his sons, and called them to the sacrifice.",
+        "6": "When they had come, he looked at Eliab, and said, “Surely Yahweh’s anointed is before him.”",
+        "7": "But Yahweh said to Samuel, “Don’t look on his face, or on the height of his stature, because I have rejected him; for I don’t see as man sees. For man looks at the outward appearance, but Yahweh looks at the heart.”",
+        "8": "Then Jesse called Abinadab, and made him pass before Samuel. He said, “Yahweh has not chosen this one, either.”",
+        "9": "Then Jesse made Shammah to pass by. He said, “Yahweh has not chosen this one, either.”",
+        "10": "Jesse made seven of his sons to pass before Samuel. Samuel said to Jesse, “Yahweh has not chosen these.”",
+        "11": "Samuel said to Jesse, “Are all your children here?” He said, “There remains yet the youngest. Behold, he is keeping the sheep.” Samuel said to Jesse, “Send and get him, for we will not sit down until he comes here.”",
+        "12": "He sent, and brought him in. Now he was ruddy, with a handsome face and good appearance. Yahweh said, “Arise! Anoint him, for this is he.”",
+        "13": "Then Samuel took the horn of oil and anointed him in the middle of his brothers. Then Yahweh’s Spirit came mightily on David from that day forward. So Samuel rose up and went to Ramah.",
+        "14": "Now Yahweh’s Spirit departed from Saul, and an evil spirit from Yahweh troubled him.",
+        "15": "Saul’s servants said to him, “See now, an evil spirit from God troubles you.",
+        "16": "Let our lord now command your servants who are in front of you to seek out a man who is a skillful player on the harp. Then when the evil spirit from God is on you, he will play with his hand, and you will be well.”",
+        "17": "Saul said to his servants, “Provide me now a man who can play well, and bring him to me.”",
+        "18": "Then one of the young men answered and said, “Behold, I have seen a son of Jesse the Bethlehemite who is skillful in playing, a mighty man of valor, a man of war, prudent in speech, and a handsome person; and Yahweh is with him.”",
+        "19": "Therefore Saul sent messengers to Jesse, and said, “Send me David your son, who is with the sheep.”",
+        "20": "Jesse took a donkey loaded with bread, a container of wine, and a young goat, and sent them by David his son to Saul.",
+        "21": "David came to Saul and stood before him. He loved him greatly; and he became his armor bearer.",
+        "22": "Saul sent to Jesse, saying, “Please let David stand before me, for he has found favor in my sight.”",
+        "23": "When the spirit from God was on Saul, David took the harp and played with his hand; so Saul was refreshed and was well, and the evil spirit departed from him."
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "Osea",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Veniți să ne întoarcem la Domnul! Căci El ne-a sfâșiat, dar tot El ne va vindeca; El ne-a lovit, dar tot El ne va lega rănile.",
+        "2": "El ne va da iarăși viața în două zile; a treia zi ne va scula și vom trăi înaintea Lui.",
+        "3": "Să cunoaștem, să căutăm să cunoaștem pe Domnul! Căci El Se ivește ca zorile dimineții și va veni la noi ca o ploaie, ca ploaia de primăvară, care udă pământul!",
+        "4": "„Ce să-ți fac, Efraime? Ce să-ți fac, Iudo? Evlavia voastră este ca norul de dimineață și ca roua care trece curând.",
+        "5": "De aceea îi voi biciui prin proroci, îi voi ucide prin cuvintele gurii Mele și judecățile Mele vor străluci ca lumina!",
+        "6": "Căci bunătate voiesc, nu jertfe, și cunoștință de Dumnezeu mai mult decât arderi-de-tot!",
+        "7": "Dar ei au călcat legământul ca oricare om de rând și nu Mi-au fost credincioși atunci.",
+        "8": "Galaadul este o cetate de nelegiuiți, plină de urme de sânge!",
+        "9": "Ceata preoților este ca o ceată de tâlhari, care stă la pândă, săvârșind omoruri pe drumul Sihemului; da, se dedau la mișelii.",
+        "10": "În casa lui Israel am văzut lucruri grozave; acolo Efraim curvește, Israel se spurcă.",
+        "11": "Și ție, Iudo, îți este pregătit un seceriș când voi aduce înapoi pe robii de război ai poporului Meu!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "„Haideți să ne întoarcem la Domnul! Căci El ne-a sfâșiat, dar tot El ne va vindeca. El ne-a lovit, dar tot El ne va lega rana.",
+        "2": "Ne va învia după două zile; a treia zi ne va ridica și vom trăi înaintea Lui.",
+        "3": "Să-L cunoaștem, să căutăm să-L cunoaștem pe Domnul! Ivirea Lui va fi la fel de sigură ca ivirea zorilor; El va veni la noi ca o ploaie de iarnă, ca ploaia târzie care udă pământul“.",
+        "4": "„Ce să fac cu tine, Efraim? Ce să fac cu tine, Iuda? Dragostea voastră este ca norul de dimineață, ca roua care dispare devreme.",
+        "5": "De aceea i-am tăiat în bucăți prin profeți, i-am ucis prin cuvintele gurii Mele, iar judecata Mea a strălucit ca lumina.",
+        "6": "Căci milă doresc, nu jertfă, și cunoștință de Dumnezeu, mai mult decât arderi-de-tot.",
+        "7": "Ei au încălcat legământul, ca la Adam; acolo au fost necredincioși față de Mine.",
+        "8": "Ghiladul este cetatea celor ce comit nelegiuirea, plină de urme de sânge.",
+        "9": "Ca tâlharii stând la pândă după un om, așa este și ceata preoților. Ei ucid pe drumul Șechemului; da, ei au comis mișelii.",
+        "10": "Am văzut un lucru dezgustător în Casa lui Israel: acolo Efraim s-a dedat la desfrânare și Israel s-a întinat.",
+        "11": "Și pentru tine, Iuda, este pregătit un seceriș când îi voi aduce înapoi pe captivii poporului Meu."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“Come! Let’s return to Yahweh; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds.",
+        "2": "After two days he will revive us. On the third day he will raise us up, and we will live before him.",
+        "3": "Let’s acknowledge Yahweh. Let’s press on to know Yahweh. As surely as the sun rises, Yahweh will appear. He will come to us like the rain, like the spring rain that waters the earth.”",
+        "4": "“Ephraim, what shall I do to you? Judah, what shall I do to you? For your love is like a morning cloud, and like the dew that disappears early.",
+        "5": "Therefore I have cut them to pieces with the prophets; I killed them with the words of my mouth. Your judgments are like a flash of lightning.",
+        "6": "For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings.",
+        "7": "But they, like Adam, have broken the covenant. They were unfaithful to me there.",
+        "8": "Gilead is a city of those who work iniquity; it is stained with blood.",
+        "9": "As gangs of robbers wait to ambush a man, so the company of priests murder on the path toward Shechem, committing shameful crimes.",
+        "10": "In the house of Israel I have seen a horrible thing. There is prostitution in Ephraim. Israel is defiled.",
+        "11": "“Also, Judah, there is a harvest appointed for you, when I restore the fortunes of my people."
+      }
+    }
+  }
+}

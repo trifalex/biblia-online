@@ -1,0 +1,57 @@
+{
+    "book": "Isaia",
+    "chapter": "64",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "O, de ai despica cerurile și Te-ai coborî, s-ar topi munții înaintea Ta,",
+                "2": "ca de un foc care aprinde vreascurile, ca de un foc care face apa să dea în clocot! Ți-ar cunoaște atunci vrăjmașii Numele și ar tremura neamurile înaintea Ta!",
+                "3": "Când ai făcut minuni la care nu ne așteptam, Te-ai coborât, și munții s-au zguduit înaintea Ta,",
+                "4": "cum niciodată nu s-a pomenit, nici nu s-a auzit vorbindu-se și cum nici n-a văzut vreodată ochiul așa ceva: anume ca un alt dumnezeu afară de Tine să fi făcut asemenea lucruri pentru cei ce se încred în El.",
+                "5": "Tu ieși înaintea celor ce împlinesc cu bucurie dreptatea, celor ce umblă în căile Tale și își aduc aminte de Tine. Dar Te-ai mâniat pentru că am păcătuit. Vom suferi noi veșnic sau putem fi mântuiți?",
+                "6": "Toți am ajuns ca niște necurați și toate faptele noastre bune sunt ca o haină mânjită. Toți suntem ofiliți ca o frunză și nelegiuirile noastre ne iau ca vântul.",
+                "7": "Nu este nimeni care să cheme Numele Tău sau care să se trezească și să se alipească de Tine, de aceea ne-ai ascuns Fața Ta și ne lași să pierim din pricina nelegiuirilor noastre.",
+                "8": "Dar, Doamne, Tu ești Tatăl nostru; noi suntem lutul și Tu, olarul, care ne-ai întocmit: suntem cu toții lucrarea mâinilor Tale.",
+                "9": "Nu Te mânia prea mult, Doamne, și nu-Ți aduce aminte în veci de nelegiuire! Privește dar spre noi, căci toți suntem poporul Tău!",
+                "10": "Cetățile Tale cele sfinte sunt pustii; Sionul este pustiu, Ierusalimul, o pustietate!",
+                "11": "Casa noastră cea sfântă și slăvită, în care părinții noștri cântau laudele Tale, a ajuns pradă flăcărilor și tot ce aveam mai scump a fost pustiit.",
+                "12": "După toate acestea, Te vei opri Tu, Doamne? Vei tăcea Tu oare și ne vei întrista nespus de mult?"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "O, de ai deschide cerurile și ai coborî! Cum ar tremura munții înaintea Ta!",
+                "2": "Ca focul care aprinde vreascurile sau face apa să fiarbă, așa să-Ți faci cunoscut Numele dușmanilor Tăi, pentru ca națiunile să tremure înaintea Ta!",
+                "3": "Când ai făcut lucruri de temut, la care nu ne așteptam, când ai coborât, munții s-au cutremurat înaintea Ta.",
+                "4": "Încă din vechime nimeni n-a auzit, nici n-a pomenit, un alt Dumnezeu în afară de Tine, Care să lucreze pentru cei ce-L așteaptă.",
+                "5": "Tu vii în întâmpinarea celor ce, cu bucurie, fac dreptate, a celor ce, pe căile Tale, își aduc aminte de Tine. Dar iată că Te-ai mâniat, pentru că am continuat să păcătuim împotriva lor. Vom mai fi salvați?",
+                "6": "Toți am devenit ca niște necurați și toate faptele noastre drepte sunt ca o haină mânjită. Toți ne veștejim ca o frunză, și nelegiuirile noastre ne mătură ca vântul.",
+                "7": "Nu este nimeni care să cheme Numele Tău sau să încerce să se țină strâns de Tine, căci Ți-ai ascuns fața de noi, și ne-ai lăsat să pierim din cauza nelegiuirilor noastre.",
+                "8": "Dar Doamne, Tu ești Tatăl nostru! Noi suntem lutul, iar Tu ești olarul nostru; noi toți suntem lucrarea mâinii Tale.",
+                "9": "Nu Te mânia prea tare, Doamne! Nu-Ți aminti de nelegiuire pentru totdeauna! Iată, privește, Te rugăm, la poporul Tău, la noi toți!",
+                "10": "Cetățile Tale sfinte au devenit un pustiu; Sionul a devenit un pustiu, iar Ierusalimul o pustietate.",
+                "11": "Casa noastră cea sfântă și măreață, în care strămoșii noștri Te lăudau, și toate locurile noastre plăcute au ajuns o ruină.",
+                "12": "După toate acestea, Te vei abține Doamne? Vei tăcea și ne vei umili atât de mult?"
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Oh that you would tear the heavens, that you would come down, that the mountains might quake at your presence—",
+                "2": "as when fire kindles the brushwood, and the fire causes the water to boil. Make your name known to your adversaries, that the nations may tremble at your presence!",
+                "3": "When you did awesome things which we didn’t look for, you came down, and the mountains quaked at your presence.",
+                "4": "For from of old men have not heard, nor perceived by the ear, nor has the eye seen a God besides you, who works for him who waits for him.",
+                "5": "You meet him who rejoices and does righteousness, those who remember you in your ways. Behold, you were angry, and we sinned. We have been in sin for a long time. Shall we be saved?",
+                "6": "For we have all become like one who is unclean, and all our righteousness is like a polluted garment. We all fade like a leaf; and our iniquities, like the wind, take us away.",
+                "7": "There is no one who calls on your name, who stirs himself up to take hold of you; for you have hidden your face from us, and have consumed us by means of our iniquities.",
+                "8": "But now, Yahweh, you are our Father. We are the clay and you our potter. We all are the work of your hand.",
+                "9": "Don’t be furious, Yahweh. Don’t remember iniquity forever. Look and see, we beg you, we are all your people.",
+                "10": "Your holy cities have become a wilderness. Zion has become a wilderness, Jerusalem a desolation.",
+                "11": "Our holy and our beautiful house where our fathers praised you is burned with fire. All our pleasant places are laid waste.",
+                "12": "Will you hold yourself back for these things, Yahweh? Will you keep silent and punish us very severely?"
+            }
+        }
+    }
+}

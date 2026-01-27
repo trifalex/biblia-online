@@ -1,0 +1,54 @@
+{
+  "book": "Psalmi",
+  "chapter": "46",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeu este adăpostul și sprijinul nostru, un ajutor care nu lipsește niciodată în nevoi.",
+        "2": "De aceea nu ne temem chiar dacă s-ar zgudui pământul și s-ar clătina munții în inima mărilor,",
+        "3": "chiar dacă ar urla și ar spumega valurile mării și s-ar ridica până acolo de să se cutremure munții.",
+        "4": "Este un râu ale cărui izvoare înveselesc cetatea lui Dumnezeu, sfântul locaș al locuințelor Celui Preaînalt.",
+        "5": "Dumnezeu este în mijlocul ei: ea nu se clatină; Dumnezeu o ajută în revărsatul zorilor.",
+        "6": "Neamurile se frământă, împărățiile se clatină, dar glasul Lui răsună, și pământul se topește de groază.",
+        "7": "Domnul oștirilor este cu noi, Dumnezeul lui Iacov este un turn de scăpare pentru noi.",
+        "8": "Veniți și priviți lucrările Domnului, pustiirile pe care le-a făcut El pe pământ.",
+        "9": "El a pus capăt războaielor până la marginea pământului; El a sfărâmat arcul și a rupt sulița, a ars cu foc carele de război.",
+        "10": "„Opriți-vă și să știți că Eu sunt Dumnezeu: Eu stăpânesc peste neamuri, Eu stăpânesc pe pământ.”",
+        "11": "Domnul oștirilor este cu noi. Dumnezeul lui Iacov este un turn de scăpare pentru noi."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeu este adăpostul și puterea noastră. El este un mare ajutor care nu lipsește în necazuri.",
+        "2": "De aceea nu ne temem, chiar dacă s-ar cutremura pământul și s-ar zgudui munții în inima mărilor,",
+        "3": "chiar dacă le-ar vui și le-ar spumega apele și s-ar cutremura munții la revărsarea lor!",
+        "4": "Este un râu ale cărui izvoare înveselesc cetatea lui Dumnezeu, Locul Sfânt al locuințelor Celui Preaînalt.",
+        "5": "Dumnezeu este în mijlocul ei, ea nu se va clătina; Dumnezeu o va ajuta la revărsatul zorilor.",
+        "6": "Națiunile se agită, regatele se clatină; când Își ridică El glasul, pământul se topește.",
+        "7": "Domnul Oștirilor este cu noi, Dumnezeul lui Iacov este locul nostru de scăpare!",
+        "8": "Veniți și priviți lucrările Domnului, prin care El a adus pustiiri pe pământ!",
+        "9": "El oprește războaiele până la capătul pământului; El zdrobește arcul, rupe lancea și arde în foc scuturile.",
+        "10": "„Opriți-vă și recunoașteți că Eu sunt Dumnezeu! Eu voi fi înălțat printre națiuni, voi fi înălțat pe pământ!“",
+        "11": "Domnul Oștirilor este cu noi, Dumnezeul lui Iacov este locul nostru de scăpare!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God is our refuge and strength, a very present help in trouble.",
+        "2": "Therefore we won’t be afraid, though the earth changes, though the mountains are shaken into the heart of the seas;",
+        "3": "though its waters roar and are troubled, though the mountains tremble with their swelling.",
+        "4": "There is a river, the streams of which make the city of God glad, the holy place of the tents of the Most High.",
+        "5": "God is within her. She shall not be moved. God will help her at dawn.",
+        "6": "The nations raged. The kingdoms were moved. He lifted his voice and the earth melted.",
+        "7": "Yahweh of Armies is with us. The God of Jacob is our refuge.",
+        "8": "Come, see Yahweh’s works, what desolations he has made in the earth.",
+        "9": "He makes wars cease to the end of the earth. He breaks the bow, and shatters the spear. He burns the chariots in the fire.",
+        "10": "“Be still, and know that I am God. I will be exalted among the nations. I will be exalted in the earth.”",
+        "11": "Yahweh of Armies is with us. The God of Jacob is our refuge."
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "book": "Apocalipsa",
+  "chapter": "8",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Când a rupt Mielul pecetea a șaptea, s-a făcut în cer o tăcere de aproape o jumătate de ceas.",
+        "2": "Și am văzut pe cei șapte îngeri care stau înaintea lui Dumnezeu; și li s-au dat șapte trâmbițe.",
+        "3": "Apoi a venit un alt înger, care s-a oprit în fața altarului cu o cădelniță de aur. I s-a dat tămâie multă, ca s-o aducă, împreună cu rugăciunile tuturor sfinților, pe altarul de aur, care este înaintea scaunului de domnie.",
+        "4": "Fumul de tămâie s-a ridicat din mâna îngerului înaintea lui Dumnezeu, împreună cu rugăciunile sfinților.",
+        "5": "Apoi, îngerul a luat cădelnița, a umplut-o din focul de pe altar și l-a aruncat pe pământ. Și s-au stârnit tunete, glasuri, fulgere și un cutremur de pământ.",
+        "6": "Și cei șapte îngeri care aveau cele șapte trâmbițe s-au pregătit să sune din ele.",
+        "7": "Îngerul dintâi a sunat din trâmbiță. Și au venit grindină și foc amestecat cu sânge, care au fost aruncate pe pământ: și a treia parte a pământului a fost ars și a treia parte din copaci au fost arși și toată iarba verde a fost arsă.",
+        "8": "Al doilea înger a sunat din trâmbiță. Și ceva ca un munte mare de foc aprins a fost aruncat în mare; și a treia parte din mare s-a făcut sânge",
+        "9": "și a treia parte din făpturile care erau în mare și aveau viață au murit și a treia parte din corăbii au pierit.",
+        "10": "Al treilea înger a sunat din trâmbiță. Și a căzut din cer o stea mare, care ardea ca o făclie; a căzut peste a treia parte din râuri și peste izvoarele apelor.",
+        "11": "Steaua se chema „Pelin”; și a treia parte din ape s-au prefăcut în pelin. Și mulți oameni au murit din pricina apelor, pentru că fuseseră făcute amare.",
+        "12": "Al patrulea înger a sunat din trâmbiță. Și a fost lovită a treia parte din soare și a treia parte din lună și a treia parte din stele, pentru ca a treia parte din ele să fie întunecată, ziua să-și piardă a treia parte din lumina ei și noaptea, de asemenea.",
+        "13": "M-am uitat și am auzit un vultur care zbura prin mijlocul cerului și zicea cu glas tare: „Vai, vai, vai de locuitorii pământului din pricina celorlalte sunete de trâmbiță ale celor trei îngeri care au să mai sune!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Când a deschis Mielul al șaptelea sigiliu, în Cer s-a făcut liniște timp de aproape jumătate de oră.",
+        "2": "Și i-am văzut pe cei șapte îngeri care stau înaintea lui Dumnezeu. Acestora li s-au dat șapte trâmbițe.",
+        "3": "Un alt înger, care avea o cădelniță de aur, a venit și a stat înaintea altarului. I-a fost dată multă tămâie, ca s-o aducă împreună cu rugăciunile tuturor sfinților pe altarul de aur care este înaintea tronului.",
+        "4": "Fumul de tămâie, împreună cu rugăciunile sfinților, s-a ridicat din mâna îngerului înaintea lui Dumnezeu.",
+        "5": "Îngerul a luat cădelnița, a umplut-o cu foc de pe altar și a aruncat focul pe pământ. Și au avut loc tunete, sunete, fulgere și un cutremur. Cele șapte trâmbițe",
+        "6": "Cei șapte îngeri care aveau cele șapte trâmbițe erau pregătiți să sune.",
+        "7": "Primul a sunat din trâmbiță. Și a venit grindină și foc amestecat cu sânge, care au fost aruncate pe pământ. A treia parte a pământului a fost arsă, a treia parte a copacilor a fost arsă și toată iarba verde a fost arsă.",
+        "8": "Al doilea înger a sunat din trâmbiță. Și ceva ca un munte mare de foc aprins a fost aruncat în mare. A treia parte din mare s-a transformat în sânge,",
+        "9": "a treia parte din făpturile care erau în mare și care aveau viață au murit și a treia parte din corăbii au fost distruse.",
+        "10": "Al treilea înger a sunat din trâmbiță. Și din cer a căzut o stea mare, aprinsă ca o torță. A căzut peste a treia parte din râuri și peste izvoare.",
+        "11": "Numele stelei era: „Pelin“. A treia parte din ape s-au transformat în pelin și mulți oameni au murit din cauza apelor, pentru că fuseseră făcute amare.",
+        "12": "Al patrulea înger a sunat din trâmbiță. Și au fost lovite a treia parte din soare, a treia parte din lună și a treia parte din stele, pentru ca a treia parte din ele să fie întunecată și, astfel, a treia parte din zi și din noapte să nu mai aibă lumină.",
+        "13": "M-am uitat și am auzit un vultur care zbura în înaltul cerului, zicând cu glas tare: „Vai, vai, vai de locuitorii pământului, din cauza celorlalte sunete de trâmbiță ale celorlalți trei îngeri care urmează să sune!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "When he opened the seventh seal, there was silence in heaven for about half an hour.",
+        "2": "I saw the seven angels who stand before God, and seven trumpets were given to them.",
+        "3": "Another angel came and stood over the altar, having a golden censer. Much incense was given to him, that he should add it to the prayers of all the saints on the golden altar which was before the throne.",
+        "4": "The smoke of the incense, with the prayers of the saints, went up before God out of the angel’s hand.",
+        "5": "The angel took the censer, and he filled it with the fire of the altar, then threw it on the earth. Thunders, sounds, lightnings, and an earthquake followed.",
+        "6": "The seven angels who had the seven trumpets prepared themselves to sound.",
+        "7": "The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth. One third of the earth was burned up, and one third of the trees were burned up, and all green grass was burned up.",
+        "8": "The second angel sounded, and something like a great burning mountain was thrown into the sea. One third of the sea became blood,",
+        "9": "and one third of the living creatures which were in the sea died. One third of the ships were destroyed.",
+        "10": "The third angel sounded, and a great star fell from the sky, burning like a torch, and it fell on one third of the rivers, and on the springs of water.",
+        "11": "The name of the star is “Wormwood.” One third of the waters became wormwood. Many people died from the waters, because they were made bitter.",
+        "12": "The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars, so that one third of them would be darkened; and the day wouldn’t shine for one third of it, and the night in the same way.",
+        "13": "I saw, and I heard an eagle, flying in mid heaven, saying with a loud voice, “Woe! Woe! Woe to those who dwell on the earth, because of the other blasts of the trumpets of the three angels, who are yet to sound!”"
+      }
+    }
+  }
+}

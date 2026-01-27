@@ -1,0 +1,33 @@
+{
+  "book": "Psalmi",
+  "chapter": "123",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "La Tine îmi ridic ochii, la Tine, care locuiești în ceruri.",
+        "2": "Cum se uită ochii robilor la mâna stăpânilor lor și ochii roabei la mâna stăpânei ei, așa se uită ochii noștri la Domnul Dumnezeul nostru, până va avea milă de noi.",
+        "3": "Ai milă de noi, Doamne, ai milă de noi, căci suntem sătui de dispreț;",
+        "4": "ne este sătul sufletul de batjocurile celor îngâmfați, de disprețul celor trufași."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Către Tine îmi ridic ochii, Cel Ce locuiești în Ceruri.",
+        "2": "Cum se uită ochii slujitorilor la mâna stăpânilor lor, și ochii slujitoarei – la mâna stăpânei ei, tot așa privesc și ochii noștri la Domnul, Dumnezeul nostru, până Își va arăta bunăvoința față de noi.",
+        "3": "Arată-Ți bunăvoința față de noi, Doamne, arată-Ți bunăvoința față de noi, căci suntem atât de sătui de dispreț!",
+        "4": "Sufletul nostru s-a săturat de batjocura celor aroganți și de disprețul celor mândri."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I lift up my eyes to you, you who sit in the heavens.",
+        "2": "Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to Yahweh, our God, until he has mercy on us.",
+        "3": "Have mercy on us, Yahweh, have mercy on us, for we have endured much contempt.",
+        "4": "Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud."
+      }
+    }
+  }
+}

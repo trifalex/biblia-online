@@ -1,0 +1,54 @@
+{
+  "book": "Psalmi",
+  "chapter": "57",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ai milă de mine, Dumnezeule, ai milă de mine, căci în Tine mi se încrede sufletul; la umbra aripilor Tale caut un loc de scăpare până vor trece nenorocirile.",
+        "2": "Eu strig către Dumnezeu, către Cel Preaînalt, către Dumnezeu, care lucrează pentru mine.",
+        "3": "El îmi va trimite izbăvire din cer, în timp ce prigonitorul meu îmi aruncă ocări. Da, Dumnezeu Își va trimite bunătatea și credincioșia.",
+        "4": "Sufletul meu este între niște lei: stau culcat în mijlocul unor oameni care varsă flăcări, în mijlocul unor oameni ai căror dinți sunt sulițe și săgeți și a căror limbă este o sabie ascuțită.",
+        "5": "Înalță-Te peste ceruri, Dumnezeule, peste tot pământul să se întindă slava Ta!",
+        "6": "Ei întinseseră un laț sub pașii mei; sufletul mi se încovoia și-mi săpaseră o groapă înainte: dar au căzut ei în ea.",
+        "7": "Inima mea este tare, Dumnezeule, inima mea este tare; voi cânta, da, și voi suna din instrumentele mele.",
+        "8": "Trezește-te, suflete! Treziți-vă, alăută și harpă! Mă voi trezi în zori de zi.",
+        "9": "Te voi lăuda printre popoare, Doamne! Te voi cânta printre neamuri.",
+        "10": "Căci bunătatea Ta ajunge până la ceruri și credincioșia Ta, până la nori.",
+        "11": "Înalță-Te peste ceruri, Dumnezeule, peste tot pământul să se întindă slava Ta!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Arată-Ți bunăvoința față de mine, Dumnezeule, arată-Ți bunăvoința față de mine, căci în Tine se adăpostește sufletul meu. La umbra aripilor Tale mă adăpostesc până când va trece necazul.",
+        "2": "Strig către Dumnezeul cel Preaînalt, către Dumnezeul Care mă răzbună.",
+        "3": "El va trimite ajutor din Ceruri și mă va salva; îl va face de rușine pe cel ce mă persecută. Dumnezeu Își va trimite îndurarea și credincioșia.",
+        "4": "Sufletul meu este în mijlocul leilor; stau întins printre cei ce devorează, fii ai omului, ai căror dinți sunt sulițe și săgeți și a căror limbă este o sabie tăioasă.",
+        "5": "Fii înălțat, Dumnezeule, mai presus de ceruri! Fie gloria Ta peste întreg pământul!",
+        "6": "Ei întinseseră un laț pașilor mei, sufletul îmi era încovoiat. Ei săpaseră o groapă înaintea mea, dar au căzut ei înșiși în ea.",
+        "7": "Inima mea este pregătită, Dumnezeule, inima mea este pregătită! Voi cânta și Te voi lăuda.",
+        "8": "Trezește-te, suflete al meu! Treziți-vă, harfă și liră! Voi trezi zorii.",
+        "9": "Stăpâne, Îți voi mulțumi printre popoare. Voi cânta spre lauda Ta printre națiuni.",
+        "10": "Căci mare este îndurarea Ta, până la ceruri, iar credincioșia Ta este până la nori.",
+        "11": "Fii înălțat, Dumnezeule, mai presus de ceruri! Fie gloria Ta peste întreg pământul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Be merciful to me, God, be merciful to me, for my soul takes refuge in you. Yes, in the shadow of your wings, I will take refuge, until disaster has passed.",
+        "2": "I cry out to God Most High, to God who accomplishes my requests for me.",
+        "3": "He will send from heaven, and save me, he rebukes the one who is pursuing me. God will send out his loving kindness and his truth.",
+        "4": "My soul is among lions. I lie among those who are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.",
+        "5": "Be exalted, God, above the heavens! Let your glory be above all the earth!",
+        "6": "They have prepared a net for my steps. My soul is bowed down. They dig a pit before me. They fall into the middle of it themselves.",
+        "7": "My heart is steadfast, God. My heart is steadfast. I will sing, yes, I will sing praises.",
+        "8": "Wake up, my glory! Wake up, lute and harp! I will wake up the dawn.",
+        "9": "I will give thanks to you, Lord, among the peoples. I will sing praises to you among the nations.",
+        "10": "For your great loving kindness reaches to the heavens, and your truth to the skies.",
+        "11": "Be exalted, God, above the heavens. Let your glory be over all the earth."
+      }
+    }
+  }
+}

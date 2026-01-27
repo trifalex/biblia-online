@@ -1,0 +1,87 @@
+{
+    "book": "Isaia",
+    "chapter": "13",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Prorocie împotriva Babilonului, descoperită lui Isaia, fiul lui Amoț:",
+                "2": "Ridicați un steag pe un munte gol, înălțați glasul spre ei, faceți semne cu mâna, ca să vină la porțile asupritorilor!",
+                "3": "„Am dat poruncă sfintei Mele oștiri”, zice Domnul, „am chemat pe vitejii Mei la judecata mâniei Mele, pe cei ce se bucură de mărimea Mea.”",
+                "4": "Un vuiet se aude pe munți, ca vuietul de popor mult; se aude o zarvă de împărății, de neamuri adunate. Domnul oștirilor Își cercetează oastea care va da lupta.",
+                "5": "Ei vin dintr-o țară depărtată, de la marginea cerurilor: Domnul și uneltele mâniei Lui vor nimici tot pământul.",
+                "6": "Gemeți, căci ziua Domnului este aproape: ea vine ca o pustiire a Celui Atotputernic!",
+                "7": "De aceea toate mâinile slăbesc și orice inimă omenească se topește.",
+                "8": "Ei sunt năpădiți de spaimă; îi apucă chinurile și durerile; se zvârcolesc ca o femeie în durerile nașterii; se uită unii la alții încremeniți; fețele lor sunt roșii ca focul.",
+                "9": "Iată, vine ziua Domnului, zi fără milă, zi de mânie și urgie aprinsă, care va preface tot pământul în pustiu și va nimici pe toți păcătoșii de pe el.",
+                "10": "Căci stelele cerurilor și Orionul nu vor mai străluci; soarele se va întuneca la răsăritul lui și luna nu va mai lumina.",
+                "11": "„Voi pedepsi”, zice Domnul, „lumea pentru răutatea ei și pe cei răi pentru nelegiuirile lor; voi face să înceteze mândria celor trufași și voi doborî semeția celor asupritori.",
+                "12": "Voi face pe oameni mai rari decât aurul curat și mai scumpi decât aurul din Ofir.",
+                "13": "Pentru aceasta voi clătina cerurile, și pământul se va zgudui din temelia lui, de mânia Domnului oștirilor, în ziua mâniei Lui aprinse.",
+                "14": "Atunci, ca o căprioară speriată, ca o turmă fără păstor, fiecare se va întoarce la poporul său, fiecare va fugi în țara lui.",
+                "15": "Toți cei ce vor fi prinși vor fi străpunși și toți cei ce vor fi apucați vor cădea uciși de sabie.",
+                "16": "Copiii lor vor fi zdrobiți sub ochii lor, casele le vor fi jefuite și nevestele lor vor fi necinstite.",
+                "17": "Iată, ațâț împotriva lor pe mezi, care nu se uită la argint și nu poftesc aurul.",
+                "18": "Cu arcurile lor vor doborî pe tineri și vor fi fără milă pentru rodul pântecelor: ochiul lor nu va cruța pe copii.",
+                "19": "Și astfel, Babilonul, podoaba împăraților, falnica mândrie a caldeenilor, va fi ca Sodoma și Gomora, pe care le-a nimicit Dumnezeu.",
+                "20": "El nu va mai fi locuit, nu va mai fi niciodată popor în el. Arabul nu-și va mai întinde cortul acolo și păstorii nu-și vor mai țărcui turmele acolo,",
+                "21": "ci fiarele pustiei își vor face culcușul acolo, bufnițele îi vor umple casele, struții vor locui acolo și stafiile se vor juca acolo.",
+                "22": "Șacalii vor urla în casele lui împărătești pustii și câinii sălbatici, în casele lui de petrecere. Vremea lui este aproape să vină și zilele nu i se vor lungi.”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "O rostire cu privire la Babilon, care i-a fost descoperită lui Isaia, fiul lui Amoț.",
+                "2": "„Ridicați un steag pe un munte golaș și strigați tare la ei! pe porțile nobililor!",
+                "3": "Eu Însumi am poruncit sfinților Mei și Mi-am chemat vitejii – pe cei ce se bucură de măreția Mea – să-Mi ducă la îndeplinire mânia“.",
+                "4": "Un tumult se aude pe munți, ca al unui popor numeros. Un vuiet de împărății, de națiuni adunându-se. armata pentru luptă.",
+                "5": "Ei vin dintr-o țară îndepărtată, de la marginea cerurilor. vin ca să distrugă întreaga țară.",
+                "6": "Gemeți, căci ziua Domnului este aproape! din partea Celui Atotputernic.",
+                "7": "De aceea toate mâinile vor slăbi,",
+                "8": "și toți se vor îngrozi. și se vor zvârcoli ca o femeie în durerile nașterii. Se vor uita îngroziți unul la altul, cu fețele înroșite.",
+                "9": "Iată, vine ziua Domnului, o zi a cruzimii. Vine cu mânie și urgie aprinsă, și pentru a nimici păcătoșii din ea.",
+                "10": "Stelele cerurilor și constelațiile lor nu-și vor mai arăta lumina; soarele va fi întunecat la răsăritul lui, iar luna nu-și va mai trimite lumina.",
+                "11": "„Voi pedepsi lumea pentru răutatea ei și pe cei răi pentru nelegiuirea lor. și voi zdrobi aroganța celor groaznici.",
+                "12": "Îl voi face pe om mai rar decât aurul pur și pe oameni mai rari decât aurul de Ofir.",
+                "13": "Pentru aceasta, voi face să se cutremure cerurile, iar pământul se va zgudui din temelii, din cauza furiei Domnului Oștirilor, în ziua mâniei Lui.",
+                "14": "Asemenea unei gazele urmărite sau a unei turme fără păstor, fiecare se va întoarce la poporul lui, fiecare va fugi în țara lui.",
+                "15": "Oricine va fi găsit va fi străpuns și oricine va fi capturat va cădea ucis de sabie.",
+                "16": "Copiii lor vor fi zdrobiți în bucăți înaintea ochilor lor, casele lor vor fi jefuite, iar soțiile lor vor fi violate.",
+                "17": "Iată, îi voi stârni împotriva lor pe mezi, și nu-și vor găsi plăcerea în aur.",
+                "18": "Arcurile lor îi vor străpunge pe cei tineri. De rodul pântecului nu vor avea milă, iar copiii nu vor găsi îndurare în ochii lor.",
+                "19": "Iar Babilonul, frumusețea împărățiilor, splendoarea măreției caldeenilor, atunci când le-a distrus Dumnezeu.",
+                "20": "Nu va mai fi locuit niciodată; pentru tot restul generațiilor. și niciun păstor nu-și va odihni turma în acel loc.",
+                "21": "Ci animalele deșertului vor sta acolo: șacalii îi vor umple casele, struții vor locui acolo, iar țapii sălbatici vor zburda în acel loc.",
+                "22": "Hienele vor urla în palatele sale, iar șacalii – în casele lui de petrecere. Vremea lui este aproape, și zilele nu-i vor fi prelungite“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "The burden of Babylon, which Isaiah the son of Amoz saw.",
+                "2": "Set up a banner on the bare mountain! Lift up your voice to them! Wave your hand, that they may go into the gates of the nobles.",
+                "3": "I have commanded my consecrated ones; yes, I have called my mighty men for my anger, even my proudly exulting ones.",
+                "4": "The noise of a multitude is in the mountains, as of a great people; the noise of an uproar of the kingdoms of the nations gathered together! Yahweh of Armies is mustering the army for the battle.",
+                "5": "They come from a far country, from the uttermost part of heaven, even Yahweh, and the weapons of his indignation, to destroy the whole land.",
+                "6": "Wail, for Yahweh’s day is at hand! It will come as destruction from the Almighty.",
+                "7": "Therefore all hands will be feeble, and everyone’s heart will melt.",
+                "8": "They will be dismayed. Pangs and sorrows will seize them. They will be in pain like a woman in labor. They will look in amazement one at another. Their faces will be faces of flame.",
+                "9": "Behold, the day of Yahweh comes, cruel, with wrath and fierce anger; to make the land a desolation, and to destroy its sinners out of it.",
+                "10": "For the stars of the sky and its constellations will not give their light. The sun will be darkened in its going out, and the moon will not cause its light to shine.",
+                "11": "I will punish the world for their evil, and the wicked for their iniquity. I will cause the arrogance of the proud to cease, and will humble the arrogance of the terrible.",
+                "12": "I will make people more rare than fine gold, even a person than the pure gold of Ophir.",
+                "13": "Therefore I will make the heavens tremble, and the earth will be shaken out of its place in Yahweh of Armies’ wrath, and in the day of his fierce anger.",
+                "14": "It will happen that like a hunted gazelle and like sheep that no one gathers, they will each turn to their own people, and will each flee to their own land.",
+                "15": "Everyone who is found will be thrust through. Everyone who is captured will fall by the sword.",
+                "16": "Their infants also will be dashed in pieces before their eyes. Their houses will be ransacked, and their wives raped.",
+                "17": "Behold, I will stir up the Medes against them, who will not value silver, and as for gold, they will not delight in it.",
+                "18": "Their bows will dash the young men in pieces; and they shall have no pity on the fruit of the womb. Their eyes will not spare children.",
+                "19": "Babylon, the glory of kingdoms, the beauty of the Chaldeans’ pride, will be like when God overthrew Sodom and Gomorrah.",
+                "20": "It will never be inhabited, neither will it be lived in from generation to generation. The Arabian will not pitch a tent there, neither will shepherds make their flocks lie down there.",
+                "21": "But wild animals of the desert will lie there, and their houses will be full of jackals. Ostriches will dwell there, and wild goats will frolic there.",
+                "22": "Hyenas will cry in their fortresses, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged."
+            }
+        }
+    }
+}

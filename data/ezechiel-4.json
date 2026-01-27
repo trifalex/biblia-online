@@ -1,0 +1,72 @@
+{
+    "book": "Ezechiel",
+    "chapter": "4",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Și tu, fiul omului, ia o cărămidă, pune-o înaintea ta și sapă pe ea cetatea Ierusalimului.",
+                "2": "Înfățișeaz-o împresurată, zidește întărituri în jurul ei, înconjoar-o cu un șanț de apărare, pune tabere de ostași împrejurul ei și ridică berbeci de fier împotriva ei de jur împrejur.",
+                "3": "Ia o tigaie de fier și pune-o ca un zid de fier între tine și cetate; îndreaptă-ți fața împotriva ei, ca să fie împresurată și s-o strâmtorezi. Aceasta să fie un semn pentru casa lui Israel!",
+                "4": "Apoi culcă-te pe coasta stângă și pune pe ea nelegiuirea casei lui Israel; câte zile vei sta culcat pe coasta aceasta, le vei purta nelegiuirea lor.",
+                "5": "Îți voi socoti un număr de zile deopotrivă cu acela al anilor nelegiuirii lor, și anume trei sute nouăzeci de zile în care să porți nelegiuirea casei lui Israel.",
+                "6": "După ce vei isprăvi aceste zile, culcă-te a doua oară pe coasta dreaptă și poartă nelegiuirea casei lui Iuda patruzeci de zile; îți pun câte o zi pentru fiecare an.",
+                "7": "Apoi întoarce-ți fața și brațul dezgolit spre Ierusalimul împresurat și prorocește împotriva lui.",
+                "8": "Și iată, voi pune funii peste tine, ca să nu poți să te întorci de pe o coastă pe alta până nu vei împlini zilele împresurării tale.",
+                "9": "Ia-ți și grâu, orz, bob, linte, mei și alac, pune-le într-un vas și fă pâine din ele câte zile vei sta culcat pe coastă: trei sute nouăzeci de zile să mănânci din ele.",
+                "10": "Hrana pe care o vei mânca, s-o mănânci cu cântarul, și anume câte douăzeci de sicli pe zi; să mănânci din ea din când în când.",
+                "11": "Apa pe care o vei bea, o vei bea cu măsură, și anume câte o șesime de hin; vei bea din ea din când în când.",
+                "12": "Hrana s-o mănânci ca turte de orz, pe care le vei coace în fața lor cu balegă de om.”",
+                "13": "Și Domnul a zis: „Așa își vor mânca pâinea spurcată copiii lui Israel printre neamurile printre care îi voi izgoni.”",
+                "14": "Eu am zis: „Ah, Doamne Dumnezeule, iată, sufletul meu n-a fost pângărit niciodată; din tinerețea mea și până acum, niciodată n-am mâncat dintr-un dobitoc mort sau sfâșiat și nicio carne necurată n-a intrat în gura mea.”",
+                "15": "El mi-a răspuns: „Ei bine, iată că îți dau balegă de bou, în loc de balegă omenească, și-ți vei face pâinea pe ea.”",
+                "16": "El mi-a mai zis: „Fiul omului, iată că voi sfărâma toiagul pâinii la Ierusalim, așa că vor mânca pâine cu cântarul și cu necaz și vor bea apă cu măsură și cu groază.",
+                "17": "Vor duce lipsă de pâine și de apă, se vor uimi unii de alții și se vor sfârși din pricina nelegiuirii lor."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "‒ Iar tu, fiul omului, ia o cărămidă, pune-o înaintea ta și gravează pe ea o cetate înfățișând Ierusalimul.",
+                "2": "Înfățișeaz-o sub asediu: construiește împotriva ei întărituri, înalță împotriva ei o rampă de asalt, pune împotriva ei tabere și ridică împotriva ei berbeci de fier.",
+                "3": "Apoi ia un grătar de fier, pune-l ca pe un zid de fier, între tine și cetate, și îndreaptă-ți fața împotriva acesteia, ca ea să fie sub asediu și tu s-o ataci. Acesta va fi un semn pentru Casa lui Israel.",
+                "4": "După aceea, culcă-te pe partea ta stângă și pune pe ea nelegiuirea Casei lui Israel. Câte zile vei sta culcat pe această parte, vei purta nelegiuirea lor.",
+                "5": "Ți-am hotărât un număr de zile potrivit cu anii nelegiuirii lor: trei sute nouăzeci de zile vei purta nelegiuirea Casei lui Israel.",
+                "6": "După ce vei termina cu acestea, să te culci a doua oară, pe partea ta dreaptă, și să porți nelegiuirea Casei lui Iuda timp de patruzeci de zile. Ți-am hotărât, așadar, câte o zi pentru fiecare an.",
+                "7": "Apoi îndreaptă-ți fața spre Ierusalimul asediat și profețește împotriva cetății cu brațul descoperit.",
+                "8": "Iată, voi pune peste tine funii, ca să nu te poți întoarce de pe o parte pe alta, până ți se vor împlini zilele asediului tău.",
+                "9": "Ia-ți niște grâu, orz, fasole, linte, mei și secară albă și pune-ți-le într-un vas, ca să-ți poți face mâncare din ele pe tot parcursul zilelor cât vei sta culcat pe o parte. Timp de trei sute nouăzeci de zile să mănânci din ele.",
+                "10": "Hrana pe care o vei mânca zilnic să fie în greutate de douăzeci de șecheli. Să mănânci din ea din când în când.",
+                "11": "Apa să o bei cu măsură și, anume, a șasea parte dintr-un hin; să bei din ea din când în când.",
+                "12": "Să mănânci o turtă de orz și s-o coci înaintea ochilor lor, folosind fecale de om uscate.",
+                "13": "Apoi Domnul a zis: ‒ Tot la fel de necurată va fi și pâinea pe care o vor mânca fiii lui Israel, acolo unde îi voi alunga, printre națiuni.",
+                "14": "Atunci eu am zis: ‒ Ah, Stăpâne Doamne, iată, sufletul meu nu a fost întinat niciodată, căci, din tinerețea mea și până acum, nu am mâncat cadavre de animale sau animale sfâșiate și nu mi-a intrat în gură carne necurată.",
+                "15": "El mi-a răspuns: ‒ Ei bine, iată, îți dau balegă de bou în loc de fecale de om și-ți vei coace pâinea pe ea.",
+                "16": "Apoi mi-a zis: ‒ Fiul omului, voi distruge orice resursă de hrană în Ierusalim, așa încât cu frică își vor mânca porția de pâine și cu groază își vor bea rația de apă.",
+                "17": "Vor duce lipsă de pâine și de apă, se vor îngrozi unii de ceilalți și se vor chinui din cauza nelegiuirii lor."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "“You also, son of man, take a tile, and lay it before yourself, and portray on it a city, even Jerusalem.",
+                "2": "Lay siege against it, build forts against it, and cast up a mound against it. Also set camps against it and plant battering rams against it all around.",
+                "3": "Take for yourself an iron pan and set it for a wall of iron between you and the city. Then set your face toward it. It will be besieged, and you shall lay siege against it. This shall be a sign to the house of Israel.",
+                "4": "“Moreover lie on your left side, and lay the iniquity of the house of Israel on it. According to the number of the days that you shall lie on it, you shall bear their iniquity.",
+                "5": "For I have appointed the years of their iniquity to be to you a number of days, even three hundred ninety days. So you shall bear the iniquity of the house of Israel.",
+                "6": "“Again, when you have accomplished these, you shall lie on your right side, and shall bear the iniquity of the house of Judah. I have appointed forty days, each day for a year, to you.",
+                "7": "You shall set your face toward the siege of Jerusalem, with your arm uncovered; and you shall prophesy against it.",
+                "8": "Behold, I put ropes on you, and you shall not turn yourself from one side to the other, until you have accomplished the days of your siege.",
+                "9": "“Take for yourself also wheat, barley, beans, lentils, millet, and spelt, and put them in one vessel. Make bread of it. According to the number of the days that you will lie on your side, even three hundred ninety days, you shall eat of it.",
+                "10": "Your food which you shall eat shall be by weight, twenty shekels a day. From time to time you shall eat it.",
+                "11": "You shall drink water by measure, the sixth part of a hin. From time to time you shall drink.",
+                "12": "You shall eat it as barley cakes, and you shall bake it in their sight with dung that comes out of man.”",
+                "13": "Yahweh said, “Even thus will the children of Israel eat their bread unclean, among the nations where I will drive them.”",
+                "14": "Then I said, “Ah Lord Yahweh! Behold, my soul has not been polluted; for from my youth up even until now I have not eaten of that which dies of itself, or is torn of animals. No abominable meat has come into my mouth!”",
+                "15": "Then he said to me, “Behold, I have given you cow’s dung for man’s dung, and you shall prepare your bread on it.”",
+                "16": "Moreover he said to me, “Son of man, behold, I will break the staff of bread in Jerusalem. They will eat bread by weight, and with fearfulness. They will drink water by measure, and in dismay;",
+                "17": "that they may lack bread and water, be dismayed one with another, and pine away in their iniquity."
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "5",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Păzește-ți piciorul când intri în Casa lui Dumnezeu și apropie-te mai bine să asculți decât să aduci jertfa nebunilor, căci ei nu știu că fac rău cu aceasta.",
+        "2": "Nu te grăbi să deschizi gura și să nu-ți rostească inima cuvinte pripite înaintea lui Dumnezeu, căci Dumnezeu este în cer, și tu, pe pământ; de aceea să nu spui vorbe multe.",
+        "3": "Căci, dacă visele se nasc din mulțimea grijilor, prostia nebunului se cunoaște din mulțimea cuvintelor.",
+        "4": "Dacă ai făcut o juruință lui Dumnezeu, nu zăbovi s-o împlinești, căci Lui nu-I plac cei fără minte; de aceea împlinește juruința pe care ai făcut-o.",
+        "5": "Mai bine să nu faci nicio juruință decât să faci o juruință și să n-o împlinești.",
+        "6": "Nu lăsa gura să te bage în păcat și nu zice înaintea trimisului lui Dumnezeu: „M-am pripit.” Pentru ce să Se mânie Dumnezeu din pricina cuvintelor tale și să nimicească lucrarea mâinilor tale?",
+        "7": "Căci, dacă este deșertăciune în mulțimea viselor, nu mai puțin este și în mulțimea vorbelor; de aceea, teme-te de Dumnezeu!",
+        "8": "Când vezi în țară pe cel sărac năpăstuit și jefuit în numele dreptului și dreptății, să nu te miri de lucrul acesta. Căci peste cel mare veghează altul mai mare și peste ei toți, Cel Preaînalt.",
+        "9": "Dar un folos pentru țară, în toate privințele, este un împărat prețuit în țară.",
+        "10": "Cine iubește argintul nu se satură niciodată de argint și cine iubește bogăția multă nu trage folos din ea. Și aceasta este o deșertăciune!",
+        "11": "Când se înmulțesc bunătățile, se înmulțesc și cei ce le papă. Și ce folos mai are din ele stăpânul lor decât că le vede cu ochii?",
+        "12": "Dulce este somnul lucrătorului, fie că a mâncat mult, fie că a mâncat puțin; dar pe cel bogat nu-l lasă îmbuibarea să doarmă.",
+        "13": "Este un mare rău pe care l-am văzut sub soare: avuții păstrate spre nefericirea stăpânului lor.",
+        "14": "Dacă se pierd aceste bogății prin vreo întâmplare nenorocită, și el are un fiu, fiului nu-i rămâne nimic în mâini.",
+        "15": "Cum a ieșit de gol din pântecele mamei sale, din care a venit, așa se întoarce și nu poate să ia nimic în mână din toată osteneala lui.",
+        "16": "Și acesta este un mare rău, anume că se duce cum venise. Și ce folos are el că s-a trudit în vânt?",
+        "17": "Ba încă toată viața lui a mai trebuit să mănânce cu necaz și a avut multă durere, grijă și supărare.",
+        "18": "Iată ce am văzut: este bine și frumos ca omul să mănânce și să bea și să trăiască bine în mijlocul muncii lui, cu care se trudește sub soare, în toate zilele vieții lui, pe care i le-a dat Dumnezeu; căci aceasta este partea lui.",
+        "19": "Dar dacă a dat Dumnezeu cuiva avere și bogății și i-a îngăduit să mănânce din ele, să-și ia partea lui din ele și să se bucure în mijlocul muncii lui: acesta este un dar de la Dumnezeu.",
+        "20": "Căci nu se mai gândește mult la scurtimea zilelor vieții lui, de vreme ce Dumnezeu îi umple inima de bucurie."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Păzește-ți piciorul când intri în Casa lui Dumnezeu și apropie-te mai bine să asculți, decât să aduci jertfa nesăbuiților, căci ei nu știu că fac un rău.",
+        "2": "Nu te grăbi să-ți deschizi gura și inima ta să nu se pripească să rostească ceva înaintea lui Dumnezeu, căci Dumnezeu este în Ceruri, iar tu ești pe pământ; de aceea cuvintele tale să fie cumpănite.",
+        "3": "Căci, așa cum un vis se naște din mulțimea preocupărilor, tot astfel jurământul unui nesăbuit se vede din mulțimea cuvintelor.",
+        "4": "Când faci un jurământ înaintea lui Dumnezeu, să nu întârzii să-l împlinești, căci Lui nu-I plac nesăbuiții. Așadar, împlinește-ți jurământul!",
+        "5": "Este mai bine să nu faci jurăminte, decât să faci jurăminte și să nu le împlinești.",
+        "6": "Nu lăsa gura să-ți ducă trupul în păcat, așa încât să-i zici mesagerului: „A fost o greșeală!“. De ce să Se mânie Dumnezeu din cauza glasului tău și să nimicească lucrarea mâinilor tale?",
+        "7": "Așa cum este deșertăciune în mulțimea viselor, tot așa este și în mulțimea cuvintelor. Așadar, teme-te de Dumnezeu!",
+        "8": "Când vezi că, într-o provincie, săracul este asuprit, iar dreptatea și omul drept sunt persecutați, să nu te miri de lucrurile acestea, căci un dregător veghează peste un alt dregător, iar peste amândoi veghează alții și mai mari.",
+        "9": "De folos pentru o țară, în orice privință, este un rege care încurajează cultivarea pământului.",
+        "10": "Cel ce iubește argintul nu se satură de argint, iar cine iubește bogăția nu are niciun câștig. Și aceasta este o deșertăciune!",
+        "11": "Când se înmulțește averea, se înmulțesc și cei ce o mănâncă. Și ce câștig mai are stăpânul ei, decât doar că o vede cu ochii lui?",
+        "12": "Dulce este somnul lucrătorului, fie că a mâncat puțin, fie că a mâncat mult, însă bogatului, îndestularea nu-i oferă liniștea necesară pentru odihnă.",
+        "13": "Există un rău tulburător pe care l-am văzut sub soare: bogăție păstrată pentru stăpânul ei, dar spre răul său,",
+        "14": "și bogăție pierdută printr-o afacere nereușită. Astfel, fiul care i s-a născut nu mai rămâne cu nimic în mâini.",
+        "15": "Gol a ieșit din pântecul mamei sale și tot așa s-a și întors, plecând precum a venit. Nimic nu a luat din rodul muncii lui, din tot ce-i aparținuse.",
+        "16": "Și acest lucru este un mare rău: întocmai cum vine omul, așa și pleacă, și ce câștig are omul din aceasta? A muncit din greu degeaba!",
+        "17": "Toată viața lui a mâncat pe întuneric, cu multă tulburare, cu suferință și cu mânie.",
+        "18": "Iată ce am văzut eu că este bine și frumos: ca omul să mănânce, să bea și să guste fericirea în timpul întregii lui munci depuse sub soare, în puținele zile ale vieții sale, pe care i le-a dat Dumnezeu, căci aceasta este partea sa.",
+        "19": "De asemenea, orice om, căruia Dumnezeu i-a dat bogăție și averi și căruia i-a dat dreptul să mănânce din ele, să-și ia partea ce i se cuvine din ele și să se bucure de munca lui; acesta este un dar de la Dumnezeu.",
+        "20": "Căci el nu se gândește prea mult la cât de scurtă îi este viața, fiindcă Dumnezeu îl ține ocupat cu bucuria inimii lui."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Guard your steps when you go to God’s house; for to draw near to listen is better than to give the sacrifice of fools, for they don’t know that they do evil.",
+        "2": "Don’t be rash with your mouth, and don’t let your heart be hasty to utter anything before God; for God is in heaven, and you on earth. Therefore let your words be few.",
+        "3": "For as a dream comes with a multitude of cares, so a fool’s speech with a multitude of words.",
+        "4": "When you vow a vow to God, don’t defer to pay it; for he has no pleasure in fools. Pay that which you vow.",
+        "5": "It is better that you should not vow, than that you should vow and not pay.",
+        "6": "Don’t allow your mouth to lead you into sin. Don’t protest before the messenger that this was a mistake. Why should God be angry at your voice, and destroy the work of your hands?",
+        "7": "For in the multitude of dreams there are vanities, as well as in many words; but you must fear God.",
+        "8": "If you see the oppression of the poor, and the violent taking away of justice and righteousness in a district, don’t marvel at the matter, for one official is eyed by a higher one, and there are officials over them.",
+        "9": "Moreover the profit of the earth is for all. The king profits from the field.",
+        "10": "He who loves silver shall not be satisfied with silver, nor he who loves abundance, with increase. This also is vanity.",
+        "11": "When goods increase, those who eat them are increased; and what advantage is there to its owner, except to feast on them with his eyes?",
+        "12": "The sleep of a laboring man is sweet, whether he eats little or much; but the abundance of the rich will not allow him to sleep.",
+        "13": "There is a grievous evil which I have seen under the sun: wealth kept by its owner to his harm.",
+        "14": "Those riches perish by misfortune, and if he has fathered a son, there is nothing in his hand.",
+        "15": "As he came out of his mother’s womb, naked shall he go again as he came, and shall take nothing for his labor, which he may carry away in his hand.",
+        "16": "This also is a grievous evil, that in all points as he came, so shall he go. And what profit does he have who labors for the wind?",
+        "17": "All his days he also eats in darkness, he is frustrated, and has sickness and wrath.",
+        "18": "Behold, that which I have seen to be good and proper is for one to eat and to drink, and to enjoy good in all his labor, in which he labors under the sun, all the days of his life which God has given him; for this is his portion.",
+        "19": "Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.",
+        "20": "For he shall not often reflect on the days of his life, because God occupies him with the joy of his heart."
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "book": "Cantarea Cantarilor",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ce frumoasă ești, iubito, ce frumoasă ești! Ochii tăi sunt ochi de porumbiță, sub marama ta. Părul tău este ca o turmă de capre, poposită pe coama muntelui Galaad.",
+        "2": "Dinții tăi sunt ca o turmă de oi tunse care ies din scăldătoare, toate cu gemeni, și niciuna din ele nu este stearpă.",
+        "3": "Buzele tale sunt ca un fir de cârmâz și gura ta este drăguță; obrazul tău este ca o jumătate de rodie, sub marama ta.",
+        "4": "Gâtul tău este ca turnul lui David, zidit ca să fie o casă de arme; o mie de scuturi atârnă de el, toate scuturi de viteji.",
+        "5": "Amândouă țâțele tale sunt ca doi pui de cerb, ca gemenii unei căprioare care pasc între crini.",
+        "6": "Până se răcorește ziua și până fug umbrele, voi veni la tine, munte de mir, și la tine, deal de tămâie.",
+        "7": "Ești frumoasă de tot, iubito, și n-ai niciun cusur.",
+        "8": "Vino cu mine din Liban, mireaso, vino cu mine din Liban! Privește din vârful muntelui Amana, din vârful munților Senir și Hermon, din vizuinile leilor, din munții pardoșilor!",
+        "9": "Mi-ai răpit inima, soro mireaso, mi-ai răpit inima numai cu o privire, numai cu unul din lănțișoarele de la gâtul tău!",
+        "10": "Ce lipici în dezmierdările tale, soro mireaso! Dezmierdările tale prețuiesc mai mult decât vinul și miresmele tale sunt mai plăcute decât toate miroznele!",
+        "11": "Miere picură din buzele tale, mireaso, miere și lapte se află sub limba ta și mirosul hainelor tale este ca mirosul Libanului.",
+        "12": "Ești o grădină închisă, soro mireaso, un izvor închis, o fântână pecetluită.",
+        "13": "Odraslele tale sunt o grădină de rodii, cu cele mai alese roade, mălini negri și nard;",
+        "14": "nard și șofran, trestie mirositoare și scorțișoară, cu tot felul de tufari de tămâie, smirnă și aloe, cu cele mai alese miresme.",
+        "15": "O fântână din grădini, un izvor de ape vii ce curge din Liban.",
+        "16": "Scoală-te, crivățule! Vino, vântule de miazăzi! Suflați peste grădina mea, ca să picure mirosurile din ea! – Să intre iubitul meu în grădina lui și să mănânce din roadele ei alese! –"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Iată, ești atât de frumoasă, iubita mea! Iată, ești atât de frumoasă, cu ochii tăi de porumbiță, în spatele voalului. Părul tău este ca o turmă de capre care coboară de pe muntele Ghiladului!",
+        "2": "Dinții tăi sunt ca o turmă de oi tunse, care ies din scăldătoare; fiecare dintre ele are gemeni și niciuna din ele nu este singură.",
+        "3": "Buzele tale sunt ca un fir stacojiu și gura ta este minunată. Tâmplele tale sunt ca niște jumătăți de rodie, în spatele voalului.",
+        "4": "Gâtul tău este ca turnul lui David, construit în straturi. O mie de scuturi atârnă pe el, toate scuturi de viteji.",
+        "5": "Cei doi sâni ai tăi sunt ca doi pui de cerb, ca gemenii unei gazele, care pasc între crini.",
+        "6": "Când se răcorește ziua și vor zbura umbrele, voi merge la muntele de smirnă și la dealul de tămâie.",
+        "7": "Ești desăvârșit de frumoasă, iubita mea, și nu ai niciun defect.",
+        "8": "Vino cu mine din Liban, mireasa mea, vino cu mine din Liban. Coboară din vârful Amana, de pe culmea Senirului și de pe Hermon, din hățișurile leilor și din munții leoparzilor.",
+        "9": "Mi-ai fermecat inima, sora mea, mireasa mea, mi-ai fermecat inima cu o singură privire a ochilor tăi și doar cu colierul de la gâtul tău.",
+        "10": "Cât de frumoasă este iubirea ta, sora mea, mireaso! Cât de plăcută este iubirea ta, mai plăcută decât vinul, iar mirosul uleiurilor tale este mai plăcut decât toate mirodeniile.",
+        "11": "De pe buzele tale se prelinge miere, mireaso! Miere și lapte se află sub limba ta, iar mirosul hainelor tale este ca mirosul Libanului.",
+        "12": "Ești o grădină închisă, sora mea, mireaso, o fântână închisă, un izvor pecetluit.",
+        "13": "Plantele tale sunt o grădină cu rodii, cu fructe alese, cu hena și cu nard,",
+        "14": "cu nard și cu șofran, cu trestie mirositoare și cu scorțișoară, cu toate felurile de arbori de tămâie, cu smirnă și aloe, cu toate mirodeniile cele mai fine.",
+        "15": "Ești un izvor în grădini, o fântână de ape vii, care curg din Liban. Șulamita",
+        "16": "Trezește-te, vânt din nord, și vino, vânt din sud! Suflați peste grădina mea ca să-și reverse parfumurile. Să intre iubitul meu în grădina lui și să-i mănânce fructele cele alese!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves behind your veil. Your hair is as a flock of goats, that descend from Mount Gilead.",
+        "2": "Your teeth are like a newly shorn flock, which have come up from the washing, where every one of them has twins. None is bereaved among them.",
+        "3": "Your lips are like scarlet thread. Your mouth is lovely. Your temples are like a piece of a pomegranate behind your veil.",
+        "4": "Your neck is like David’s tower built for an armory, on which a thousand shields hang, all the shields of the mighty men.",
+        "5": "Your two breasts are like two fawns that are twins of a roe, which feed among the lilies.",
+        "6": "Until the day is cool, and the shadows flee away, I will go to the mountain of myrrh, to the hill of frankincense.",
+        "7": "You are all beautiful, my love. There is no spot in you.",
+        "8": "Come with me from Lebanon, my bride, with me from Lebanon. Look from the top of Amana, from the top of Senir and Hermon, from the lions’ dens, from the mountains of the leopards.",
+        "9": "You have ravished my heart, my sister, my bride. You have ravished my heart with one of your eyes, with one chain of your neck.",
+        "10": "How beautiful is your love, my sister, my bride! How much better is your love than wine, the fragrance of your perfumes than all kinds of spices!",
+        "11": "Your lips, my bride, drip like the honeycomb. Honey and milk are under your tongue. The smell of your garments is like the smell of Lebanon.",
+        "12": "My sister, my bride, is a locked up garden; a locked up spring, a sealed fountain.",
+        "13": "Your shoots are an orchard of pomegranates, with precious fruits, henna with spikenard plants,",
+        "14": "spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,",
+        "15": "a fountain of gardens, a well of living waters, flowing streams from Lebanon. Beloved",
+        "16": "Awake, north wind, and come, you south! Blow on my garden, that its spices may flow out. Let my beloved come into his garden, and taste his precious fruits."
+      }
+    }
+  }
+}

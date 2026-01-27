@@ -1,0 +1,60 @@
+{
+  "book": "1 Tesaloniceni",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "De aceea, fiindcă nu mai puteam răbda, am socotit mai bine să fim lăsați singuri în Atena",
+        "2": "și v-am trimis pe Timotei, fratele nostru și slujitorul lui Dumnezeu în Evanghelia lui Hristos, ca să vă întărească și să vă îmbărbăteze în credința voastră,",
+        "3": "pentru ca nimeni din voi să nu se clatine în aceste necazuri, căci știți singuri că la aceasta suntem rânduiți.",
+        "4": "Și când eram la voi, v-am spus mai dinainte că vom avea să suferim necazuri, ceea ce s-a și întâmplat, cum bine știți.",
+        "5": "Astfel, în nerăbdarea mea, am trimis să-mi aducă știri despre credința voastră de teamă ca nu cumva să vă fi ispitit Ispititorul, și osteneala noastră să fi fost degeaba.",
+        "6": "Dar chiar acum a venit Timotei de la voi la noi și ne-a adus vești bune despre credința și dragostea voastră, că totdeauna păstrați o plăcută aducere aminte despre noi și că doriți să ne vedeți, cum dorim și noi să vă vedem pe voi.",
+        "7": "De aceea, fraților, în toate strâmtorările și necazurile noastre, am fost mângâiați cu privire la voi prin credința voastră.",
+        "8": "Acum, da, trăim, fiindcă voi stați tari în Domnul.",
+        "9": "Cum putem noi oare să mulțumim îndeajuns lui Dumnezeu cu privire la voi, pentru toată bucuria pe care o avem din pricina voastră înaintea Dumnezeului nostru?",
+        "10": "Zi și noapte Îl rugăm nespus să vă putem vedea fața și să putem împlini ce mai lipsește credinței voastre.",
+        "11": "Însuși Dumnezeu, Tatăl nostru, și Domnul nostru Isus Hristos să ne netezească drumul la voi!",
+        "12": "Domnul să vă facă să creșteți tot mai mult în dragoste unii față de alții și față de toți, cum facem și noi înșine pentru voi,",
+        "13": "ca să vi se întărească inimile și să fie fără prihană în sfințenie înaintea lui Dumnezeu, Tatăl nostru, la venirea Domnului nostru Isus Hristos împreună cu toți sfinții Săi."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "De aceea, fiindcă n-am mai putut răbda, am considerat că este potrivit să rămânem singuri în Atena",
+        "2": "și l-am trimis pe Timotei, fratele nostru și lucrător împreună cu Dumnezeu în Evanghelia lui Cristos, ca să vă întărească și să vă încurajeze în credința voastră,",
+        "3": "pentru ca nimeni să nu se clatine în aceste necazuri. Căci știți că la aceasta suntem destinați.",
+        "4": "Când eram la voi v-am spus dinainte că urmează să suferim necazuri, așa cum s-a și întâmplat, după cum știți.",
+        "5": "De aceea, când n-am mai putut răbda, l-am trimis să afle despre credința voastră, ca nu cumva ispititorul să vă fi ispitit, și eforturile noastre să fi fost în zadar.",
+        "6": "Însă Timotei a venit chiar acum de la voi la noi și ne-a adus vești bune despre credința și dragostea voastră. Ne-a spus că întotdeauna vă amintiți cu plăcere de noi și că tânjiți să ne vedeți, tot așa cum și noi tânjim să vă vedem.",
+        "7": "De aceea, fraților, în orice nevoie și în orice necaz al nostru, am fost încurajați cu privire la voi, datorită credinței voastre.",
+        "8": "Acum trăim într-adevăr, fiindcă voi stați fermi în Domnul.",
+        "9": "Căci, cum am putea noi oare să-I mulțumim îndeajuns lui Dumnezeu pentru voi, pentru toată bucuria pe care o avem, datorită vouă, înaintea Dumnezeului nostru?",
+        "10": "Zi și noapte ne rugăm foarte mult să vă putem vedea față în față și să întregim ceea ce lipsește credinței voastre.",
+        "11": "Fie ca Însuși Dumnezeu, Tatăl nostru, și Domnul nostru Isus să netezească drumul nostru spre voi!",
+        "12": "Domnul să facă să crească și să se reverse dragostea voastră unii față de alții și față de toți, așa cum facem și noi față de voi,",
+        "13": "pentru ca inimile voastre să se întărească în sfințenie și să fie fără vină înaintea lui Dumnezeu, Tatăl nostru, la venirea Domnului nostru Isus cu toți sfinții Lui. Amin."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone,",
+        "2": "and sent Timothy, our brother and God’s servant in the Good News of Christ, to establish you and to comfort you concerning your faith,",
+        "3": "that no one would be moved by these afflictions. For you know that we are appointed to this task.",
+        "4": "For most certainly, when we were with you, we told you beforehand that we are to suffer affliction, even as it happened, and you know.",
+        "5": "For this cause I also, when I couldn’t stand it any longer, sent that I might know your faith, for fear that by any means the tempter had tempted you, and our labor would have been in vain.",
+        "6": "But Timothy has just now come to us from you, and brought us glad news of your faith and love, and that you have good memories of us always, longing to see us, even as we also long to see you.",
+        "7": "For this cause, brothers, we were comforted over you in all our distress and affliction through your faith.",
+        "8": "For now we live, if you stand fast in the Lord.",
+        "9": "For what thanksgiving can we give again to God for you, for all the joy with which we rejoice for your sakes before our God,",
+        "10": "night and day praying exceedingly that we may see your face and may perfect that which is lacking in your faith?",
+        "11": "Now may our God and Father himself, and our Lord Jesus Christ, direct our way to you.",
+        "12": "May the Lord make you to increase and abound in love toward one another and toward all men, even as we also do toward you,",
+        "13": "to the end he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his saints."
+      }
+    }
+  }
+}

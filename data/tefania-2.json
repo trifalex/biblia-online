@@ -1,0 +1,66 @@
+{
+  "book": "Tefania",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Veniți-vă în fire și cercetați-vă, neam fără rușine,",
+        "2": "până nu se împlinește hotărârea – ca pleava trece vremea –, până nu vine peste voi mânia aprinsă a Domnului, până nu vine peste voi ziua mâniei Domnului!",
+        "3": "Căutați pe Domnul, toți cei smeriți din țară care împliniți poruncile Lui! Căutați dreptatea, căutați smerenia! Poate că veți fi cruțați în ziua mâniei Domnului.",
+        "4": "Căci Gaza va fi părăsită, Ascalonul va fi pustiit, poporul din Asdod va fi izgonit ziua-n amiaza mare și Ecronul va fi smuls din rădăcini.",
+        "5": "Vai de locuitorii de pe malurile mării, vai de neamul cheretiților! Așa a vorbit Domnul împotriva ta, Canaane, țara filistenilor: „Te voi nimici și nu vei mai avea locuitori!",
+        "6": "Malurile mării vor ajunge islazuri de pășunat, locuințe pentru păstori și târle de oi.",
+        "7": "Malurile acestea vor fi pentru rămășițele casei lui Iuda; acolo vor paște; se vor odihni seara în casele Ascalonului, căci Domnul Dumnezeul lor nu-i va uita și va aduce înapoi pe prinșii lor de război.”",
+        "8": "„Am auzit ocările Moabului și batjocurile copiilor lui Amon, când defăimau pe poporul Meu și se ridicau cu trufie împotriva hotarelor lor.",
+        "9": "De aceea, pe viața Mea”, zice Domnul oștirilor, Dumnezeul lui Israel, „că Moabul va fi ca Sodoma și copiii lui Amon, ca Gomora: un loc acoperit cu mărăcini, o groapă de sare, un pustiu veșnic; rămășița poporului Meu îi va jefui, rămășița neamului Meu îi va stăpâni.”",
+        "10": "Lucrul acesta li se va întâmpla pentru mândria lor, pentru că au batjocorit și au fost semeți cu poporul Domnului oștirilor.",
+        "11": "Domnul va fi grozav împotriva lor, căci va nimici pe toți dumnezeii pământului, și fiecare se va închina înaintea Lui în țara lui, în toate ostroavele neamurilor.",
+        "12": "„Chiar și voi, etiopienilor, veți fi străpunși cu sabia Mea.”",
+        "13": "El Își va întinde mâna și spre miazănoapte, va nimici Asiria și va preface Ninive într-o pustietate, într-un pământ fără apă, ca pustia.",
+        "14": "În mijlocul cetății se vor culca turme de vite de tot felul; pelicanul și ariciul vor rămâne noaptea pe coperișurile stâlpilor ei. La ferestre se vor auzi țipetele lor, pustiirea va fi în prag, căci căptușeala de cedru va fi scoasă.",
+        "15": "Iată dar cetatea aceea veselă, care stătea plină de încredere și zicea în inima ei: „Eu și niciuna afară de mine!” Vai! Cum s-a prefăcut în pustiu și în culcuș de fiare! Toți cei ce trec pe lângă ea fluieră și arată cu mâna!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Veniți cu toții, adunați-vă, națiune fără rușine,",
+        "2": "până nu se împlinește hotărârea, până nu trece timpul ca pleava, până nu vine peste voi mânia Domnului, până nu vă ajunge ziua mâniei Domnului!",
+        "3": "Căutați-L pe Domnul, toți cei smeriți din țară, voi, care împliniți poruncile Lui. Căutați dreptatea, căutați smerenia! Poate că așa veți fi protejați în ziua mâniei Domnului. Condamnarea Filistiei",
+        "4": "Căci Gaza va fi părăsită, iar Așchelonul va ajunge o pustietate. Cei din Așdod vor fi alungați în miezul zilei, iar Ekronul va fi dezrădăcinat.",
+        "5": "Vai de cei ce locuiesc pe malul mării, națiunea cheretiților! Canaanule, țară a filistenilor, Cuvântul Domnului este împotriva ta! „Te voi distruge și vei rămâne fără locuitori!“",
+        "6": "Malul mării va ajunge pășuni, islazuri pentru păstori și țarcuri pentru turme.",
+        "7": "Malul acesta va fi pentru rămășița Casei lui Iuda! Acolo vor găsi ei pășune. Seara se vor odihni în casele Așchelonului, căci Domnul, Dumnezeul lor, le va purta de grijă și le va aduce înapoi captivii. Condamnarea Moabului și Amonului",
+        "8": "„Am auzit disprețul Moabului și insultele fiilor lui Amon, care Mi-au defăimat poporul și s-au semețit împotriva teritoriului lor!",
+        "9": "De aceea, viu sunt Eu“, zice Domnul Oștirilor, Dumnezeul lui Israel, „că Moab va fi ca Sodoma, iar fiii lui Amon ca Gomora, un loc plin cu buruieni și cu gropi de sare, o pustietate pentru totdeauna! Rămășița poporului Meu îi va prăda și supraviețuitorii națiunii Mele îi vor stăpâni“.",
+        "10": "Aceasta le va fi plata pentru mândria lor, căci au fost batjocoritori și s-au semețit împotriva poporului Domnului Oștirilor.",
+        "11": "Domnul este de temut pentru ei, căci El îi va face slabi pe toți dumnezeii pământului! Înaintea Lui se vor închina, fiecare în locul lui, toate națiunile insulelor. Condamnarea cușiților",
+        "12": "„Chiar și voi, cușiților, veți fi străpunși de sabia Mea!“ Condamnarea Asiriei",
+        "13": "Domnul Își va întinde mâna împotriva celor din nord și va nimici Asiria. El va preface Ninive într-o pustietate, într-un loc uscat, ca un deșert.",
+        "14": "Turmele se vor odihni în mijlocul ei, precum și orice fel de vietate a națiunilor. Ciușul și bufnița vor înnopta pe capitelurile ei, iar țipătul lor se va auzi prin ferestre. Molozul va fi în pragul porților ei, căci lucrările din cedru vor fi despuiate.",
+        "15": "Aceasta este cetatea cea veselă, care locuia în siguranță și care își zicea în inima ei: „Doar eu și nimeni altcineva!“. Cum a ajuns o ruină, un culcuș pentru vietăți! Toți cei ce trec pe lângă ea fluieră și o arată cu mâna."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Gather yourselves together, yes, gather together, you nation that has no shame,",
+        "2": "before the appointed time when the day passes as the chaff, before the fierce anger of Yahweh comes on you, before the day of Yahweh’s anger comes on you.",
+        "3": "Seek Yahweh, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of Yahweh’s anger.",
+        "4": "For Gaza will be forsaken, and Ashkelon a desolation. They will drive out Ashdod at noonday, and Ekron will be rooted up.",
+        "5": "Woe to the inhabitants of the sea coast, the nation of the Cherethites! Yahweh’s word is against you, Canaan, the land of the Philistines. I will destroy you until there is no inhabitant.",
+        "6": "The sea coast will be pastures, with cottages for shepherds and folds for flocks.",
+        "7": "The coast will be for the remnant of the house of Judah. They will find pasture. In the houses of Ashkelon, they will lie down in the evening, for Yahweh, their God, will visit them and restore them.",
+        "8": "I have heard the reproach of Moab and the insults of the children of Ammon, with which they have reproached my people and magnified themselves against their border.",
+        "9": "Therefore, as I live, says Yahweh of Armies, the God of Israel, surely Moab will be as Sodom, and the children of Ammon as Gomorrah, a possession of nettles and salt pits, and a perpetual desolation. The remnant of my people will plunder them, and the survivors of my nation will inherit them.",
+        "10": "This they will have for their pride, because they have reproached and magnified themselves against the people of Yahweh of Armies.",
+        "11": "Yahweh will be awesome to them, for he will famish all the gods of the land. Men will worship him, everyone from his place, even all the shores of the nations.",
+        "12": "You Cushites also, you will be killed by my sword.",
+        "13": "He will stretch out his hand against the north, destroy Assyria, and will make Nineveh a desolation, as dry as the wilderness.",
+        "14": "Herds will lie down in the middle of her, all kinds of animals. Both the pelican and the porcupine will lodge in its capitals. Their calls will echo through the windows. Desolation will be in the thresholds, for he has laid bare the cedar beams.",
+        "15": "This is the joyous city that lived carelessly, that said in her heart, “I am, and there is no one besides me.” How she has become a desolation, a place for animals to lie down in! Everyone who passes by her will hiss and shake their fists."
+      }
+    }
+  }
+}

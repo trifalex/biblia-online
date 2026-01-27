@@ -1,0 +1,87 @@
+{
+  "book": "Proverbe",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Fiule, dacă vei primi cuvintele mele, dacă vei păstra cu tine învățăturile mele,",
+        "2": "dacă vei lua aminte la înțelepciune și dacă-ți vei pleca inima la pricepere,",
+        "3": "dacă vei cere înțelepciune și dacă te vei ruga pentru pricepere,",
+        "4": "dacă o vei căuta ca argintul și vei umbla după ea ca după o comoară,",
+        "5": "atunci vei înțelege frica de Domnul și vei găsi cunoștința lui Dumnezeu.",
+        "6": "Căci Domnul dă înțelepciune; din gura Lui iese cunoștință și pricepere.",
+        "7": "El dă izbândă celor fără prihană, dă un scut celor ce umblă în nevinovăție.",
+        "8": "Ocrotește cărările neprihănirii și păzește calea credincioșilor Lui.",
+        "9": "Atunci vei înțelege dreptatea, judecata, nepărtinirea, toate căile care duc la bine.",
+        "10": "Căci înțelepciunea va veni în inima ta și cunoștința va fi desfătarea sufletului tău;",
+        "11": "chibzuința va veghea asupra ta, priceperea te va păzi,",
+        "12": "ca să te scape de calea cea rea, de omul care ține cuvântări stricate,",
+        "13": "de cei ce părăsesc cărările adevărate, ca să umble pe drumuri întunecoase,",
+        "14": "care se bucură să facă răul și își pun plăcerea în răutate,",
+        "15": "care umblă pe cărări strâmbe și apucă pe drumuri sucite;",
+        "16": "ca să te scape și de nevasta altuia, de străina care întrebuințează vorbe ademenitoare,",
+        "17": "care părăsește pe bărbatul tinereții ei și uită legământul Dumnezeului ei.",
+        "18": "Căci casa ei coboară la moarte și drumul ei duce la cei morți:",
+        "19": "niciunul care se duce la ea nu se mai întoarce și nu mai găsește cărările vieții.",
+        "20": "De aceea, tu să umbli pe calea oamenilor de bine și să ții cărările celor neprihăniți!",
+        "21": "Căci oamenii fără prihană vor locui țara și oamenii neîntinați vor rămâne în ea,",
+        "22": "dar cei răi vor fi nimiciți din țară și cei necredincioși vor fi smulși din ea."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Fiule, dacă vei primi cuvintele mele și vei păstra cu tine poruncile mele,",
+        "2": "dacă urechile tale vor fi atente la înțelepciune și-ți vei îndrepta inima spre pricepere,",
+        "3": "dacă vei cere înțelepciune și te vei ruga pentru pricepere,",
+        "4": "dacă vei umbla după ea ca după argint și o vei căuta ca pe o comoară ascunsă,",
+        "5": "atunci vei înțelege teama de Domnul și vei găsi cunoașterea lui Dumnezeu.",
+        "6": "Căci Domnul dă înțelepciune; din gura Lui ies cunoștința și priceperea.",
+        "7": "El păstrează înțelepciunea pentru cei drepți și este scut pentru cei ce umblă în integritate.",
+        "8": "El păzește cărările judecății și protejează calea credincioșilor Lui.",
+        "9": "Atunci vei înțelege dreptatea, judecata și imparțialitatea – orice cărare bună.",
+        "10": "Căci înțelepciunea va veni în inima ta și cunoașterea va fi plăcută sufletului tău.",
+        "11": "Discernământul te va păzi și priceperea te va proteja.",
+        "12": "Ca să te scape de calea celui rău, de omul care spune lucruri perverse,",
+        "13": "de cei ce părăsesc cărările dreptății, ca să umble pe căile întunericului,",
+        "14": "care se bucură să facă rău și tresaltă de bucurie să comită faptele perverse ale răului,",
+        "15": "ale căror căi sunt sucite și ale căror cărări sunt strâmbe.",
+        "16": "Ca să te scape de femeia străină, de necunoscuta care ademenește prin cuvintele ei,",
+        "17": "care își părăsește prietenul tinereții ei și uită legământul Dumnezeului ei.",
+        "18": "Căci casa ei se scufundă înspre moarte, iar cărările ei duc înspre cei morți.",
+        "19": "Nimeni din cei ce merg la ea nu se mai întoarce, nici nu mai găsește cărările vieții.",
+        "20": "Tu să umbli pe calea celor buni și să ții cărările celor drepți.",
+        "21": "Căci cei drepți vor locui țara și cei integri vor rămâne în ea,",
+        "22": "dar cei răi vor fi nimiciți din țară, și cei necredincioși vor fi smulși din ea."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "My son, if you will receive my words, and store up my commandments within you,",
+        "2": "so as to turn your ear to wisdom, and apply your heart to understanding;",
+        "3": "yes, if you call out for discernment, and lift up your voice for understanding;",
+        "4": "if you seek her as silver, and search for her as for hidden treasures;",
+        "5": "then you will understand the fear of Yahweh, and find the knowledge of God.",
+        "6": "For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding.",
+        "7": "He lays up sound wisdom for the upright. He is a shield to those who walk in integrity,",
+        "8": "that he may guard the paths of justice, and preserve the way of his saints.",
+        "9": "Then you will understand righteousness and justice, equity and every good path.",
+        "10": "For wisdom will enter into your heart. Knowledge will be pleasant to your soul.",
+        "11": "Discretion will watch over you. Understanding will keep you,",
+        "12": "to deliver you from the way of evil, from the men who speak perverse things,",
+        "13": "who forsake the paths of uprightness, to walk in the ways of darkness,",
+        "14": "who rejoice to do evil, and delight in the perverseness of evil,",
+        "15": "who are crooked in their ways, and wayward in their paths,",
+        "16": "to deliver you from the strange woman, even from the foreigner who flatters with her words,",
+        "17": "who forsakes the friend of her youth, and forgets the covenant of her God;",
+        "18": "for her house leads down to death, her paths to the departed spirits.",
+        "19": "None who go to her return again, neither do they attain to the paths of life.",
+        "20": "Therefore walk in the way of good men, and keep the paths of the righteous.",
+        "21": "For the upright will dwell in the land. The perfect will remain in it.",
+        "22": "But the wicked will be cut off from the land. The treacherous will be rooted out of it."
+      }
+    }
+  }
+}

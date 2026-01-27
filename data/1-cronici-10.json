@@ -1,0 +1,63 @@
+{
+  "book": "1 Cronici",
+  "chapter": "10",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Filistenii s-au luptat cu Israel, și oamenii lui Israel au luat-o la fugă înaintea filistenilor și au căzut morți pe muntele Ghilboa.",
+        "2": "Filistenii au urmărit pe Saul și pe fiii lui și au ucis pe Ionatan, Abinadab și Malchi-Șua, fiii lui Saul.",
+        "3": "Învălmășeala luptei a prins și pe Saul; arcașii l-au ajuns și l-au rănit.",
+        "4": "Saul a zis atunci celui ce-i ducea armele: „Scoate-ți sabia și străpunge-mă cu ea, ca nu cumva să vină acești netăiați împrejur să mă batjocorească.” Cel ce-i ducea armele n-a voit, căci se temea. Și Saul și-a luat sabia și s-a aruncat în ea.",
+        "5": "Cel ce ducea armele lui Saul, văzându-l mort, s-a aruncat și el în sabia lui și a murit.",
+        "6": "Astfel au pierit Saul și cei trei fii ai lui, și toată casa lui a pierit în același timp.",
+        "7": "Toți bărbații lui Israel care erau în vale, văzând fuga și văzând că Saul și fiii lui au murit, și-au părăsit cetățile și au fugit și ei. Și filistenii au venit și s-au așezat acolo.",
+        "8": "A doua zi, filistenii au venit să jefuiască morții și au găsit pe Saul și pe fiii lui căzuți pe muntele Ghilboa.",
+        "9": "L-au jefuit și i-au luat capul și armele. Apoi au trimis să dea de știre prin toată țara filistenilor, idolilor lor și poporului.",
+        "10": "Au pus armele lui Saul în casa dumnezeului lor și i-au atârnat țeasta capului în templul lui Dagon.",
+        "11": "Când au auzit toți locuitorii din Iabesul din Galaad tot ce au făcut filistenii lui Saul,",
+        "12": "s-au sculat toți oamenii viteji, au luat trupul lui Saul și trupurile fiilor lui și le-au dus la Iabes. Le-au îngropat oasele sub stejar, la Iabes, și au postit șapte zile.",
+        "13": "Saul a murit pentru că s-a făcut vinovat de fărădelege față de Domnul, al cărui cuvânt nu l-a păzit, și pentru că a întrebat și a cerut sfatul celor ce cheamă morții.",
+        "14": "N-a întrebat pe Domnul, de aceea Domnul l-a omorât, și împărăția a dat-o lui David, fiul lui Isai."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Filistenii s-au luptat cu Israel, iar bărbații lui Israel au fugit dinaintea filistenilor și au căzut răpuși pe muntele Ghilboa.",
+        "2": "Filistenii i-au urmărit pe Saul și pe fiii săi; i-au ucis pe Ionatan, pe Abinadab și pe Malchi-Șua, fiii lui Saul.",
+        "3": "Lupta devenise înverșunată în preajma lui Saul; arcașii l-au țintit și l-au rănit.",
+        "4": "Atunci, Saul i-a zis celui ce-i ducea armele: „Scoate-ți sabia și străpunge-mă cu ea, ca nu cumva acești necircumciși să ajungă la mine și să mă batjocorească“. Însă cel ce-i ducea armele n-a vrut să facă lucrul acesta pentru că s-a temut. Atunci, Saul și-a luat sabia și s-a aruncat în ea.",
+        "5": "Când cel ce-i ducea armele a văzut că Saul a murit, s-a aruncat și el în sabia lui și a murit.",
+        "6": "Astfel a murit Saul împreună cu cei trei fii ai lui și cu toată Casa lui.",
+        "7": "Toți oamenii lui Israel, care se aflau în vale, văzând că ceilalți au fugit și că Saul și fiii săi au murit, și-au părăsit cetățile și au fugit și ei. Filistenii au venit și s-au așezat în ele.",
+        "8": "În ziua următoare, când filistenii au venit să-i dezbrace pe cei uciși, l-au găsit pe Saul și pe fiii săi căzuți pe muntele Ghilboa.",
+        "9": "L-au dezbrăcat pe Saul, i-au luat capul și armele și au trimis mesageri pe tot cuprinsul țării filistenilor, ca să ducă vestea idolilor lor și poporului.",
+        "10": "I-au pus armele în templul dumnezeilor lor, iar craniul i l-au atârnat în templul lui Dagon.",
+        "11": "Toți cei din Iabeșul Ghiladului au auzit tot ceea ce i-au făcut filistenii lui Saul.",
+        "12": "Atunci, toți războinicii viteji s-au ridicat, au luat trupul lui Saul și trupurile fiilor săi și le-au adus la Iabeș. Le-au îngropat oasele sub un terebint, în Iabeș, și au postit timp de șapte zile.",
+        "13": "Saul a murit din cauza necredincioșiei lui. El a fost necredincios față de Domnul și nu a păzit Cuvântul Domnului. De asemenea, el a întrebat pe cineva care cheamă duhurile morților, cerând călăuzire,",
+        "14": "și nu L-a căutat pe Domnul. De aceea El l-a omorât și i-a dat domnia lui David, fiul lui Ișai."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa.",
+        "2": "The Philistines followed hard after Saul and after his sons; and the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul.",
+        "3": "The battle went hard against Saul, and the archers overtook him; and he was distressed by reason of the archers.",
+        "4": "Then Saul said to his armor bearer, “Draw your sword, and thrust me through with it, lest these uncircumcised come and abuse me.” But his armor bearer would not, for he was terrified. Therefore Saul took his sword and fell on it.",
+        "5": "When his armor bearer saw that Saul was dead, he likewise fell on his sword and died.",
+        "6": "So Saul died with his three sons; and all his house died together.",
+        "7": "When all the men of Israel who were in the valley saw that they fled, and that Saul and his sons were dead, they abandoned their cities, and fled; and the Philistines came and lived in them.",
+        "8": "On the next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa.",
+        "9": "They stripped him and took his head and his armor, then sent into the land of the Philistines all around to carry the news to their idols and to the people.",
+        "10": "They put his armor in the house of their gods, and fastened his head in the house of Dagon.",
+        "11": "When all Jabesh Gilead heard all that the Philistines had done to Saul,",
+        "12": "all the valiant men arose and took away the body of Saul and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days.",
+        "13": "So Saul died for his trespass which he committed against Yahweh, because of Yahweh’s word, which he didn’t keep, and also because he asked counsel of one who had a familiar spirit, to inquire,",
+        "14": "and didn’t inquire of Yahweh. Therefore he killed him, and turned the kingdom over to David the son of Jesse."
+      }
+    }
+  }
+}

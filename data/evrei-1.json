@@ -1,0 +1,63 @@
+{
+  "book": "Evrei",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "După ce a vorbit în vechime părinților noștri prin proroci, în multe rânduri și în multe chipuri, Dumnezeu,",
+        "2": "la sfârșitul acestor zile, ne-a vorbit prin Fiul, pe care L-a pus moștenitor al tuturor lucrurilor și prin care a făcut și veacurile.",
+        "3": "El, care este oglindirea slavei Lui și întipărirea Ființei Lui și care ține toate lucrurile cu Cuvântul puterii Lui, a făcut curățirea păcatelor și a șezut la dreapta Măririi, în locurile preaînalte,",
+        "4": "ajungând cu atât mai presus de îngeri, cu cât a moștenit un Nume mult mai minunat decât al lor.",
+        "5": "Căci căruia dintre îngeri a zis El vreodată: „Tu ești Fiul Meu, astăzi Te-am născut”? Și iarăși: „Eu Îi voi fi Tată, și El Îmi va fi Fiu”?",
+        "6": "Și, când duce iarăși în lume pe Cel Întâi Născut, zice: „Toți îngerii lui Dumnezeu să I se închine!”",
+        "7": "Și despre îngeri zice: „Din vânturi face îngeri ai Lui, și dintr-o flacără de foc, slujitori ai Lui”;",
+        "8": "pe când Fiului I-a zis: „Scaunul Tău de domnie, Dumnezeule, este în veci de veci; toiagul domniei Tale este un toiag de dreptate.",
+        "9": "Tu ai iubit neprihănirea și ai urât nelegiuirea, de aceea, Dumnezeule, Dumnezeul Tău Te-a uns cu un untdelemn de bucurie mai presus decât pe tovarășii Tăi.”",
+        "10": "Și iarăși: „La început, Tu, Doamne, ai întemeiat pământul și cerurile sunt lucrarea mâinilor Tale.",
+        "11": "Ele vor pieri, dar Tu rămâi; toate se vor învechi ca o haină;",
+        "12": "le vei face sul ca pe o manta și vor fi schimbate, dar Tu ești același și anii Tăi nu se vor sfârși.”",
+        "13": "Și căruia din îngeri i-a zis El vreodată: „Șezi la dreapta Mea până voi pune pe vrăjmașii Tăi așternut al picioarelor Tale”?",
+        "14": "Nu sunt oare toți duhuri slujitoare trimise să îndeplinească o slujbă pentru cei ce vor moșteni mântuirea?"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "După ce Dumnezeu le-a vorbit strămoșilor noștri odinioară, în multe rânduri și în multe feluri, prin profeți,",
+        "2": "în zilele acestea de pe urmă El ne-a vorbit prin Fiul, pe Care L-a desemnat moștenitor al tuturor lucrurilor și prin Care a creat și lumea.",
+        "3": "El, Care este oglindirea gloriei Lui și întipărirea Ființei Lui și Care susține toate lucrurile prin Cuvântul puterii Lui, după ce a făcut curățirea de păcate, S-a așezat la dreapta Măreției, în înălțimi,",
+        "4": "ajungând cu mult mai presus decât îngerii, de vreme ce a moștenit un Nume mai important decât al lor. Fiul, superior îngerilor",
+        "5": "Căci căruia dintre îngeri i-a zis El vreodată: „Tu ești Fiul Meu! Astăzi Te-am născut!“? Și, din nou: „Eu Îi voi fi Tată, iar El Îmi va fi Fiu“.",
+        "6": "Și, din nou, când Îl aduce în lume pe întâiul născut, spune: „Toți îngerii lui Dumnezeu să I se închine!“.",
+        "7": "Iar despre îngeri spune: „El îi face pe îngerii Săi vânturi și pe slujitorii Săi – o flacără de foc“.",
+        "8": "Însă despre Fiul zice: „Tronul Tău, Dumnezeule, este pentru veci de veci, și toiagul Împărăției Tale este un toiag al dreptății.",
+        "9": "Tu ai iubit dreptatea și ai urât fărădelegea. De aceea, Dumnezeule, Dumnezeul Tău Te-a uns cu uleiul bucuriei, mai presus decât pe confrații Tăi“.",
+        "10": "Și: „Tu, Doamne, ai întemeiat la început pământul, iar cerurile sunt lucrările mâinilor Tale.",
+        "11": "Ele vor pieri, dar Tu rămâi, și toate se vor învechi ca o haină.",
+        "12": "Le vei înfășura ca pe o manta și vor fi schimbate ca o haină. Tu însă rămâi Același, iar anii Tăi nu se vor sfârși“.",
+        "13": "Dar căruia dintre îngeri i-a zis vreodată: „Șezi la dreapta Mea, până-i voi pune pe dușmanii Tăi să fie scăunaș pentru picioarele Tale!“?",
+        "14": "Nu sunt ei toți duhuri slujitoare, trimise să-i slujească pe cei ce urmează să moștenească mântuirea?"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God, having in the past spoken to the fathers through the prophets at many times and in various ways,",
+        "2": "has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.",
+        "3": "His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high,",
+        "4": "having become as much better than the angels as the more excellent name he has inherited is better than theirs.",
+        "5": "For to which of the angels did he say at any time, “You are my Son. Today I have become your father?” and again, “I will be to him a Father, and he will be to me a Son?”",
+        "6": "When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”",
+        "7": "Of the angels he says, “He makes his angels winds, and his servants a flame of fire.”",
+        "8": "But of the Son he says, “Your throne, O God, is forever and ever. The scepter of uprightness is the scepter of your Kingdom.",
+        "9": "You have loved righteousness and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows.”",
+        "10": "And, “You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands.",
+        "11": "They will perish, but you continue. They all will grow old like a garment does.",
+        "12": "You will roll them up like a mantle, and they will be changed; but you are the same. Your years won’t fail.”",
+        "13": "But which of the angels has he told at any time, “Sit at my right hand, until I make your enemies the footstool of your feet?”",
+        "14": "Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "book": "Iosua",
+  "chapter": "12",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Iată împărații pe care i-au bătut copiii lui Israel și a căror țară au luat-o în stăpânire de cealaltă parte a Iordanului, spre răsăritul soarelui, de la pârâul Arnon până la Muntele Hermonului, cu toată câmpia de la răsărit:",
+        "2": "Pe Sihon, împăratul amoriților, care locuia la Hesbon. Stăpânirea lui se întindea de la Aroer, care este pe malul pârâului Arnon, și, de la mijlocul pârâului, peste jumătate din Galaad, până la pârâul Iaboc, hotarul copiilor lui Amon;",
+        "3": "de la câmpie până la Marea Chineret, la răsărit, și până la marea câmpiei, care este Marea Sărată, la răsărit, spre Bet-Ieșimot, și de la miazăzi, sub poalele muntelui Pisga.",
+        "4": "Pe Og, împăratul Basanului, singura rămășiță a refaimiților, care locuiau la Aștarot și la Edrei.",
+        "5": "Stăpânirea lui se întindea peste Muntele Hermonului, peste Salca, peste tot Basanul, până la hotarul gheșuriților și maacatiților, și peste jumătate din Galaad, hotarul lui Sihon, împăratul Hesbonului.",
+        "6": "Moise, robul Domnului, și copiii lui Israel i-au bătut și Moise, robul Domnului, le-a dat țara lor în stăpânirea rubeniților, gadiților și la jumătate din seminția lui Manase. Împărații biruiți dincoace de Iordan",
+        "7": "Iată împărații pe care i-au bătut Iosua și copiii lui Israel dincoace de Iordan, la apus, de la Baal-Gad în valea Libanului până la muntele cel pleșuv, care se înalță spre Seir. Iosua a dat țara lor în stăpânire semințiilor lui Israel, fiecăreia i-a dat partea ei,",
+        "8": "în munte, în vale, în câmpie, pe costișe, în pustie și în partea de miazăzi: țara hetiților, amoriților, canaaniților, fereziților, heviților și iebusiților.",
+        "9": "Împăratul Ierihonului, unu; împăratul din Ai, lângă Betel, unu;",
+        "10": "împăratul Ierusalimului, unu; împăratul Hebronului, unu;",
+        "11": "împăratul Iarmutului, unu; împăratul din Lachis, unu;",
+        "12": "împăratul Eglonului, unu; împăratul Ghezerului, unu;",
+        "13": "împăratul Debirului, unu; împăratul Ghederului, unu;",
+        "14": "împăratul din Horma, unu; împăratul Aradului, unu;",
+        "15": "împăratul Libnei, unu; împăratul Adulamului, unu;",
+        "16": "împăratul din Macheda, unu; împăratul Betelului, unu;",
+        "17": "împăratul Tapuahului, unu; împăratul Heferului, unu;",
+        "18": "împăratul Afecului, unu; împăratul Lașaronului, unu;",
+        "19": "împăratul Madonului, unu; împăratul Hațorului, unu;",
+        "20": "împăratul Șimron-Meronului, unu; împăratul Acșafului, unu;",
+        "21": "împăratul Taanacului, unu; împăratul din Meghido, unu;",
+        "22": "împăratul din Chedeș, unu; împăratul Iocneamului, la Carmel, unu;",
+        "23": "împăratul Dorului, pe înălțimile Dorului, unu; împăratul Goiimului, lângă Ghilgal, unu;",
+        "24": "împăratul din Tirța, unu. Peste tot treizeci și unu de împărați."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Aceștia sunt regii țării, pe care fiii lui Israel i-au învins și ale căror teritorii le-au luat în stăpânire la est de Iordan, de la pârâul Arnon până la muntele Hermon, precum și toată partea de est a Arabei:",
+        "2": "Sihon, regele amoriților, locuia la Heșbon. El stăpânea de la Aroer, care se află pe malul pârâului Arnon, de la jumătatea pârâului, peste o jumătate din Ghilad, până la pârâul Iabok, granița fiilor lui Amon.",
+        "3": "El stăpânea, de asemenea, de la Araba până la Marea Chineret, în est, și până la Marea Arabei (Marea Sărată), tot în est, pe drumul către Bet-Ieșimot, iar în partea de sud până la poalele muntelui Pisga.",
+        "4": "Og, regele Bașanului, unul dintre ultimii refaiți, locuia atât la Aștarot, cât și la Edrei.",
+        "5": "El stăpânea peste Hermon, Salca, peste întregul Bașan până la granița cu gheșuriții și cu maacatiții și peste jumătate din Ghilad până la granița cu Sihon, regele Heșbonului.",
+        "6": "Moise, slujitorul Domnului, împreună cu fiii lui Israel i-au învins, și Moise, slujitorul Domnului, a dat acest teritoriu în stăpânirea rubeniților, gadiților și jumătății seminției lui Manase. Regii din Cisiordania, înfrânți de Iosua",
+        "7": "Aceștia sunt regii țării, pe care Iosua și fiii lui Israel i-au învins în partea de vest a Iordanului, de la Baal-Gad în Valea Libanului, până la muntele Halak, care se înalță către Seir. Iosua a dat-o ca moștenire semințiilor lui Israel, potrivit cu părțile alocate fiecăruia,",
+        "8": "în munte, în zona deluroasă, în Araba, la poalele munților, în deșert și în Neghev (teritoriul hitiților, amoriților, canaaniților, periziților, hiviților și iebusiților):",
+        "9": "regele din Ierihon, unul; regele din Ai, care este lângă Betel, unul;",
+        "10": "regele din Ierusalim, unul; regele din Hebron, unul;",
+        "11": "regele din Iarmut, unul; regele din Lachiș, unul;",
+        "12": "regele din Eglon, unul; regele din Ghezer, unul;",
+        "13": "regele din Debir, unul; regele din Gheder, unul;",
+        "14": "regele din Horma, unul; regele din Arad, unul;",
+        "15": "regele din Libna, unul; regele din Adulam, unul;",
+        "16": "regele din Makkeda, unul; regele din Betel, unul;",
+        "17": "regele din Tapuah, unul; regele din Hefer, unul;",
+        "18": "regele din Afek, unul; regele din Lașaron, unul;",
+        "19": "regele din Madon, unul; regele din Hațor, unul;",
+        "20": "regele din Șimron-Meron, unul; regele din Acșaf, unul;",
+        "21": "regele din Taanah, unul; regele din Meghido, unul;",
+        "22": "regele din Kedeș, unul; regele din Iokneam, lângă Carmel, unul;",
+        "23": "regele din Dor (din Nafot-Dor), unul; regele din Goyim, lângă Ghilgal, unul;",
+        "24": "și regele din Tirța, unul. În total treizeci și unu de regi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward:",
+        "2": "Sihon king of the Amorites, who lived in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and the middle of the valley, and half Gilead, even to the river Jabbok, the border of the children of Ammon;",
+        "3": "and the Arabah to the sea of Chinneroth, eastward, and to the sea of the Arabah, even the Salt Sea, eastward, the way to Beth Jeshimoth; and on the south, under the slopes of Pisgah:",
+        "4": "and the border of Og king of Bashan, of the remnant of the Rephaim, who lived at Ashtaroth and at Edrei,",
+        "5": "and ruled in Mount Hermon, and in Salecah, and in all Bashan, to the border of the Geshurites and the Maacathites, and half Gilead, the border of Sihon king of Heshbon.",
+        "6": "Moses the servant of Yahweh and the children of Israel struck them. Moses the servant of Yahweh gave it for a possession to the Reubenites, and the Gadites, and the half-tribe of Manasseh.",
+        "7": "These are the kings of the land whom Joshua and the children of Israel struck beyond the Jordan westward, from Baal Gad in the valley of Lebanon even to Mount Halak, that goes up to Seir. Joshua gave it to the tribes of Israel for a possession according to their divisions;",
+        "8": "in the hill country, and in the lowland, and in the Arabah, and in the slopes, and in the wilderness, and in the South; the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:",
+        "9": "the king of Jericho, one; the king of Ai, which is beside Bethel, one;",
+        "10": "the king of Jerusalem, one; the king of Hebron, one;",
+        "11": "the king of Jarmuth, one; the king of Lachish, one;",
+        "12": "the king of Eglon, one; the king of Gezer, one;",
+        "13": "the king of Debir, one; the king of Geder, one;",
+        "14": "the king of Hormah, one; the king of Arad, one;",
+        "15": "the king of Libnah, one; the king of Adullam, one;",
+        "16": "the king of Makkedah, one; the king of Bethel, one;",
+        "17": "the king of Tappuah, one; the king of Hepher, one;",
+        "18": "the king of Aphek, one; the king of Lassharon, one;",
+        "19": "the king of Madon, one; the king of Hazor, one;",
+        "20": "the king of Shimron Meron, one; the king of Achshaph, one;",
+        "21": "the king of Taanach, one; the king of Megiddo, one;",
+        "22": "the king of Kedesh, one; the king of Jokneam in Carmel, one;",
+        "23": "the king of Dor in the height of Dor, one; the king of Goiim in Gilgal, one;",
+        "24": "the king of Tirzah, one: all the kings thirty-one."
+      }
+    }
+  }
+}

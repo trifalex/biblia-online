@@ -1,0 +1,72 @@
+{
+  "book": "Psalmi",
+  "chapter": "86",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ia aminte, Doamne, și ascultă-mă, căci sunt nenorocit și lipsit!",
+        "2": "Păzește-mi sufletul, căci sunt unul din cei iubiți de Tine! Scapă, Dumnezeule, pe robul Tău, care se încrede în Tine!",
+        "3": "Ai milă de mine, Doamne, căci toată ziua strig către Tine!",
+        "4": "Înveselește sufletul robului Tău, căci la Tine, Doamne, îmi înalț sufletul!",
+        "5": "Căci Tu ești bun, Doamne, gata să ierți și plin de îndurare cu toți cei ce Te cheamă.",
+        "6": "Pleacă-Ți urechea, Doamne, la rugăciunea mea, ia aminte la glasul cererilor mele!",
+        "7": "Te chem în ziua necazului meu, căci m-asculți.",
+        "8": "Nimeni nu este ca Tine între dumnezei, Doamne, și nimic nu seamănă cu lucrările Tale.",
+        "9": "Toate neamurile pe care le-ai făcut vor veni să se închine înaintea Ta, Doamne, și să dea slavă Numelui Tău.",
+        "10": "Căci Tu ești mare și faci minuni – numai Tu ești Dumnezeu.",
+        "11": "Învață-mă căile Tale, Doamne! Eu voi umbla în adevărul Tău. Fă-mi inima să se teamă de Numele Tău.",
+        "12": "Te voi lăuda din toată inima mea, Doamne, Dumnezeul meu, și voi preamări Numele Tău în veci!",
+        "13": "Căci mare este bunătatea Ta față de mine și Tu îmi izbăvești sufletul din adânca Locuință a morților.",
+        "14": "Dumnezeule, niște îngâmfați s-au sculat împotriva mea, o ceată de oameni asupritori vor să-mi ia viața și nu se gândesc la Tine.",
+        "15": "Dar Tu, Doamne, Tu ești un Dumnezeu îndurător și milostiv, îndelung răbdător și bogat în bunătate și în credincioșie.",
+        "16": "Îndreaptă-Ți privirile spre mine și ai milă de mine: dă tărie robului Tău și scapă pe fiul roabei Tale!",
+        "17": "Fă un semn pentru mine, ca să vadă vrăjmașii mei și să rămână de rușine, căci Tu mă ajuți și mă mângâi, Doamne!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, pleacă-Ți urechea și răspunde-mi, căci sunt sărac și nevoiaș.",
+        "2": "Păzește-mi sufletul, căci sunt credincios. Dumnezeul meu, salvează-l pe slujitorul Tău, care se încrede în Tine.",
+        "3": "Stăpâne, arată-Ți bunăvoința față de mine, căci Te chem toată ziua.",
+        "4": "Înveselește sufletul slujitorului Tău, căci la Tine, Stăpâne, îmi înalț sufletul.",
+        "5": "Fiindcă Tu, Stăpâne, ești bun și iertător, bogat în îndurare față de toți cei ce Te cheamă.",
+        "6": "Doamne, ascultă rugăciunea mea, ascultă cu atenție cererile mele!",
+        "7": "Te chem în ziua necazului meu, căci Tu îmi răspunzi.",
+        "8": "Stăpâne, nu este nimeni ca Tine între dumnezei și nimic nu se aseamănă cu lucrările Tale!",
+        "9": "Toate națiunile, pe care le-ai făcut, vor veni să se închine înaintea Ta, Stăpâne, și să-Ți glorifice Numele.",
+        "10": "Căci Tu ești mare și faci minuni, numai Tu ești Dumnezeu!",
+        "11": "Doamne, învață-mă calea Ta, și voi umbla în adevărul Tău! Dă-mi o inimă neîmpărțită ca să mă tem de Numele Tău.",
+        "12": "Îți voi mulțumi din toată inima mea, Stăpâne, Dumnezeul meu, și voi glorifica Numele Tău pe vecie,",
+        "13": "căci mare este îndurarea Ta față de mine; Tu mi-ai scăpat sufletul din adâncimea Locuinței Morților!",
+        "14": "Dumnezeule, niște aroganți se ridică împotriva mea și o comunitate de oameni groaznici încearcă să mă omoare, oameni care nu țin seama de Tine.",
+        "15": "Tu însă, Stăpâne, ești un Dumnezeu milostiv și plin de har, încet la mânie, plin de îndurare și credincioșie!",
+        "16": "Întoarce-Te spre mine și arată-Ți bunăvoința față de mine! Dă-i putere slujitorului Tău și salvează-l pe fiul slujitoarei Tale!",
+        "17": "Înfăptuiește un semn care să arate bunătatea Ta față de mine, ca astfel dușmanii mei să vadă și să fie făcuți de rușine, pentru că Tu, Doamne, m-ai ajutat și m-ai mângâiat."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear, Yahweh, and answer me, for I am poor and needy.",
+        "2": "Preserve my soul, for I am godly. You, my God, save your servant who trusts in you.",
+        "3": "Be merciful to me, Lord, for I call to you all day long.",
+        "4": "Bring joy to the soul of your servant, for to you, Lord, do I lift up my soul.",
+        "5": "For you, Lord, are good, and ready to forgive, abundant in loving kindness to all those who call on you.",
+        "6": "Hear, Yahweh, my prayer. Listen to the voice of my petitions.",
+        "7": "In the day of my trouble I will call on you, for you will answer me.",
+        "8": "There is no one like you among the gods, Lord, nor any deeds like your deeds.",
+        "9": "All nations you have made will come and worship before you, Lord. They shall glorify your name.",
+        "10": "For you are great, and do wondrous things. You are God alone.",
+        "11": "Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name.",
+        "12": "I will praise you, Lord my God, with my whole heart. I will glorify your name forever more.",
+        "13": "For your loving kindness is great toward me. You have delivered my soul from the lowest Sheol.",
+        "14": "God, the proud have risen up against me. A company of violent men have sought after my soul, and they don’t hold regard for you before them.",
+        "15": "But you, Lord, are a merciful and gracious God, slow to anger, and abundant in loving kindness and truth.",
+        "16": "Turn to me, and have mercy on me! Give your strength to your servant. Save the son of your servant.",
+        "17": "Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, Yahweh, have helped me, and comforted me."
+      }
+    }
+  }
+}

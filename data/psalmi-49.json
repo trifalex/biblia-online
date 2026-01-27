@@ -1,0 +1,81 @@
+{
+  "book": "Psalmi",
+  "chapter": "49",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultați lucrul acesta, toate popoarele, luați aminte, toți locuitorii lumii:",
+        "2": "mici și mari, bogați și săraci!",
+        "3": "Gura mea va vorbi cuvinte înțelepte și inima mea are gânduri pline de judecată.",
+        "4": "Eu îmi plec urechea la pildele care îmi sunt insuflate, îmi încep cântarea în sunetul harpei.",
+        "5": "Pentru ce să mă tem în zilele nenorocirii, când mă înconjoară nelegiuirea potrivnicilor mei?",
+        "6": "Ei se încred în avuțiile lor și se fălesc cu bogăția lor cea mare.",
+        "7": "Dar nu pot să se răscumpere unul pe altul, nici să dea lui Dumnezeu prețul răscumpărării.",
+        "8": "Răscumpărarea sufletului lor este așa de scumpă, că nu se va face niciodată.",
+        "9": "Nu vor trăi pe vecie, nu pot să nu vadă mormântul.",
+        "10": "Da, îl vor vedea: căci înțelepții mor, nebunul și prostul deopotrivă pier și lasă altora avuțiile lor.",
+        "11": "Ei își închipuie că veșnice le vor fi casele, că locuințele lor vor dăinui din veac în veac, ei, care dau numele lor la țări întregi.",
+        "12": "Dar omul pus în cinste nu dăinuiește, ci este ca dobitoacele care se taie.",
+        "13": "Iată ce soartă au ei, cei plini de atâta încredere, precum și cei ce îi urmează, cărora le plac cuvintele lor.",
+        "14": "Sunt duși ca o turmă în Locuința morților, îi paște moartea și, în curând, oamenii fără prihană îi calcă în picioare: li se duce frumusețea și Locuința morților le este locașul.",
+        "15": "Dar mie Dumnezeu îmi va scăpa sufletul din Locuința morților, căci mă va lua sub ocrotirea Lui.",
+        "16": "Nu te teme când se îmbogățește cineva și când i se înmulțesc vistieriile casei,",
+        "17": "căci nu ia nimic cu el când moare: vistieriile lui nu se coboară după el.",
+        "18": "Să se tot creadă omul fericit în viață, să se tot laude cu bucuriile pe care și le face,",
+        "19": "căci tot în locuința părinților săi va merge și nu va mai vedea lumina niciodată.",
+        "20": "Omul pus în cinste și fără pricepere este ca dobitoacele pe care le tai."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultați, voi, toate popoarele! Ascultați, voi, toți locuitorii lumii,",
+        "2": "fii ai lui Adam și fii ai omului, cei bogați și cei nevoiași împreună!",
+        "3": "Gura mea va vorbi cuvinte înțelepte, iar cugetarea inimii mele va fi cu pricepere.",
+        "4": "Îmi voi pleca urechea la un proverb, îmi voi începe ghicitoarea în sunet de liră.",
+        "5": "De ce să mă tem în zilele rele, când mă înconjoară nelegiuirea urmăritorilor mei,",
+        "6": "a celor ce se încred în averile lor și se laudă cu mulțimea bogățiilor lor?",
+        "7": "Cu siguranță un om nu-l poate răscumpăra pe fratele său, nici nu-I poate da lui Dumnezeu prețul răscumpărării lui.",
+        "8": "Răscumpărarea sufletului său este atât de scumpă, încât nu va putea plăti niciodată",
+        "9": "ca să trăiască pentru totdeauna și să nu vadă groapa.",
+        "10": "Căci el vede că până și înțelepții mor, iar cel nesăbuit și cel nătâng pier împreună și își lasă averea altora.",
+        "11": "Mormintele lor le vor fi case pe vecie, locuințe din generație în generație, deși și-au numit proprietățile după numele lor.",
+        "12": "Însă omul așezat la loc de cinste nu dăinuie, el este ca animalele pentru tăiere.",
+        "13": "Acesta este sfârșitul celor ce se încred în ei înșiși și a celor ce-i urmează, care-și găsesc plăcerea în vorbele lor.",
+        "14": "Sunt duși în Locuința Morților, ca niște oi, moartea îi va paște. Cei drepți vor stăpâni peste ei dimineața. Chipul lor se va veșteji în Locuința Morților, departe de locuința lor.",
+        "15": "Dar Dumnezeu îmi va răscumpăra sufletul din Locuința Morților, căci mă va lua la El.",
+        "16": "Nu te teme când se îmbogățește cineva, când se înmulțește averea casei lui,",
+        "17": "căci nu ia nimic cu el la moartea sa; averea lui nu coboară după el.",
+        "18": "Chiar dacă și-a binecuvântat sufletul în timpul vieții lui, zicându-și: „Oamenii te laudă, fiindcă ți-ai făcut parte de bine“,",
+        "19": "tot va merge la generația părinților lui și nu vor mai vedea lumina niciodată.",
+        "20": "Omul onorat, dar care nu are pricepere, este ca animalele pentru tăiere."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear this, all you peoples. Listen, all you inhabitants of the world,",
+        "2": "both low and high, rich and poor together.",
+        "3": "My mouth will speak words of wisdom. My heart will utter understanding.",
+        "4": "I will incline my ear to a proverb. I will solve my riddle on the harp.",
+        "5": "Why should I fear in the days of evil, when iniquity at my heels surrounds me?",
+        "6": "Those who trust in their wealth, and boast in the multitude of their riches—",
+        "7": "none of them can by any means redeem his brother, nor give God a ransom for him.",
+        "8": "For the redemption of their life is costly, no payment is ever enough,",
+        "9": "that he should live on forever, that he should not see corruption.",
+        "10": "For he sees that wise men die; likewise the fool and the senseless perish, and leave their wealth to others.",
+        "11": "Their inward thought is that their houses will endure forever, and their dwelling places to all generations. They name their lands after themselves.",
+        "12": "But man, despite his riches, doesn’t endure. He is like the animals that perish.",
+        "13": "This is the destiny of those who are foolish, and of those who approve their sayings.",
+        "14": "They are appointed as a flock for Sheol. Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol, far from their mansion.",
+        "15": "But God will redeem my soul from the power of Sheol, for he will receive me.",
+        "16": "Don’t be afraid when a man is made rich, when the glory of his house is increased;",
+        "17": "for when he dies he will carry nothing away. His glory won’t descend after him.",
+        "18": "Though while he lived he blessed his soul— and men praise you when you do well for yourself—",
+        "19": "he shall go to the generation of his fathers. They shall never see the light.",
+        "20": "A man who has riches without understanding, is like the animals that perish."
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "2 Cronici",
+  "chapter": "19",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Iosafat, împăratul lui Iuda, s-a întors în pace acasă, la Ierusalim.",
+        "2": "Iehu, fiul prorocului Hanani, i-a ieșit înainte și a zis împăratului Iosafat: „Cum de ai ajutat tu pe cel rău și ai iubit pe cei ce urăsc pe Domnul? Din pricina aceasta este mâniat Domnul pe tine.",
+        "3": "Dar tot se mai găsește și ceva bun în tine, căci ai înlăturat din țară idolii și ți-ai pus inima să caute pe Dumnezeu.” Măsurile pentru împărțirea dreptății",
+        "4": "Iosafat a rămas la Ierusalim. Apoi a mai făcut o călătorie prin mijlocul poporului, de la Beer-Șeba până la muntele lui Efraim, și i-a adus înapoi la Domnul Dumnezeul părinților lor.",
+        "5": "A pus judecători în toate cetățile întărite din țara lui Iuda, în fiecare cetate.",
+        "6": "Și a zis judecătorilor: „Luați seama la ce veți face, căci nu pentru oameni veți rosti judecăți, ci pentru Domnul, care va fi lângă voi când le veți rosti.",
+        "7": "Acum, frica de Domnul să fie peste voi; vegheați asupra faptelor voastre, căci la Domnul Dumnezeul nostru nu este nicio nelegiuire, nici nu se are în vedere fața oamenilor, nici nu se primesc daruri.”",
+        "8": "Când s-a întors la Ierusalim, Iosafat a pus și aici, pentru judecățile Domnului și pentru neînțelegeri, leviți, preoți și căpetenii peste casele părintești ale lui Israel.",
+        "9": "Și iată poruncile pe care li le-a dat: „Voi să lucrați în frică de Domnul, cu credință și curăție de inimă.",
+        "10": "În orice neînțelegere, care vă va fi supusă de frații voștri, care locuiesc în cetățile lor, și anume cu privire la un omor, la o lege, la o poruncă, la învățături și rânduieli, să-i luminați, ca să nu se facă vinovați față de Domnul și să nu izbucnească mânia Lui peste voi și peste frații voștri. Așa să lucrați, și nu veți fi vinovați.",
+        "11": "Și iată că aveți în frunte pe marele preot Amaria pentru toate treburile Domnului și pe Zebadia, fiul lui Ismael, căpetenia casei lui Iuda, pentru toate treburile împăratului și aveți înainte ca dregători pe leviți. Întăriți-vă și lucrați, și Domnul să fie cu cel ce va face binele!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Iehoșafat, regele lui Iuda, s-a întors în pace acasă, la Ierusalim.",
+        "2": "Dar Iehu, fiul văzătorului Hanani, i-a ieșit înainte și i-a zis regelui Iehoșafat: „Tu îl ajuți pe cel rău și îl iubești pe cel care Îl urăște pe Domnul? Din această cauză mânia Domnului este împotriva ta.",
+        "3": "Totuși, au fost găsite și lucruri bune în tine, căci ai îndepărtat așerele din țară și te-ai hotărât în inima ta să-L cauți pe Dumnezeu“. Reformele inițiate de Iehoșafat",
+        "4": "Iehoșafat a continuat să locuiască la Ierusalim. Apoi a mai ieșit o dată în mijlocul poporului, străbătând țara de la Beer-Șeba până la muntele lui Efraim și întorcând inima poporului la Domnul, Dumnezeul strămoșilor lor.",
+        "5": "Iehoșafat a numit judecători în țară, în toate cetățile fortificate ale lui Iuda, în fiecare cetate.",
+        "6": "El le-a zis judecătorilor: „Aveți grijă ce faceți, căci nu judecați pentru un om, ci pentru Domnul, Care este cu voi când rostiți sentința!",
+        "7": "Și acum, groaza Domnului să fie peste voi! Vegheați și faceți ce trebuie, căci la Domnul, Dumnezeul nostru, nu există nedreptate, favoritism sau luare de mită!“.",
+        "8": "De asemenea, în Ierusalim, Iehoșafat i-a desemnat pe unii dintre leviți, dintre preoți și dintre căpeteniile de familii din Israel să se ocupe de judecata Domnului și de neînțelegeri; aceștia s-au stabilit la Ierusalim.",
+        "9": "El le-a poruncit, zicând: „Să lucrați în teamă de Domnul, cu credincioșie și din toată inima.",
+        "10": "Ori de câte ori frații voștri, care locuiesc în cetățile lor, vă aduc la cunoștință vreo neînțelegere cu privire la vreun omor sau cu privire la vreo lege, vreo poruncă, vreo hotărâre sau vreo judecată, voi să-i învățați, ca astfel să nu se facă vinovați față de Domnul, și mânia Lui să nu izbucnească peste voi și peste frații voștri. Faceți așa și nu veți fi vinovați.",
+        "11": "Iată, preotul Amaria este căpetenia voastră pentru toate treburile Domnului, iar Zebadia, fiul lui Ismael, este conducătorul Casei lui Iuda pentru toate treburile regelui. Totodată, leviții vor sluji înaintea voastră ca supraveghetori. Fiți tari și lucrați, iar Domnul să fie cu cel bun!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
+        "2": "Jehu the son of Hanani the seer went out to meet him, and said to King Jehoshaphat, “Should you help the wicked, and love those who hate Yahweh? Because of this, wrath is on you from before Yahweh.",
+        "3": "Nevertheless there are good things found in you, in that you have put away the Asheroth out of the land, and have set your heart to seek God.”",
+        "4": "Jehoshaphat lived at Jerusalem; and he went out again among the people from Beersheba to the hill country of Ephraim, and brought them back to Yahweh, the God of their fathers.",
+        "5": "He set judges in the land throughout all the fortified cities of Judah, city by city,",
+        "6": "and said to the judges, “Consider what you do, for you don’t judge for man, but for Yahweh; and he is with you in the judgment.",
+        "7": "Now therefore let the fear of Yahweh be on you. Take heed and do it; for there is no iniquity with Yahweh our God, nor respect of persons, nor taking of bribes.”",
+        "8": "Moreover in Jerusalem Jehoshaphat appointed certain Levites, priests, and heads of the fathers’ households of Israel to give judgment for Yahweh and for controversies. They returned to Jerusalem.",
+        "9": "He commanded them, saying, “You shall do this in the fear of Yahweh, faithfully, and with a perfect heart.",
+        "10": "Whenever any controversy comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, you must warn them, that they not be guilty toward Yahweh, and so wrath come on you and on your brothers. Do this, and you will not be guilty.",
+        "11": "Behold, Amariah the chief priest is over you in all matters of Yahweh; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may Yahweh be with the good.”"
+      }
+    }
+  }
+}

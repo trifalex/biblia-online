@@ -1,0 +1,75 @@
+{
+  "book": "Proverbe",
+  "chapter": "9",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Înțelepciunea și-a zidit casa, și-a tăiat cei șapte stâlpi,",
+        "2": "și-a înjunghiat vitele, și-a amestecat vinul, și-a pus masa,",
+        "3": "și-a trimis slujnicele și strigă de pe vârful înălțimilor cetății:",
+        "4": "„Cine este prost să vină încoace!” Celor lipsiți de pricepere le zice:",
+        "5": "„Veniți de mâncați din pâinea mea și beți din vinul pe care l-am amestecat!",
+        "6": "Lăsați prostia și veți trăi și umblați pe calea priceperii!”",
+        "7": "Cel ce mustră pe un batjocoritor își trage dispreț și cel ce caută să îndrepte pe cel rău se alege cu ocara.",
+        "8": "Nu mustra pe cel batjocoritor, ca să nu te urască; mustră pe cel înțelept, și el te va iubi!",
+        "9": "Dă înțeleptului, și se va face și mai înțelept; învață pe cel neprihănit, și va învăța și mai mult!",
+        "10": "Începutul înțelepciunii este frica de Domnul și știința sfinților este priceperea.",
+        "11": "Prin mine ți se vor înmulți zilele și ți se vor mări anii vieții tale.",
+        "12": "Dacă ești înțelept, pentru tine ești înțelept; dacă ești batjocoritor, tu singur vei suferi.",
+        "13": "Nebunia este o femeie gălăgioasă, proastă și care nu știe nimic.",
+        "14": "Ea șade totuși la ușa casei sale, pe un scaun, pe înălțimile cetății,",
+        "15": "ca să strige la trecătorii care merg pe calea cea dreaptă:",
+        "16": "„Cine este prost să vină aici!” Iar celui fără minte îi zice:",
+        "17": "„Apele furate sunt dulci și pâinea luată pe ascuns este plăcută!”",
+        "18": "El nu știe că acolo sunt morții și că oaspeții ei sunt în văile Locuinței morților."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Înțelepciunea și-a construit casa, și-a tăiat cei șapte stâlpi,",
+        "2": "și-a înjunghiat vitele, și-a amestecat vinul, și-a aranjat și masa.",
+        "3": "Apoi și-a trimis servitoarele și strigă de pe vârful înălțimilor cetății:",
+        "4": "„Cine este naiv să vină aici!“. Iar celor fără minte le spune:",
+        "5": "„Veniți să mâncați din pâinea mea și să beți din vinul pe care l-am amestecat!",
+        "6": "Părăsiți căile nesăbuite și veți trăi! Umblați pe calea priceperii!“.",
+        "7": "Cel ce disciplinează un batjocoritor își atrage dispreț, iar cel ce mustră pe cel rău se rănește singur.",
+        "8": "Nu mustra pe cel batjocoritor ca să nu te urască! Mustră pe cel înțelept, și el te va iubi!",
+        "9": "Dă-i celui înțelept iar el va fi și mai înțelept! Învață-l pe cel drept și el își va mări cunoștințele.",
+        "10": "„Teama de Domnul este începutul înțelepciunii, iar cunoașterea Celui Sfânt este pricepere.",
+        "11": "Căci prin mine ți se vor înmulți zilele și se vor adăuga ani la viața ta.",
+        "12": "Dacă ești înțelept, pentru tine ești înțelept; dacă ești batjocoritor, tu singur vei suferi“. Invitația prostiei",
+        "13": "Femeia proastă este guralivă, nesăbuită și nu știe nimic.",
+        "14": "Ea se așază la ușa casei sale, pe un scaun, chiar pe vârful înălțimilor cetății,",
+        "15": "ca să-i cheme pe trecătorii care merg drept pe calea lor:",
+        "16": "„Cine este naiv să vină aici!“. Iar celui fără minte îi spune:",
+        "17": "„Apele furate sunt dulci, iar pâinea mâncată în locuri ascunse este plăcută!“.",
+        "18": "Dar el nu știe că acolo sunt umbrele, că oaspeții ei sunt în adâncimile Locuinței Morților."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Wisdom has built her house. She has carved out her seven pillars.",
+        "2": "She has prepared her meat. She has mixed her wine. She has also set her table.",
+        "3": "She has sent out her maidens. She cries from the highest places of the city:",
+        "4": "“Whoever is simple, let him turn in here!” As for him who is void of understanding, she says to him,",
+        "5": "“Come, eat some of my bread, Drink some of the wine which I have mixed!",
+        "6": "Leave your simple ways, and live. Walk in the way of understanding.”",
+        "7": "One who corrects a mocker invites insult. One who reproves a wicked man invites abuse.",
+        "8": "Don’t reprove a scoffer, lest he hate you. Reprove a wise person, and he will love you.",
+        "9": "Instruct a wise person, and he will be still wiser. Teach a righteous person, and he will increase in learning.",
+        "10": "The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is understanding.",
+        "11": "For by me your days will be multiplied. The years of your life will be increased.",
+        "12": "If you are wise, you are wise for yourself. If you mock, you alone will bear it.",
+        "13": "The foolish woman is loud, undisciplined, and knows nothing.",
+        "14": "She sits at the door of her house, on a seat in the high places of the city,",
+        "15": "to call to those who pass by, who go straight on their ways,",
+        "16": "“Whoever is simple, let him turn in here.” As for him who is void of understanding, she says to him,",
+        "17": "“Stolen water is sweet. Food eaten in secret is pleasant.”",
+        "18": "But he doesn’t know that the departed spirits are there, that her guests are in the depths of Sheol."
+      }
+    }
+  }
+}

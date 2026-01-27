@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "65",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cu încredere, Dumnezeule, vei fi lăudat în Sion și împlinite vor fi juruințele care Ți-au fost făcute.",
+        "2": "Tu asculți rugăciunea, de aceea toți oamenii vor veni la Tine.",
+        "3": "Mă copleșesc nelegiuirile, dar Tu vei ierta fărădelegile noastre.",
+        "4": "Ferice de cel pe care-l alegi Tu și pe care-l primești înaintea Ta, ca să locuiască în curțile Tale! Ne vom sătura de binecuvântarea Casei Tale, de sfințenia Templului Tău.",
+        "5": "În bunătatea Ta, Tu ne asculți prin minuni, Dumnezeul mântuirii noastre, nădejdea tuturor marginilor îndepărtate ale pământului și mării!",
+        "6": "El întărește munții prin tăria Lui și este încins cu putere.",
+        "7": "El potolește urletul mărilor, urletul valurilor lor și zarva popoarelor.",
+        "8": "Cei ce locuiesc la marginile lumii se înspăimântă de minunile Tale. Tu umpli de veselie răsăritul și apusul îndepărtat.",
+        "9": "Tu cercetezi pământul și-i dai belșug, îl umpli de bogății și de râuri dumnezeiești pline cu apă. Tu le dai grâu, pe care iată cum îl faci să rodească:",
+        "10": "îi uzi brazdele, îi sfărâmi bulgării, îl înmoi cu ploaia și-i binecuvântezi răsadul.",
+        "11": "Încununezi anul cu bunătățile Tale și pașii Tăi varsă belșugul.",
+        "12": "Câmpiile pustiei sunt adăpate și dealurile sunt încinse cu veselie.",
+        "13": "Pășunile se acoperă de oi și văile se îmbracă cu grâu: toate strigă de bucurie și cântă."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeule, pe Tine Te așteaptă lauda în Sion; față de Tine va fi împlinit jurământul.",
+        "2": "Tu asculți rugăciunea, la Tine vor veni toți oamenii.",
+        "3": "Poverile nelegiuirilor noastre ne copleșesc, dar Tu faci ispășire pentru fărădelegile noastre.",
+        "4": "Ferice de cel pe care-l alegi, pe care-l apropii să locuiască în curțile Tale! Ne vom sătura de lucrurile bune ale Casei Tale, ale Templului Tău cel sfânt.",
+        "5": "Tu ne răspunzi prin lucrări înfricoșătoare, cu dreptate, Dumnezeul mântuirii noastre, încrederea tuturor marginilor pământului și a mărilor îndepărtate,",
+        "6": "Cel Ce a întemeiat munții cu puterea Sa, Cel Ce are ca brâu puterea,",
+        "7": "Cel Ce liniștește vuietul mărilor, zgomotul valurilor lor și tumultul popoarelor.",
+        "8": "Locuitorii de la marginile pământului se tem din cauza minunilor Tale. Tu faci să răsune de bucurie răsăritul și apusul.",
+        "9": "Tu cercetezi pământul și-i oferi de toate din abundență, îl umpli cu bogății. Râul lui Dumnezeu este plin de apă. Tu le dai oamenilor grâne și le pregătești pământul astfel:",
+        "10": "îi uzi brazdele, îi sfărâmi bulgării, îl înmoi cu ploi și îi binecuvântezi răsadul.",
+        "11": "Încununezi anul cu bunătatea Ta și din carele Tale se prelinge belșugul.",
+        "12": "Pășunile din deșert au apă din abundență, iar dealurile sunt cuprinse de veselie.",
+        "13": "Pășunile sunt îmbrăcate cu turme, văile se acoperă de grâne; toate strigă de bucurie și cântă."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise waits for you, God, in Zion. Vows shall be performed to you.",
+        "2": "You who hear prayer, all men will come to you.",
+        "3": "Sins overwhelmed me, but you atoned for our transgressions.",
+        "4": "Blessed is the one whom you choose and cause to come near, that he may live in your courts. We will be filled with the goodness of your house, your holy temple.",
+        "5": "By awesome deeds of righteousness, you answer us, God of our salvation. You who are the hope of all the ends of the earth, of those who are far away on the sea.",
+        "6": "By your power, you form the mountains, having armed yourself with strength.",
+        "7": "You still the roaring of the seas, the roaring of their waves, and the turmoil of the nations.",
+        "8": "They also who dwell in faraway places are afraid at your wonders. You call the morning’s dawn and the evening with songs of joy.",
+        "9": "You visit the earth, and water it. You greatly enrich it. The river of God is full of water. You provide them grain, for so you have ordained it.",
+        "10": "You drench its furrows. You level its ridges. You soften it with showers. You bless it with a crop.",
+        "11": "You crown the year with your bounty. Your carts overflow with abundance.",
+        "12": "The wilderness grasslands overflow. The hills are clothed with gladness.",
+        "13": "The pastures are covered with flocks. The valleys also are clothed with grain. They shout for joy! They also sing."
+      }
+    }
+  }
+}

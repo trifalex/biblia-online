@@ -1,0 +1,75 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "9",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Da, mi-am pus inima în căutarea tuturor acestor lucruri, am cercetat toate aceste lucruri și am văzut că cei neprihăniți și înțelepți și faptele lor sunt în mâna lui Dumnezeu: atât dragostea, cât și ura. Oamenii nu știu nimic mai dinainte; totul este înaintea lor în viitor.",
+        "2": "Tuturor li se întâmplă toate deopotrivă: aceeași soartă are cel neprihănit și cel rău, cel bun și curat, ca și cel necurat, cel ce aduce jertfă, ca și cel ce n-aduce jertfă; cel bun ca și cel păcătos, cel ce jură ca și cel ce se teme să jure!",
+        "3": "Iată cel mai mare rău în tot ce se face sub soare, anume că aceeași soartă au toți. De aceea și este plină inima oamenilor de răutate și de aceea este atâta nebunie în inima lor tot timpul cât trăiesc. Și după aceea? Se duc la cei morți.",
+        "4": "Căci cine este scutit? Oricine trăiește tot mai trage nădejde, căci un câine viu face mai mult decât un leu mort.",
+        "5": "Cei vii, în adevăr, măcar știu că vor muri, dar cei morți nu știu nimic și nu mai au nicio răsplată, fiindcă până și pomenirea li se uită.",
+        "6": "Și dragostea lor, și ura lor, și pizma lor de mult au și pierit și niciodată nu vor mai avea parte de tot ce se face sub soare.",
+        "7": "Du-te dar de mănâncă-ți pâinea cu bucurie și bea-ți cu inimă bună vinul, căci de mult a găsit Dumnezeu plăcere în ce faci tu acum.",
+        "8": "Hainele să-ți fie albe în orice vreme și untdelemnul să nu-ți lipsească de pe cap.",
+        "9": "Gustă viața cu nevasta pe care o iubești în tot timpul vieții tale deșarte, pe care ți-a dat-o Dumnezeu sub soare în această vreme trecătoare, căci aceasta îți este partea în viață, în mijlocul trudei cu care te ostenești sub soare.",
+        "10": "Tot ce găsește mâna ta să facă, fă cu toată puterea ta! Căci, în Locuința morților în care mergi, nu mai este nici lucrare, nici chibzuială, nici știință, nici înțelepciune!",
+        "11": "Am mai văzut apoi sub soare că nu cei iuți aleargă, că nu cei viteji câștigă războiul, că nu cei înțelepți câștigă pâinea, nici cei pricepuți bogăția, nici cei învățați bunăvoința, ci toate atârnă de vreme și de împrejurări.",
+        "12": "Căci omul nu-și cunoaște nici măcar ceasul, întocmai ca peștii prinși în mreaja nimicitoare și ca păsările prinse în laț; ca și ei sunt prinși și fiii oamenilor în vremea nenorocirii, când vine fără veste nenorocirea peste ei.",
+        "13": "Am mai văzut următoarea înțelepciune sub soare și mi s-a părut mare.",
+        "14": "Era o mică cetate, cu puțini oameni în ea și a venit asupra ei un împărat puternic, a împresurat-o și a ridicat mari întărituri împotriva ei.",
+        "15": "În ea se afla un om sărac, dar înțelept, care a scăpat cetatea cu înțelepciunea lui. Și nimeni nu se gândise la omul acela sărac.",
+        "16": "Atunci am zis: „Mai bună este înțelepciunea decât tăria!” Totuși, înțelepciunea săracului este disprețuită și nimeni nu-l ascultă.",
+        "17": "Cuvintele înțelepților, ascultate în liniște, sunt mai de preț decât strigătele unuia care stăpânește între nebuni.",
+        "18": "Înțelepciunea este mai de preț decât sculele de război, dar un singur păcătos nimicește mult bine."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Da, mi-am îndemnat inima să înțeleagă toate aceste lucruri, am cercetat toate aceste lucruri și am înțeles că oamenii drepți, oamenii înțelepți și lucrările lor se află în mâna lui Dumnezeu, chiar dacă omul nu știe dacă îl așteaptă dragoste sau ură. Tot ce-l așteaptă în viitor îi este necunoscut.",
+        "2": "Pe toți îi așteaptă o singură soartă: pe cel drept ca și pe cel rău, pe cel bun și curat ca și pe cel necurat, pe cel ce aduce jertfe ca și pe cel ce nu aduce jertfe, pe cel bun ca și pe cel păcătos, pe cel ce jură ca și pe cel ce se teme să facă un jurământ.",
+        "3": "Acesta este un rău în tot ce se face sub soare, și anume că toți au aceeași soartă. Mai mult, inima fiilor omului este plină de rău. Este atâta nebunie în inima lor în timpul vieții lor; apoi se duc la cei morți.",
+        "4": "Dar pentru cine se află printre toți cei vii, mai există speranță, căci mai bine un câine viu, decât un leu mort.",
+        "5": "Cei vii știu cel puțin că vor muri, însă cei morți nu mai știu nimic. Nu mai au parte de nicio plată. Până și amintirea le este dată uitării,",
+        "6": "la fel cum și dragostea lor, ura lor și gelozia lor au pierit demult. Ei nu vor mai avea parte niciodată de nimic din tot ceea ce se face sub soare.",
+        "7": "Mănâncă-ți cu bucurie pâinea și bea-ți cu inimă veselă vinul, căci demult ți-a acceptat Dumnezeu lucrările.",
+        "8": "Hainele să-ți fie albe întotdeauna, iar uleiul să nu-ți lipsească de pe cap.",
+        "9": "Petrece-ți viața împreună cu soția pe care o iubești, în toate zilele vieții tale deșarte pe care El ți le-a dat sub soare, în toate zilele tale deșarte, căci aceasta este partea ta în viață, aceasta-ți este partea din toată munca grea pe care o depui sub soare.",
+        "10": "Tot ceea ce găsește mâna ta să facă, fă cu toată puterea ta, căci lucrare, chibzuință, cunoștință și înțelepciune nu există în Locuința Morților, acolo unde vei merge și tu, de altfel.",
+        "11": "Apoi m-am întors și am văzut că, sub soare, nu cei sprinteni câștigă alergarea și nu cei viteji câștigă războiul; nu cei înțelepți câștigă pâinea, nu cei iscusiți câștigă bogății și nu cei cunoscători au parte de bunăvoință, ci toate țin de vreme și de împrejurări.",
+        "12": "Omul nu-și cunoaște nici măcar ceasul morții: la fel cum sunt prinși peștii în nada înșelătoare și precum sunt prinse păsările în laț, tot așa sunt trași în capcană și fiii oamenilor, atunci când vremea nenorocirii cade peste ei pe neașteptate. Înțelepciunea, mai valoroasă decât nebunia",
+        "13": "Iată ce lucru înțelept am văzut sub soare și mi s-a părut de mare preț.",
+        "14": "Era odată o cetate mică și cu puțini oameni în ea. Împotriva ei a venit un rege puternic, care a înconjurat-o și a ridicat împotriva ei mari întărituri.",
+        "15": "În ea s-a aflat însă un înțelept sărac, care a scăpat cetatea prin înțelepciunea lui. Dar nimeni nu și-a mai adus aminte apoi de săracul acela.",
+        "16": "Prin urmare, mi-am zis: înțelepciunea este mai bună decât puterea, dar înțelepciunea săracului este disprețuită, iar cuvintele lui nu sunt ascultate.",
+        "17": "Mai bine să asculți cuvintele liniștite ale înțelepților decât strigătul celui ce stăpânește printre nesăbuiți!",
+        "18": "Mai bună este înțelepciunea decât armele, dar un singur păcătos distruge mult bine!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "For all this I laid to my heart, even to explore all this: that the righteous, and the wise, and their works, are in the hand of God; whether it is love or hatred, man doesn’t know it; all is before them.",
+        "2": "All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to him who sacrifices, and to him who doesn’t sacrifice. As is the good, so is the sinner; he who takes an oath, as he who fears an oath.",
+        "3": "This is an evil in all that is done under the sun, that there is one event to all. Yes also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.",
+        "4": "For to him who is joined with all the living there is hope; for a living dog is better than a dead lion.",
+        "5": "For the living know that they will die, but the dead don’t know anything, neither do they have any more a reward; for their memory is forgotten.",
+        "6": "Also their love, their hatred, and their envy has perished long ago; neither do they any longer have a portion forever in anything that is done under the sun.",
+        "7": "Go your way—eat your bread with joy, and drink your wine with a merry heart; for God has already accepted your works.",
+        "8": "Let your garments be always white, and don’t let your head lack oil.",
+        "9": "Live joyfully with the wife whom you love all the days of your life of vanity, which he has given you under the sun, all your days of vanity, for that is your portion in life, and in your labor in which you labor under the sun.",
+        "10": "Whatever your hand finds to do, do it with your might; for there is no work, nor plan, nor knowledge, nor wisdom, in Sheol, where you are going.",
+        "11": "I returned and saw under the sun that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill; but time and chance happen to them all.",
+        "12": "For man also doesn’t know his time. As the fish that are taken in an evil net, and as the birds that are caught in the snare, even so are the sons of men snared in an evil time, when it falls suddenly on them.",
+        "13": "I have also seen wisdom under the sun in this way, and it seemed great to me.",
+        "14": "There was a little city, and few men within it; and a great king came against it, besieged it, and built great bulwarks against it.",
+        "15": "Now a poor wise man was found in it, and he by his wisdom delivered the city; yet no man remembered that same poor man.",
+        "16": "Then I said, “Wisdom is better than strength.” Nevertheless the poor man’s wisdom is despised, and his words are not heard.",
+        "17": "The words of the wise heard in quiet are better than the cry of him who rules among fools.",
+        "18": "Wisdom is better than weapons of war; but one sinner destroys much good."
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "book": "1 Cronici",
+  "chapter": "20",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "În anul următor, pe vremea când porneau împărații la război, Ioab a pornit, în fruntea unei puternice oștiri, să pustiască țara fiilor lui Amon și să împresoare Raba. Dar David a rămas la Ierusalim. Ioab a bătut Raba și a nimicit-o.",
+        "2": "David a luat cununa de pe capul împăratului ei și a găsit-o în greutate de un talant de aur: era împodobită cu pietre scumpe. Au pus-o pe capul lui David, care a luat o mare pradă din cetate.",
+        "3": "A scos afară pe locuitori și i-a tăiat în bucăți cu fierăstraie, cu securi și cu topoare; tot așa a făcut tuturor cetăților fiilor lui Amon. David s-a întors la Ierusalim cu tot poporul. Biruințele asupra filistenilor",
+        "4": "După aceea, a avut loc o bătălie la Ghezer cu filistenii. Atunci, Sibecai, Hușatitul, a ucis pe Sipai, unul din copiii lui Rafa. Și filistenii au fost smeriți.",
+        "5": "A mai fost o bătălie cu filistenii. Și Elhanan, fiul lui Iair, a ucis pe fratele lui Goliat, Lahmi din Gat, care avea o suliță al cărei mâner era ca un sul de țesut.",
+        "6": "A mai fost o bătălie la Gat. Acolo a fost un om de statură înaltă, care avea șase degete la fiecare mână și la fiecare picior, douăzeci și patru de toate, și care se trăgea și el din Rafa.",
+        "7": "El a batjocorit pe Israel, și Ionatan, fiul lui Șimea, fratele lui David, l-a ucis.",
+        "8": "Oamenii aceștia erau dintre copiii lui Rafa la Gat. Ei au pierit uciși de mâna lui David și de mâna slujitorilor lui."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "La începutul anului, pe vremea când ieșeau regii la luptă, Ioab a condus o armată puternică și a distrus țara fiilor lui Amon. El a venit și a asediat Raba. David însă rămăsese la Ierusalim. Ioab a cucerit Raba și a distrus-o.",
+        "2": "David a luat de pe capul regelui lor coroana care cântărea un talant de aur și care era împodobită cu pietre prețioase. Ea a fost pusă pe capul lui David. Prada luată din cetate era foarte multă.",
+        "3": "El a scos afară poporul care era în ea și i-a pus să muncească cu fierăstraie, cu grape de fier și cu securi de fier. Așa a făcut David tuturor cetăților fiilor lui Amon. Apoi David s-a întors la Ierusalim împreună cu întregul popor.",
+        "4": "După aceea, a avut loc o bătălie împotriva filistenilor la Ghezer. Atunci hușatitul Sibecai l-a ucis pe Sipai, unul dintre urmașii refaiților. Și filistenii au fost astfel supuși de David.",
+        "5": "În timpul unei alte lupte cu filistenii, Elhanan, fiul lui Iair, l-a ucis pe Lahmi, fratele lui Goliat ghititul, care avea o suliță al cărei mâner era ca sulul unui țesător.",
+        "6": "S-a mai dat o luptă la Gat. Acolo era un bărbat uriaș, care avea câte șase degete la ambele mâini și la ambele picioare – douăzeci și patru în total. Și acesta era un urmaș al lui Rafa.",
+        "7": "El l-a batjocorit pe Israel, dar Ionatan, fiul lui Șimea, fratele lui David, l-a ucis.",
+        "8": "Aceștia i s-au născut lui Rafa în Gat. Ei au fost omorâți de David și de slujitorii săi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "At the time of the return of the year, at the time when kings go out, Joab led out the army and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it.",
+        "2": "David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it. It was set on David’s head, and he brought very much plunder out of the city.",
+        "3": "He brought out the people who were in it, and had them cut with saws, with iron picks, and with axes. David did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.",
+        "4": "After this, war arose at Gezer with the Philistines. Then Sibbecai the Hushathite killed Sippai, of the sons of the giant; and they were subdued.",
+        "5": "Again there was war with the Philistines; and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the staff of whose spear was like a weaver’s beam.",
+        "6": "There was again war at Gath, where there was a man of great stature, who had twenty-four fingers and toes, six on each hand and six on each foot; and he also was born to the giant.",
+        "7": "When he defied Israel, Jonathan the son of Shimea, David’s brother, killed him.",
+        "8": "These were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants."
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "book": "Osea",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultați cuvântul Domnului, copiii lui Israel, căci Domnul are o judecată cu locuitorii țării, pentru că nu este adevăr, nu este îndurare, nu este cunoștință de Dumnezeu în țară:",
+        "2": "„Fiecare jură strâmb și minte, ucide, fură și preacurvește, năpăstuiește și face omoruri după omoruri,",
+        "3": "de aceea, țara se va jeli, toți cei ce o locuiesc vor tânji împreună cu fiarele câmpului și păsările cerului; chiar și peștii mării vor pieri.",
+        "4": "Dar nimeni să nu certe pe altul, nimeni să nu mustre pe altul, căci poporul tău este ca cei ce se ceartă cu preoții.",
+        "5": "Te vei poticni ziua, prorocul se va poticni și el împreună cu tine noaptea și pe mama ta o voi nimici.",
+        "6": "Poporul Meu piere din lipsă de cunoștință. Fiindcă ai lepădat cunoștința, și Eu te voi lepăda și nu-Mi vei mai fi preot. Fiindcă ai uitat Legea Dumnezeului tău, voi uita și Eu pe copiii tăi!",
+        "7": "Cu cât s-au înmulțit, cu atât au păcătuit împotriva Mea. De aceea, le voi preface slava în ocară.",
+        "8": "Ei se hrănesc din jertfele pentru păcatele poporului Meu și sunt lacomi de nelegiuirile lui.",
+        "9": "Dar și preotului i se va întâmpla ca și poporului; îl voi pedepsi după umbletele lui și-l voi răsplăti după faptele lui.",
+        "10": "Vor mânca și tot nu se vor sătura, vor curvi și tot nu se vor înmulți, pentru că au părăsit pe Domnul și poruncile Lui.",
+        "11": "Curvia, vinul și mustul iau mințile omului.",
+        "12": "Poporul Meu își întreabă lemnul lui și toiagul lui îi prorocește, căci duhul curviei îi duce în rătăcire și sunt necredincioși Dumnezeului lor.",
+        "13": "Aduc jertfe pe vârful munților, ard tămâie pe dealuri, sub stejari, plopi și terebinți, a căror umbră este plăcută. De aceea, fetele voastre curvesc și nurorile voastre sunt preacurve.",
+        "14": "Nu pot pedepsi pe fetele voastre pentru că sunt curve, nici pe nurorile voastre pentru că sunt preacurve, căci ei înșiși se duc la o parte cu niște curve și jertfesc împreună cu desfrânatele din temple. Poporul fără minte aleargă spre pieire.",
+        "15": "Dacă tu curvești, Israele, măcar Iuda să nu se facă vinovat. Nu vă duceți măcar la Ghilgal, nu vă suiți la Bet-Aven și nu jurați zicând: ‘Viu este Domnul!’",
+        "16": "Pentru că Israel dă din picioare ca o mânzată neîmblânzită, și să-l mai pască Domnul acum ca pe un miel în imașuri întinse!",
+        "17": "Efraim s-a lipit de idoli: lasă-l în pace!",
+        "18": "Abia au încetat să bea și se dedau la curvie; cârmuitorii lor sunt lacomi, da, sunt lacomi după rușine!",
+        "19": "Vântul îi va strânge cu aripile lui și vor fi dați de rușine cu altarele lor!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultați Cuvântul Domnului, fii ai lui Israel, căci Domnul are de adus o acuzație împotriva locuitorilor țării: „Nu există credincioșie, nu există bunătate, nu există cunoștință de Dumnezeu în țară.",
+        "2": "Fiecare jură strâmb, înșală, ucide, fură și comite adulter. Ei folosesc violența, iar vărsările de sânge se țin lanț.",
+        "3": "De aceea țara va boci și toți cei ce locuiesc în ea vor fi sleiți. Vietățile câmpului, păsările cerului, precum și peștii mării vor pieri.",
+        "4": "Dar nimeni să nu certe pe altcineva, niciun om să nu acuze pe altul. Poporul tău este asemenea celor ce se ceartă cu un preot.",
+        "5": "Te vei împiedica ziua, iar profetul se va împiedica împreună cu tine noaptea. O voi nimici pe mama ta.",
+        "6": "Poporul Meu este nimicit, din lipsă de cunoștință. Pentru că ai respins cunoștința, și Eu te resping ca preot al Meu! Fiindcă ai uitat Legea Dumnezeului tău, și Eu îți voi uita fiii!",
+        "7": "Cu cât s-au înmulțit, cu atât au păcătuit mai mult împotriva Mea. De aceea, le voi preface gloria în rușine.",
+        "8": "Ei mănâncă păcatele poporului Meu și le savurează sufletul după nelegiuirea lui.",
+        "9": "Dar și preotul va avea aceeași soartă ca poporul: îl voi pedepsi după căile lui și îi voi răsplăti după faptele lui. Idolatria lui Israel",
+        "10": "Vor mânca, dar nu se vor sătura; se vor prostitua, dar nu se vor înmulți, căci L-au părăsit pe Domnul și s-au dedat",
+        "11": "la desfrânare, la vin și la must, care le iau mințile.",
+        "12": "Poporul Meu își întreabă bucata de lemn și un băț îi sfătuiește, căci un duh de prostituție îi duce în rătăcire. Ei se prostituează, fiind nesupuși Dumnezeului lor.",
+        "13": "Aduc jertfe pe vârfurile munților și ard tămâie pe dealuri, sub stejari, plopi și terebinți, căci umbra lor este plăcută. De aceea fetele voastre se prostituează și nurorile voastre comit adulter.",
+        "14": "Nu le voi pedepsi pe fetele voastre când se prostituează, și nici pe nurorile voastre când comit adulter, căci bărbații înșiși se retrag deoparte cu prostituatele și aduc jertfe cu hierodulele. Un astfel de popor căruia îi lipsește discernământul va ajunge la ruină.",
+        "15": "Dacă tu, Israel, te prostituezi, măcar Iuda să nu se facă vinovat! Nu vă duceți la Ghilgal, nu mergeți la Bet-Aven și nu jurați cu: «Viu este Domnul!».",
+        "16": "Israel este încăpățânat ca o junincă nesupusă. Deci, cum o s-o mai pască Domnul ca pe un miel pe o pășune întinsă?",
+        "17": "Efraim s-a unit cu idolii; lăsați-l în pace!",
+        "18": "Când băutura lor s-a sfârșit, se prostituează tot timpul. Conducătorii lui iubesc mult rușinea.",
+        "19": "Un vânt îi va înfășura cu aripile lui, și ei vor fi făcuți de rușine din cauza jertfelor lor."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear Yahweh’s word, you children of Israel, for Yahweh has a charge against the inhabitants of the land: “Indeed there is no truth, nor goodness, nor knowledge of God in the land.",
+        "2": "There is cursing, lying, murder, stealing, and committing adultery; they break boundaries, and bloodshed causes bloodshed.",
+        "3": "Therefore the land will mourn, and everyone who dwells in it will waste away, with all living things in her, even the animals of the field and the birds of the sky; yes, the fish of the sea also die.",
+        "4": "“Yet let no man bring a charge, neither let any man accuse; for your people are like those who bring charges against a priest.",
+        "5": "You will stumble in the day, and the prophet will also stumble with you in the night; and I will destroy your mother.",
+        "6": "My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you, that you may be no priest to me. Because you have forgotten your God’s law, I will also forget your children.",
+        "7": "As they were multiplied, so they sinned against me. I will change their glory into shame.",
+        "8": "They feed on the sin of my people, and set their heart on their iniquity.",
+        "9": "It will be like people, like priest; and I will punish them for their ways, and will repay them for their deeds.",
+        "10": "They will eat, and not have enough. They will play the prostitute, and will not increase; because they have abandoned listening to Yahweh.",
+        "11": "Prostitution, wine, and new wine take away understanding.",
+        "12": "My people consult with their wooden idol, and answer to a stick of wood. Indeed the spirit of prostitution has led them astray, and they have been unfaithful to their God.",
+        "13": "They sacrifice on the tops of the mountains, and burn incense on the hills, under oaks, poplars, and terebinths, because its shade is good. Therefore your daughters play the prostitute, and your brides commit adultery.",
+        "14": "I will not punish your daughters when they play the prostitute, nor your brides when they commit adultery; because the men consort with prostitutes, and they sacrifice with the shrine prostitutes; so the people without understanding will come to ruin.",
+        "15": "“Though you, Israel, play the prostitute, yet don’t let Judah offend; and don’t come to Gilgal, neither go up to Beth Aven, nor swear, ‘As Yahweh lives.’",
+        "16": "For Israel has behaved extremely stubbornly, like a stubborn heifer. Then how will Yahweh feed them like a lamb in a meadow?",
+        "17": "Ephraim is joined to idols. Leave him alone!",
+        "18": "Their drink has become sour. They play the prostitute continually. Her rulers dearly love their shameful way.",
+        "19": "The wind has wrapped her up in its wings; and they shall be disappointed because of their sacrifices."
+      }
+    }
+  }
+}

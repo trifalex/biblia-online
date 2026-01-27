@@ -1,0 +1,39 @@
+{
+  "book": "Psalmi",
+  "chapter": "53",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Nebunul zice în inima lui: „Nu este Dumnezeu!” S-au stricat oamenii, au săvârșit fărădelegi urâte, nu este niciunul care să facă binele.",
+        "2": "Dumnezeu Se uită de la înălțimea cerurilor peste fiii oamenilor, ca să vadă dacă este cineva care să fie priceput și să caute pe Dumnezeu.",
+        "3": "Dar toți s-au rătăcit, toți s-au stricat; nu este niciunul care să facă binele, niciunul măcar.",
+        "4": "Și-au pierdut oare mintea cei ce săvârșesc nelegiuirea de mănâncă pe poporul Meu cum mănâncă pâinea și nu cheamă pe Dumnezeu?",
+        "5": "Atunci vor tremura de spaimă fără să fie vreo pricină de spaimă; Dumnezeu va risipi oasele celor ce tăbărăsc împotriva ta, îi vei face de rușine, căci Dumnezeu i-a lepădat.",
+        "6": "O, cine va face să pornească din Sion izbăvirea lui Israel? Când va aduce Dumnezeu înapoi pe prinșii de război ai poporului Său, Iacov se va veseli și Israel se va bucura."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Nebunul zice în inima lui: „Nu există Dumnezeu!“. Toți s-au pervertit, comit nedreptăți groaznice; nu mai este nimeni care să facă binele.",
+        "2": "Dumnezeu Își pleacă privirea din Ceruri peste fiii omului, ca să vadă dacă există vreunul care să aibă înțelepciune, vreunul care să-L caute pe Dumnezeu.",
+        "3": "Toți s-au rătăcit; au ajuns, cu toții, corupți. Nu mai este nimeni care să facă binele, nimeni, niciunul măcar!",
+        "4": "Chiar nu înțeleg nimic cei ce comit nelegiuiri, de Îmi devorează poporul așa cum mănâncă pâinea și nu-L cheamă pe Dumnezeu?",
+        "5": "Chiar acolo unde sunt se vor îngrozi foarte tare, fără să fie vreun motiv de groază. Căci Dumnezeu va împrăștia oasele celor ce-și așază tabăra împotriva ta și îi vei face de rușine, căci Dumnezeu i-a respins.",
+        "6": "O, de ar veni din Sion eliberarea lui Israel! Când Dumnezeu va aduce înapoi captivii poporului Său, să se înveselească Iacov și să se bucure Israel!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The fool has said in his heart, “There is no God.” They are corrupt, and have done abominable iniquity. There is no one who does good.",
+        "2": "God looks down from heaven on the children of men, to see if there are any who understood, who seek after God.",
+        "3": "Every one of them has gone back. They have become filthy together. There is no one who does good, no, not one.",
+        "4": "Have the workers of iniquity no knowledge, who eat up my people as they eat bread, and don’t call on God?",
+        "5": "There they were in great fear, where no fear was, for God has scattered the bones of him who encamps against you. You have put them to shame, because God has rejected them.",
+        "6": "Oh that the salvation of Israel would come out of Zion! When God brings back his people from captivity, then Jacob shall rejoice, and Israel shall be glad."
+      }
+    }
+  }
+}

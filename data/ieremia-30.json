@@ -1,0 +1,93 @@
+{
+    "book": "Ieremia",
+    "chapter": "30",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Iată Cuvântul rostit lui Ieremia din partea Domnului:",
+                "2": "„Așa vorbește Domnul Dumnezeul lui Israel: ‘Scrie într-o carte toate cuvintele pe care ți le-am spus.",
+                "3": "Iată, vin zile’, zice Domnul, ‘când voi aduce înapoi prinșii de război ai poporului Meu Israel și Iuda’, zice Domnul; ‘îi voi aduce înapoi în țara pe care am dat-o părinților lor și o vor stăpâni.’”",
+                "4": "Iată însă cuvintele pe care le-a rostit Domnul asupra lui Israel și asupra lui Iuda:",
+                "5": "„Așa vorbește Domnul: ‘Auzim strigăte de groază; e spaimă, nu este pace!",
+                "6": "Întrebați și vedeți dacă nu cumva naște vreun bărbat! Pentru ce văd pe toți bărbații cu mâinile pe coapse, ca o femeie la facere? Pentru ce s-au îngălbenit toate fețele?",
+                "7": "Vai! căci ziua aceea este mare! Niciuna n-a fost ca ea! Este o vreme de necaz pentru Iacov, dar Iacov va fi izbăvit din ea.",
+                "8": "În ziua aceea’, zice Domnul oștirilor, ‘voi sfărâma jugul de pe grumazul lui, îi voi rupe legăturile, și străinii nu-l vor mai supune.",
+                "9": "Ci vor sluji Domnului Dumnezeului lor și împăratului lor David, pe care li-l voi scula.",
+                "10": "De aceea, nu te teme, robul Meu Iacov’, zice Domnul, ‘și nu te speria, Israele! Căci te voi izbăvi din țara cea depărtată și îți voi izbăvi sămânța din țara în care este roabă; Iacov se va întoarce iarăși, va avea odihnă și liniște și nu-l va mai tulbura nimeni.",
+                "11": "Căci Eu sunt cu tine’, zice Domnul, ‘ca să te izbăvesc; voi nimici pe toate neamurile printre care te-am risipit, dar pe tine nu te voi nimici; te voi pedepsi cu dreptate, nu pot să te las nepedepsit.’",
+                "12": "Așa vorbește Domnul: ‘Lovitura ta este de nevindecat și rana ta este usturătoare.",
+                "13": "Niciunul nu-ți apără pricina, ca să-ți lege rana; nu-i niciun leac, niciun mijloc de vindecare!",
+                "14": "Toți cei ce te iubeau te uită, niciunuia nu-i pasă de tine, căci te-am lovit cum lovesc pe un vrăjmaș, te-am pedepsit cu putere din pricina mulțimii nelegiuirilor tale și a marelui număr al păcatelor tale.",
+                "15": "De ce te plângi de rana ta, de durerea pe care ți-o pricinuiește boala ta? Pentru mulțimea nelegiuirilor tale, pentru marele număr al păcatelor tale, te-am făcut să suferi aceste lucruri!",
+                "16": "Totuși toți cei ce te mănâncă vor fi mâncați și toți vrăjmașii tăi, toți, vor merge în robie; cei ce te jefuiesc vor fi jefuiți și voi da pradă pe toți cei ce te prădează.",
+                "17": "Dar te voi vindeca și îți voi lega rănile’, zice Domnul. ‘Căci ei te numesc: «Cel izgonit, Sionul acela de care nimănui nu-i pasă».’",
+                "18": "Așa vorbește Domnul: ‘Iată, aduc înapoi pe prinșii de război ai corturilor lui Iacov și Mi-e milă de locașurile lui; cetatea va fi zidită iarăși pe dealurile ei și casa împărătească va fi locuită iarăși cum era.",
+                "19": "Din mijlocul lor se vor înălța mulțumiri și strigăte de bucurie; Îi voi înmulți și nu se vor împuțina; îi voi cinsti și nu vor fi disprețuiți.",
+                "20": "Fiii lui vor fi ca altădată, adunarea lui va rămâne înaintea Mea și voi pedepsi pe toți asupritorii lui.",
+                "21": "Căpetenia lui va fi din mijlocul lui și stăpânitorul lui va ieși din mijlocul lui; îl voi apropia, și va veni la Mine, căci cine ar îndrăzni să se apropie din capul lui de Mine?’, zice Domnul.",
+                "22": "‘Voi veți fi poporul Meu, și Eu voi fi Dumnezeul vostru.’”",
+                "23": "Iată furtuna Domnului, urgia izbucnește, se năpustește vijelia și cade peste capul celor răi!",
+                "24": "Mânia aprinsă a Domnului nu se va potoli până ce va împlini și va înfăptui gândurile inimii Lui. Veți înțelege în totul lucrul acesta în cursul vremurilor."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Cuvântul spus lui Ieremia din partea Domnului:",
+                "2": "„Așa vorbește Domnul, Dumnezeul lui Israel: «Scrie într-un sul toate cuvintele pe care ți le-am spus.",
+                "3": "Căci iată, vin zile, zice Domnul, când îi voi aduce înapoi pe captivii poporului Meu, Israel și Iuda. Îi voi aduce înapoi în țara pe care le-am dat-o strămoșilor lor și o vor stăpâni»“.",
+                "4": "Acestea sunt cuvintele pe care le-a rostit Domnul cu privire la Israel și Iuda:",
+                "5": "„Da, așa vorbește Domnul: «Auzim un strigăt de spaimă, de groază și nu de pace.",
+                "6": "Întrebați și uitați-vă bine! Poate un bărbat să nască? cu mâinile pe coapse, ca o femeie în durerile nașterii? De ce au pălit?",
+                "7": "Vai, ce îngrozitoare va fi ziua aceea! N-a mai fost niciodată vreuna ca ea! Va fi o vreme de necaz pentru Iacov, dar Iacov va fi salvat din ea.",
+                "8": "În ziua aceea, zice Domnul Oștirilor, voi sfărâma jugul de pe gâtul lor, și străinii nu îi vor mai înrobi.",
+                "9": "În schimb, vor sluji Domnului, Dumnezeul lor, pe care li-l voi ridica.",
+                "10": "Dar tu, slujitorul Meu Iacov, nu te teme, zice Domnul, nu te înspăimânta, Israel! Căci iată, te voi salva din teritoriul îndepărtat și-ți voi elibera urmașii din țara în care sunt captivi. Iacov se va întoarce, va avea odihnă și liniște și nimeni nu-l va mai îngrozi,",
+                "11": "căci Eu sunt cu tine ca să te salvez, zice Domnul. printre care te-am risipit, dar pe tine nu te voi distruge complet. Te voi disciplina însă cu dreptate; nu pot să te las nepedepsit»“.",
+                "12": "Așa vorbește Domnul: „Lovitura ta este de nevindecat și rana ta este incurabilă.",
+                "13": "Nu este nimeni care să-ți apere cauza; și niciun mijloc de vindecare.",
+                "14": "Toți iubiții tăi te-au uitat și niciunuia nu-i mai pasă de tine. pentru că nelegiuirea ta este așa de mare, iar păcatele tale atât de numeroase.",
+                "15": "De ce te plângi de rana ta, de durerea ta care nu are vindecare? din cauză că nelegiuirea ta este atât de mare, iar păcatele tale atât de numeroase.",
+                "16": "Totuși, toți cei ce te devorează vor fi devorați; toți dușmanii tăi, toți, vor fi duși în captivitate. și pe toți cei ce te prădează îi voi da Eu ca pradă.",
+                "17": "Pe tine însă te voi vindeca și-ți voi lega rănile, zice Domnul, pentru că ești numit «Cel alungat», «Sionul de care nimănui nu-i pasă»“.",
+                "18": "Așa vorbește Domnul: „Iată, îi voi aduce înapoi pe exilații corturilor lui Iacov și voi avea milă de locuințele lui. în locul ei de odinioară.",
+                "19": "Din mijlocul lor se vor înălța mulțumiri și strigăte de bucurie. și nu se vor împuțina; îi voi face să fie onorați, și nu vor fi lipsiți de importanță.",
+                "20": "Fiii lor vor fi ca în vremurile de odinioară și comunitatea lor va fi restabilită înaintea Mea; îi voi pedepsi pe toți asupritorii lor.",
+                "21": "Liderul lor va fi unul de-al lor și conducătorul lor va ieși din mijlocul lor. Îl voi apropia Eu de Mine și-Mi va fi aproape, pentru a fi aproape de Mine?“, zice Domnul.",
+                "22": "„Voi veți fi poporul Meu, iar Eu voi fi Dumnezeul vostru“.",
+                "23": "Iată furtuna Domnului! Furia izbucnește! Vijelia se așază; ea se năpustește asupra capului celor răi.",
+                "24": "Mânia Domnului nu se va retrage planurile inimii Lui. În zilele de pe urmă, veți înțelege lucrul acesta."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "The word that came to Jeremiah from Yahweh, saying,",
+                "2": "“Yahweh, the God of Israel, says, ‘Write all the words that I have spoken to you in a book.",
+                "3": "For, behold, the days come,’ says Yahweh, ‘that I will reverse the captivity of my people Israel and Judah,’ says Yahweh. ‘I will cause them to return to the land that I gave to their fathers, and they will possess it.’”",
+                "4": "These are the words that Yahweh spoke concerning Israel and concerning Judah.",
+                "5": "For Yahweh says: “We have heard a voice of trembling; a voice of fear, and not of peace.",
+                "6": "Ask now, and see whether a man travails with child. Why do I see every man with his hands on his waist, as a woman in travail, and all faces are turned pale?",
+                "7": "Alas, for that day is great, so that none is like it! It is even the time of Jacob’s trouble; but he will be saved out of it.",
+                "8": "It will come to pass in that day, says Yahweh of Armies, that I will break his yoke from off your neck, and will burst your bonds. Strangers will no more make them their bondservants;",
+                "9": "but they will serve Yahweh their God, and David their king, whom I will raise up to them.",
+                "10": "Therefore don’t be afraid, O Jacob my servant, says Yahweh. Don’t be dismayed, Israel. For, behold, I will save you from afar, and save your offspring from the land of their captivity. Jacob will return, and will be quiet and at ease. No one will make him afraid.",
+                "11": "For I am with you, says Yahweh, to save you; for I will make a full end of all the nations where I have scattered you, but I will not make a full end of you; but I will correct you in measure, and will in no way leave you unpunished.”",
+                "12": "For Yahweh says, “Your hurt is incurable. Your wound is grievous.",
+                "13": "There is no one to plead your cause, that you may be bound up. You have no healing medicines.",
+                "14": "All your lovers have forgotten you. They don’t seek you. For I have wounded you with the wound of an enemy, with the chastisement of a cruel one, for the greatness of your iniquity, because your sins were increased.",
+                "15": "Why do you cry over your injury? Your pain is incurable. For the greatness of your iniquity, because your sins have increased, I have done these things to you.",
+                "16": "Therefore all those who devour you will be devoured. All your adversaries, everyone of them, will go into captivity. Those who plunder you will be plunder. I will make all who prey on you become prey.",
+                "17": "For I will restore health to you, and I will heal you of your wounds,” says Yahweh, “because they have called you an outcast, saying, ‘It is Zion, whom no man seeks after.’”",
+                "18": "Yahweh says: “Behold, I will reverse the captivity of Jacob’s tents, and have compassion on his dwelling places. The city will be built on its own hill, and the palace will be inhabited in its own place.",
+                "19": "Thanksgiving will proceed out of them with the voice of those who make merry. I will multiply them, and they will not be few; I will also glorify them, and they will not be small.",
+                "20": "Their children also will be as before, and their congregation will be established before me. I will punish all who oppress them.",
+                "21": "Their prince will be one of them, and their ruler will proceed from among them. I will cause him to draw near, and he will approach me; for who is he who has had boldness to approach me?” says Yahweh.",
+                "22": "“You shall be my people, and I will be your God.",
+                "23": "Behold, Yahweh’s storm, his wrath, has gone out, a sweeping storm; it will burst on the head of the wicked.",
+                "24": "The fierce anger of Yahweh will not return until he has accomplished, and until he has performed the intentions of his heart. In the latter days you will understand it.”"
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "39",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ziceam: „Voi veghea asupra căilor mele, ca să nu păcătuiesc cu limba; îmi voi pune frâu gurii cât va sta cel rău înaintea mea.”",
+        "2": "Am stat mut, în tăcere; am tăcut, măcar că eram nenorocit, și totuși durerea mea nu era mai puțin mare.",
+        "3": "Îmi ardea inima în mine, un foc lăuntric mă mistuia, și atunci mi-a venit cuvântul pe limbă și am zis:",
+        "4": "„Doamne, spune-mi care este sfârșitul vieții mele, care este măsura zilelor mele, ca să știu cât de trecător sunt!”",
+        "5": "Iată că zilele mele sunt cât un lat de mână și viața mea este ca o nimica înaintea Ta. Da, orice om este doar o suflare, oricât de bine s-ar ține.",
+        "6": "Da, omul umblă ca o umbră, se frământă degeaba, strânge la comori și nu știe cine le va lua.",
+        "7": "Acum, Doamne, ce mai pot nădăjdui eu? În Tine îmi este nădejdea.",
+        "8": "Izbăvește-mă de toate fărădelegile mele! Nu mă face de ocara celui nebun!",
+        "9": "Stau mut, nu deschid gura, căci Tu lucrezi.",
+        "10": "Abate-Ți loviturile de la mine! Îmi iese sufletul sub loviturile mâinii Tale.",
+        "11": "Tu pedepsești pe om și-l lovești pentru fărădelegea lui; îi prăpădești, ca molia, ce are el mai scump. Da, orice om este doar o suflare.",
+        "12": "Ascultă-mi rugăciunea, Doamne, și pleacă-Ți urechea la strigătele mele! Nu tăcea în fața lacrimilor mele! Căci sunt un străin înaintea Ta, un pribeag, ca toți părinții mei.",
+        "13": "Abate-Ți privirea de la mine și lasă-mă să răsuflu, până nu mă duc și să nu mai fiu!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ziceam: „Voi veghea asupra căilor mele ca să nu păcătuiesc cu limba. Îmi voi pune frâu gurii, cât timp se va afla cel rău în prezența mea“.",
+        "2": "Am rămas deci mut, în tăcere, fără să rostesc nici măcar o vorbă bună, însă durerea mea a devenit tot mai intensă.",
+        "3": "Îmi ardea inima înăuntrul meu și mă mistuia un foc în timp ce suspinam. Atunci am rostit următoarele cuvinte:",
+        "4": "„Doamne, fă-mi cunoscut care este sfârșitul vieții mele și care este numărul zilelor mele? Fă-mă să înțeleg cât sunt de trecător!",
+        "5": "Iată, Tu mi-ai dat zile cât un lat de palmă, iar lungimea vieții mele este o nimica toată înaintea Ta. Într-adevăr, orice om care se ține bine este, de fapt, o biată suflare“.",
+        "6": "Într-adevăr, omul cutreieră ca o umbră! Da, el se agită degeaba, strânge bogății și nu știe cine le va aduna.",
+        "7": "Și acum ce mai pot spera eu, Stăpâne? Speranța mea este în Tine.",
+        "8": "Eliberează-mă de toate fărădelegile mele, nu mă lăsa la disprețul nebunului!",
+        "9": "Stau mut și nu-mi deschid gura, căci Tu ai lucrat.",
+        "10": "Abate-Ți loviturile de la mine! Sunt distrus de pedeapsa mâinii Tale.",
+        "11": "Tu îl mustri și îl pedepsești pe om pentru nelegiuirea lui, îi distrugi, ca o molie, ce are mai scump. Într-adevăr, orice om este doar o suflare!",
+        "12": "Doamne, ascultă-mi rugăciunea, ascultă cu atenție strigătul meu după ajutor! Nu rămâne surd la plânsul meu, căci, față de Tine, sunt un călător străin, un peregrin, ca toți strămoșii mei.",
+        "13": "Abate-Ți privirea de la mine, ca să mă pot bucura iarăși, până nu mă duc și nu voi mai fi!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I said, “I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me.”",
+        "2": "I was mute with silence. I held my peace, even from good. My sorrow was stirred.",
+        "3": "My heart was hot within me. While I meditated, the fire burned. I spoke with my tongue:",
+        "4": "“Yahweh, show me my end, what is the measure of my days. Let me know how frail I am.",
+        "5": "Behold, you have made my days hand widths. My lifetime is as nothing before you. Surely every man stands as a breath.”",
+        "6": "“Surely every man walks like a shadow. Surely they busy themselves in vain. He heaps up, and doesn’t know who shall gather.",
+        "7": "Now, Lord, what do I wait for? My hope is in you.",
+        "8": "Deliver me from all my transgressions. Don’t make me the reproach of the foolish.",
+        "9": "I was mute. I didn’t open my mouth, because you did it.",
+        "10": "Remove your scourge away from me. I am overcome by the blow of your hand.",
+        "11": "When you rebuke and correct man for iniquity, you consume his wealth like a moth. Surely every man is but a breath.”",
+        "12": "“Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were.",
+        "13": "Oh spare me, that I may recover strength, before I go away and exist no more.”"
+      }
+    }
+  }
+}

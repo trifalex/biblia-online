@@ -1,0 +1,81 @@
+{
+  "book": "Deuteronomul",
+  "chapter": "8",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Să păziți și să împliniți toate poruncile pe care vi le dau astăzi, ca să trăiți, să vă înmulțiți și să intrați în stăpânirea țării pe care a jurat Domnul că o va da părinților voștri.",
+        "2": "Adu-ți aminte de tot drumul pe care te-a călăuzit Domnul Dumnezeul tău în timpul acestor patruzeci de ani în pustie, ca să te smerească și să te încerce, ca să-ți cunoască pornirile inimii și să vadă dacă ai să păzești sau nu poruncile Lui.",
+        "3": "Astfel, te-a smerit, te-a lăsat să suferi de foame și te-a hrănit cu mană, pe care nici tu n-o cunoșteai și nici părinții tăi n-o cunoscuseră, ca să te învețe că omul nu trăiește numai cu pâine, ci cu orice lucru care iese din gura Domnului trăiește omul.",
+        "4": "Haina nu ți s-a învechit pe tine și nici nu ți s-au umflat picioarele în timpul acestor patruzeci de ani.",
+        "5": "Recunoaște dar în inima ta că Domnul Dumnezeul tău te mustră cum mustră un om pe copilul lui.",
+        "6": "Să păzești poruncile Domnului Dumnezeului tău, ca să umbli în căile Lui, și să te temi de El.",
+        "7": "Căci Domnul Dumnezeul tău are să te ducă într-o țară bună, țară cu pâraie de apă, cu izvoare și cu lacuri, care țâșnesc din văi și munți;",
+        "8": "țară cu grâu, cu orz, cu vii, cu smochini și cu rodii; țară cu măslini și cu miere;",
+        "9": "țară unde vei mânca pâine din belșug, unde nu vei duce lipsă de nimic; țară ale cărei pietre sunt de fier și din ai cărei munți vei scoate aramă.",
+        "10": "Când vei mânca și te vei sătura, să binecuvântezi pe Domnul Dumnezeul tău pentru țara cea bună pe care ți-a dat-o.",
+        "11": "Vezi să nu uiți pe Domnul Dumnezeul tău, până acolo încât să nu păzești poruncile, rânduielile și legile Lui, pe care ți le dau azi.",
+        "12": "Când vei mânca și te vei sătura, când vei zidi și vei locui în case frumoase,",
+        "13": "când vei vedea înmulțindu-ți-se cirezile de boi și turmele de oi, mărindu-ți-se argintul și aurul și crescându-ți tot ce ai,",
+        "14": "ia seama să nu ți se umfle inima de mândrie și să nu uiți pe Domnul Dumnezeul tău, care te-a scos din țara Egiptului, din casa robiei,",
+        "15": "care te-a dus în acea pustie mare și grozavă, unde erau șerpi înfocați și scorpioni, în locuri uscate și fără apă, care a făcut să-ți țâșnească apă din stânca cea mai tare",
+        "16": "și care ți-a dat să mănânci în pustie mana aceea necunoscută de părinții tăi, ca să te smerească și să te încerce și să-ți facă bine apoi.",
+        "17": "Vezi să nu zici în inima ta: ‘Tăria mea și puterea mâinii mele mi-au câștigat aceste bogății.’",
+        "18": "Ci adu-ți aminte de Domnul Dumnezeul tău, căci El îți va da putere să le câștigi, ca să întărească legământul încheiat cu părinții voștri prin jurământ, cum face astăzi.",
+        "19": "Dacă vei uita pe Domnul Dumnezeul tău și vei merge după alți dumnezei, dacă le vei sluji și te vei închina înaintea lor, vă spun hotărât azi că veți pieri.",
+        "20": "Veți pieri ca și neamurile pe care le-a pierdut Domnul dinaintea voastră, pentru că nu veți asculta glasul Domnului Dumnezeului vostru."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Să păziți și să împliniți toate poruncile pe care vi le dau astăzi, ca să trăiți, să vă înmulțiți și să intrați în stăpânirea țării pe care Domnul a promis-o strămoșilor voștri.",
+        "2": "Adu-ți aminte de fiecare drum pe care Domnul, Dumnezeul tău, te-a condus prin deșert în acești patruzeci de ani, ca să te smerească, să te pună la încercare, să cunoască ce este în inima ta și să vadă dacă vei păzi poruncile Lui sau nu.",
+        "3": "Astfel, El te-a smerit, te-a lăsat înfometat și te-a hrănit cu mana despre care nu știai nimic nici tu, nici strămoșii tăi, ca să te învețe că omul nu trăiește doar cu pâine, ci omul trăiește cu orice cuvânt care iese din gura Domnului.",
+        "4": "Hainele nu ți s-au învechit pe tine, iar picioarele nu ți s-au umflat în acești patruzeci de ani.",
+        "5": "Să știi deci în inima ta că Domnul, Dumnezeul tău, te disciplinează asemenea unui om care își disciplinează fiul.",
+        "6": "Să păzești poruncile Domnului, Dumnezeul tău, umblând pe căile Lui și temându-te de El.",
+        "7": "Căci Domnul, Dumnezeul tău, te va duce într-o țară bună, o țară cu râuri de apă, izvoare și pârâuri ce izvorăsc din văi și din munți,",
+        "8": "o țară cu grâu și cu orz, cu vii, cu smochini și cu rodii, cu măslini și cu miere,",
+        "9": "o țară unde nu vei duce lipsă de pâine și nu vei duce lipsă de nimic, o țară unde stâncile sunt de fier și din munții căreia vei extrage cuprul.",
+        "10": "Când vei mânca și te vei sătura, să-L binecuvântezi pe Domnul, Dumnezeul tău, pentru țara cea bună pe care ți-a dat-o.",
+        "11": "Ai grijă ca nu cumva să-L uiți pe Domnul, Dumnezeul tău, astfel încât să nu mai păzești poruncile, legile și hotărârile pe care ți le dau astăzi.",
+        "12": "Când vei mânca și te vei sătura, când vei construi și vei locui în case frumoase,",
+        "13": "când cirezile și turmele îți vor crește la număr, iar argintul și aurul ți se vor înmulți și tot ce ai va fi din abundență,",
+        "14": "atunci să nu te mândrești în inima ta și să nu uiți de Domnul, Dumnezeul tău, Care te-a scos din țara Egiptului, din casa sclavilor.",
+        "15": "El te-a condus prin deșertul cel mare și de temut, cu locuri secetoase, cu șerpi veninoși și scorpioni. El a făcut să izvorască apă dintr-o stâncă de cremene.",
+        "16": "El ți-a dat să mănânci în deșert mană, de care strămoșii tăi n-au știut, ca să te smerească și să te pună la încercare, iar la urmă să-ți facă bine.",
+        "17": "Să nu zici în inima ta: «Puterea mea și forța mâinii mele au făcut pentru mine această avere!».",
+        "18": "Să-ți aduci aminte de Domnul, Dumnezeul tău, căci El este Cel Ce-ți dă putere să faci avere, ca să întărească astfel legământul pe care l-a jurat strămoșilor tăi, așa cum se poate vedea în ziua aceasta.",
+        "19": "Dar, dacă vei uita de Domnul, Dumnezeul tău, și vei merge după alți dumnezei, dacă le vei sluji și te vei închina înaintea lor, depun mărturie împotriva voastră astăzi că sigur veți pieri.",
+        "20": "Veți pieri la fel ca națiunile pe care le-a nimicit Domnul dinaintea voastră, pentru că nu veți asculta de glasul Domnului, Dumnezeul vostru."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which Yahweh swore to your fathers.",
+        "2": "You shall remember all the way which Yahweh your God has led you these forty years in the wilderness, that he might humble you, to test you, to know what was in your heart, whether you would keep his commandments or not.",
+        "3": "He humbled you, allowed you to be hungry, and fed you with manna, which you didn’t know, neither did your fathers know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of Yahweh’s mouth.",
+        "4": "Your clothing didn’t grow old on you, neither did your foot swell, these forty years.",
+        "5": "You shall consider in your heart that as a man disciplines his son, so Yahweh your God disciplines you.",
+        "6": "You shall keep the commandments of Yahweh your God, to walk in his ways, and to fear him.",
+        "7": "For Yahweh your God brings you into a good land, a land of brooks of water, of springs, and underground water flowing into valleys and hills;",
+        "8": "a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive trees and honey;",
+        "9": "a land in which you shall eat bread without scarcity, you shall not lack anything in it; a land whose stones are iron, and out of whose hills you may dig copper.",
+        "10": "You shall eat and be full, and you shall bless Yahweh your God for the good land which he has given you.",
+        "11": "Beware lest you forget Yahweh your God, in not keeping his commandments, his ordinances, and his statutes, which I command you today;",
+        "12": "lest, when you have eaten and are full, and have built fine houses and lived in them;",
+        "13": "and when your herds and your flocks multiply, and your silver and your gold is multiplied, and all that you have is multiplied;",
+        "14": "then your heart might be lifted up, and you forget Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage;",
+        "15": "who led you through the great and terrible wilderness, with venomous snakes and scorpions, and thirsty ground where there was no water; who poured water for you out of the rock of flint;",
+        "16": "who fed you in the wilderness with manna, which your fathers didn’t know, that he might humble you, and that he might prove you, to do you good at your latter end;",
+        "17": "and lest you say in your heart, “My power and the might of my hand has gotten me this wealth.”",
+        "18": "But you shall remember Yahweh your God, for it is he who gives you power to get wealth, that he may establish his covenant which he swore to your fathers, as it is today.",
+        "19": "It shall be, if you shall forget Yahweh your God, and walk after other gods, and serve them and worship them, I testify against you today that you shall surely perish.",
+        "20": "As the nations that Yahweh makes to perish before you, so you shall perish, because you wouldn’t listen to Yahweh your God’s voice."
+      }
+    }
+  }
+}

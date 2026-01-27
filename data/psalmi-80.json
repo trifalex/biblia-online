@@ -1,0 +1,78 @@
+{
+  "book": "Psalmi",
+  "chapter": "80",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ia aminte, Păstorul lui Israel, Tu, care povățuiești pe Iosif ca pe o turmă! Arată-Te în strălucirea Ta, Tu, care șezi pe heruvimi!",
+        "2": "Trezește-Ți puterea, înaintea lui Efraim, Beniamin și Manase, și vino în ajutorul nostru!",
+        "3": "Ridică-ne, Dumnezeule, fă să strălucească Fața Ta și vom fi scăpați!",
+        "4": "Doamne, Dumnezeul oștirilor, până când Te vei mânia, cu toată rugăciunea poporului Tău?",
+        "5": "Îi hrănești cu o pâine de lacrimi și-i adăpi cu lacrimi din plin.",
+        "6": "Ne faci să fim mărul de ceartă al vecinilor noștri și vrăjmașii noștri râd de noi între ei.",
+        "7": "Ridică-ne, Dumnezeul oștirilor! Fă să strălucească Fața Ta și vom fi scăpați!",
+        "8": "Tu ai adus o vie din Egipt, ai izgonit neamuri și ai sădit-o.",
+        "9": "Ai făcut loc înaintea ei: și ea a dat rădăcini și a umplut țara.",
+        "10": "Munții erau acoperiți de umbra ei și ramurile ei erau ca niște cedri ai lui Dumnezeu.",
+        "11": "Își întindea mlădițele până la mare și lăstarii până la râu.",
+        "12": "Pentru ce i-ai rupt gardul acum de-o jefuiesc toți trecătorii?",
+        "13": "O râmă mistrețul din pădure și o mănâncă fiarele câmpului.",
+        "14": "Dumnezeul oștirilor, întoarce-Te iarăși! Privește din cer și vezi! Cercetează via aceasta!",
+        "15": "Ocrotește ce a sădit dreapta Ta și pe fiul pe care Ți l-ai ales!…",
+        "16": "Ea este arsă de foc, este tăiată! De mustrarea Feței Tale, ei pier!",
+        "17": "Mâna Ta să fie peste omul dreptei Tale, peste fiul omului pe care Ți l-ai ales!",
+        "18": "Și atunci nu ne vom mai depărta de Tine. Înviorează-ne iarăși și vom chema Numele Tău!",
+        "19": "Doamne, Dumnezeul oștirilor, ridică-ne iarăși! Fă să strălucească Fața Ta și vom fi scăpați!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultă-ne, Păstor al lui Israel, Tu, Care-l conduci pe Iosif ca pe o turmă! Tu, Care tronezi deasupra heruvimilor, strălucește",
+        "2": "peste Efraim, Beniamin și Manase! Trezește-Ți puterea și vino să ne salvezi!",
+        "3": "Dumnezeule, adu-ne înapoi! Fă să strălucească fața Ta și vom fi salvați!",
+        "4": "Doamne, Dumnezeul Oștirilor, până când Te vei mai mânia la auzul rugăciunii poporului Tău?",
+        "5": "Îi hrănești cu pâinea lacrimilor și le dai să bea lacrimi din plin.",
+        "6": "Ne-ai făcut un subiect de dispută pentru vecinii noștri, iar dușmanii noștri râd între ei.",
+        "7": "Dumnezeul Oștirilor, adu-ne înapoi! Fă să strălucească fața Ta și vom fi salvați!",
+        "8": "Ai adus o vie din Egipt, ai alungat națiuni și ai plantat-o.",
+        "9": "Ai făcut loc înaintea ei, iar ea a prins rădăcini și a umplut țara.",
+        "10": "Munții au fost acoperiți de umbra ei, și cedrii lui Dumnezeu de ramurile ei.",
+        "11": "Își trimitea mlădițele până la mare, până la râu se întindeau vlăstarele ei.",
+        "12": "De ce i-ai străpuns gardul, ca s-o smulgă toți cei ce trec pe drum?",
+        "13": "O râmă mistrețul din pădure și o pasc animalele câmpului.",
+        "14": "Dumnezeu al Oștirilor, întoarce-Te, Te rog! Privește din Ceruri și uită-Te cu atenție! Cercetează via aceasta,",
+        "15": "rădăcina pe care a plantat-o dreapta Ta și fiul pe care l-ai întărit pentru Tine!",
+        "16": "Este arsă de foc și tăiată. Poporul Tău piere din cauza mustrării feței Tale.",
+        "17": "Mâna Ta să fie peste omul de la dreapta Ta, peste fiul omului pe care l-ai întărit pentru Tine!",
+        "18": "Atunci nu ne vom mai întoarce de la Tine! Înviorează-ne și vom chema Numele Tău!",
+        "19": "Doamne, Dumnezeul Oștirilor, adu-ne înapoi! Fă să strălucească fața Ta și vom fi salvați!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear us, Shepherd of Israel, you who lead Joseph like a flock, you who sit above the cherubim, shine out.",
+        "2": "Before Ephraim, Benjamin, and Manasseh, stir up your might! Come to save us!",
+        "3": "Turn us again, God. Cause your face to shine, and we will be saved.",
+        "4": "Yahweh God of Armies, how long will you be angry against the prayer of your people?",
+        "5": "You have fed them with the bread of tears, and given them tears to drink in large measure.",
+        "6": "You make us a source of contention to our neighbors. Our enemies laugh among themselves.",
+        "7": "Turn us again, God of Armies. Cause your face to shine, and we will be saved.",
+        "8": "You brought a vine out of Egypt. You drove out the nations, and planted it.",
+        "9": "You cleared the ground for it. It took deep root, and filled the land.",
+        "10": "The mountains were covered with its shadow. Its boughs were like God’s cedars.",
+        "11": "It sent out its branches to the sea, its shoots to the River.",
+        "12": "Why have you broken down its walls, so that all those who pass by the way pluck it?",
+        "13": "The boar out of the wood ravages it. The wild animals of the field feed on it.",
+        "14": "Turn again, we beg you, God of Armies. Look down from heaven, and see, and visit this vine,",
+        "15": "the stock which your right hand planted, the branch that you made strong for yourself.",
+        "16": "It’s burned with fire. It’s cut down. They perish at your rebuke.",
+        "17": "Let your hand be on the man of your right hand, on the son of man whom you made strong for yourself.",
+        "18": "So we will not turn away from you. Revive us, and we will call on your name.",
+        "19": "Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved."
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+    "book": "Isaia",
+    "chapter": "20",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "În anul când a venit Tartan la Asdod, trimis de Sargon, împăratul Asiriei, să bată Asdodul și l-a luat,",
+                "2": "în vremea aceea, Domnul a vorbit lui Isaia, fiul lui Amoț și i-a zis: „Du-te, dezleagă-ți sacul de pe coapse și scoate-ți încălțămintea din picioare!” El a făcut așa, a umblat gol și desculț.",
+                "3": "Și Domnul a zis: „După cum robul meu Isaia umblă gol și desculț trei ani de zile, ca semn și înștiințare pentru Egipt și pentru Etiopia,",
+                "4": "tot așa și împăratul Asiriei va lua din Egipt și din Etiopia prinși de război și surghiuniți, tineri și bătrâni, goi și desculți și cu spinarea descoperită, spre rușinea Egiptului.",
+                "5": "Atunci se vor îngrozi și se vor rușina cei ce își puseseră încrederea în Etiopia și se făleau cu Egiptul.",
+                "6": "Și locuitorii de pe țărmul acesta vor zice în ziua aceea: ‘Iată ce a ajuns încrederea noastră pe care ne bizuiserăm ca să fim ajutați și să fim izbăviți de împăratul Asiriei! Cum vom scăpa acum?’”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "În anul în care Tartan, trimis de împăratul Sargon al Asiriei, a venit la Așdod, l-a asediat și l-a cucerit,",
+                "2": "Domnul i-a vorbit lui Isaia, fiul lui Amoț, zicând: „Du-te, dă-ți jos pânza de sac de pe coapse și scoate-ți sandalele din picioare!“. El a făcut întocmai, umblând gol și desculț.",
+                "3": "Domnul a zis: „Așa cum slujitorul Meu Isaia a umblat gol și desculț timp de trei ani, ca un semn și ca o prevestire împotriva Egiptului și a lui Cuș,",
+                "4": "tot așa împăratul Asiriei îi va duce departe pe captivii Egiptului și pe exilații lui Cuș, pe tineri și pe bătrâni, goi și desculți, cu dosul descoperit, spre rușinea Egiptului.",
+                "5": "Atunci se vor înspăimânta și se vor rușina la vederea lui Cuș, speranța lor, și a Egiptului, măreția lor.",
+                "6": "În ziua aceea, locuitorii de pe țărmul acesta vor zice: «Iată ce li s-a întâmplat celor în care ne-am pus speranța și la care am fugit după ajutor și după eliberare de împăratul Asiriei! Oare cine ne va mai salva acum?»“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "In the year that Tartan came to Ashdod, when Sargon the king of Assyria sent him, and he fought against Ashdod and took it;",
+                "2": "at that time Yahweh spoke by Isaiah the son of Amoz, saying, “Go, and loosen the sackcloth from off your waist, and take your sandals from off your feet.” He did so, walking naked and barefoot.",
+                "3": "Yahweh said, “As my servant Isaiah has walked naked and barefoot three years for a sign and a wonder concerning Egypt and concerning Ethiopia,",
+                "4": "so the king of Assyria will lead away the captives of Egypt and the exiles of Ethiopia, young and old, naked and barefoot, and with buttocks uncovered, to the shame of Egypt.",
+                "5": "They will be dismayed and confounded, because of Ethiopia their expectation, and of Egypt their glory.",
+                "6": "The inhabitants of this coast land will say in that day, ‘Behold, this is our expectation, where we fled for help to be delivered from the king of Assyria. And we, how will we escape?’”"
+            }
+        }
+    }
+}

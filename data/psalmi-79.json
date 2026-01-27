@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "79",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeule, au năvălit neamurile în moștenirea Ta, au pângărit Templul Tău cel sfânt și au prefăcut Ierusalimul într-un morman de pietre.",
+        "2": "Trupurile neînsuflețite ale robilor Tăi le-au dat să le mănânce păsările cerului, și carnea credincioșilor Tăi au dat-o s-o mănânce fiarele pământului.",
+        "3": "Ca apa le-au vărsat sângele, de jur împrejurul Ierusalimului, și n-a fost nimeni să-i îngroape.",
+        "4": "Am ajuns de ocara vecinilor noștri, de batjocura și de râsul celor ce ne înconjoară.",
+        "5": "Până când, Doamne, Te vei mânia fără încetare și va arde mânia Ta ca focul?",
+        "6": "Varsă-Ți mânia peste neamurile care nu Te cunosc și peste împărățiile care nu cheamă Numele Tău!",
+        "7": "Căci au mâncat pe Iacov și i-au pustiit locuința.",
+        "8": "Nu-Ți mai aduce aminte de nelegiuirile strămoșilor noștri, ci să ne iasă degrabă înainte îndurările Tale, căci suntem nenorociți de tot!",
+        "9": "Ajută-ne, Dumnezeul mântuirii noastre, pentru slava Numelui Tău! Izbăvește-ne și iartă-ne păcatele, pentru Numele Tău!",
+        "10": "Pentru ce să zică neamurile: „Unde este Dumnezeul lor?” Să se știe înaintea ochilor noștri, printre neamuri, că Tu răzbuni sângele vărsat al robilor Tăi!",
+        "11": "Să ajungă până la Tine gemetele prinșilor de război! Scapă, prin brațul Tău cel puternic, pe cei ce pier!",
+        "12": "Întoarce vecinilor noștri de șapte ori în sânul lor batjocurile care Ți le-au aruncat ei Ție, Doamne!",
+        "13": "Și noi, poporul Tău, turma pășunii Tale, Te vom lăuda în veci și vom vesti din neam în neam laudele Tale."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeule, au intrat națiunile pe proprietatea Ta, au întinat Templul Tău cel sfânt și au transformat Ierusalimul în ruine.",
+        "2": "Au dat trupurile moarte ale slujitorilor Tăi ca hrană păsărilor cerului, și carnea credincioșilor Tăi vietăților pământului.",
+        "3": "Le-au vărsat sângele așa cum se varsă apa împrejurul Ierusalimului și nu s-a găsit nimeni care să-i îngroape.",
+        "4": "Am fost de disprețul vecinilor noștri, de batjocura și de râsul celor ce ne înconjoară.",
+        "5": "Până când vei mai fi mânios, Doamne? Pentru totdeauna? Până când va mai arde gelozia Ta ca focul?",
+        "6": "Varsă-Ți mânia peste națiunile care nu Te cunosc și peste regatele care nu cheamă Numele Tău,",
+        "7": "căci l-au devorat pe Iacov și i-au nimicit locuința.",
+        "8": "Nu-Ți aminti de nelegiuirile înaintașilor noștri! Grăbește-Te să ne întâmpini cu mila Ta, căci suntem foarte necăjiți.",
+        "9": "Ajută-ne, Dumnezeul mântuirii noastre, pentru gloria Numelui Tău. Scapă-ne și fă ispășire pentru păcatele noastre, datorită Numelui Tău!",
+        "10": "De ce să zică națiunile: „Unde este Dumnezeul lor?“. Să se facă cunoscut printre națiuni, înaintea ochilor noștri, răzbunarea pentru sângele vărsat al slujitorilor Tăi!",
+        "11": "Să ajungă strigătul prizonierilor înaintea Ta; prin puterea brațului Tău, scapă-i pe cei condamnați la moarte!",
+        "12": "Întoarce-le vecinilor noștri înșeptit, în sânul lor, insulta cu care Te-au insultat, Stăpâne!",
+        "13": "Atunci noi, poporul Tău, turma pășunii Tale, Îți vom mulțumi mereu, vom vesti laudele Tale din generație în generație!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God, the nations have come into your inheritance. They have defiled your holy temple. They have laid Jerusalem in heaps.",
+        "2": "They have given the dead bodies of your servants to be food for the birds of the sky, the flesh of your saints to the animals of the earth.",
+        "3": "They have shed their blood like water around Jerusalem. There was no one to bury them.",
+        "4": "We have become a reproach to our neighbors, a scoffing and derision to those who are around us.",
+        "5": "How long, Yahweh? Will you be angry forever? Will your jealousy burn like fire?",
+        "6": "Pour out your wrath on the nations that don’t know you, on the kingdoms that don’t call on your name,",
+        "7": "for they have devoured Jacob, and destroyed his homeland.",
+        "8": "Don’t hold the iniquities of our forefathers against us. Let your tender mercies speedily meet us, for we are in desperate need.",
+        "9": "Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name’s sake.",
+        "10": "Why should the nations say, “Where is their God?” Let it be known among the nations, before our eyes, that vengeance for your servants’ blood is being poured out.",
+        "11": "Let the sighing of the prisoner come before you. According to the greatness of your power, preserve those who are sentenced to death.",
+        "12": "Pay back to our neighbors seven times into their bosom their reproach with which they have reproached you, Lord.",
+        "13": "So we, your people and sheep of your pasture, will give you thanks forever. We will praise you forever, to all generations."
+      }
+    }
+  }
+}

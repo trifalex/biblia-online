@@ -1,0 +1,98 @@
+{
+  "book": "Filimon",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pavel, întemnițat al lui Isus Hristos, și fratele Timotei către preaiubitul Filimon, tovarășul nostru de lucru,",
+        "2": "către sora Apfia și către Arhip, tovarășul nostru de luptă, și către Biserica din casa ta:",
+        "3": "Har și pace de la Dumnezeu, Tatăl nostru, și de la Domnul Isus Hristos!",
+        "4": "Mulțumesc totdeauna Dumnezeului meu ori de câte ori îmi aduc aminte de tine în rugăciunile mele,",
+        "5": "pentru că am auzit despre credința pe care o ai în Domnul Isus și dragostea față de toți sfinții.",
+        "6": "Îl rog ca această părtășie a ta la credință să se arate prin fapte, care să dea la iveală tot binele ce se face între noi în Hristos.",
+        "7": "În adevăr, am avut o mare bucurie și mângâiere pentru dragostea ta, fiindcă, frate, inimile sfinților au fost înviorate prin tine.",
+        "8": "De aceea, măcar că am toată slobozenia în Hristos să-ți poruncesc ce trebuie să faci,",
+        "9": "vreau mai degrabă să-ți fac o rugăminte în numele dragostei, eu, așa cum sunt, bătrânul Pavel, iar acum întemnițat pentru Hristos Isus.",
+        "10": "Te rog pentru copilul meu pe care l-am născut în lanțurile mele, pentru Onisim,",
+        "11": "care altă dată ți-a fost nefolositor, dar care acum ne va fi folositor și ție, și mie.",
+        "12": "Ți-l trimit înapoi pe el, inima mea.",
+        "13": "Aș fi dorit să-l țin la mine, ca să-mi slujească în locul tău cât sunt în lanțuri pentru Evanghelie.",
+        "14": "Dar n-am vrut să fac nimic fără învoirea ta, pentru ca binele pe care mi-l faci să nu fie silit, ci de bunăvoie.",
+        "15": "Poate că el a fost despărțit de tine pentru o vreme tocmai ca să-l ai pentru veșnicie,",
+        "16": "dar nu ca pe un rob, ci mult mai presus decât pe un rob: ca pe un frate preaiubit, mai ales de mine și cu atât mai mult de tine, fie în chip firesc, fie în Domnul.",
+        "17": "Dacă mă socotești dar ca prieten al tău, primește-l ca pe mine însumi.",
+        "18": "Și dacă ți-a adus vreo vătămare sau îți este dator cu ceva, pune aceasta în socoteala mea.",
+        "19": "Eu, Pavel, «voi plăti» – scriu cu mâna mea – ca să nu-ți zic că tu însuți te datorezi mie.",
+        "20": "Da, frate, fă-mi binele acesta în Domnul și înviorează-mi inima în Hristos!",
+        "21": "Ți-am scris bizuit pe ascultarea ta și știu că vei face chiar mai mult decât îți zic.",
+        "22": "Totodată, pregătește-mi un loc de găzduire, căci trag nădejde să vă fiu dăruit datorită rugăciunilor voastre.",
+        "23": "Epafras, tovarășul meu de temniță în Hristos Isus, îți trimite sănătate;",
+        "24": "tot așa și Marcu, Aristarh, Dima, Luca, tovarășii mei de lucru.",
+        "25": "Harul Domnului nostru Isus Hristos să fie cu duhul vostru! Amin."
+      }
+    },
+
+    "NTR": {
+      "name": "Noua Traducere în Limba Română",
+      "verses": {
+        "1": "Pavel, încătușat pentru Cristos Isus, și fratele Timotei, către preaiubitul Filimon, lucrător împreună cu noi,",
+        "2": "către sora Apfia, către Arhippos, soldat împreună cu noi, și către biserica din casa ta:",
+        "3": "Har vouă și pace de la Dumnezeu, Tatăl nostru, și de la Domnul Isus Cristos!",
+        "4": "Îi mulțumesc Dumnezeului meu ori de câte ori îmi aduc aminte de tine în rugăciunile mele,",
+        "5": "pentru că aud de credința ta în Domnul Isus și de dragostea ta față de toți sfinții.",
+        "6": "Mă rog ca părtășia ta cu noi la credință să fie eficientă, astfel încât să ai cunoștință de tot binele care se face între noi în Cristos.",
+        "7": "Am avut o mare bucurie și o mare mângâiere datorită dragostei tale, frate, pentru că simțămintele sfinților au fost înviorate prin tine.",
+        "8": "De aceea, cu toate că am o mare îndrăzneală în Cristos să-ți poruncesc ce este potrivit să faci,",
+        "9": "prefer, mai degrabă, să-ți fac o rugăminte în numele dragostei, eu, așa cum sunt, bătrân, iar acum și încătușat pentru Cristos Isus:",
+        "10": "aș vrea să te rog ceva cu privire la copilul meu, Onisim, pe care l-am născut în lanțurile mele.",
+        "11": "Cândva, el ți-a fost nefolositor, dar acum ne este folositor, atât ție, cât și mie.",
+        "12": "Ți-l trimit înapoi, pe el, inima mea.",
+        "13": "Aș fi dorit să-l țin lângă mine, ca să-mi slujească în locul tău, cât timp sunt în lanțuri pentru Evanghelie,",
+        "14": "dar nu am vrut să fac nimic fără consimțământul tău, pentru ca binele pe care-l faci să nu fie din constrângere, ci de bunăvoie.",
+        "15": "Poate că el a fost despărțit de tine pentru un timp tocmai ca să-l ai înapoi pe vecie,",
+        "16": "dar nu ca pe un sclav, ci mai presus de un sclav, ca pe un frate preaiubit, mai ales de mine și cu atât mai mult de tine, atât în chip firesc, cât și în Domnul.",
+        "17": "Așadar, dacă mă consideri prieten, primește-l ca pe mine însumi!",
+        "18": "Iar dacă ți-a făcut ceva rău sau îți datorează ceva, pune aceasta în socoteala mea.",
+        "19": "Eu, Pavel, scriu aceasta cu mâna mea: eu voi plăti înapoi – ca să nu-ți zic că îmi ești dator chiar cu tine însuți.",
+        "20": "Da, frate, vreau să am un câștig de la tine în Domnul. Înviorează-mi simțămintele în Cristos!",
+        "21": "Îți scriu fiind convins de ascultarea ta, știind că vei face chiar mai mult decât îți spun.",
+        "22": "Totodată, pregătește-mi un loc de găzduire, căci sper ca, prin rugăciunile voastre, să vă fiu dat înapoi.",
+        "23": "Epafras, frate în Cristos Isus și prizonier alături de mine, te salută.",
+        "24": "De asemenea, te salută și Marcu, Aristarhus, Demas și Luca, lucrători împreună cu mine.",
+        "25": "Harul Domnului Isus Cristos să fie cu duhul vostru!"
+      }
+    },
+
+    "WEBUS": {
+      "name": "World English Bible (US)",
+      "verses": {
+        "1": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker,",
+        "2": "to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house:",
+        "3": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "4": "I thank my God always, making mention of you in my prayers,",
+        "5": "hearing of your love and of the faith which you have toward the Lord Jesus and toward all the saints,",
+        "6": "that the fellowship of your faith may become effective in the knowledge of every good thing which is in us in Christ Jesus.",
+        "7": "For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother.",
+        "8": "Therefore though I have all boldness in Christ to command you that which is appropriate,",
+        "9": "yet for love’s sake I rather appeal to you, being such a one as Paul, the aged, but also a prisoner of Jesus Christ.",
+        "10": "I appeal to you for my child Onesimus, whom I have become the father of in my chains,",
+        "11": "who once was useless to you, but now is useful to you and to me.",
+        "12": "I am sending him back. Therefore receive him, that is, my own heart,",
+        "13": "whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News.",
+        "14": "But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will.",
+        "15": "For perhaps he was therefore separated from you for a while that you would have him forever,",
+        "16": "no longer as a slave, but more than a slave, a beloved brother—especially to me, but how much rather to you, both in the flesh and in the Lord.",
+        "17": "If then you count me a partner, receive him as you would receive me.",
+        "18": "But if he has wronged you at all or owes you anything, put that to my account.",
+        "19": "I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides).",
+        "20": "Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord.",
+        "21": "Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say.",
+        "22": "Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you.",
+        "23": "Epaphras, my fellow prisoner in Christ Jesus, greets you,",
+        "24": "as do Mark, Aristarchus, Demas, and Luke, my fellow workers.",
+        "25": "The grace of our Lord Jesus Christ be with your spirit. Amen."
+      }
+    }
+  }
+}

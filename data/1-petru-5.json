@@ -1,0 +1,63 @@
+{
+  "book": "1 Petru",
+  "chapter": "5",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Sfătuiesc pe prezbiterii dintre voi, eu, care sunt un prezbiter ca și ei, un martor al patimilor lui Hristos și părtaș al slavei care va fi descoperită:",
+        "2": "Păstoriți turma lui Dumnezeu, care este sub paza voastră, nu de silă, ci de bunăvoie, după voia lui Dumnezeu; nu pentru un câștig mârșav, ci cu lepădare de sine;",
+        "3": "nu ca și cum ați stăpâni peste cei ce v-au căzut la împărțeală, ci făcându-vă pilde turmei.",
+        "4": "Și, când Se va arăta Păstorul cel mare, veți căpăta cununa care nu se poate veșteji, a slavei.",
+        "5": "Tot așa și voi, tinerilor, fiți supuși celor bătrâni. Și toți, în legăturile voastre, să fiți împodobiți cu smerenie. Căci „Dumnezeu stă împotriva celor mândri, dar celor smeriți le dă har”.",
+        "6": "Smeriți-vă dar sub mâna tare a lui Dumnezeu, pentru ca, la vremea Lui, El să vă înalțe.",
+        "7": "Și aruncați asupra Lui toate îngrijorările voastre, căci El Însuși îngrijește de voi.",
+        "8": "Fiți treji și vegheați! Pentru că potrivnicul vostru, diavolul, dă târcoale ca un leu care răcnește și caută pe cine să înghită.",
+        "9": "Împotriviți-vă lui tari în credință, știind că și frații voștri în lume trec prin aceleași suferințe ca voi.",
+        "10": "Dumnezeul oricărui har, care v-a chemat în Hristos Isus la slava Sa veșnică, după ce veți suferi puțină vreme, vă va desăvârși, vă va întări, vă va da putere și vă va face neclintiți.",
+        "11": "Ale Lui să fie slava și puterea în vecii vecilor! Amin.",
+        "12": "V-am scris aceste puține rânduri prin Silvan, care cred că este un frate credincios, ca să vă sfătuiesc și să vă adeveresc că adevăratul har al lui Dumnezeu este harul acesta de care v-ați alipit.",
+        "13": "Biserica aleasă cu voi, care este în Babilon, vă trimite sănătate. Tot așa și Marcu, fiul meu.",
+        "14": "Spuneți-vă sănătate unii altora cu o sărutare de dragoste! Pacea să fie cu voi, cu toți, care sunteți în Hristos Isus! Amin."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Așadar, îi îndemn pe bătrânii care sunt prezbiteri în mijlocul vostru, eu însumi un bătrân, martor al suferințelor lui Cristos și părtaș al gloriei care urmează să fie descoperită:",
+        "2": "păstoriți turma lui Dumnezeu, care este printre voi, purtându-i de grijă nu din obligație, ci de bunăvoie, după voia lui Dumnezeu, fără a fi lacomi de câștig murdar, ci dornici de slujire,",
+        "3": "nu ca unii care domniți peste cei ce v-au căzut la sorți, ci fiind exemple pentru turmă.",
+        "4": "Iar când Se va arăta Marele Păstor veți primi coroana gloriei, care nu se veștejește.",
+        "5": "La fel și voi, tinerilor, supuneți-vă bătrânilor. Și îmbrăcați-vă toți cu smerenie unii față de alții, pentru că „Dumnezeu Se opune celor mândri, dar celor smeriți El le dă har“.",
+        "6": "Smeriți-vă deci sub mâna tare a lui Dumnezeu, pentru ca, la vremea potrivită, El să vă înalțe.",
+        "7": "Aruncați asupra Lui toată îngrijorarea voastră, fiindcă Lui Îi pasă de voi.",
+        "8": "Fiți treji! Vegheați! Dușmanul vostru, diavolul, umblă ca un leu care rage, căutând să înghită pe cineva.",
+        "9": "Împotriviți-vă lui tari în credință, știind că frații voștri din întreaga lume trec prin aceleași suferințe.",
+        "10": "După ce veți fi suferit pentru puțin timp, Dumnezeul oricărui har, Care v-a chemat la gloria Lui veșnică, în Cristos Isus, vă va reabilita El Însuși, vă va da stabilitate, vă va întări și vă va face de neclintit.",
+        "11": "A Lui este puterea, în veci! Amin.",
+        "12": "V-am scris pe scurt aceste lucruri, prin Silvanus, pe care-l consider un frate credincios, pentru a vă încuraja și pentru a depune mărturie că acesta este adevăratul har al lui Dumnezeu. Rămâneți în el!",
+        "13": "Biserica aleasă împreună cu voi, care este în Babilon, vă salută. Tot așa și Marcu, fiul meu.",
+        "14": "Salutați-vă unii pe alții cu o sărutare a dragostei. Pace vouă, tuturor celor care sunteți în Cristos."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Therefore I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed:",
+        "2": "shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily; not for dishonest gain, but willingly;",
+        "3": "not as lording it over those entrusted to you, but making yourselves examples to the flock.",
+        "4": "When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away.",
+        "5": "Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility and subject yourselves to one another; for “God resists the proud, but gives grace to the humble.”",
+        "6": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time,",
+        "7": "casting all your worries on him, because he cares for you.",
+        "8": "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour.",
+        "9": "Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings.",
+        "10": "But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you.",
+        "11": "To him be the glory and the power forever and ever. Amen.",
+        "12": "Through Silvanus, our faithful brother, as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God in which you stand.",
+        "13": "She who is in Babylon, chosen together with you, greets you. So does Mark, my son.",
+        "14": "Greet one another with a kiss of love. Peace be to all of you who are in Christ Jesus. Amen."
+      }
+    }
+  }
+}

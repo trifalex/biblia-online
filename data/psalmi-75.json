@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "75",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Te lăudăm, Dumnezeule, Te lăudăm; noi, care chemăm Numele Tău, vestim minunile Tale!",
+        "2": "„Atunci când va veni vremea hotărâtă”, zice Domnul, „voi judeca fără părtinire.",
+        "3": "Poate să se cutremure pământul cu locuitorii lui, căci Eu îi întăresc stâlpii.”",
+        "4": "Eu zic celor ce se fălesc: „Nu vă făliți!” și celor răi: „Nu ridicați capul sus!”",
+        "5": "Nu vă ridicați capul așa de sus, nu vorbiți cu atâta trufie!",
+        "6": "Căci nici de la răsărit, nici de la apus, nici din pustie nu vine înălțarea.",
+        "7": "Ci Dumnezeu este Cel ce judecă: El coboară pe unul și înalță pe altul.",
+        "8": "În mâna Domnului este un potir în care fierbe un vin plin de amestecătură. Când îl varsă, toți cei răi de pe pământ sug, îl sorb și-l beau până în fund!",
+        "9": "Eu însă voi vesti pururea aceste lucruri, voi cânta laude în cinstea Dumnezeului lui Iacov",
+        "10": "și voi doborî toate puterile celor răi: puterile celui neprihănit însă se vor înălța."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ție Îți aducem mulțumire, Dumnezeule, Îți aducem mulțumire căci Numele Tău este aproape, astfel că oamenii mărturisesc minunile Tale!",
+        "2": "„Când voi hotărî că a sosit vremea, Eu“, zice Domnul, „voi judeca cu imparțialitate!",
+        "3": "Când lumea se clatină, cu toți locuitorii ei, Eu sunt Cel Care îi întăresc stâlpii“.",
+        "4": "Le-am zis lăudăroșilor: „Nu vă lăudați!“, iar celor răi: „Nu vă ridicați capul sus!“.",
+        "5": "Nu vă ridicați capul așa de sus și nu vorbiți cu atâta aroganță,",
+        "6": "căci nici de la est, nici de la vest și nici din deșert nu vine înălțarea,",
+        "7": "ci Dumnezeu este Cel Ce judecă! El coboară și tot El înalță!",
+        "8": "Căci în mâna Domnului se află un pahar; vinul spumegă în el, complet amestecat. Când El varsă vinul din pahar, toți cei răi de pe pământ îi beau până și drojdiile.",
+        "9": "Eu însă voi vesti întotdeauna aceste lucruri; voi cânta spre lauda Dumnezeului lui Iacov!",
+        "10": "Voi face să înceteze toată puterea celor răi, dar puterea celui drept va crește."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "We give thanks to you, God. We give thanks, for your Name is near. Men tell about your wondrous works.",
+        "2": "When I choose the appointed time, I will judge blamelessly.",
+        "3": "The earth and all its inhabitants quake. I firmly hold its pillars.",
+        "4": "I said to the arrogant, “Don’t boast!” I said to the wicked, “Don’t lift up the horn.",
+        "5": "Don’t lift up your horn on high. Don’t speak with a stiff neck.”",
+        "6": "For neither from the east, nor from the west, nor yet from the south, comes exaltation.",
+        "7": "But God is the judge. He puts down one, and lifts up another.",
+        "8": "For in Yahweh’s hand there is a cup, full of foaming wine mixed with spices. He pours it out. Indeed the wicked of the earth drink and drink it to its very dregs.",
+        "9": "But I will declare this forever: I will sing praises to the God of Jacob.",
+        "10": "I will cut off all the horns of the wicked, but the horns of the righteous shall be lifted up."
+      }
+    }
+  }
+}

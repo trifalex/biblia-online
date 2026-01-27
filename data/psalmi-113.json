@@ -1,0 +1,48 @@
+{
+  "book": "Psalmi",
+  "chapter": "113",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Robii Domnului, lăudați, lăudați Numele Domnului!",
+        "2": "Fie Numele Domnului binecuvântat de acum și până în veac!",
+        "3": "De la răsăritul soarelui până la apusul lui, fie Numele Domnului lăudat!",
+        "4": "Domnul este înălțat mai presus de toate neamurile, slava Lui este mai presus de ceruri.",
+        "5": "Cine este ca Domnul Dumnezeul nostru, care locuiește atât de sus?",
+        "6": "El Își pleacă privirile să vadă ce se face în ceruri și pe pământ.",
+        "7": "El ridică pe sărac din țărână, înalță pe cel lipsit din gunoi,",
+        "8": "ca să-i facă să șadă împreună cu cei mari: cu mai-marii poporului Său.",
+        "9": "El dă o casă celei ce era stearpă, face din ea o mamă veselă în mijlocul copiilor ei. Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Lăudați, slujitori ai Domnului, lăudați Numele Domnului!",
+        "2": "Numele Domnului să fie binecuvântat, de acum și pentru totdeauna!",
+        "3": "De la răsăritul soarelui și până la apusul lui, lăudat fie Numele Domnului!",
+        "4": "Domnul este înălțat mai presus de toate națiunile, mai presus de ceruri este gloria Lui.",
+        "5": "Cine este ca Domnul, Dumnezeul nostru, Cel Ce tronează din înălțime",
+        "6": "și totuși Se apleacă privind spre ceruri și spre pământ?",
+        "7": "El îl ridică din pulbere pe cel sărac și îl înalță din gunoi pe cel nevoiaș,",
+        "8": "ca să-l așeze la un loc cu cei nobili, cu nobilii poporului Său.",
+        "9": "El îi dă o familie celei ce nu poate rămâne însărcinată, face din ea o mamă veselă în mijlocul copiilor ei. Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yah! Praise, you servants of Yahweh, praise Yahweh’s name.",
+        "2": "Blessed be Yahweh’s name, from this time forward and forever more.",
+        "3": "From the rising of the sun to its going down, Yahweh’s name is to be praised.",
+        "4": "Yahweh is high above all nations, his glory above the heavens.",
+        "5": "Who is like Yahweh, our God, who has his seat on high,",
+        "6": "who stoops down to see in heaven and in the earth?",
+        "7": "He raises up the poor out of the dust, and lifts up the needy from the ash heap,",
+        "8": "that he may set him with princes, even with the princes of his people.",
+        "9": "He settles the barren woman in her home as a joyful mother of children. Praise Yah!"
+      }
+    }
+  }
+}

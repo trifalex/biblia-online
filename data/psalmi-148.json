@@ -1,0 +1,63 @@
+{
+  "book": "Psalmi",
+  "chapter": "148",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Lăudați pe Domnul din înălțimea cerurilor, lăudați-L în locurile cele înalte!",
+        "2": "Lăudați-L, toți îngerii Lui! Lăudați-L, toate oștirile Lui!",
+        "3": "Lăudați-L, soare și lună! Lăudați-L, toate stelele luminoase!",
+        "4": "Lăudați-L, cerurile cerurilor și voi, ape, care sunteți mai presus de ceruri!",
+        "5": "Să laude Numele Domnului, căci El a poruncit și au fost făcute,",
+        "6": "le-a întărit pe veci de veci, le-a dat legi și nu le va călca.",
+        "7": "Lăudați pe Domnul de jos, de pe pământ, balauri de mare și adâncuri toate,",
+        "8": "foc și grindină, zăpadă și ceață, vânturi năprasnice, care împliniți poruncile Lui,",
+        "9": "munți și dealuri toate, pomi roditori și cedri, toți,",
+        "10": "fiare și vite, toate, târâtoare și păsări înaripate,",
+        "11": "împărați ai pământului și popoare toate, voievozi și toți judecătorii pământului,",
+        "12": "tineri și tinere, bătrâni și copii!",
+        "13": "Să laude Numele Domnului! Căci numai Numele Lui este înălțat: măreția Lui este mai presus de pământ și ceruri.",
+        "14": "El a înălțat tăria poporului Său: iată o pricină de laudă pentru toți credincioșii Lui, pentru copiii lui Israel, popor de lângă El. Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Lăudați-L pe Domnul din Ceruri, lăudați-L în înălțimi!",
+        "2": "Lăudați-L, toți îngerii Lui, lăudați-L, toată armata Lui!",
+        "3": "Lăudați-L, soare și lună, lăudați-L, voi, toate stelele strălucitoare!",
+        "4": "Lăudați-L, cerurile cerurilor și voi, ape de deasupra cerurilor!",
+        "5": "Să laude Numele Domnului, căci El a poruncit și acestea au fost create!",
+        "6": "El le-a așezat la locul lor pe vecie printr-o hotărâre pe care n-o va încălca.",
+        "7": "Lăudați-L pe Domnul, voi, cei de pe pământ, monștri ai apelor și toate adâncurile,",
+        "8": "fulgerul și grindina, zăpada și ceața, vântul năprasnic care-I împlinește porunca,",
+        "9": "munții și toate dealurile, pomii roditori și toți cedrii,",
+        "10": "vietățile și toate vitele, târâtoarele și păsările înaripate,",
+        "11": "regii pământului și toate națiunile, prinții și toți demnitarii pământului,",
+        "12": "tinerii și tinerele, bătrânii și copiii deopotrivă!",
+        "13": "Să laude Numele Domnului, pentru că numai Numele Lui este înălțat, iar măreția Lui este mai presus de pământ și ceruri!",
+        "14": "El a făcut să crească puterea poporului Său; acesta este un motiv de laudă pentru toți credincioșii Săi, pentru fiii lui Israel, poporul care Îi este aproape. Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yah! Praise Yahweh from the heavens! Praise him in the heights!",
+        "2": "Praise him, all his angels! Praise him, all his army!",
+        "3": "Praise him, sun and moon! Praise him, all you shining stars!",
+        "4": "Praise him, you heavens of heavens, you waters that are above the heavens.",
+        "5": "Let them praise Yahweh’s name, for he commanded, and they were created.",
+        "6": "He has also established them forever and ever. He has made a decree which will not pass away.",
+        "7": "Praise Yahweh from the earth, you great sea creatures, and all depths,",
+        "8": "lightning and hail, snow and clouds, stormy wind, fulfilling his word,",
+        "9": "mountains and all hills, fruit trees and all cedars,",
+        "10": "wild animals and all livestock, small creatures and flying birds,",
+        "11": "kings of the earth and all peoples, princes and all judges of the earth,",
+        "12": "both young men and maidens, old men and children.",
+        "13": "Let them praise Yahweh’s name, for his name alone is exalted. His glory is above the earth and the heavens.",
+        "14": "He has lifted up the horn of his people, the praise of all his saints, even of the children of Israel, a people near to him. Praise Yah!"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "book": "Psalmi",
+  "chapter": "74",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pentru ce, Dumnezeule, ne lepezi pentru totdeauna? Pentru ce Te mânii pe turma pășunii Tale?",
+        "2": "Adu-Ți aminte de poporul Tău pe care l-ai câștigat odinioară, pe care l-ai răscumpărat ca seminție a moștenirii Tale! Adu-Ți aminte de muntele Sionului, unde Îți aveai locuința;",
+        "3": "îndreaptă-Ți pașii spre aceste locuri pustiite fără curmare! Vrăjmașul a pustiit totul în Locașul Tău cel Sfânt.",
+        "4": "Potrivnicii Tăi au mugit în mijlocul Templului Tău; și-au pus semnele lor drept semne.",
+        "5": "Parcă erau niște oameni care ridică toporul într-o pădure deasă:",
+        "6": "în curând, au sfărâmat toate podoabele săpate, cu lovituri de securi și ciocane.",
+        "7": "Au pus foc Sfântului Tău Locaș; au dărâmat și au pângărit locuința Numelui Tău.",
+        "8": "Ei ziceau în inima lor: „Să-i prăpădim pe toți!” Au ars toate locurile sfinte din țară.",
+        "9": "Semnele noastre nu le mai vedem; nu mai este niciun proroc și nu mai este nimeni printre noi care să știe până când…",
+        "10": "Până când, Dumnezeule, va batjocori asupritorul și va nesocoti vrăjmașul fără curmare Numele Tău?",
+        "11": "Pentru ce Îți tragi înapoi mâna și dreapta Ta? Scoate-o din sân și nimicește-i!",
+        "12": "Totuși Dumnezeu este Împăratul meu, care din vremuri străvechi dă izbăviri în mijlocul acestei țări.",
+        "13": "Tu ai despărțit marea cu puterea Ta, ai sfărâmat capetele balaurilor din ape;",
+        "14": "ai zdrobit capul leviatanului, l-ai dat să-l mănânce fiarele din pustie.",
+        "15": "Ai făcut să țâșnească izvoare în pâraie, ai uscat râuri care nu seacă.",
+        "16": "A Ta este ziua, a Ta este și noaptea; Tu ai așezat lumina și soarele.",
+        "17": "Tu ai statornicit toate hotarele pământului, Tu ai rânduit vara și iarna.",
+        "18": "Adu-Ți aminte, Doamne, că vrăjmașul Te batjocorește și un popor nechibzuit hulește Numele Tău!",
+        "19": "Nu lăsa pradă fiarelor sufletul turturelei Tale și nu uita pe vecie viața nenorociților Tăi!",
+        "20": "Ai în vedere legământul! Căci locurile dosnice din țară sunt pline de bârloguri de tâlhari.",
+        "21": "Să nu se întoarcă rușinat cel apăsat, ci nenorocitul și săracul să laude Numele Tău!",
+        "22": "Scoală-Te, Dumnezeule, apără-Ți pricina! Adu-Ți aminte de ocările pe care Ți le aruncă în fiecare zi cel fără minte!",
+        "23": "Nu uita strigătele potrivnicilor Tăi, zarva care crește necurmat a celor ce se ridică împotriva Ta!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeule, de ce ne respingi tot timpul? De ce Te mânii pe turma pășunii Tale?",
+        "2": "Adu-Ți aminte de comunitatea Ta, pe care ai câștigat-o în vechime și ai răscumpărat-o ca seminție a moștenirii Tale; adu-Ți aminte de muntele Sion, unde ai locuit.",
+        "3": "Îndreaptă-Ți pașii spre aceste ruine veșnice, unde dușmanul a distrus totul în Lăcașul cel sfânt.",
+        "4": "Dușmanii Tăi au răcnit în mijlocul Locului Tău de întâlnire; și-au atârnat steagurile ca semne.",
+        "5": "Parcă erau niște oameni care folosesc topoarele ca să-și croiască drum prin pădure.",
+        "6": "Acum, au zdrobit toate gravurile lui cu lovituri de secure și de bardă.",
+        "7": "Au dat foc Sfântului Tău Lăcaș; au întinat Locuința Numelui Tău, trântind-o la pământ!",
+        "8": "Și-au zis în inima lor: „Îi vom supune pe toți!“. Au ars toate locurile de întâlnire ale lui Dumnezeu din țară.",
+        "9": "Nu ne mai putem vedea semnele, nu mai este niciun profet și niciunul dintre noi nu știe până când vor dura toate acestea!",
+        "10": "Dumnezeule, până când Te va mai insulta vrăjmașul? Va batjocori dușmanul pentru totdeauna Numele Tău?",
+        "11": "De ce Ți-ai retras mâna Ta și dreapta Ta? Înalț-o de la sân și distruge!",
+        "12": "Dumnezeu este Împăratul meu din vechime, Cel Ce aduce eliberare pe pământ.",
+        "13": "Tu, cu puterea Ta, ai despărțit marea, ai zdrobit capetele monștrilor din ape.",
+        "14": "Tu ai sfărâmat capetele leviatanului și l-ai dat de mâncare locuitorilor deșertului.",
+        "15": "Tu ai deschis izvoare și pârâuri și ai uscat râuri care nu seacă.",
+        "16": "A Ta este ziua; a Ta este și noaptea. Tu ai așezat pe cer luna și soarele.",
+        "17": "Tu ai stabilit toate granițele pământului; Tu ai creat anotimpul verii și al iernii.",
+        "18": "Adu-Ți aminte că dușmanul Te insultă, Doamne, și un popor nebun batjocorește Numele Tău.",
+        "19": "Nu lăsa pradă unui animal sufletul turturelei Tale! Nu uita pentru totdeauna viața săracilor Tăi!",
+        "20": "Ai în vedere legământul, căci locurile întunecate ale țării sunt pline de cuiburi ale violenței!",
+        "21": "Fă să nu se întoarcă umilit cel asuprit! Săracul și nevoiașul să laude Numele Tău!",
+        "22": "Ridică-Te, Dumnezeule, apără-Ți cauza! Adu-Ți aminte cum ești disprețuit toată ziua de către cel nebun!",
+        "23": "Nu uita glasul dușmanilor Tăi și larma celor care se ridică împotriva Ta sporește mereu!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God, why have you rejected us forever? Why does your anger smolder against the sheep of your pasture?",
+        "2": "Remember your congregation, which you purchased of old, which you have redeemed to be the tribe of your inheritance: Mount Zion, in which you have lived.",
+        "3": "Lift up your feet to the perpetual ruins, all the evil that the enemy has done in the sanctuary.",
+        "4": "Your adversaries have roared in the middle of your assembly. They have set up their standards as signs.",
+        "5": "They behaved like men wielding axes, cutting through a thicket of trees.",
+        "6": "Now they break all its carved work down with hatchet and hammers.",
+        "7": "They have burned your sanctuary to the ground. They have profaned the dwelling place of your Name.",
+        "8": "They said in their heart, “We will crush them completely.” They have burned up all the places in the land where God was worshiped.",
+        "9": "We see no miraculous signs. There is no longer any prophet, neither is there among us anyone who knows how long.",
+        "10": "How long, God, shall the adversary reproach? Shall the enemy blaspheme your name forever?",
+        "11": "Why do you draw back your hand, even your right hand? Take it from your chest and consume them!",
+        "12": "Yet God is my King of old, working salvation throughout the earth.",
+        "13": "You divided the sea by your strength. You broke the heads of the sea monsters in the waters.",
+        "14": "You broke the heads of Leviathan in pieces. You gave him as food to people and desert creatures.",
+        "15": "You opened up spring and stream. You dried up mighty rivers.",
+        "16": "The day is yours, the night is also yours. You have prepared the light and the sun.",
+        "17": "You have set all the boundaries of the earth. You have made summer and winter.",
+        "18": "Remember this, that the enemy has mocked you, Yahweh. Foolish people have blasphemed your name.",
+        "19": "Don’t deliver the soul of your dove to wild beasts. Don’t forget the life of your poor forever.",
+        "20": "Honor your covenant, for haunts of violence fill the dark places of the earth.",
+        "21": "Don’t let the oppressed return ashamed. Let the poor and needy praise your name.",
+        "22": "Arise, God! Plead your own cause. Remember how the foolish man mocks you all day.",
+        "23": "Don’t forget the voice of your adversaries. The tumult of those who rise up against you ascends continually."
+      }
+    }
+  }
+}

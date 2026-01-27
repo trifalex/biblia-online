@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "12",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Vino în ajutor, Doamne, căci se duc oamenii evlavioși, pier credincioșii dintre fiii oamenilor!",
+        "2": "Oamenii își spun minciuni unii altora, pe buze au lucruri lingușitoare, vorbesc cu inimă prefăcută.",
+        "3": "Nimicească Domnul toate buzele lingușitoare, limba care vorbește cu trufie,",
+        "4": "pe cei ce zic: „Suntem tari cu limba noastră, căci buzele noastre sunt cu noi. Cine ar putea să fie stăpân peste noi?”",
+        "5": "„Pentru că cei nenorociți sunt asupriți și pentru că săracii gem, acum”, zice Domnul, „Mă scol și aduc mântuire celor obijduiți.”",
+        "6": "Cuvintele Domnului sunt cuvinte curate, un argint lămurit în cuptor de pământ și curățit de șapte ori.",
+        "7": "Tu, Doamne, îi vei păzi și-i vei apăra de neamul acesta pe vecie.",
+        "8": "Pretutindeni mișună cei răi, când domnește ticăloșia printre fiii oamenilor."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Vino în ajutor, Doamne, căci se duc cei evlavioși și pier cei credincioși dintre fiii omului!",
+        "2": "În zadar se lingușesc unul pe altul și vorbesc de la inimă la inimă.",
+        "3": "Nimicească Domnul buzele lingușitoare și limba lăudăroasă,",
+        "4": "pe cei care zic: „Cu limba noastră vom reuși; suntem stăpânii buzelor noastre! Cine poate stăpâni peste noi?“.",
+        "5": "„Din cauza violenței față de cei săraci și a gemetelor celor nevoiași, chiar acum Mă voi ridica“, zice Domnul, „voi aduce siguranța după care tânjește“.",
+        "6": "Cuvintele Domnului sunt cuvinte curate, argint purificat într-un cuptor de pământ, rafinat de șapte ori.",
+        "7": "Tu, Doamne, îi vei păzi; îl vei apăra pe fiecare de generația aceasta, pentru totdeauna.",
+        "8": "Cei răi mișună peste tot, când ticăloșia este înălțată printre fiii omului."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Help, Yahweh; for the godly man ceases. For the faithful fail from among the children of men.",
+        "2": "Everyone lies to his neighbor. They speak with flattering lips, and with a double heart.",
+        "3": "May Yahweh cut off all flattering lips, and the tongue that boasts,",
+        "4": "who have said, “With our tongue we will prevail. Our lips are our own. Who is lord over us?”",
+        "5": "“Because of the oppression of the weak and because of the groaning of the needy, I will now arise,” says Yahweh; “I will set him in safety from those who malign him.”",
+        "6": "Yahweh’s words are flawless words, as silver refined in a clay furnace, purified seven times.",
+        "7": "You will keep them, Yahweh. You will preserve them from this generation forever.",
+        "8": "The wicked walk on every side, when what is vile is exalted among the sons of men."
+      }
+    }
+  }
+}

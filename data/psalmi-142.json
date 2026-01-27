@@ -1,0 +1,42 @@
+{
+  "book": "Psalmi",
+  "chapter": "142",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cu glasul meu strig către Domnul, cu glasul meu mă rog către Domnul.",
+        "2": "Îmi vărs necazul înaintea Lui și-mi povestesc strâmtorarea înaintea Lui.",
+        "3": "Când îmi este mâhnit duhul în mine, Tu îmi cunoști cărarea. Pe drumul pe care umblu, mi-au întins o cursă.",
+        "4": "Aruncă-Ți ochii la dreapta și privește! Nimeni nu mă mai cunoaște, orice scăpare este pierdută pentru mine, nimănui nu-i pasă de sufletul meu.",
+        "5": "Doamne, către Tine strig și zic: „Tu ești scăparea mea, partea mea de moștenire pe pământul celor vii.”",
+        "6": "Ia aminte la strigătele mele, căci sunt nenorocit de tot! Izbăvește-mă de cei ce mă prigonesc, căci sunt mai tari decât mine!",
+        "7": "Scoate-mi sufletul din temniță, ca să laud Numele Tău! Cei neprihăniți vor veni să mă înconjoare când îmi vei face bine."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cu glasul meu strig către Domnul, cu glasul meu caut bunăvoință la Domnul.",
+        "2": "Îmi vărs plângerea înaintea Lui; îmi istorisesc necazul înaintea Lui.",
+        "3": "Când îmi este sleit duhul în mine, Tu-mi cunoști cărarea. Pe calea pe care merg, ei mi-au ascuns curse.",
+        "4": "Uită-Te în partea dreaptă și privește cu atenție; nimeni nu mă mai recunoaște! Am rămas fără adăpost; nimănui nu-i pasă de viața mea!",
+        "5": "Te chem, Doamne, zicând: „Tu ești adăpostul meu, partea mea de moștenire pe pământul celor vii!“.",
+        "6": "Ascultă-mi strigătul, căci sunt atât de mâhnit! Scapă-mă de cei ce mă urmăresc, căci sunt mai tari decât mine!",
+        "7": "Scoate-mi sufletul din închisoare, ca să aduc mulțumiri Numelui Tău! Cei drepți se vor aduna împrejurul meu când îmi vei face bine."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I cry with my voice to Yahweh. With my voice, I ask Yahweh for mercy.",
+        "2": "I pour out my complaint before him. I tell him my troubles.",
+        "3": "When my spirit was overwhelmed within me, you knew my route. On the path in which I walk, they have hidden a snare for me.",
+        "4": "Look on my right, and see; for there is no one who is concerned for me. Refuge has fled from me. No one cares for my soul.",
+        "5": "I cried to you, Yahweh. I said, “You are my refuge, my portion in the land of the living.”",
+        "6": "Listen to my cry, for I am in desperate need. Deliver me from my persecutors, for they are too strong for me.",
+        "7": "Bring my soul out of prison, that I may give thanks to your name. The righteous will surround me, for you will be good to me."
+      }
+    }
+  }
+}

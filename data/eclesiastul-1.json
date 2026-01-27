@@ -1,0 +1,75 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cuvintele Eclesiastului, fiul lui David, împăratul Ierusalimului.",
+        "2": "O, deșertăciune a deșertăciunilor, zice Eclesiastul, o, deșertăciune a deșertăciunilor! Totul este deșertăciune.",
+        "3": "Ce folos are omul din toată truda pe care și-o dă sub soare?",
+        "4": "Un neam trece, altul vine și pământul rămâne veșnic în picioare.",
+        "5": "Soarele răsare, apune și aleargă spre locul de unde răsare din nou.",
+        "6": "Vântul suflă spre miazăzi și se întoarce spre miazănoapte; apoi iarăși se întoarce și începe din nou aceleași rotituri.",
+        "7": "Toate râurile se varsă în mare, și marea tot nu se umple: ele aleargă necurmat spre locul de unde pornesc, ca iarăși să pornească de acolo.",
+        "8": "Toate lucrurile sunt într-o necurmată frământare, așa cum nu se poate spune; ochiul nu se mai satură privind și urechea nu obosește auzind.",
+        "9": "Ce a fost va mai fi și ce s-a făcut se va mai face; nu este nimic nou sub soare.",
+        "10": "Dacă este vreun lucru despre care s-ar putea spune: „Iată ceva nou!”, de mult lucrul acela era și în veacurile dinaintea noastră.",
+        "11": "Nimeni nu-și mai aduce aminte de ce a fost mai înainte; și ce va mai fi, ce se va mai întâmpla mai pe urmă, nu va lăsa nicio urmă de aducere aminte la cei ce vor trăi mai târziu.",
+        "12": "Eu, Eclesiastul, am fost împărat peste Israel, în Ierusalim.",
+        "13": "Mi-am pus inima să cercetez și să adâncesc cu înțelepciune tot ce se întâmplă sub ceruri: iată o îndeletnicire plină de trudă, la care supune Dumnezeu pe fiii oamenilor.",
+        "14": "Am văzut tot ce se face sub soare; și iată că totul este deșertăciune și goană după vânt!",
+        "15": "Ce este strâmb nu se poate îndrepta și ce lipsește nu poate fi trecut la număr.",
+        "16": "Am zis în mine însumi: „Iată că am sporit și am întrecut în înțelepciune pe toți cei ce au stăpânit înaintea mea peste Ierusalim și mintea mea a văzut multă înțelepciune și știință.”",
+        "17": "Mi-am pus inima să cunosc înțelepciunea și să cunosc prostia și nebunia. Dar am înțeles că și aceasta este goană după vânt.",
+        "18": "Căci unde este multă înțelepciune, este și mult necaz, și cine știe multe are și multă durere."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cuvintele oratorului, fiul lui David, rege la Ierusalim. Deșertăciunea existenței",
+        "2": "O, deșertăciune a deșertăciunilor! zice oratorul. O, deșertăciune a deșertăciunilor! Totul este deșertăciune!",
+        "3": "Ce câștig are omul din toată munca grea pe care o depune sub soare?",
+        "4": "O generație trece și apoi altă generație vine, dar pământul rămâne mereu în picioare.",
+        "5": "Soarele răsare și apune, grăbindu-se apoi înspre locul de unde va răsări iarăși.",
+        "6": "Vântul se îndreaptă spre sud și apoi se întoarce spre nord. Vântul umblă de jur împrejur, rotindu-se, și revine mereu la traiectoria sa.",
+        "7": "Toate râurile curg spre mare, fără să o umple însă; râurile se întorc de unde au plecat, doar ca să pornească iarăși de acolo.",
+        "8": "Toate lucrurile sunt obositoare, cum nu se poate spune, dar ochiul nu se satură să privească, așa cum nici urechea nu se satură să asculte.",
+        "9": "Ce a fost va mai fi, iar ce s-a făcut se va mai face. Nu este nimic nou sub soare!",
+        "10": "Este vreun lucru despre care cineva poate zice: „Vezi lucrul acesta? Este nou!“? Totuși, el exista demult, încă din veacurile dinaintea noastră.",
+        "11": "Nu a rămas nicio amintire despre oamenii de demult, tot așa cum nici cei ce vor urma nu vor mai fi păstrați în amintirea celor ce vor veni după ei. Deșertăciunea înțelepciunii",
+        "12": "Eu, oratorul, am fost rege peste Israel la Ierusalim.",
+        "13": "Mi-am îndemnat inima să caute și să cerceteze înțelepciunea cu privire la tot ce se face sub ceruri. Aceasta este o muncă obositoare, pe care Dumnezeu a dat-o fiilor omului ca să se ocupe cu ea.",
+        "14": "Am observat toate lucrările care se fac sub soare și iată că toate sunt deșertăciune și goană după vânt.",
+        "15": "Ce a fost îndoit odată nu mai poate fi îndreptat, iar ce lipsește nu poate fi numărat.",
+        "16": "I-am vorbit inimii mele, zicând: „Iată că mi-am mărit și mi-am sporit înțelepciunea mai mult decât toți cei care au fost la Ierusalim înaintea mea. Inima mea a văzut multă înțelepciune și cunoștință“.",
+        "17": "Mi-am îndemnat inima să cunosc înțelepciunea și să cunosc nebunia și prostia, dar mi-am dat seama că și aceasta este goană după vânt.",
+        "18": "Căci unde este multă înțelepciune, este și multă supărare și cu cât este mai multă cunoștință, cu atât este mai multă mâhnire."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The words of the Preacher, the son of David, king in Jerusalem:",
+        "2": "“Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”",
+        "3": "What does man gain from all his labor in which he labors under the sun?",
+        "4": "One generation goes, and another generation comes; but the earth remains forever.",
+        "5": "The sun also rises, and the sun goes down, and hurries to its place where it rises.",
+        "6": "The wind goes toward the south, and turns around to the north. It turns around continually as it goes, and the wind returns again to its courses.",
+        "7": "All the rivers run into the sea, yet the sea is not full. To the place where the rivers flow, there they flow again.",
+        "8": "All things are full of weariness beyond uttering. The eye is not satisfied with seeing, nor the ear filled with hearing.",
+        "9": "That which has been is that which shall be, and that which has been done is that which shall be done; and there is no new thing under the sun.",
+        "10": "Is there a thing of which it may be said, “Behold, this is new”? It has been long ago, in the ages which were before us.",
+        "11": "There is no memory of the former; neither shall there be any memory of the latter that are to come, among those that shall come after.",
+        "12": "I, the Preacher, was king over Israel in Jerusalem.",
+        "13": "I applied my heart to seek and to search out by wisdom concerning all that is done under the sky. It is a heavy burden that God has given to the sons of men to be afflicted with.",
+        "14": "I have seen all the works that are done under the sun; and behold, all is vanity and a chasing after wind.",
+        "15": "That which is crooked can’t be made straight; and that which is lacking can’t be counted.",
+        "16": "I said to myself, “Behold, I have obtained for myself great wisdom above all who were before me in Jerusalem. Yes, my heart has had great experience of wisdom and knowledge.”",
+        "17": "I applied my heart to know wisdom, and to know madness and folly. I perceived that this also was a chasing after wind.",
+        "18": "For in much wisdom is much grief; and he who increases knowledge increases sorrow."
+      }
+    }
+  }
+}

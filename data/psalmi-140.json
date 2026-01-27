@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "140",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Scapă-mă, Doamne, de oamenii cei răi! Păzește-mă de oamenii asupritori,",
+        "2": "care cugetă lucruri rele în inima lor și sunt totdeauna gata să ațâțe războiul!",
+        "3": "Ei își ascut limba ca un șarpe, au pe buze o otravă de năpârcă.",
+        "4": "Păzește-mă, Doamne, de mâinile celui rău! Ferește-mă de oamenii asupritori, care se gândesc să mă doboare!",
+        "5": "Niște îngâmfați îmi întind curse și lațuri, pun rețele de-a lungul drumului și îmi întind capcane.",
+        "6": "Eu zic Domnului: „Tu ești Dumnezeul meu! Ia aminte, Doamne, la glasul rugăciunilor mele!",
+        "7": "Doamne Dumnezeule, tăria mântuirii mele, Tu-mi acoperi capul în ziua luptei.”",
+        "8": "Nu împlini, Doamne, dorințele celui rău, nu lăsa să-i izbutească planurile, ca să nu se fălească!",
+        "9": "Asupra capului celor ce mă înconjoară să cadă nelegiuirea buzelor lor!",
+        "10": "Cărbuni aprinși să cadă peste ei! În foc să fie aruncați, în adâncuri, de unde să nu se mai scoale!",
+        "11": "Omul cu limba mincinoasă nu se întărește pe pământ și pe omul asupritor nenorocirea îl paște și-l duce la pierzanie.",
+        "12": "Știu că Domnul face dreptate celui obijduit, dreptate celor lipsiți.",
+        "13": "Da, cei neprihăniți vor lăuda Numele Tău, oamenii fără prihană vor locui înaintea Ta."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Scapă-mă, Doamne, de omul rău, păzește-mă de omul violent,",
+        "2": "de cei ce plănuiesc lucruri rele în inima lor și în fiecare zi stârnesc conflicte.",
+        "3": "Ei își fac limba ascuțită ca a unui șarpe și sub buzele lor este venin de viperă!",
+        "4": "Păzește-mă, Doamne, de mâinile celui rău! Protejează-mă de oamenii violenți, de cei ce plănuiesc să-mi împiedice pașii!",
+        "5": "Niște aroganți mi-au ascuns curse, și-au întins funiile lațului lor, mi-au întins capcane pe cărare.",
+        "6": "Eu însă zic Domnului: „Tu ești Dumnezeul meu! Ascultă, Doamne, cererile mele!",
+        "7": "Stăpâne Doamne, Tu ești puterea care mă salvează. Tu mi-ai protejat capul în ziua luptei.",
+        "8": "Nu împlini, Doamne, dorințele celui rău; nu îngădui să-i reușească planurile, ca să nu se îngâmfe!“.",
+        "9": "Capul celor ce mă înconjoară să fie acoperit de necazul provocat de buzele lor!",
+        "10": "Să cadă peste ei cărbuni aprinși; să fie aruncați în foc, în adâncuri de unde să nu se mai ridice.",
+        "11": "Fie ca omul limbut să nu fie întărit în țară; fie ca pe omul violent și rău să-l vâneze și să-l doboare dezastrul.",
+        "12": "Știu că Domnul va face dreptate celui sărac și va susține cauza celor nevoiași.",
+        "13": "Într-adevăr, cei drepți vor aduce mulțumiri Numelui Tău, iar cei integri vor locui în prezența Ta."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Deliver me, Yahweh, from evil men. Preserve me from violent men:",
+        "2": "those who devise mischief in their hearts. They continually gather themselves together for war.",
+        "3": "They have sharpened their tongues like a serpent. Viper’s poison is under their lips.",
+        "4": "Yahweh, keep me from the hands of the wicked. Preserve me from the violent men who have determined to trip my feet.",
+        "5": "The proud have hidden a snare for me, they have spread the cords of a net by the path. They have set traps for me.",
+        "6": "I said to Yahweh, “You are my God.” Listen to the cry of my petitions, Yahweh.",
+        "7": "Yahweh, the Lord, the strength of my salvation, you have covered my head in the day of battle.",
+        "8": "Yahweh, don’t grant the desires of the wicked. Don’t let their evil plans succeed, or they will become proud.",
+        "9": "As for the head of those who surround me, let the mischief of their own lips cover them.",
+        "10": "Let burning coals fall on them. Let them be thrown into the fire, into miry pits, from where they never rise.",
+        "11": "An evil speaker won’t be established in the earth. Evil will hunt the violent man to overthrow him.",
+        "12": "I know that Yahweh will maintain the cause of the afflicted, and justice for the needy.",
+        "13": "Surely the righteous will give thanks to your name. The upright will dwell in your presence."
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "book": "Iona",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cuvântul Domnului a vorbit a doua oară lui Iona astfel:",
+        "2": "„Scoală-te, du-te la Ninive, cetatea cea mare, și vestește acolo strigarea pe care ți-o voi da!”",
+        "3": "Și Iona s-a sculat și s-a dus la Ninive, după Cuvântul Domnului. Și Ninive era o cetate foarte mare, cât o călătorie de trei zile.",
+        "4": "Iona a început să pătrundă în oraș cale de o zi, strigând și zicând: „Încă patruzeci de zile, și Ninive va fi nimicită!”",
+        "5": "Oamenii din Ninive au crezut în Dumnezeu, au vestit un post și s-au îmbrăcat cu saci, de la cei mai mari până la cei mai mici.",
+        "6": "Lucrul a ajuns la urechea împăratului din Ninive; el s-a sculat de pe scaunul lui de domnie, și-a scos mantia de pe el, s-a acoperit cu un sac și a șezut în cenușă.",
+        "7": "Și a trimis să se dea de știre în Ninive, din porunca împăratului și mai-marilor lui, următoarele: „Oamenii și vitele, boii și oile să nu guste nimic, să nu pască și nici să nu bea apă deloc!",
+        "8": "Ci oamenii și vitele să se acopere cu saci, să strige cu putere către Dumnezeu și să se întoarcă de la calea lor cea rea și de la faptele de asuprire de care le sunt pline mâinile!",
+        "9": "Cine știe dacă nu Se va întoarce Dumnezeu și Se va căi și dacă nu-Și va opri mânia Lui aprinsă, ca să nu pierim!”",
+        "10": "Dumnezeu a văzut ce făceau ei și că se întorceau de la calea lor cea rea. Atunci, Dumnezeu S-a căit de răul pe care Se hotărâse să li-l facă și nu l-a făcut."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cuvântul Domnului i-a vorbit a doua oară la Iona, zicând:",
+        "2": "„Ridică-te, du-te la Ninive, cetatea cea mare, și vestește acolo mesajul pe care ți-l spun!“.",
+        "3": "Iona s-a ridicat și s-a dus la Ninive, potrivit Cuvântului Domnului. Ninive era o cetate foarte mare, fiind nevoie de trei zile pentru a o străbate.",
+        "4": "Iona a început să meargă prin cetate cale de o zi. El striga: „Încă patruzeci de zile și Ninive va fi distrusă!“.",
+        "5": "Atunci oamenii din Ninive au crezut în Dumnezeu, au vestit un post și s-au îmbrăcat cu pânză de sac, de la cel mai mare până la cel mai mic.",
+        "6": "Când această veste a ajuns la regele din Ninive, acesta s-a ridicat de pe tronul său, și-a dat jos mantia de pe el, s-a acoperit cu o pânză de sac și s-a așezat în cenușă.",
+        "7": "El a trimis să se vestească în Ninive: „Din porunca regelui și a nobililor săi, se cer următoarele: «Oamenii și animalele, cirezile și turmele, să nu guste nimic, să nu pască și să nu bea apă deloc!",
+        "8": "Atât oamenii, cât și vitele să fie acoperiți cu pânză de sac. Oamenii să strige cu putere către Dumnezeu și să se întoarcă de la calea lor cea rea și de la violența lor, de care le sunt pline mâinile!",
+        "9": "Cine știe? Poate că Dumnezeu Se va răzgândi, Îi va părea rău, Își va retrage mânia și, astfel, nu vom pieri!»“.",
+        "10": "Dumnezeu a văzut faptele lor și cum se întorceau ei de la calea lor cea rea. Atunci Dumnezeu a regretat răul pe care zisese că-l va face acestora și nu l-a mai făcut."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh’s word came to Jonah the second time, saying,",
+        "2": "“Arise, go to Nineveh, that great city, and preach to it the message that I give you.”",
+        "3": "So Jonah arose, and went to Nineveh, according to Yahweh’s word. Now Nineveh was an exceedingly great city, three days’ journey across.",
+        "4": "Jonah began to enter into the city a day’s journey, and he cried out, and said, “In forty days, Nineveh will be overthrown!”",
+        "5": "The people of Nineveh believed God; and they proclaimed a fast and put on sackcloth, from their greatest even to their least.",
+        "6": "The news reached the king of Nineveh, and he arose from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.",
+        "7": "He made a proclamation and published through Nineveh by the decree of the king and his nobles, saying, “Let neither man nor animal, herd nor flock, taste anything; let them not feed, nor drink water;",
+        "8": "but let them be covered with sackcloth, both man and animal, and let them cry mightily to God. Yes, let them turn everyone from his evil way and from the violence that is in his hands.",
+        "9": "Who knows whether God will not turn and relent, and turn away from his fierce anger, so that we might not perish?”",
+        "10": "God saw their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn’t do it."
+      }
+    }
+  }
+}

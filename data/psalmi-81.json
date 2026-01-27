@@ -1,0 +1,69 @@
+{
+  "book": "Psalmi",
+  "chapter": "81",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cântați cu veselie lui Dumnezeu, care este tăria noastră! Înălțați strigăte de bucurie Dumnezeului lui Iacov!",
+        "2": "Cântați o cântare, sunați din tobă, din harpa cea plăcută și din alăută!",
+        "3": "Sunați din trâmbiță la luna nouă, la luna plină, în ziua sărbătorii noastre!",
+        "4": "Căci aceasta este o lege pentru Israel, o poruncă a Dumnezeului lui Iacov.",
+        "5": "El a rânduit sărbătoarea aceasta pentru Iosif, când a mers împotriva țării Egiptului… Atunci am auzit un glas pe care nu l-am cunoscut:",
+        "6": "„I-am descărcat povara de pe umăr și mâinile lui nu mai țin coșul.",
+        "7": "Ai strigat în necaz și te-am izbăvit; ți-am răspuns în locul tainic al tunetului și te-am încercat la apele Meriba.",
+        "8": "Ascultă, poporul Meu, și te voi sfătui! Israele, de M-ai asculta!",
+        "9": "Niciun dumnezeu străin să nu fie în mijlocul tău și să nu te închini înaintea dumnezeilor străini!",
+        "10": "Eu sunt Domnul Dumnezeul tău, care te-am scos din țara Egiptului; deschide-ți gura larg și ți-o voi umple!",
+        "11": "Dar poporul Meu n-a ascultat glasul Meu, Israel nu M-a ascultat.",
+        "12": "Atunci i-am lăsat în voia pornirilor inimii lor și au urmat sfaturile lor.",
+        "13": "O! de M-ar asculta poporul Meu, de ar umbla Israel în căile Mele!",
+        "14": "Într-o clipă aș înfrunta pe vrăjmașii lor, Mi-aș întoarce mâna împotriva potrivnicilor lor;",
+        "15": "cei ce urăsc pe Domnul L-ar linguși, și fericirea lui Israel ar dăinui în veci.",
+        "16": "L-aș hrăni cu cel mai bun grâu și l-aș sătura cu miere din stâncă.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Strigați de bucurie către Dumnezeu, puterea noastră! Strigați de veselie către Dumnezeul lui Iacov!",
+        "2": "Înălțați o cântare, sunați din tamburine, din lira cea plăcută și din harfă.",
+        "3": "Sunați din trâmbiță în ziua lunii noi, când apare Luna Plină, în ziua sărbătorii noastre.",
+        "4": "Căci aceasta este o hotărâre pentru Israel, o judecată din partea Dumnezeului lui Iacov.",
+        "5": "Mărturia aceasta i-a dat-o lui Iosif, când a ieșit împotriva țării Egiptului. Atunci am auzit un glas pe care nu-l cunoșteam:",
+        "6": "„I-am îndepărtat povara de pe umăr, mâinile lui nu mai țin coșul.",
+        "7": "La necaz ai strigat, iar Eu te-am salvat; ți-am răspuns din locul ascuns al tunetului, te-am încercat la apele Meriba.",
+        "8": "Ascultă, poporul Meu, și te voi sfătui! O, Israel, de M-ai asculta!",
+        "9": "Să nu se găsească la tine niciun dumnezeu străin! Să nu te închini niciunui zeu!",
+        "10": "Eu sunt Domnul, Dumnezeul tău! Eu te-am adus din țara Egiptului! Deschide-ți gura și ți-o voi umple!",
+        "11": "Dar poporul Meu n-a ascultat de glasul Meu, Israel nu M-a dorit.",
+        "12": "Atunci i-am lăsat în voia inimii lor încăpățânate; au trăit după propriile lor sfaturi.",
+        "13": "O, dacă M-ar asculta poporul Meu, dacă ar umbla Israel pe căile Mele!",
+        "14": "Imediat i-aș supune pe dușmanii săi și Mi-aș întoarce mâna împotriva vrăjmașilor săi.",
+        "15": "Cei ce-L urăsc pe Domnul ar da înapoi în fața Lui. Fie-le pedeapsa pe vecie!",
+        "16": "Pe Israel însă l-aș hrăni cu cel mai bun grâu și l-aș sătura cu miere din stâncă!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Sing aloud to God, our strength! Make a joyful shout to the God of Jacob!",
+        "2": "Raise a song, and bring here the tambourine, the pleasant lyre with the harp.",
+        "3": "Blow the trumpet at the New Moon, at the full moon, on our feast day.",
+        "4": "For it is a statute for Israel, an ordinance of the God of Jacob.",
+        "5": "He appointed it in Joseph for a covenant, when he went out over the land of Egypt, I heard a language that I didn’t know.",
+        "6": "“I removed his shoulder from the burden. His hands were freed from the basket.",
+        "7": "You called in trouble, and I delivered you. I answered you in the secret place of thunder. I tested you at the waters of Meribah.”",
+        "8": "“Hear, my people, and I will testify to you, Israel, if you would listen to me!",
+        "9": "There shall be no strange god in you, neither shall you worship any foreign god.",
+        "10": "I am Yahweh, your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it.",
+        "11": "But my people didn’t listen to my voice. Israel desired none of me.",
+        "12": "So I let them go after the stubbornness of their hearts, that they might walk in their own counsels.",
+        "13": "Oh that my people would listen to me, that Israel would walk in my ways!",
+        "14": "I would soon subdue their enemies, and turn my hand against their adversaries.",
+        "15": "The haters of Yahweh would cringe before him, and their punishment would last forever.",
+        "16": "But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.”"
+      }
+    }
+  }
+}

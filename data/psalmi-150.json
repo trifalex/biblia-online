@@ -1,0 +1,39 @@
+{
+  "book": "Psalmi",
+  "chapter": "150",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Lăudați pe Dumnezeu în Locașul Lui cel Sfânt, lăudați-L în întinderea cerului, unde se arată puterea Lui!",
+        "2": "Lăudați-L pentru isprăvile Lui cele mari, lăudați-L după mărimea Lui nemărginită!",
+        "3": "Lăudați-L cu sunet de trâmbiță, lăudați-L cu alăuta și harpa!",
+        "4": "Lăudați-L cu timpane și cu jocuri,",
+        "5": "Lăudați-L cu chimvale sunătoare, lăudați-L cu chimvale zăngănitoare!",
+        "6": "Tot ce are suflare să laude pe Domnul! Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Lăudați-L pe Dumnezeu în Lăcașul Lui cel sfânt! Lăudați-L în Cerul Său măreț!",
+        "2": "Lăudați-L pentru faptele Lui grandioase, lăudați-L pentru măreția Sa nemărginită!",
+        "3": "Lăudați-L în sunet de trâmbiță, lăudați-L cu harfa și cu lira!",
+        "4": "Lăudați-L cu tamburine și cu dansuri,",
+        "5": "Lăudați-L cu chimvale zăngănitoare, lăudați-L cu chimvale răsunătoare!",
+        "6": "Tot ce are suflare să-L laude pe Domnul! Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power!",
+        "2": "Praise him for his mighty acts! Praise him according to his excellent greatness!",
+        "3": "Praise him with the sounding of the trumpet! Praise him with harp and lyre!",
+        "4": "Praise him with tambourine and dancing! Praise him with stringed instruments and flute!",
+        "5": "Praise him with loud cymbals! Praise him with resounding cymbals!",
+        "6": "Let everything that has breath praise Yah! Praise Yah!"
+      }
+    }
+  }
+}

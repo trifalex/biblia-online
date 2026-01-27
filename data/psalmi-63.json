@@ -1,0 +1,54 @@
+{
+  "book": "Psalmi",
+  "chapter": "63",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeule, Tu ești Dumnezeul meu, pe Tine Te caut! Îmi însetează sufletul după Tine, îmi tânjește trupul după Tine, într-un pământ sec, uscat și fără apă.",
+        "2": "Așa Te privesc eu în Locașul cel Sfânt, ca să-Ți văd puterea și slava.",
+        "3": "Fiindcă bunătatea Ta prețuiește mai mult decât viața, de aceea buzele mele cântă laudele Tale.",
+        "4": "Te voi binecuvânta dar toată viața mea și în Numele Tău îmi voi ridica mâinile.",
+        "5": "Mi se satură sufletul ca de niște bucate grase și miezoase, și gura mea Te laudă cu strigăte de bucurie pe buze",
+        "6": "când mi-aduc aminte de Tine în așternutul meu și când mă gândesc la Tine în timpul priveghiurilor nopții.",
+        "7": "Căci Tu ești ajutorul meu și sunt plin de veselie la umbra aripilor Tale.",
+        "8": "Sufletul meu este lipit de Tine; dreapta Ta mă sprijină.",
+        "9": "Dar cei ce caută să-mi ia viața se vor duce în adâncimile pământului;",
+        "10": "vor fi dați pradă sabiei, vor fi prada șacalilor.",
+        "11": "Dar împăratul se va bucura în Dumnezeu; oricine jură pe El se va făli, căci va astupa gura mincinoșilor."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeule, Tu ești Dumnezeul meu! Te caut cu ardoare; îmi însetează sufletul după Tine, îmi tânjește trupul după Tine pe un pământ uscat, sterp și fără apă.",
+        "2": "Da, Te-am văzut în Lăcașul Tău cel sfânt și am privit la puterea și la gloria Ta.",
+        "3": "Pentru că îndurarea Ta prețuiește mai mult decât viața, de aceea buzele mele Te vor lăuda.",
+        "4": "Așadar, Te voi binecuvânta toată viața mea și în Numele Tău îmi voi ridica mâinile.",
+        "5": "Sufletul meu se satură de Tine ca de mâncarea grasă și miezoasă, iar gura mea Te laudă cu strigăte de bucurie pe buze.",
+        "6": "Îmi amintesc de Tine în așternutul meu, în timpul străjilor nopții cuget la Tine.",
+        "7": "Căci Tu ești ajutorul meu, strig de bucurie la umbra aripilor Tale!",
+        "8": "Sufletul meu este lipit de Tine, dreapta Ta mă sprijină.",
+        "9": "Dar cei ce caută distrugerea vieții mele vor merge în cele mai de jos locuri ale pământului.",
+        "10": "Vor fi trecuți prin ascuțișul sabiei, vor fi prada șacalilor.",
+        "11": "Regele însă se va bucura în Dumnezeu! Oricine jură pe El se va lăuda, căci gura celor ce rostesc minciuna va fi astupată."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God, you are my God. I will earnestly seek you. My soul thirsts for you. My flesh longs for you, in a dry and weary land, where there is no water.",
+        "2": "So I have seen you in the sanctuary, watching your power and your glory.",
+        "3": "Because your loving kindness is better than life, my lips shall praise you.",
+        "4": "So I will bless you while I live. I will lift up my hands in your name.",
+        "5": "My soul shall be satisfied as with the richest food. My mouth shall praise you with joyful lips,",
+        "6": "when I remember you on my bed, and think about you in the night watches.",
+        "7": "For you have been my help. I will rejoice in the shadow of your wings.",
+        "8": "My soul stays close to you. Your right hand holds me up.",
+        "9": "But those who seek my soul to destroy it shall go into the lower parts of the earth.",
+        "10": "They shall be given over to the power of the sword. They shall be jackal food.",
+        "11": "But the king shall rejoice in God. Everyone who swears by him will praise him, for the mouth of those who speak lies shall be silenced."
+      }
+    }
+  }
+}

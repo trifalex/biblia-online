@@ -1,0 +1,69 @@
+{
+  "book": "1 Timotei",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dar Duhul spune lămurit că, în vremurile din urmă, unii se vor lepăda de credință, ca să se alipească de duhuri înșelătoare și de învățăturile dracilor,",
+        "2": "abătuți de fățărnicia unor oameni care vorbesc minciuni, însemnați cu fierul roșu în însuși cugetul lor.",
+        "3": "Ei opresc căsătoria și întrebuințarea bucatelor pe care Dumnezeu le-a făcut ca să fie luate cu mulțumiri de către cei ce cred și cunosc adevărul.",
+        "4": "Căci orice făptură a lui Dumnezeu este bună și nimic nu este de lepădat, dacă se ia cu mulțumiri;",
+        "5": "pentru că este sfințit prin Cuvântul lui Dumnezeu și prin rugăciune.",
+        "6": "Dacă vei pune în mintea fraților aceste lucruri, vei fi un bun slujitor al lui Hristos Isus, fiindcă te hrănești cu cuvintele credinței și ale bunei învățături pe care ai urmat-o până acum.",
+        "7": "Ferește-te de basmele lumești și băbești. Caută să fii evlavios.",
+        "8": "Căci deprinderea trupească este de puțin folos, pe când evlavia este folositoare în orice privință, întrucât ea are făgăduința vieții de acum și a celei viitoare.",
+        "9": "Iată un cuvânt adevărat și cu totul vrednic de primit!",
+        "10": "Noi muncim, în adevăr, și ne luptăm pentru că ne-am pus nădejdea în Dumnezeul cel viu, care este Mântuitorul tuturor oamenilor și mai ales al celor credincioși.",
+        "11": "Poruncește și învață aceste lucruri.",
+        "12": "Nimeni să nu-ți disprețuiască tinerețea, ci fii o pildă pentru credincioși: în vorbire, în purtare, în dragoste, în credință, în curăție.",
+        "13": "Până voi veni, ia seama bine la citire, la îndemnare și la învățătura pe care o dai altora.",
+        "14": "Nu fi nepăsător de darul care este în tine, care ți-a fost dat prin prorocie, cu punerea mâinilor de către ceata prezbiterilor.",
+        "15": "Pune-ți pe inimă aceste lucruri, îndeletnicește-te în totul cu ele, pentru ca înaintarea ta să fie văzută de toți.",
+        "16": "Fii cu luare aminte asupra ta însuți și asupra învățăturii pe care o dai altora; stăruiește în aceste lucruri, căci, dacă vei face așa, te vei mântui pe tine însuți și pe cei ce te ascultă."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dar Duhul spune clar că în vremurile din urmă unii se vor depărta de credință, apropiindu-se de duhuri înșelătoare și de învățături ale demonilor,",
+        "2": "influențați de ipocrizia mincinoșilor, a căror conștiință a fost însemnată cu fierul roșu.",
+        "3": "Ei interzic căsătoria și cer abstinență de la mâncărurile pe care Dumnezeu le-a creat ca să fie primite cu mulțumire de către cei ce cred și cunosc adevărul.",
+        "4": "Căci orice animal creat de Dumnezeu este bun și nimic nu trebuie respins, dacă este luat cu mulțumire,",
+        "5": "pentru că este sfințit prin Cuvântul lui Dumnezeu și prin rugăciune.",
+        "6": "Dacă-i sfătuiești pe frați aceste lucruri, vei fi un bun slujitor al lui Cristos Isus, fiind hrănit astfel de cuvintele credinței și ale bunei învățături pe care ai urmat-o îndeaproape.",
+        "7": "Ferește-te de miturile lumești și băbești și disciplinează-te în ce privește evlavia.",
+        "8": "Căci disciplinarea trupească este pentru puțin timp, dar evlavia este de folos în toate, fiindcă are promisiunea vieții de acum și a celei care urmează să vină.",
+        "9": "Această învățătură este demnă de încredere și merită să fie pe deplin acceptată.",
+        "10": "Căci pentru aceasta lucrăm din greu și ne luptăm, fiindcă ne-am pus speranța în Dumnezeul cel Viu, Care este Mântuitorul tuturor oamenilor, mai ales al celor credincioși.",
+        "11": "Poruncește și învață aceste lucruri!",
+        "12": "Nimeni să nu-ți disprețuiască tinerețea, ci fii un exemplu pentru credincioși în vorbire, în purtare, în dragoste, în credință, în curăție.",
+        "13": "Până când voi veni eu, dă atenție citirii, încurajării și învățăturii.",
+        "14": "Să nu neglijezi darul care este în tine, care ți-a fost dat prin profeție, când cei din Sfatul Bătrânilor și-au pus mâinile peste tine.",
+        "15": "Cugetă la aceste lucruri! Adâncește-te în ele, pentru ca înaintarea ta să fie evidentă pentru toți.",
+        "16": "Fii atent la tine însuți și la învățătura pe care o dai altora. Persistă în aceste lucruri, pentru că, făcând aceasta, te vei mântui pe tine și pe cei ce te ascultă."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,",
+        "2": "through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron,",
+        "3": "forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.",
+        "4": "For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving.",
+        "5": "For it is sanctified through the word of God and prayer.",
+        "6": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith and of the good doctrine which you have followed.",
+        "7": "But refuse profane and old wives’ fables. Exercise yourself toward godliness.",
+        "8": "For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now and of that which is to come.",
+        "9": "This saying is faithful and worthy of all acceptance.",
+        "10": "For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.",
+        "11": "Command and teach these things.",
+        "12": "Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.",
+        "13": "Until I come, pay attention to reading, to exhortation, and to teaching.",
+        "14": "Don’t neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the elders.",
+        "15": "Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all.",
+        "16": "Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you."
+      }
+    }
+  }
+}

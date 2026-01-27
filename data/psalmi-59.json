@@ -1,0 +1,72 @@
+{
+  "book": "Psalmi",
+  "chapter": "59",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeule, scapă-mă de vrăjmașii mei, ocrotește-mă de potrivnicii mei!",
+        "2": "Scapă-mă de răufăcători, izbăvește-mă de oamenii setoși de sânge!",
+        "3": "Căci iată-i că stau la pândă să-mi ia viața; niște oameni porniți la rău urzesc lucruri rele împotriva mea, fără să fiu vinovat, fără să fi păcătuit, Doamne!",
+        "4": "Cu toată nevinovăția mea, ei aleargă, se pregătesc: trezește-Te, ieși înaintea mea și privește!",
+        "5": "Doamne, Dumnezeul oștirilor, Dumnezeul lui Israel, scoală-Te, ca să pedepsești toate neamurile! N-avea milă de niciunul din acești vânzători nelegiuiți!",
+        "6": "Se întorc în fiecare seară, urlă ca niște câini și dau ocol cetății.",
+        "7": "Da, din gura lor țâșnește răul, pe buzele lor sunt săbii, căci zic: „Cine aude?”",
+        "8": "Dar Tu, Doamne, râzi de ei, Tu Îți bați joc de toate neamurile.",
+        "9": "Oricare le-ar fi puterea, eu în Tine nădăjduiesc, căci Dumnezeu este scăparea mea.",
+        "10": "Dumnezeul meu, în bunătatea Lui, îmi iese înainte, Dumnezeu mă face să-mi văd împlinită dorința față de cei ce mă prigonesc.",
+        "11": "Nu-i ucide, ca să nu uite lucrul acesta poporul meu, ci fă-i să pribegească, prin puterea Ta, și doboară-i, Doamne, Scutul nostru!",
+        "12": "Gura lor păcătuiește la fiecare vorbă care le iese de pe buze: să se prindă în însăși mândria lor, căci nu spun decât blesteme și minciuni!",
+        "13": "Nimicește-i în mânia Ta, prăpădește-i ca să nu mai fie! Fă-i să știe că împărățește Dumnezeu peste Iacov, până la marginile pământului!",
+        "14": "Se întorc în fiecare seară, urlă ca niște câini și dau ocol cetății.",
+        "15": "Umblă încoace și încolo după hrană și petrec noaptea nesătui.",
+        "16": "Dar eu voi cânta puterea Ta; dis-de-dimineață, voi lăuda bunătatea Ta. Căci Tu ești un turn de scăpare pentru mine, un loc de adăpost în ziua necazului meu.",
+        "17": "O, Tăria mea! Pe Tine Te voi lăuda, căci Dumnezeu, Dumnezeul meu cel prea bun, este turnul meu de scăpare."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeul meu, scapă-mă de dușmanii mei, protejează-mă de cei ce s-au ridicat împotriva mea!",
+        "2": "Scapă-mă de cei ce comit nelegiuiri, salvează-mă de oamenii însetați de sânge!",
+        "3": "Căci iată-i cum îmi pândesc sufletul! Niște oameni puternici conspiră împotriva mea, însă nu pentru fărădelegea mea și nici pentru păcatul meu, Doamne!",
+        "4": "Fără să am vreo vină, ei sunt pregătiți să mă atace. Ridică-Te să vii în întâmpinarea mea și privește!",
+        "5": "Tu, Doamne, Dumnezeul Oștirilor, Dumnezeul lui Israel, trezește-Te să pedepsești toate națiunile! Nu arăta bunăvoință față de niciunul dintre acești trădători nelegiuiți.",
+        "6": "Se întorc seara, urlă ca un câine și dau târcoale cetății.",
+        "7": "Iată, ei răbufnesc cu gurile lor, pe buzele lor sunt săbii; căci zic: „Cine aude?“.",
+        "8": "Dar Tu, Doamne, râzi de ei, îți bați joc de toate națiunile.",
+        "9": "Puterea mea, pe Tine Te aștept, căci Dumnezeu este locul meu de scăpare!",
+        "10": "Dumnezeu, Care este îndurător cu mine, va veni să mă ajute. Dumnezeu mă va face să privesc de sus la cei ce mă pândesc.",
+        "11": "Nu-i ucide, ca nu cumva poporul meu să uite! Fă-i să rătăcească, prin puterea Ta, și doboară-i, Stăpâne, Scutul nostru!",
+        "12": "Păcatul gurii lor este cuvântul buzelor lor. Să fie prinși în propria mândrie! Să fie prinși de blestemul și minciuna pe care le rostesc!",
+        "13": "Nimicește-i cu mânie; nimicește-i, ca să nu mai fie! Fă-i să știe că Dumnezeu stăpânește în Iacov și până la marginile pământului.",
+        "14": "Se întorc seara, urlă ca un câine și dau târcoale cetății.",
+        "15": "Ei rătăcesc după mâncare – dacă nu se satură, rămân peste noapte acolo.",
+        "16": "Eu însă voi cânta despre puterea Ta, dimineața voi striga cu bucurie despre îndurarea Ta, căci Tu mi-ai fost un loc de scăpare și adăpost în ziua necazului meu.",
+        "17": "Puterea mea, voi cânta spre lauda Ta, căci Dumnezeu este locul meu de scăpare, Dumnezeul Care este îndurător cu mine!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Deliver me from my enemies, my God. Set me on high from those who rise up against me.",
+        "2": "Deliver me from the workers of iniquity. Save me from the bloodthirsty men.",
+        "3": "For, behold, they lie in wait for my soul. The mighty gather themselves together against me, not for my disobedience, nor for my sin, Yahweh.",
+        "4": "I have done no wrong, yet they are ready to attack me. Rise up, behold, and help me!",
+        "5": "You, Yahweh God of Armies, the God of Israel, rouse yourself to punish the nations. Show no mercy to the wicked traitors.",
+        "6": "They return at evening, howling like dogs, and prowl around the city.",
+        "7": "Behold, they spew with their mouth. Swords are in their lips, “For”, they say, “who hears us?”",
+        "8": "But you, Yahweh, laugh at them. You scoff at all the nations.",
+        "9": "Oh, my Strength, I watch for you, for God is my high tower.",
+        "10": "My God will go before me with his loving kindness. God will let me look at my enemies in triumph.",
+        "11": "Don’t kill them, or my people may forget. Scatter them by your power, and bring them down, Lord our shield.",
+        "12": "For the sin of their mouth, and the words of their lips, let them be caught in their pride, for the curses and lies which they utter.",
+        "13": "Consume them in wrath. Consume them, and they will be no more. Let them know that God rules in Jacob, to the ends of the earth.",
+        "14": "At evening let them return. Let them howl like a dog, and go around the city.",
+        "15": "They shall wander up and down for food, and wait all night if they aren’t satisfied.",
+        "16": "But I will sing of your strength. Yes, I will sing aloud of your loving kindness in the morning. For you have been my high tower, a refuge in the day of my distress.",
+        "17": "To you, my strength, I will sing praises. For God is my high tower, the God of my mercy."
+      }
+    }
+  }
+}

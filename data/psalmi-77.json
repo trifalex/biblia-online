@@ -1,0 +1,81 @@
+{
+  "book": "Psalmi",
+  "chapter": "77",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Strig cu glasul meu către Dumnezeu, strig cu glasul meu către Dumnezeu, și El mă va asculta.",
+        "2": "În ziua necazului meu, caut pe Domnul; noaptea, mâinile îmi stau întinse fără curmare; sufletul meu nu vrea nicio mângâiere.",
+        "3": "Mi-aduc aminte de Dumnezeu și gem; mă gândesc adânc în mine și mi se mâhnește duhul.",
+        "4": "Tu îmi ții pleoapele deschise și, de mult ce mă frământ, nu pot vorbi.",
+        "5": "Mă gândesc la zilele de demult, la anii de odinioară.",
+        "6": "Mă gândesc la cântările mele noaptea, cuget adânc înăuntrul inimii mele, îmi cade duhul pe gânduri și zic:",
+        "7": "„Va lepăda Domnul pentru totdeauna? Și nu va mai fi El binevoitor?",
+        "8": "S-a isprăvit bunătatea Lui pe vecie? S-a dus făgăduința Lui pentru totdeauna?",
+        "9": "A uitat Dumnezeu să aibă milă? Și-a tras El, în mânia Lui, înapoi îndurarea?”",
+        "10": "Atunci îmi zic: „Ceea ce mă face să sufăr este că dreapta Celui Preaînalt nu mai este aceeași.”",
+        "11": "Dar tot voi lăuda lucrările Domnului, căci îmi aduc aminte de minunile Tale de odinioară;",
+        "12": "da, mă voi gândi la toate lucrările Tale și voi lua aminte la toate isprăvile Tale.",
+        "13": "Dumnezeule, căile Tale sunt sfinte! Care dumnezeu este mare ca Dumnezeul nostru?",
+        "14": "Tu ești Dumnezeul care face minuni; Tu Ți-ai arătat puterea printre popoare.",
+        "15": "Prin brațul Tău, Tu ai izbăvit pe poporul Tău, pe fiii lui Iacov și ai lui Iosif.",
+        "16": "Când Te-au văzut apele, Dumnezeule, când Te-au văzut apele, s-au cutremurat și adâncurile s-au mișcat.",
+        "17": "Norii au turnat apă cu găleata, tunetul a răsunat în nori, și săgețile Tale au zburat în toate părțile.",
+        "18": "Tunetul Tău a izbucnit în vârtej de vânt, fulgerele au luminat lumea: pământul s-a mișcat și s-a cutremurat.",
+        "19": "Ți-ai croit un drum prin mare, o cărare prin apele cele mari, și nu Ți s-au mai cunoscut urmele.",
+        "20": "Ai povățuit pe poporul Tău ca pe o turmă, prin mâna lui Moise și Aaron."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Glasul meu s-a înălțat către Dumnezeu; am strigat cu glasul meu către Dumnezeu și El m-a ascultat.",
+        "2": "În ziua necazului meu L-am căutat pe Stăpânul. Noaptea îmi țineam mâna întinsă și nu amorțea; sufletul meu refuza să fie mângâiat.",
+        "3": "Mi-am adus aminte de Dumnezeu și am oftat, am cugetat și duhul mi-a leșinat.",
+        "4": "Tu ai ținut deschise pleoapele ochilor mei. Eram răvășit și nu vorbeam.",
+        "5": "M-am gândit la zilele de odinioară, la anii de demult.",
+        "6": "Mi-am amintit de cântarea mea din timpul nopții. Am cugetat în inima mea, m-am întrebat în duhul meu:",
+        "7": "„Oare Stăpânul leapădă pentru totdeauna? Să nu mai fie niciodată binevoitor?",
+        "8": "Oare Și-a oprit îndurarea pe vecie? A pus El oare capăt promisiunii Lui din generație în generație?",
+        "9": "Oare a uitat Dumnezeu de îndurare? În mânia Lui, Și-a retras El oare mila?“.",
+        "10": "Atunci am zis: „Am suferit când am crezut că dreapta Celui Preaînalt s-a schimbat“.",
+        "11": "Prin urmare, voi vesti faptele Domnului; da, îmi voi aduce aminte de minunile Tale din trecut.",
+        "12": "Voi cugeta la toată lucrarea Ta și voi medita la faptele Tale mărețe.",
+        "13": "Dumnezeule, calea Ta este sfântă! Care zeu este atât de mare ca Dumnezeu?",
+        "14": "Tu ești Dumnezeul Care face minuni! Tu Ți-ai descoperit puterea popoarelor!",
+        "15": "Cu brațul Tău Ți-ai răscumpărat poporul, pe fiii lui Iacov și ai lui Iosif.",
+        "16": "Când Te-au văzut apele, Dumnezeule, când Te-au văzut apele, s-au învolburat, iar adâncurile s-au cutremurat.",
+        "17": "Norii au revărsat apa, tunetul a bubuit în cer, iar săgețile Tale s-au împrăștiat în toate părțile.",
+        "18": "Bubuitul tunetului Tău trecea prin vijelie, iar fulgerele luminau lumea; pământul s-a clătinat și s-a cutremurat.",
+        "19": "Calea Ta a trecut prin mare, iar cărarea Ta – prin ape mari, și nu Ți s-au mai cunoscut urmele.",
+        "20": "Ți-ai condus poporul ca pe o turmă, prin mâna lui Moise și a lui Aaron."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "My cry goes to God! Indeed, I cry to God for help, and for him to listen to me.",
+        "2": "In the day of my trouble I sought the Lord. My hand was stretched out in the night, and didn’t get tired. My soul refused to be comforted.",
+        "3": "I remember God, and I groan. I complain, and my spirit is overwhelmed.",
+        "4": "You hold my eyelids open. I am so troubled that I can’t speak.",
+        "5": "I have considered the days of old, the years of ancient times.",
+        "6": "I remember my song in the night. I consider in my own heart; my spirit diligently inquires:",
+        "7": "“Will the Lord reject us forever? Will he be favorable no more?",
+        "8": "Has his loving kindness vanished forever? Does his promise fail for generations?",
+        "9": "Has God forgotten to be gracious? Has he, in anger, withheld his compassion?”",
+        "10": "Then I thought, “I will appeal to this: the years of the right hand of the Most High.”",
+        "11": "I will remember Yah’s deeds; for I will remember your wonders of old.",
+        "12": "I will also meditate on all your work, and consider your doings.",
+        "13": "Your way, God, is in the sanctuary. What god is great like God?",
+        "14": "You are the God who does wonders. You have made your strength known among the peoples.",
+        "15": "You have redeemed your people with your arm, the sons of Jacob and Joseph.",
+        "16": "The waters saw you, God. The waters saw you, and they writhed. The depths also convulsed.",
+        "17": "The clouds poured out water. The skies resounded with thunder. Your arrows also flashed around.",
+        "18": "The voice of your thunder was in the whirlwind. The lightnings lit up the world. The earth trembled and shook.",
+        "19": "Your way was through the sea, your paths through the great waters. Your footsteps were not known.",
+        "20": "You led your people like a flock, by the hand of Moses and Aaron."
+      }
+    }
+  }
+}

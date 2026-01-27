@@ -1,0 +1,87 @@
+{
+  "book": "Exodul",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Iată numele fiilor lui Israel intrați în Egipt; au intrat cu Iacov fiecare cu familia lui:",
+        "2": "Ruben, Simeon, Levi, Iuda,",
+        "3": "Isahar, Zabulon, Beniamin,",
+        "4": "Dan, Neftali, Gad și Așer.",
+        "5": "Sufletele ieșite din coapsele lui Iacov erau șaptezeci de toate. Iosif era atunci în Egipt.",
+        "6": "Iosif a murit și toți frații lui și toată vârsta aceea de oameni.",
+        "7": "Fiii lui Israel s-au înmulțit, s-au mărit, au crescut și au ajuns foarte puternici. Și s-a umplut țara de ei. Suferințele israeliților",
+        "8": "Peste Egipt s-a ridicat un nou împărat, care nu cunoscuse pe Iosif.",
+        "9": "El a zis poporului său: „Iată că poporul copiilor lui Israel este mai mare și mai puternic decât noi.",
+        "10": "Veniți să ne arătăm dibaci față de el, ca să nu crească, pentru ca nu cumva, dacă se va întâmpla un război, să se unească și el cu vrăjmașii noștri, să ne bată și să iasă apoi din țară.”",
+        "11": "Și au pus peste ei isprăvnicei, ca să-i asuprească prin munci grele. Astfel a zidit el cetățile Pitom și Ramses, ca să slujească de hambare lui Faraon.",
+        "12": "Dar, cu cât îl asupreau mai mult, cu atât se înmulțea și creștea, și s-au scârbit de copiii lui Israel.",
+        "13": "Atunci, egiptenii au adus pe copiii lui Israel la o aspră robie.",
+        "14": "Le-au făcut viața amară prin lucrări grele de lut și cărămizi și prin tot felul de lucrări de pe câmp; în toate muncile acestea pe care-i sileau să le facă erau fără niciun pic de milă.",
+        "15": "Împăratul Egiptului a poruncit moașelor evreilor, numite una Șifra și cealaltă Pua,",
+        "16": "și le-a zis: „Când veți împlini slujba de moașe pe lângă femeile evreilor și le veți vedea pe scaunul de naștere, dacă este băiat, să-l omorâți, iar dacă este fată, s-o lăsați să trăiască.”",
+        "17": "Dar moașele s-au temut de Dumnezeu și n-au făcut ce le poruncise împăratul Egiptului, ci au lăsat pe copiii de parte bărbătească să trăiască.",
+        "18": "Împăratul Egiptului a chemat pe moașe și le-a zis: „Pentru ce ați făcut lucrul acesta și ați lăsat pe copiii de parte bărbătească să trăiască?”",
+        "19": "Moașele au răspuns lui Faraon: „Pentru că femeile evreilor nu sunt ca egiptencele; ele sunt vânjoase și nasc înainte de venirea moașei.”",
+        "20": "Dumnezeu a făcut bine moașelor și poporul s-a înmulțit și a ajuns foarte mare la număr.",
+        "21": "Pentru că moașele se temuseră de Dumnezeu, Dumnezeu le-a făcut case.",
+        "22": "Atunci, Faraon a dat următoarea poruncă la tot poporul lui: „Să aruncați în râu pe orice băiat care se va naște și să lăsați pe toate fetele să trăiască.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Acestea sunt numele fiilor lui Israel, care au venit în Egipt împreună cu Iacov și împreună cu familiile lor:",
+        "2": "Ruben, Simeon, Levi și Iuda,",
+        "3": "Isahar, Zabulon și Beniamin,",
+        "4": "Dan și Neftali, Gad și Așer.",
+        "5": "Toți aceia care i se născuseră lui Iacov erau în număr de șaptezeci. Iosif se afla deja în Egipt.",
+        "6": "După o vreme, Iosif a murit. Apoi au murit toți frații săi și toată generația aceea.",
+        "7": "Fiii lui Israel au fost roditori și s-au înmulțit foarte mult. Ei au devenit numeroși și au ajuns puternici, astfel încât țara s-a umplut de ei.",
+        "8": "Peste Egipt s-a ridicat un nou rege, care nu-l cunoscuse pe Iosif.",
+        "9": "El a zis poporului său: „Iată că poporul fiilor lui Israel este prea mare și prea puternic pentru noi.",
+        "10": "Haideți să ne purtăm cu viclenie față de el. Altfel, se va înmulți și, dacă se va întâmpla să fim în război, se va alătura și el dușmanilor noștri, va lupta împotriva noastră și va ieși din țară“.",
+        "11": "Prin urmare, au pus peste ei stăpânitori, ca să-i asuprească prin munci grele. Astfel, ei au construit pentru Faraon cetățile-hambar Pitom și Ramses.",
+        "12": "Însă, cu cât erau mai asupriți, cu atât se înmulțeau și se răspândeau mai mult. Egiptenii s-au scârbit de fiii lui Israel.",
+        "13": "Atunci ei i-au pus pe fiii lui Israel la muncă forțată.",
+        "14": "Le-au făcut viața amară, punându-i să muncească din greu la facerea mortarului, a cărămizilor și la tot felul de lucrări pe câmp. Orice lucrare pe care o făceau pentru egipteni era foarte grea.",
+        "15": "Regele Egiptului le-a vorbit moașelor evreilor (numele uneia era Șifra, iar cealaltă se numea Pua)",
+        "16": "și le-a zis: „Când le veți ajuta pe evreice să nască și le veți vedea pe scaunul de naștere, dacă va fi băiat, să-l omorâți, dar dacă va fi fată, s-o lăsați să trăiască“.",
+        "17": "Însă moașele s-au temut de Dumnezeu și n-au făcut cum le-a poruncit regele Egiptului, ci au lăsat și băieții să trăiască.",
+        "18": "Regele Egiptului le-a chemat pe moașe și le-a întrebat: ‒ De ce ați făcut acest lucru și i-ați lăsat și pe băieți să trăiască?",
+        "19": "Moașele i-au răspuns lui Faraon: ‒ Deoarece femeile evreilor nu sunt ca femeile egiptene. Ele sunt viguroase și nasc înainte ca moașa să ajungă la ele.",
+        "20": "Dumnezeu le-a făcut bine moașelor, iar poporul s-a înmulțit și a ajuns foarte puternic.",
+        "21": "Pentru că moașele s-au temut de Dumnezeu, El le-a întemeiat familii.",
+        "22": "Apoi Faraon a poruncit întregului său popor, zicând: „Să aruncați în Nil orice băiat care li se va naște evreilor! Dar să lăsați în viață orice fată“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now these are the names of the sons of Israel, who came into Egypt (every man and his household came with Jacob):",
+        "2": "Reuben, Simeon, Levi, and Judah,",
+        "3": "Issachar, Zebulun, and Benjamin,",
+        "4": "Dan and Naphtali, Gad and Asher.",
+        "5": "All the souls who came out of Jacob’s body were seventy souls, and Joseph was in Egypt already.",
+        "6": "Joseph died, as did all his brothers, and all that generation.",
+        "7": "The children of Israel were fruitful, and increased abundantly, and multiplied, and grew exceedingly mighty; and the land was filled with them.",
+        "8": "Now there arose a new king over Egypt, who didn’t know Joseph.",
+        "9": "He said to his people, “Behold, the people of the children of Israel are more and mightier than we.",
+        "10": "Come, let’s deal wisely with them, lest they multiply, and it happen that when any war breaks out, they also join themselves to our enemies and fight against us, and escape out of the land.”",
+        "11": "Therefore they set taskmasters over them to afflict them with their burdens. They built storage cities for Pharaoh: Pithom and Raamses.",
+        "12": "But the more they afflicted them, the more they multiplied and the more they spread out. They started to dread the children of Israel.",
+        "13": "The Egyptians ruthlessly made the children of Israel serve,",
+        "14": "and they made their lives bitter with hard service in mortar and in brick, and in all kinds of service in the field, all their service, in which they ruthlessly made them serve.",
+        "15": "The king of Egypt spoke to the Hebrew midwives, of whom the name of the one was Shiphrah, and the name of the other Puah,",
+        "16": "and he said, “When you perform the duty of a midwife to the Hebrew women, and see them on the birth stool, if it is a son, then you shall kill him; but if it is a daughter, then she shall live.”",
+        "17": "But the midwives feared God, and didn’t do what the king of Egypt commanded them, but saved the baby boys alive.",
+        "18": "The king of Egypt called for the midwives, and said to them, “Why have you done this thing and saved the boys alive?”",
+        "19": "The midwives said to Pharaoh, “Because the Hebrew women aren’t like the Egyptian women; for they are vigorous and give birth before the midwife comes to them.”",
+        "20": "God dealt well with the midwives, and the people multiplied, and grew very mighty.",
+        "21": "Because the midwives feared God, he gave them families.",
+        "22": "Pharaoh commanded all his people, saying, “You shall cast every son who is born into the river, and every daughter you shall save alive."
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "book": "Tit",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Adu-le aminte să fie supuși stăpânirilor și dregătorilor, să-i asculte, să fie gata să facă orice lucru bun,",
+        "2": "să nu vorbească de rău pe nimeni, să nu fie gata de ceartă, ci cumpătați, plini de blândețe față de toți oamenii.",
+        "3": "Căci și noi eram altădată fără minte, neascultători, rătăciți, robiți de tot felul de pofte și de plăceri, trăind în răutate și în pizmă, vrednici să fim urâți și urându-ne unii pe alții.",
+        "4": "Dar, când s-a arătat bunătatea lui Dumnezeu, Mântuitorul nostru, și dragostea Lui de oameni,",
+        "5": "El ne-a mântuit nu pentru faptele făcute de noi în neprihănire, ci pentru îndurarea Lui, prin spălarea nașterii din nou și prin înnoirea făcută de Duhul Sfânt,",
+        "6": "pe care L-a vărsat din belșug peste noi prin Isus Hristos, Mântuitorul nostru;",
+        "7": "pentru ca, odată socotiți neprihăniți prin harul Lui, să ne facem în nădejde moștenitori ai vieții veșnice.",
+        "8": "Adevărat este cuvântul acesta, și vreau să spui apăsat aceste lucruri, pentru ca cei ce au crezut în Dumnezeu să caute să fie cei dintâi în fapte bune. Iată ce este bine și de folos pentru oameni!",
+        "9": "Dar de întrebările nebune, de înșirările de neamuri, de certuri și ciorovăieli privitoare la Lege, ferește-te, căci sunt nefolositoare și zadarnice.",
+        "10": "După întâia și a doua mustrare, depărtează-te de cel ce aduce dezbinări,",
+        "11": "căci știm că un astfel de om este un stricat și păcătuiește, de la sine fiind osândit.",
+        "12": "Când voi trimite la tine pe Artema sau pe Tihic, grăbește-te să vii la mine în Nicopole, căci acolo m-am hotărât să iernez.",
+        "13": "Ai grijă de legiuitorul Zena și Apolo, să nu ducă lipsă de nimic din ce le trebuie pentru călătoria lor.",
+        "14": "Trebuie ca și ai noștri să se deprindă să fie cei dintâi în fapte bune pentru nevoile grabnice și să nu stea neroditori.",
+        "15": "Toți cei ce sunt cu mine îți trimit sănătate. Spune sănătate celor ce ne iubesc în credință. Harul să fie cu voi cu toți! Amin."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Amintește-le să fie supuși conducerilor și autorităților, să fie ascultători, gata pentru orice faptă bună,",
+        "2": "să nu vorbească de rău pe nimeni, să nu fie certăreți, să fie îngăduitori, să arate o blândețe deplină față de toți oamenii.",
+        "3": "Căci și noi eram cândva nesăbuiți, neascultători, rătăciți, înrobiți de diverse pofte și plăceri, trăind în răutate și invidie, fiind urâți de alții și urându-ne unii pe alții.",
+        "4": "Dar, când s-a arătat bunătatea și dragostea de oameni a lui Dumnezeu, Mântuitorul nostru,",
+        "5": "El ne-a mântuit, nu datorită faptelor pe care le-am făcut noi în dreptate, ci potrivit cu mila Lui, prin spălarea adusă de nașterea din nou și prin înnoirea realizată de Duhul Sfânt,",
+        "6": "pe Care L-a turnat peste noi din belșug, prin Isus Cristos, Mântuitorul nostru,",
+        "7": "pentru ca, fiind îndreptățiți prin harul Lui, să putem deveni moștenitori, având speranța vieții veșnice.",
+        "8": "Acest mesaj este demn de încredere și doresc să insiști asupra acestor lucruri, astfel încât cei ce au crezut în Dumnezeu să urmărească să fie cei dintâi în fapte bune. Aceste lucruri sunt bune și de folos pentru oameni.",
+        "9": "Ferește-te de controverse nebunești, de genealogii, de certuri și de conflicte cu privire la Lege, pentru că sunt inutile și fără rost.",
+        "10": "După primul și al doilea avertisment, să nu mai ai nimic de-a face cu cel ce provoacă dezbinări,",
+        "11": "deoarece știi că un astfel de om este stricat și păcătuiește, fiind de la sine condamnat.",
+        "12": "Când îl voi trimite la tine pe Artemas sau pe Tyhikos, grăbește-te să vii la mine în Nicopole, căci am hotărât să rămân acolo peste iarnă.",
+        "13": "Îngrijește-te de legiuitorul Zenas și de Apollos în călătoria lor, ca să nu le lipsească nimic.",
+        "14": "De asemenea, ai noștri să învețe să fie cei dintâi în fapte bune, răspunzând nevoilor urgente, astfel încât să nu fie neroditori.",
+        "15": "Toți cei ce sunt împreună cu mine te salută. Salută-i pe cei ce ne iubesc în credință! Harul să fie cu voi toți!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work,",
+        "2": "to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men.",
+        "3": "For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.",
+        "4": "But when the kindness of God our Savior and his love toward mankind appeared,",
+        "5": "not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit,",
+        "6": "whom he poured out on us richly through Jesus Christ our Savior;",
+        "7": "that being justified by his grace, we might be made heirs according to the hope of eternal life.",
+        "8": "This saying is faithful, and concerning these things I desire that you insist confidently, so that those who have believed God may be careful to maintain good works. These things are good and profitable to men;",
+        "9": "but shun foolish questionings, genealogies, strife, and disputes about the law; for they are unprofitable and vain.",
+        "10": "Avoid a factious man after a first and second warning,",
+        "11": "knowing that such a one is perverted and sinful, being self-condemned.",
+        "12": "When I send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis, for I have determined to winter there.",
+        "13": "Send Zenas the lawyer and Apollos on their journey speedily, that nothing may be lacking for them.",
+        "14": "Let our people also learn to maintain good works to meet necessary needs, that they may not be unfruitful.",
+        "15": "All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen."
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "book": "2 Samuel",
+  "chapter": "9",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "David a zis: „A mai rămas cineva din casa lui Saul, ca să-i fac bine din pricina lui Ionatan?”",
+        "2": "Era un slujitor din casa lui Saul, numit Țiba, pe care l-au adus la David. Împăratul i-a zis: „Tu ești Țiba?” Și el a răspuns: „Robul tău, da!”",
+        "3": "Împăratul a zis: „Nu mai este nimeni din casa lui Saul, ca să mă port cu el cu o bunătate ca bunătatea lui Dumnezeu?” Și Țiba a răspuns împăratului: „Mai este un fiu al lui Ionatan, olog de picioare.”",
+        "4": "Împăratul a zis: „Unde este?” Și Țiba a răspuns împăratului: „Este în casa lui Machir, fiul lui Amiel, la Lodebar.”",
+        "5": "Împăratul David l-a trimis să-l ia din casa lui Machir, fiul lui Amiel, din Lodebar.",
+        "6": "Și Mefiboșet, fiul lui Ionatan, fiul lui Saul, a venit la David, a căzut cu fața la pământ și s-a închinat. David a zis: „Mefiboșet!” Și el a răspuns: „Iată robul tău!”",
+        "7": "David i-a zis: „Nu te teme, căci vreau să-ți fac bine din pricina tatălui tău Ionatan. Îți voi da înapoi toate pământurile tatălui tău Saul, și vei mânca totdeauna la masa mea.”",
+        "8": "El s-a închinat și a zis: „Cine este robul tău, ca să te uiți la un câine mort ca mine?”",
+        "9": "Împăratul a chemat pe Țiba, slujbașul lui Saul, și i-a zis: „Dau fiului stăpânului tău tot ce era al lui Saul și tot ce avea toată casa lui.",
+        "10": "Tu să lucrezi pământurile pentru el, tu, fiii tăi și robii tăi, și să strângi roadele, ca fiul stăpânului tău să aibă pâine de mâncare, și Mefiboșet, fiul stăpânului tău, va mânca totdeauna la masa mea.” Și Țiba avea cincisprezece fii și douăzeci de robi.",
+        "11": "El a zis împăratului: „Robul tău va face tot ce poruncește împăratul, domnul meu, robului său.” Și Mefiboșet a mâncat la masa lui David, ca unul din fiii împăratului.",
+        "12": "Mefiboșet avea un fiu mic, numit Mica, și toți cei ce locuiau în casa lui Țiba erau robii lui Mefiboșet.",
+        "13": "Mefiboșet locuia la Ierusalim, căci mânca totdeauna la masa împăratului. El era olog de amândouă picioarele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "David a întrebat: „Se mai află în viață cineva din familia lui Saul, căruia să-i pot arăta bunătate, datorită lui Ionatan?“.",
+        "2": "Familia lui Saul avusese un slujitor pe nume Țiba, pe care l-au chemat la David. Regele l-a întrebat: ‒ Tu ești Țiba? El a zis: ‒ Da, eu sunt, slujitorul tău.",
+        "3": "Regele l-a întrebat: ‒ A mai rămas cineva din familia lui Saul, căruia să-i pot arăta bunătatea lui Dumnezeu? Țiba i-a zis regelui: ‒ Mai este un fiu al lui Ionatan, olog de picioare.",
+        "4": "Regele l-a întrebat: ‒ Unde este acesta? Țiba i-a zis regelui: ‒ Iată că el este în casa lui Machir, fiul lui Amiel, din Lo-Debar.",
+        "5": "Regele David a trimis după el și l-a adus din Lo-Debar, din casa lui Machir, fiul lui Amiel.",
+        "6": "Mefiboșet, fiul lui Ionatan și nepotul lui Saul, a ajuns înaintea lui David, a căzut cu fața la pământ și s-a plecat astfel înaintea lui. David i-a zis: ‒ Mefiboșet! El a răspuns: ‒ Iată slujitorul tău!",
+        "7": "David i-a zis: ‒ Nu te teme, căci vreau să-ți arăt bunătate, datorită tatălui tău, Ionatan. Am să-ți înapoiez toate terenurile care au fost ale bunicului tău, Saul, și vei mânca întotdeauna la masa mea.",
+        "8": "Mefiboșet s-a plecat înaintea lui și a zis: ‒ Ce este slujitorul tău, ca să te uiți la un câine mort, așa cum sunt eu?",
+        "9": "Regele l-a chemat apoi pe Țiba, slujitorul lui Saul, și i-a zis: ‒ I-am dăruit nepotului stăpânului tău tot ceea ce aparținuse lui Saul și întregii sale familii.",
+        "10": "Tu, fiii tăi și slujitorii tăi îi veți lucra pământul și-i veți culege recolta pentru ca nepotul stăpânului tău să aibă ce să mănânce. Mefiboșet, nepotul stăpânului tău, va mânca întotdeauna la masa mea. Țiba avea cincisprezece fii și douăzeci de slujitori.",
+        "11": "Atunci Țiba i-a zis regelui: ‒ Slujitorul tău va face tot ceea ce a poruncit regele, stăpânul meu, slujitorului său. Astfel, Mefiboșet a mâncat la masa lui David ca unul dintre fiii acestuia.",
+        "12": "Mefiboșet avea un fiu tânăr pe nume Mica. Toți cei ce locuiau în casa lui Țiba erau slujitorii lui Mefiboșet.",
+        "13": "Mefiboșet locuia la Ierusalim, fiindcă mânca întotdeauna la masa regelui. El era olog de ambele picioare."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "David said, “Is there yet any who is left of Saul’s house, that I may show him kindness for Jonathan’s sake?”",
+        "2": "There was of Saul’s house a servant whose name was Ziba, and they called him to David; and the king said to him, “Are you Ziba?” He said, “I am your servant.”",
+        "3": "The king said, “Is there not yet any of Saul’s house, that I may show the kindness of God to him?” Ziba said to the king, “Jonathan still has a son, who is lame in his feet.”",
+        "4": "The king said to him, “Where is he?” Ziba said to the king, “Behold, he is in the house of Machir the son of Ammiel, in Lo Debar.”",
+        "5": "Then King David sent and brought him out of the house of Machir the son of Ammiel, from Lo Debar.",
+        "6": "Mephibosheth, the son of Jonathan, the son of Saul, came to David, fell on his face, and showed respect. David said, “Mephibosheth?” He answered, “Behold, your servant!”",
+        "7": "David said to him, “Don’t be afraid, for I will surely show you kindness for Jonathan your father’s sake, and will restore to you all the land of Saul your father. You will eat bread at my table continually.”",
+        "8": "He bowed down, and said, “What is your servant, that you should look at such a dead dog as I am?”",
+        "9": "Then the king called to Ziba, Saul’s servant, and said to him, “All that belonged to Saul and to all his house I have given to your master’s son.",
+        "10": "Till the land for him—you, your sons, and your servants. Bring in the harvest, that your master’s son may have bread to eat; but Mephibosheth your master’s son will always eat bread at my table.” Now Ziba had fifteen sons and twenty servants.",
+        "11": "Then Ziba said to the king, “According to all that my lord the king commands his servant, so your servant will do.” So Mephibosheth ate at the king’s table like one of the king’s sons.",
+        "12": "Mephibosheth had a young son, whose name was Mica. All who lived in Ziba’s house were servants to Mephibosheth.",
+        "13": "So Mephibosheth lived in Jerusalem, for he ate continually at the king’s table. He was lame in both his feet."
+      }
+    }
+  }
+}

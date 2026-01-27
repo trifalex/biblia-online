@@ -1,0 +1,72 @@
+{
+  "book": "Psalmi",
+  "chapter": "45",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cuvinte pline de farmec îmi clocotesc în inimă și zic: „Lucrarea mea de laudă este pentru Împăratul!” Ca pana unui scriitor iscusit să-mi fie limba!",
+        "2": "Tu ești cel mai frumos dintre oameni, harul este turnat pe buzele tale, de aceea te-a binecuvântat Dumnezeu pe vecie.",
+        "3": "Războinic viteaz, încinge-ți sabia – podoaba și slava,",
+        "4": "da, slava ta! Fii biruitor, suie-te în carul tău de luptă, apără adevărul, blândețea și neprihănirea, și dreapta ta să strălucească prin isprăvi minunate!",
+        "5": "Săgețile tale sunt ascuțite: sub tine vor cădea popoare și săgețile tale vor străpunge inima vrăjmașilor împăratului.",
+        "6": "Scaunul Tău de domnie, Dumnezeule, este veșnic; toiagul de domnie al Împărăției Tale este un toiag de dreptate.",
+        "7": "Tu iubești neprihănirea și urăști răutatea. De aceea, Dumnezeule, Dumnezeul Tău Te-a uns cu un untdelemn de bucurie mai presus decât pe tovarășii Tăi de slujbă.",
+        "8": "Smirna, aloea și casia îți umplu de miros plăcut toate veșmintele; în casele tale împărătești de fildeș, te înveselesc instrumentele cu coarde.",
+        "9": "Printre preaiubitele tale sunt fete de împărați; împărăteasa, mireasa ta, stă la dreapta ta, împodobită cu aur de Ofir.",
+        "10": "Ascultă, fiică, vezi și pleacă-ți urechea; uită pe poporul tău și casa tatălui tău!",
+        "11": "Și atunci, împăratul îți va pofti frumusețea. Și fiindcă este domnul tău, adu-i închinăciunile tale!",
+        "12": "Și fiica Tirului, și cele mai bogate din popor vor umbla cu daruri ca să capete bunăvoința ta.",
+        "13": "Fata împăratului este plină de strălucire înăuntrul casei împărătești; ea poartă o haină țesută cu aur.",
+        "14": "Este adusă înaintea împăratului îmbrăcată cu haine cusute la gherghef și urmată de fete, însoțitoarele ei, care sunt aduse la tine.",
+        "15": "Ele sunt duse în mijlocul bucuriei și veseliei și intră în casa împăratului.",
+        "16": "Copiii tăi vor lua locul părinților tăi; îi vei pune domni în toată țara.",
+        "17": "Din neam în neam îți voi pomeni numele: de aceea în veci de veci te vor lăuda popoarele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Un cuvânt plăcut îmi clocotește în inimă. Eu zic: „Versurile mele sunt pentru rege!“. Limba mea este pana unui scrib priceput!",
+        "2": "Ești cel mai frumos dintre fiii omului! Bunăvoința este revărsată pe buzele tale; de aceea te-a binecuvântat Dumnezeu pe vecie.",
+        "3": "Ia-ți sabia, viteazule, splendoarea și măreția ta!",
+        "4": "În măreția ta, călărește învingător pentru cauza adevărului, a smereniei și a dreptății! Dreapta ta să înfăptuiască lucrări de temut!",
+        "5": "Săgețile tale ascuțite să străpungă inima dușmanilor regelui, și popoarele să ajungă sub stăpânirea ta!",
+        "6": "Tronul Tău, Dumnezeule, este pentru veci de veci; toiagul Împărăției Tale este un toiag al dreptății.",
+        "7": "Tu ai iubit dreptatea și ai urât răutatea. De aceea, Dumnezeule, Dumnezeul Tău Te-a uns cu uleiul bucuriei, mai presus decât pe confrații Tăi.",
+        "8": "Toate veșmintele tale sunt parfumate cu smirnă, aloe și casia. În palate de fildeș, instrumentele cu coarde te înveselesc.",
+        "9": "Printre femeile tale de onoare se află fete de regi; regina stă la dreapta ta, îmbrăcată în aur de Ofir.",
+        "10": "Ascultă, fiică, privește și pleacă-ți urechea! Uită-ți poporul și casa tatălui tău!",
+        "11": "Atunci regele va tânji după frumusețea ta. Pentru că îți este stăpân, pleacă-te înaintea lui!",
+        "12": "Fiica Tyrului va veni cu daruri, oameni bogați îți vor căuta bunăvoința.",
+        "13": "Fata regelui este plină de strălucire înăuntrul palatului; veșmântul ei este țesut cu fir de aur.",
+        "14": "Cu haine brodate este adusă înaintea regelui, este însoțită de fecioare, care sunt aduse înaintea ta.",
+        "15": "Sunt aduse cu bucurie și cu veselie, iar ele intră în palatul regelui.",
+        "16": "Fiii tăi vor lua locul părinților tăi, pe ei îi vei desemna prinți în toată țara.",
+        "17": "Îți voi vesti numele din generație în generație; de aceea te vor lăuda popoarele în veci de veci."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "My heart overflows with a noble theme. I recite my verses for the king. My tongue is like the pen of a skillful writer.",
+        "2": "You are the most excellent of the sons of men. Grace has anointed your lips, therefore God has blessed you forever.",
+        "3": "Strap your sword on your thigh, O mighty one, in your splendor and your majesty.",
+        "4": "In your majesty ride on victoriously on behalf of truth, humility, and righteousness. Let your right hand display awesome deeds.",
+        "5": "Your arrows are sharp. The nations fall under you, with arrows in the heart of the king’s enemies.",
+        "6": "Your throne, God, is forever and ever. A scepter of equity is the scepter of your kingdom.",
+        "7": "You have loved righteousness, and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness above your fellows.",
+        "8": "All your garments smell like myrrh, aloes, and cassia. Out of ivory palaces stringed instruments have made you glad.",
+        "9": "Kings’ daughters are among your honorable women. At your right hand the queen stands in gold of Ophir.",
+        "10": "Listen, daughter, consider, and turn your ear. Forget your own people, and also your father’s house.",
+        "11": "So the king will desire your beauty, honor him, for he is your lord.",
+        "12": "The daughter of Tyre comes with a gift. The rich among the people entreat your favor.",
+        "13": "The princess inside is all glorious. Her clothing is interwoven with gold.",
+        "14": "She shall be led to the king in embroidered work. The virgins, her companions who follow her, shall be brought to you.",
+        "15": "With gladness and rejoicing they shall be led. They shall enter into the king’s palace.",
+        "16": "Your sons will take the place of your fathers. You shall make them princes in all the earth.",
+        "17": "I will make your name to be remembered in all generations. Therefore the peoples shall give you thanks forever and ever."
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "book": "Psalmi",
+  "chapter": "94",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, Dumnezeul răzbunărilor, Tu, Dumnezeul răzbunărilor, arată-Te!",
+        "2": "Scoală-Te, Judecătorul pământului, și răsplătește celor mândri după faptele lor!",
+        "3": "Până când vor birui cei răi, Doamne, până când vor birui cei răi?",
+        "4": "Ei țin cuvântări puternice, vorbesc cu trufie și toți cei ce fac răul se fălesc.",
+        "5": "Ei zdrobesc pe poporul Tău, Doamne, și asupresc moștenirea Ta.",
+        "6": "Înjunghie pe văduvă și pe străin, ucid pe orfani",
+        "7": "și zic: „Nu vede Domnul și Dumnezeul lui Iacov nu ia aminte!”",
+        "8": "Totuși învățați-vă minte, oameni fără minte! Când vă veți înțelepți, nebunilor?",
+        "9": "Cel ce a sădit urechea s-ar putea să n-audă? Cel ce a întocmit ochiul s-ar putea să nu vadă?",
+        "10": "Cel ce pedepsește neamurile s-ar putea să nu pedepsească, El, care a dat omului pricepere?",
+        "11": "Domnul cunoaște gândurile omului: știe că sunt deșarte.",
+        "12": "Ferice de omul pe care-l pedepsești Tu, Doamne, și pe care-l înveți din Legea Ta,",
+        "13": "ca să-l liniștești în zilele nenorocirii, până se va săpa groapa celui rău!",
+        "14": "Căci Domnul nu lasă pe poporul Său și nu-Și părăsește moștenirea.",
+        "15": "Ci se va face odată judecata după dreptate și toți cei cu inima curată o vor găsi bună.",
+        "16": "Cine mă va ajuta împotriva celor răi? Cine mă va sprijini împotriva celor ce fac răul?",
+        "17": "De n-ar fi Domnul ajutorul meu, cât de curând ar fi sufletul meu în tăcerea morții!",
+        "18": "Ori de câte ori zic: „Mi se clatină piciorul”, bunătatea Ta, Doamne, mă sprijină totdeauna.",
+        "19": "Când gânduri negre se frământă cu grămada înăuntrul meu, mângâierile Tale îmi înviorează sufletul.",
+        "20": "Te vor pune cei răi să șezi pe scaunul lor de domnie, ei, care pregătesc nenorocirea la adăpostul legii?",
+        "21": "Ei se strâng împotriva vieții celui neprihănit și osândesc sânge nevinovat.",
+        "22": "Dar Domnul este turnul meu de scăpare, Dumnezeul meu este stânca mea de adăpost.",
+        "23": "El va face să cadă asupra lor nelegiuirea, El îi va nimici prin răutatea lor; Domnul Dumnezeul nostru îi va nimici."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "O, Dumnezeu al răzbunărilor! O, Doamne! O, Dumnezeu al răzbunărilor, strălucește Tu!",
+        "2": "Ridică-Te, Judecător al pământului, răsplătește celor mândri după mândria lor!",
+        "3": "Până când vor triumfa cei răi, Doamne, până când?",
+        "4": "Ei bolborosesc, vorbesc cu aroganță; toți cei ce comit nelegiuiri se laudă.",
+        "5": "Îți asupresc poporul, Doamne, apasă asupra moștenirii Tale.",
+        "6": "Omoară văduva și străinul, îl ucid pe orfan.",
+        "7": "Ei zic: „Nu vede Domnul! Dumnezeul lui Iacov nu-Și dă seama!“.",
+        "8": "Încercați să înțelegeți, oameni fără minte din popor! Nesăbuiților, când vă veți înțelepți?",
+        "9": "Să nu audă oare Cel Ce a sădit urechea? Să nu vadă oare Cel Ce a creat ochiul?",
+        "10": "Să nu mustre oare Cel Ce disciplinează națiunile, Cel Ce îl învață pe om cunoașterea?",
+        "11": "Domnul cunoaște gândurile omului; știe că sunt deșarte.",
+        "12": "Ferice de omul pe care-l disciplinezi Tu, Doamne și pe care-l înveți din Legea Ta,",
+        "13": "ca să-l liniștești în zilele cele rele, până se va săpa groapa celui rău.",
+        "14": "Domnul nu-Și părăsește poporul, nici nu-Și uită moștenirea!",
+        "15": "Căci din nou se va face judecată cu dreptate, și toți cei cu inima dreaptă o vor urma.",
+        "16": "Cine se va ridica pentru mine împotriva răufăcătorilor? Cine mă va sprijini împotriva celor ce comit nelegiuiri?",
+        "17": "De n-ar fi fost Domnul ajutorul meu, foarte curând sufletul meu ar fi locuit în tăcerea morții.",
+        "18": "Când zic: „Mi se clatină piciorul!“, îndurarea Ta, Doamne, mă sprijină!",
+        "19": "În mulțimea frământărilor mele lăuntrice, mângâierile Tale îmi încântă sufletul.",
+        "20": "Poate oare un tron corupt să-Ți fie aliat, unul care pune la cale răul printr-un decret?",
+        "21": "Ei conspiră împotriva sufletului celui drept și condamnă sânge nevinovat.",
+        "22": "Domnul este locul meu de scăpare! Dumnezeul meu este stânca mea de adăpost!",
+        "23": "El le va răsplăti după nelegiuirea lor și-i va nimici pentru răutatea lor; Domnul, Dumnezeul nostru, îi va nimici."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, you God to whom vengeance belongs, you God to whom vengeance belongs, shine out.",
+        "2": "Rise up, you judge of the earth. Pay back the proud what they deserve.",
+        "3": "Yahweh, how long will the wicked, how long will the wicked triumph?",
+        "4": "They pour out arrogant words. All the evildoers boast.",
+        "5": "They break your people in pieces, Yahweh, and afflict your heritage.",
+        "6": "They kill the widow and the alien, and murder the fatherless.",
+        "7": "They say, “Yah will not see, neither will Jacob’s God consider.”",
+        "8": "Consider, you senseless among the people; you fools, when will you be wise?",
+        "9": "He who implanted the ear, won’t he hear? He who formed the eye, won’t he see?",
+        "10": "He who disciplines the nations, won’t he punish? He who teaches man knows.",
+        "11": "Yahweh knows the thoughts of man, that they are futile.",
+        "12": "Blessed is the man whom you discipline, Yah, and teach out of your law,",
+        "13": "that you may give him rest from the days of adversity, until the pit is dug for the wicked.",
+        "14": "For Yahweh won’t reject his people, neither will he forsake his inheritance.",
+        "15": "For judgment will return to righteousness. All the upright in heart shall follow it.",
+        "16": "Who will rise up for me against the wicked? Who will stand up for me against the evildoers?",
+        "17": "Unless Yahweh had been my help, my soul would have soon lived in silence.",
+        "18": "When I said, “My foot is slipping!” Your loving kindness, Yahweh, held me up.",
+        "19": "In the multitude of my thoughts within me, your comforts delight my soul.",
+        "20": "Shall the throne of wickedness have fellowship with you, which brings about mischief by statute?",
+        "21": "They gather themselves together against the soul of the righteous, and condemn the innocent blood.",
+        "22": "But Yahweh has been my high tower, my God, the rock of my refuge.",
+        "23": "He has brought on them their own iniquity, and will cut them off in their own wickedness. Yahweh, our God, will cut them off."
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, ce mulți sunt vrăjmașii mei! Ce mulțime se scoală împotriva mea!",
+        "2": "Cât de mulți zic despre mine: „Nu mai este scăpare pentru el la Dumnezeu!”",
+        "3": "Dar Tu, Doamne, Tu ești scutul meu, Tu ești slava mea și Tu îmi înalți capul!",
+        "4": "Eu strig cu glasul meu către Domnul și El îmi răspunde din muntele Lui cel sfânt.",
+        "5": "Mă culc, adorm și mă deștept iarăși, căci Domnul este sprijinul meu.",
+        "6": "Nu mă tem de zecile de mii de popoare care mă împresoară din toate părțile.",
+        "7": "Scoală-Te, Doamne! Scapă-mă, Dumnezeule! Căci Tu bați peste obraz pe toți vrăjmașii mei și zdrobești dinții celor răi.",
+        "8": "La Domnul este scăparea: binecuvântarea Ta să fie peste poporul Tău."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, ce mulți sunt dușmanii mei! Mulți sunt cei ce se ridică împotriva mea!",
+        "2": "Mulți spun sufletului meu: „Nu mai este scăpare pentru el la Dumnezeu!“.",
+        "3": "Dar Tu, Doamne, ești scutul meu. Tu ești gloria mea, ești Cel Ce îmi ridici capul.",
+        "4": "Cu glasul meu am strigat către Domnul, și El mi-a răspuns din muntele Lui cel sfânt.",
+        "5": "Eu mă culc, adorm și mă trezesc iarăși, căci Domnul mă sprijină.",
+        "6": "Nu mă tem de zecile de mii de popoare care se ridică împotriva mea din toate părțile.",
+        "7": "Ridică-Te, Doamne! Salvează-mă, Dumnezeul meu! Tu-i lovești peste obraz pe toți dușmanii mei și zdrobești dinții celor răi.",
+        "8": "Eliberarea vine de la Domnul. Fie binecuvântarea Ta peste poporul Tău!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, how my adversaries have increased! Many are those who rise up against me.",
+        "2": "Many there are who say of my soul, “There is no help for him in God.”",
+        "3": "But you, Yahweh, are a shield around me, my glory, and the one who lifts up my head.",
+        "4": "I cry to Yahweh with my voice, and he answers me out of his holy hill.",
+        "5": "I laid myself down and slept. I awakened, for Yahweh sustains me.",
+        "6": "I will not be afraid of tens of thousands of people who have set themselves against me on every side.",
+        "7": "Arise, Yahweh! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked.",
+        "8": "Salvation belongs to Yahweh. May your blessing be on your people."
+      }
+    }
+  }
+}

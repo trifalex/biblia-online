@@ -1,0 +1,39 @@
+{
+  "book": "Maleahi",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "„Căci iată, vine ziua care va arde ca un cuptor! Toți cei trufași și toți cei răi vor fi ca miriștea; ziua care vine îi va arde”, zice Domnul oștirilor, „și nu le va lăsa nici rădăcină, nici ramură.",
+        "2": "Dar pentru voi, care vă temeți de Numele Meu, va răsări Soarele neprihănirii și tămăduirea va fi sub aripile Lui; veți ieși și veți sări ca vițeii din grajd.",
+        "3": "Și veți călca în picioare pe cei răi, căci ei vor fi ca cenușa sub talpa picioarelor voastre în ziua pe care o pregătesc Eu”, zice Domnul oștirilor.",
+        "4": "„Aduceți-vă aminte de Legea lui Moise, robul Meu, căruia i-am dat în Horeb rânduieli și porunci pentru tot Israelul!",
+        "5": "Iată, vă voi trimite pe prorocul Ilie înainte de a veni ziua Domnului, ziua aceea mare și înfricoșată.",
+        "6": "El va întoarce inima părinților spre copii și inima copiilor spre părinții lor, ca nu cumva, la venirea Mea, să lovesc țara cu blestem!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Iată, vine ziua care arde ca un cuptor! Toți cei aroganți și toți cei ce trăiesc în răutate vor fi o miriște. Ziua care vine îi va arde“, zice Domnul Oștirilor, „și nu le va mai lăsa nici rădăcină, nici ramuri.",
+        "2": "Dar pentru voi, care vă temeți de Numele Meu, va răsări Soarele dreptății, aducând vindecare sub aripile Lui. Veți ieși și veți sări ca vițeii din grajd.",
+        "3": "Îi veți călca în picioare pe cei răi, căci ei vor fi cenușă sub tălpile picioarelor voastre în ziua pe care Eu o pregătesc“, zice Domnul Oștirilor.",
+        "4": "„Aduceți-vă aminte de Legea slujitorului Meu Moise, de hotărârile și judecățile pe care i le-am poruncit la Horeb pentru tot Israelul.",
+        "5": "Iată, vi-l voi trimite pe profetul Ilie înainte să vină ziua cea mare și de temut a Domnului.",
+        "6": "El va întoarce inimile taților spre copiii lor și inimile copiilor spre tații lor, ca nu cumva, atunci când voi veni, să lovesc țara cu blestem“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch.",
+        "2": "But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall.",
+        "3": "You shall tread down the wicked; for they will be ashes under the soles of your feet in the day that I make,” says Yahweh of Armies.",
+        "4": "“Remember the law of Moses my servant, which I commanded to him in Horeb for all Israel, even statutes and ordinances.",
+        "5": "Behold, I will send you Elijah the prophet before the great and terrible day of Yahweh comes.",
+        "6": "He will turn the hearts of the fathers to the children and the hearts of the children to their fathers, lest I come and strike the earth with a curse.”"
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "book": "Ezra",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "În cel dintâi an al lui Cirus, împăratul perșilor, ca să se împlinească cuvântul Domnului rostit prin gura lui Ieremia, Domnul a trezit duhul lui Cirus, împăratul perșilor, care a pus să se facă prin viu grai și prin scris vestirea aceasta în toată împărăția lui:",
+        "2": "„Așa vorbește Cirus, împăratul perșilor: ‘Domnul Dumnezeul cerurilor mi-a dat toate împărățiile pământului și mi-a poruncit să-I zidesc o casă la Ierusalim, în Iuda.",
+        "3": "Cine dintre voi este din poporul Lui? Dumnezeul lui să fie cu el și să se suie la Ierusalim, în Iuda, și să zidească acolo Casa Domnului Dumnezeului lui Israel! El este adevăratul Dumnezeu, care locuiește la Ierusalim.",
+        "4": "Oriunde locuiesc rămășițe din poporul Domnului, oamenii din locul acela să le dea argint, aur, avere și vite, pe lângă daruri de bunăvoie pentru Casa lui Dumnezeu, care este la Ierusalim!’”",
+        "5": "Capii de familie din Iuda și Beniamin, preoții și leviții, și anume toți aceia al căror duh l-a trezit Dumnezeu, s-au sculat să meargă să zidească la Ierusalim Casa Domnului.",
+        "6": "Și toți cei dimprejurul lor le-au dat lucruri de argint, de aur, avere, vite și lucruri scumpe, afară de toate darurile de bunăvoie.",
+        "7": "Împăratul Cirus a dat înapoi uneltele Casei Domnului pe care le luase Nebucadnețar din Ierusalim și le pusese în casa dumnezeului său.",
+        "8": "Cirus, împăratul perșilor, le-a scos prin Mitredat, vistiernicul, care le-a dat lui Șeșbațar (Zorobabel), voievodul lui Iuda.",
+        "9": "Iată-le numărul: treizeci de lighene de aur, o mie de lighene de argint, douăzeci și nouă de cuțite,",
+        "10": "treizeci de potire de aur, patru sute zece potire de argint de mâna a doua și o mie de alte unelte.",
+        "11": "Toate lucrurile de aur și de argint erau în număr de cinci mii patru sute. Șeșbațar a adus tot din Babilon la Ierusalim, împreună cu cei ce s-au întors din robie."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În primul an al lui Cirus, împăratul Persiei, ca să se împlinească Cuvântul Domnului spus prin Ieremia, Domnul a trezit duhul lui Cirus, împăratul Persiei, și acesta a cerut să se vestească prin viu grai și în scris, în toată împărăția sa, următoarele:",
+        "2": "Așa vorbește Cirus, împăratul Persiei: „Domnul, Dumnezeul cerurilor, Care mi-a dat toate regatele pământului, m-a numit să-I zidesc o Casă în Ierusalim, în Iuda.",
+        "3": "Cine dintre voi este din poporul Lui? Dumnezeul lui să fie cu el! Să meargă în Ierusalim, în Iuda, ca să construiască acolo Casa Domnului, Dumnezeul lui Israel. El este Dumnezeul Care locuiește la Ierusalim.",
+        "4": "Fiecare supraviețuitor, în orice loc s-ar afla, să fie ajutat de oamenii din acele locuri cu argint, cu aur, cu diferite bunuri și cu vite, precum și cu daruri de bunăvoie pentru Casa lui Dumnezeu din Ierusalim“.",
+        "5": "Atunci căpeteniile familiilor lui Iuda și ale lui Beniamin, preoții, leviții – toți aceia al căror duh l-a trezit Dumnezeu – s-au ridicat ca să meargă să construiască în Ierusalim Casa Domnului.",
+        "6": "Toți cei dimprejurul lor i-au sprijinit cu argint, cu aur, cu bunuri, cu vite și cu lucruri scumpe, pe lângă tot felul de daruri de bunăvoie.",
+        "7": "Împăratul Cirus a adus obiectele Casei Domnului, cele care fuseseră luate de Nebucadnețar de la Ierusalim și puse în casa dumnezeilor săi.",
+        "8": "Cirus, împăratul Persiei, le-a adus prin mâna vistiernicului Mitredat, iar acesta le-a numărat înaintea lui Șeșbațar, prințul iudeilor.",
+        "9": "Iată care este numărul lor: treizeci de vase de aur, o mie de vase de argint, douăzeci și nouă de cuțite,",
+        "10": "treizeci de cupe de aur, patru sute zece cupe de argint șlefuit, o mie de alte obiecte.",
+        "11": "Toate obiectele de aur și de argint erau în număr de cinci mii patru sute. Șeșbațar le-a adus pe toate acestea atunci când exilații au venit din Babilon la Ierusalim."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now in the first year of Cyrus king of Persia, that Yahweh’s word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,",
+        "2": "“Cyrus king of Persia says, ‘Yahweh, the God of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah.",
+        "3": "Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel (he is God), which is in Jerusalem.",
+        "4": "Whoever is left, in any place where he lives, let the men of his place help him with silver, with gold, with goods, and with animals, in addition to the free will offering for God’s house which is in Jerusalem.’”",
+        "5": "Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build Yahweh’s house which is in Jerusalem.",
+        "6": "All those who were around them strengthened their hands with vessels of silver, with gold, with goods, with animals, and with precious things, in addition to all that was willingly offered.",
+        "7": "Also Cyrus the king brought out the vessels of Yahweh’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods;",
+        "8": "even those, Cyrus king of Persia brought out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah.",
+        "9": "This is the number of them: thirty platters of gold, one thousand platters of silver, twenty-nine knives,",
+        "10": "thirty bowls of gold, four hundred ten silver bowls of a second kind, and one thousand other vessels.",
+        "11": "All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem."
+      }
+    }
+  }
+}

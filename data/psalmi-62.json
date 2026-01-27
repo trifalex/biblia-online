@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "62",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Da, numai în Dumnezeu mi se încrede sufletul; de la El îmi vine ajutorul.",
+        "2": "Da, El este Stânca și Ajutorul meu, Turnul meu de scăpare; nicidecum nu mă voi clătina.",
+        "3": "Până când vă veți năpusti asupra unui om, până când veți căuta cu toții să-l doborâți ca pe un zid gata să cadă, ca pe un gard gata să se surpe?",
+        "4": "Da, ei pun la cale să-l doboare din înălțimea lui: le place minciuna; cu gura binecuvântează, dar cu inima blestemă.",
+        "5": "Da, suflete, încrede-te în Dumnezeu, căci de la El îmi vine nădejdea!",
+        "6": "Da, El este Stânca și Ajutorul meu, Turnul meu de scăpare: nicidecum nu mă voi clătina.",
+        "7": "Pe Dumnezeu se întemeiază ajutorul și slava mea; în Dumnezeu este stânca puterii mele, locul meu de adăpost.",
+        "8": "Popoare, în orice vreme, încredeți-vă în El, vărsați-vă inimile înaintea Lui! Dumnezeu este adăpostul nostru.",
+        "9": "Da, o nimica sunt fiii omului! Minciună sunt fiii oamenilor! Puși în cumpănă toți laolaltă, ar fi mai ușori decât o suflare.",
+        "10": "Nu vă încredeți în asuprire și nu vă puneți nădejdea zadarnică în răpire; când cresc bogățiile, nu vă lipiți inima de ele!",
+        "11": "O dată a vorbit Dumnezeu, de două ori am auzit că „puterea este a lui Dumnezeu”.",
+        "12": "A Ta, Doamne, este și bunătatea, căci Tu răsplătești fiecăruia după faptele lui."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Numai în Dumnezeu sufletul meu își găsește liniștea și numai de la El vine ajutorul meu.",
+        "2": "Numai El este stânca mea și ajutorul meu. El este locul meu de scăpare. Nu mă voi clătina mult.",
+        "3": "Până când veți mai ataca un om, doborându-l cu toții, cum ați dărâma un zid înclinat sau un gard șubred?",
+        "4": "Numai ca să-l doboare din înălțimea lui, se sfătuiesc ei! Le este dragă minciuna. Ei binecuvântează cu gura, dar cu inima blestemă.",
+        "5": "Suflete al meu, găsește-ți liniștea numai în Dumnezeu, căci de la El vine speranța mea.",
+        "6": "Numai El este stânca mea și ajutorul meu. El este locul meu de scăpare – nu voi fi clătinat!",
+        "7": "Mântuirea și gloria mea sunt în Dumnezeu, Stânca mea cea tare. Adăpostul meu este în Dumnezeu.",
+        "8": "Poporule, încrede-te întotdeauna în El, varsă-ți inima înaintea Lui! Dumnezeu este adăpostul nostru.",
+        "9": "Într-adevăr, o suflare sunt fiii lui Adam! Minciună sunt fiii omului! Puși în talere, sunt cu toții mai ușori decât o suflare.",
+        "10": "Nu vă încredeți în asuprire și nu vă puneți speranța deșartă în tâlhărie. Când vă crește averea, nu lăsați inima să vi se încreadă în ea!",
+        "11": "O dată a vorbit Dumnezeu, și de două ori am auzit eu: „Puterea este a lui Dumnezeu!“.",
+        "12": "A Ta, Stăpâne, este îndurarea, căci Tu îi răsplătești fiecărui om după fapta lui."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "My soul rests in God alone. My salvation is from him.",
+        "2": "He alone is my rock, my salvation, and my fortress. I will never be greatly shaken.",
+        "3": "How long will you assault a man? Would all of you throw him down, like a leaning wall, like a tottering fence?",
+        "4": "They fully intend to throw him down from his lofty place. They delight in lies. They bless with their mouth, but they curse inwardly.",
+        "5": "My soul, wait in silence for God alone, for my expectation is from him.",
+        "6": "He alone is my rock and my salvation, my fortress. I will not be shaken.",
+        "7": "My salvation and my honor is with God. The rock of my strength, and my refuge, is in God.",
+        "8": "Trust in him at all times, you people. Pour out your heart before him. God is a refuge for us.",
+        "9": "Surely men of low degree are just a breath, and men of high degree are a lie. In the balances they will go up. They are together lighter than a breath.",
+        "10": "Don’t trust in oppression. Don’t become vain in robbery. If riches increase, don’t set your heart on them.",
+        "11": "God has spoken once; twice I have heard this, that power belongs to God.",
+        "12": "Also to you, Lord, belongs loving kindness, for you reward every man according to his work."
+      }
+    }
+  }
+}

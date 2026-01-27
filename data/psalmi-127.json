@@ -1,0 +1,36 @@
+{
+  "book": "Psalmi",
+  "chapter": "127",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dacă nu zidește Domnul o casă, degeaba lucrează cei ce o zidesc; dacă nu păzește Domnul o cetate, degeaba veghează cel ce o păzește.",
+        "2": "Degeaba vă sculați de dimineață și vă culcați târziu ca să mâncați o pâine câștigată cu durere, căci preaiubiților Lui El le dă pâine ca în somn.",
+        "3": "Iată, fiii sunt o moștenire de la Domnul, rodul pântecelui este o răsplată dată de El.",
+        "4": "Ca săgețile în mâna unui războinic, așa sunt fiii făcuți la tinerețe.",
+        "5": "Ferice de omul care își umple tolba de săgeți cu ei! Căci ei nu vor rămâne de rușine când vor vorbi cu vrăjmașii lor la poartă."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dacă nu zidește Domnul o casă, degeaba muncesc din greu cei ce o construiesc. Dacă nu păzește Domnul o cetate, degeaba veghează cel ce o păzește.",
+        "2": "Degeaba vă sculați devreme și vă culcați târziu, mâncând o pâine câștigată cu durere. Preaiubitului Său, însă, El îi dă cu adevărat odihnă.",
+        "3": "Iată, fiii sunt o moștenire de la Domnul, rodul pântecului este o răsplată.",
+        "4": "Ca săgețile în mâna unui viteaz, așa sunt fiii din anii tinereții.",
+        "5": "Ferice de bărbatul care își umple tolba cu ei; ei nu se vor rușina când vor vorbi cu dușmanii la poartă."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Unless Yahweh builds the house, they who build it labor in vain. Unless Yahweh watches over the city, the watchman guards it in vain.",
+        "2": "It is vain for you to rise up early, to stay up late, eating the bread of toil, for he gives sleep to his loved ones.",
+        "3": "Behold, children are a heritage of Yahweh. The fruit of the womb is his reward.",
+        "4": "As arrows in the hand of a mighty man, so are the children of youth.",
+        "5": "Happy is the man who has his quiver full of them. They won’t be disappointed when they speak with their enemies in the gate."
+      }
+    }
+  }
+}

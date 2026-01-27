@@ -1,0 +1,60 @@
+{
+  "book": "Daniel",
+  "chapter": "12",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "În vremea aceea se va scula marele voievod Mihail, ocrotitorul copiilor poporului tău; căci aceasta va fi o vreme de strâmtorare cum n-a mai fost de când sunt neamurile și până la vremea aceasta. Dar, în vremea aceea, poporul tău va fi mântuit, și anume oricine va fi găsit scris în carte.",
+        "2": "Mulți din cei ce dorm în țărâna pământului se vor scula: unii pentru viața veșnică și alții pentru ocară și rușine veșnică.",
+        "3": "Cei înțelepți vor străluci ca strălucirea cerului și cei ce vor învăța pe mulți să umble în neprihănire vor străluci ca stelele în veac și în veci de veci.",
+        "4": "Tu însă, Daniele, ține ascunse aceste cuvinte și pecetluiește cartea până la vremea sfârșitului. Atunci, mulți o vor citi și cunoștința va crește.”",
+        "5": "Și eu, Daniel, m-am uitat și iată că alți doi oameni stăteau în picioare, unul dincoace de râu și altul dincolo de malul râului.",
+        "6": "Unul din ei a zis omului aceluia îmbrăcat în haine de in, care stătea deasupra apelor râului: „Cât va mai fi până la sfârșitul acestor minuni?”",
+        "7": "Și am auzit pe omul acela îmbrăcat în haine de in, care stătea deasupra apelor râului; el și-a ridicat spre ceruri mâna dreaptă și mâna stângă și a jurat pe Cel ce trăiește veșnic că vor mai fi o vreme, două vremuri și o jumătate de vreme și că toate aceste lucruri se vor sfârși când puterea poporului sfânt va fi zdrobită de tot.",
+        "8": "Eu am auzit, dar n-am înțeles și am zis: „Domnul meu, care va fi sfârșitul acestor lucruri?”",
+        "9": "El a răspuns: „Du-te, Daniele! Căci cuvintele acestea vor fi ascunse și pecetluite până la vremea sfârșitului.",
+        "10": "Mulți vor fi curățiți, albiți și lămuriți; cei răi vor face răul și niciunul din cei răi nu va înțelege, dar cei pricepuți vor înțelege.",
+        "11": "De la vremea când va înceta jertfa necurmată și de când se va așeza urâciunea pustiitorului, vor mai fi o mie două sute nouăzeci de zile.",
+        "12": "Ferice de cine va aștepta și va ajunge până la o mie trei sute treizeci și cinci de zile!",
+        "13": "Iar tu du-te până va veni sfârșitul; tu te vei odihni și te vei scula iarăși odată în partea ta de moștenire, la sfârșitul zilelor.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În vremea aceea, se va ridica Mihail, marea căpetenie, protectorul poporului tău. Va fi o vreme de necaz, cum n-a fost de la începutul națiunilor și până atunci. Dar în vremea aceea poporul tău va fi mântuit, și anume oricine va fi găsit scris în Carte.",
+        "2": "Mulți dintre cei ce dorm în țărâna pământului se vor trezi, unii – pentru viață veșnică, iar alții – pentru rușine și pentru dispreț veșnic.",
+        "3": "Înțelepții vor străluci ca strălucirea cerului, iar cei ce au învățat dreptatea pe mulți vor străluci ca stelele, în vecii vecilor.",
+        "4": "Tu însă, Daniel, ține ascunse aceste cuvinte și sigilează cartea până la vremea sfârșitului. Atunci mulți vor alerga încoace și încolo și cunoștința va crește.",
+        "5": "Apoi eu, Daniel, m-am uitat și iată că alți doi stăteau în picioare, unul de o parte a râului și altul de cealaltă parte a râului.",
+        "6": "Unul dintre ei l-a întrebat pe bărbatul îmbrăcat în in, care era deasupra apelor râului: ‒ Cât va mai fi până la împlinirea acestor lucruri uimitoare?",
+        "7": "Bărbatul îmbrăcat în in, care era deasupra apelor râului, a ridicat mâna dreaptă și mâna stângă spre ceruri și l-am auzit jurând pe Cel Veșnic Viu, astfel: ‒ Va mai fi o vreme, vremuri și o jumătate de vreme! Când puterea poporului sfânt va fi zdrobită de tot, atunci se vor împlini toate aceste lucruri.",
+        "8": "Eu am auzit, dar nu am înțeles, așa că am întrebat: ‒ Stăpâne, cum va fi sfârșitul acestor lucruri?",
+        "9": "El mi-a răspuns: ‒ Du-te, Daniel, căci cuvintele acestea sunt ținute ascunse și sigilate până la vremea sfârșitului.",
+        "10": "Mulți se vor curăți, se vor albi și vor fi încercați, însă cei răi vor continua să fie răi; niciunul dintre cei răi nu va înțelege, însă cei înțelepți vor înțelege.",
+        "11": "De la vremea când jertfa continuă va fi îndepărtată și de la așezarea urâciunii pustiirii vor fi o mie două sute nouăzeci de zile.",
+        "12": "Ferice de cel ce așteaptă și ajunge până la o mie trei sute treizeci și cinci de zile.",
+        "13": "Cât despre tine, du-te, până când va veni sfârșitul. Te vei odihni și, în zilele de pe urmă, te vei scula pentru a-ți primi partea de moștenire“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book.",
+        "2": "Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.",
+        "3": "Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever.",
+        "4": "But you, Daniel, shut up the words and seal the book, even to the time of the end. Many will run back and forth, and knowledge will be increased.”",
+        "5": "Then I, Daniel, looked, and behold, two others stood, one on the river bank on this side, and the other on the river bank on that side.",
+        "6": "One said to the man clothed in linen, who was above the waters of the river, “How long will it be to the end of these wonders?”",
+        "7": "I heard the man clothed in linen, who was above the waters of the river, when he held up his right hand and his left hand to heaven, and swore by him who lives forever that it will be for a time, times, and a half; and when they have finished breaking in pieces the power of the holy people, all these things will be finished.",
+        "8": "I heard, but I didn’t understand. Then I said, “My lord, what will be the outcome of these things?”",
+        "9": "He said, “Go your way, Daniel; for the words are shut up and sealed until the time of the end.",
+        "10": "Many will purify themselves, and make themselves white, and be refined, but the wicked will do wickedly; and none of the wicked will understand, but those who are wise will understand.",
+        "11": "“From the time that the continual burnt offering is taken away and the abomination that makes desolate set up, there will be one thousand two hundred ninety days.",
+        "12": "Blessed is he who waits, and comes to the one thousand three hundred thirty-five days.",
+        "13": "“But go your way until the end; for you will rest, and will stand in your inheritance at the end of the days.”"
+      }
+    }
+  }
+}

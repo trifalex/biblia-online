@@ -1,0 +1,57 @@
+{
+  "book": "Osea",
+  "chapter": "11",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "„Când era tânăr Israel, îl iubeam și am chemat pe fiul Meu din Egipt.",
+        "2": "Dar, cu cât prorocii îi chemau, cu atât ei se depărtau: au adus jertfe baalilor și tămâie chipurilor idolești.",
+        "3": "Și totuși Eu l-am învățat pe Efraim să meargă și l-am ridicat în brațe, dar n-au văzut că Eu îi vindecam.",
+        "4": "I-am tras cu legături omenești, cu funii de dragoste, am fost pentru ei ca cel ce le ridică jugul de lângă gură. M-am plecat spre ei și le-am dat de mâncare.",
+        "5": "Nu se vor mai întoarce în țara Egiptului, dar asirianul va fi împăratul lor, pentru că n-au voit să se întoarcă la Mine.",
+        "6": "Sabia va năvăli peste cetățile lor, va nimici, va mânca pe sprijinitorii lor din pricina planurilor pe care le-au făcut.",
+        "7": "Poporul Meu este pornit să se depărteze de Mine și, dacă sunt chemați înapoi la Cel Preaînalt, niciunul din ei nu caută să se ridice.",
+        "8": "Cum să te dau, Efraime? Cum să te predau, Israele? Cum să-ți fac ca Admei? Cum să te fac ca Țeboimul? Mi se zbate inima în Mine și tot lăuntrul Mi se mișcă de milă!",
+        "9": "Nu voi lucra după mânia Mea aprinsă, nu voi mai nimici pe Efraim, căci Eu sunt Dumnezeu, nu un om. Eu sunt Sfântul în mijlocul tău și nu voi veni să prăpădesc.",
+        "10": "Ei vor urma pe Domnul ca pe un leu care va răcni, căci El Însuși va răcni, și copiii vor alerga tremurând de la apus.",
+        "11": "Vor alerga tremurând din Egipt ca o pasăre și din țara Asiriei ca o porumbiță. Și-i voi face să locuiască în casele lor”, zice Domnul.",
+        "12": "„Efraim Mă înconjoară cu minciuni și casa lui Israel cu înșelătorii. Iuda este tot hoinar față de Dumnezeu, față de Cel Sfânt și Credincios."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "„Când Israel era doar un copil, îl iubeam și l-am chemat pe fiul Meu din Egipt.",
+        "2": "Cu cât îi chemau profeții, cu atât se îndepărtau de ei; jertfeau baalilor și ardeau tămâie chipurilor cioplite.",
+        "3": "Eu l-am învățat pe Efraim să meargă, luându-l în brațe, dar ei n-au recunoscut că Eu i-am vindecat.",
+        "4": "I-am tras cu funii omenești, cu legături de dragoste. Am fost pentru ei asemenea celor ce-și ridică până la obraji copiii, și M-am aplecat spre ei ca să-i hrănesc.",
+        "5": "Nu se vor mai întoarce în țara Egiptului, dar asirianul va fi împăratul lor, pentru că au refuzat să se pocăiască.",
+        "6": "Sabia se va dezlănțui în cetățile lor, le va distruge zăvoarele porților și-i va devora din cauza planurilor lor rele.",
+        "7": "Dar poporul Meu este pornit la necredincioșie față de Mine. De aceea, chiar dacă Îl vor striga pe Cel Preaînalt, El nu-i va înălța nicidecum.",
+        "8": "Cum să te dau, Efraim? Cum să te predau, Israel? Cum aș putea să-ți fac ca Admei? Cum să Mă port cu tine ca și cu Țeboimul? Mi se zbate inima în Mine și toată ființa-Mi freamătă de compasiune.",
+        "9": "Nu voi acționa potrivit cu mânia Mea; nu Mă voi întoarce să-l distrug pe Efraim, căci Eu sunt Dumnezeu, nu om, sunt Cel Sfânt din mijlocul tău și nu voi veni cu mânie.",
+        "10": "Ei vor merge după Domnul Care va rage ca un leu. Când El va rage, fiii Lui vor veni tremurând din vest.",
+        "11": "Vor veni tremurând ca păsările din Egipt și ca porumbeii din Asiria, iar Eu îi voi așeza în casele lor“, zice Domnul. Păcatul poporului",
+        "12": "Efraim M-a înconjurat cu minciună, iar Casa lui Israel – cu înșelătorie, dar Iuda încă umblă cu Dumnezeu și este credincios față de Cel Sfânt."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“When Israel was a child, then I loved him, and called my son out of Egypt.",
+        "2": "They called to them, so they went from them. They sacrificed to the Baals, and burned incense to engraved images.",
+        "3": "Yet I taught Ephraim to walk. I took them by their arms, but they didn’t know that I healed them.",
+        "4": "I drew them with cords of a man, with ties of love; and I was to them like those who lift up the yoke on their necks; and I bent down to him and I fed him.",
+        "5": "“They won’t return into the land of Egypt; but the Assyrian will be their king, because they refused to repent.",
+        "6": "The sword will fall on their cities, and will destroy the bars of their gates, and will put an end to their plans.",
+        "7": "My people are determined to turn from me. Though they call to the Most High, he certainly won’t exalt them.",
+        "8": "“How can I give you up, Ephraim? How can I hand you over, Israel? How can I make you like Admah? How can I make you like Zeboiim? My heart is turned within me, my compassion is aroused.",
+        "9": "I will not execute the fierceness of my anger. I will not return to destroy Ephraim, for I am God, and not man—the Holy One among you. I will not come in wrath.",
+        "10": "They will walk after Yahweh, who will roar like a lion; for he will roar, and the children will come trembling from the west.",
+        "11": "They will come trembling like a bird out of Egypt, and like a dove out of the land of Assyria; and I will settle them in their houses,” says Yahweh.",
+        "12": "Ephraim surrounds me with falsehood, and the house of Israel with deceit. Judah still strays from God, and is unfaithful to the Holy One."
+      }
+    }
+  }
+}

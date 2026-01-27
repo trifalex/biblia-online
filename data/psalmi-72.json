@@ -1,0 +1,81 @@
+{
+  "book": "Psalmi",
+  "chapter": "72",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeule, dă judecățile Tale împăratului și dă dreptatea Ta fiului împăratului!",
+        "2": "Și el va judeca pe poporul Tău cu dreptate și pe nenorociții Tăi cu nepărtinire.",
+        "3": "Munții vor aduce pace poporului și dealurile, de asemenea, ca urmare a dreptății Tale.",
+        "4": "El va face dreptate nenorociților poporului, va scăpa pe copiii săracului și va zdrobi pe asupritor.",
+        "5": "Așa că se vor teme de Tine cât va fi soarele și cât se va arăta luna, din neam în neam;",
+        "6": "va fi ca o ploaie care cade pe un pământ cosit, ca o ploaie repede care udă câmpia.",
+        "7": "În zilele lui va înflori cel neprihănit și va fi belșug de pace până nu va mai fi lună.",
+        "8": "El va stăpâni de la o mare la alta și de la râu până la marginile pământului.",
+        "9": "Locuitorii pustiei își vor pleca genunchiul înaintea lui și vrăjmașii vor linge țărâna.",
+        "10": "Împărații Tarsisului și ai ostroavelor vor plăti biruri, împărații Sebei și Sabei vor aduce daruri.",
+        "11": "Da, toți împărații se vor închina înaintea lui, toate neamurile îi vor sluji.",
+        "12": "Căci el va izbăvi pe săracul care strigă și pe nenorocitul care n-are ajutor.",
+        "13": "Va avea milă de cel nenorocit și de cel lipsit și va scăpa viața săracilor;",
+        "14": "îi va izbăvi de apăsare și de silă și sângele lor va fi scump înaintea lui.",
+        "15": "Ei vor trăi și-i vor da aur din Seba; se vor ruga neîncetat pentru el și-l vor binecuvânta în fiecare zi.",
+        "16": "Va fi belșug de grâu în țară până în vârful munților și spicele lor se vor clătina ca și copacii din Liban; oamenii vor înflori în cetăți ca iarba pământului.",
+        "17": "Numele lui va dăinui pe vecie: cât soarele îi va ține numele. Cu el se vor binecuvânta unii pe alții, și toate neamurile îl vor numi fericit.",
+        "18": "Binecuvântat să fie Domnul Dumnezeul lui Israel, singurul care face minuni!",
+        "19": "Binecuvântat să fie în veci slăvitul Lui Nume! Tot pământul să se umple de slava Lui! Amin! Amin!",
+        "20": "Sfârșitul rugăciunilor lui David, fiul lui Isai."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeule, dă judecățile Tale regelui și dreptatea Ta fiului regelui!",
+        "2": "Atunci el va judeca poporul Tău cu dreptate și pe săracii Tăi cu imparțialitate.",
+        "3": "Munții vor aduce pacea pentru popor și tot așa și dealurile, prin dreptate.",
+        "4": "El le va face dreptate celor săraci din popor, îi va salva pe fiii celui nevoiaș și îl va zdrobi pe asupritor.",
+        "5": "Ei se vor teme de Tine atât timp cât va fi soare, cât va fi lună, din generație în generație.",
+        "6": "El va fi ca ploaia care coboară peste pământul cosit, ca ploile repezi care udă pământul.",
+        "7": "În timpul vieții lui, cel drept va înflori și va fi multă pace, până când nu va mai exista luna.",
+        "8": "El va domni de la o mare la alta și de la râu până la marginile pământului.",
+        "9": "Înaintea lui se vor pleca locuitorii deșertului, iar dușmanii lui vor linge țărâna.",
+        "10": "Regi din Tarșiș și din insule se vor întoarce cu daruri, regi din Șeba și din Seba vor aduce tribut.",
+        "11": "Se vor pleca înaintea lui toți regii; toate națiunile îl vor sluji.",
+        "12": "Căci el îl va salva pe cel nevoiaș care strigă după ajutor și pe săracul lipsit de ajutor.",
+        "13": "Va avea milă de cel sărac și nevoiaș, și va salva viețile celor nevoiași.",
+        "14": "Le va răscumpăra viața de la asuprire și violență, căci sângele lor prețuiește mult în ochii lui.",
+        "15": "Să trăiască! Să i se dea din aurul Șebei! Să se roage pentru el mereu și să-l binecuvânteze toată ziua!",
+        "16": "Să fie belșug de grâne în țară, chiar și pe vârful munților! Să freamăte pomii precum cei din Liban, iar oamenii din cetăți să înflorească la fel ca iarba de pe pământ.",
+        "17": "Să-i rămână numele pe vecie! Să-i dăinuiască numele cât va fi soare! Toate națiunile vor fi binecuvântate prin el și-l vor numi fericit!",
+        "18": "Binecuvântat să fie Domnul Dumnezeu, Dumnezeul lui Israel, Singurul Care face minuni!",
+        "19": "Binecuvântat să-I fie gloriosul Nume în veci! Gloria Lui să umple întreg pământul! Amin! Amin!",
+        "20": "Aici se încheie rugăciunile lui David, fiul lui Ișai."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "God, give the king your justice; your righteousness to the royal son.",
+        "2": "He will judge your people with righteousness, and your poor with justice.",
+        "3": "The mountains shall bring prosperity to the people. The hills bring the fruit of righteousness.",
+        "4": "He will judge the poor of the people. He will save the children of the needy, and will break the oppressor in pieces.",
+        "5": "They shall fear you while the sun endures; and as long as the moon, throughout all generations.",
+        "6": "He will come down like rain on the mown grass, as showers that water the earth.",
+        "7": "In his days, the righteous shall flourish, and abundance of peace, until the moon is no more.",
+        "8": "He shall have dominion also from sea to sea, from the River to the ends of the earth.",
+        "9": "Those who dwell in the wilderness shall bow before him. His enemies shall lick the dust.",
+        "10": "The kings of Tarshish and of the islands will bring tribute. The kings of Sheba and Seba shall offer gifts.",
+        "11": "Yes, all kings shall fall down before him. All nations shall serve him.",
+        "12": "For he will deliver the needy when he cries; the poor, who has no helper.",
+        "13": "He will have pity on the poor and needy. He will save the souls of the needy.",
+        "14": "He will redeem their soul from oppression and violence. Their blood will be precious in his sight.",
+        "15": "He will live; and Sheba’s gold will be given to him. Men will pray for him continually. They will bless him all day long.",
+        "16": "Abundance of grain shall be throughout the land. Its fruit sways like Lebanon. Let it flourish, thriving like the grass of the field.",
+        "17": "His name endures forever. His name continues as long as the sun. Men shall be blessed by him. All nations will call him blessed.",
+        "18": "Praise be to Yahweh God, the God of Israel, who alone does marvelous deeds.",
+        "19": "Blessed be his glorious name forever! Let the whole earth be filled with his glory! Amen and amen.",
+        "20": "This ends the prayers by David, the son of Jesse."
+      }
+    }
+  }
+}

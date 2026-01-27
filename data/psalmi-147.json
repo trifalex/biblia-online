@@ -1,0 +1,81 @@
+{
+  "book": "Psalmi",
+  "chapter": "147",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Căci este frumos să lăudăm pe Dumnezeul nostru, căci este plăcut și se cuvine să-L lăudăm.",
+        "2": "Domnul zidește iarăși Ierusalimul, strânge pe surghiuniții lui Israel,",
+        "3": "tămăduiește pe cei cu inima zdrobită și le leagă rănile.",
+        "4": "El socotește numărul stelelor și le dă nume la toate.",
+        "5": "Mare este Domnul nostru și puternic prin tăria Lui, priceperea Lui este fără margini.",
+        "6": "Domnul sprijină pe cei nenorociți și doboară pe cei răi la pământ.",
+        "7": "Cântați Domnului cu mulțumiri, lăudați pe Dumnezeul nostru cu harpa!",
+        "8": "El acoperă cerul cu nori, pregătește ploaia pentru pământ și face să răsară iarba pe munți.",
+        "9": "El dă hrană vitelor și puilor corbului când strigă.",
+        "10": "Nu de puterea calului Se bucură El, nu-Și găsește plăcerea în picioarele omului.",
+        "11": "Domnul iubește pe cei ce se tem de El, pe cei ce nădăjduiesc în bunătatea Lui.",
+        "12": "Laudă pe Domnul, Ierusalime, laudă pe Dumnezeul tău, Sioane!",
+        "13": "Căci El întărește zăvoarele porților, El binecuvântează pe fiii tăi în mijlocul tău;",
+        "14": "El dă pace ținutului tău și te satură cu cel mai bun grâu.",
+        "15": "El Își trimite poruncile pe pământ, Cuvântul Lui aleargă cu iuțeală mare.",
+        "16": "El dă zăpada ca lâna, El presară bruma albă ca cenușa.",
+        "17": "El Își azvârle gheața în bucăți: cine poate sta înaintea frigului Său?",
+        "18": "El Își trimite Cuvântul Său și le topește; pune să sufle vântul Lui, și apele curg.",
+        "19": "El descoperă lui Iacov Cuvântul Său, lui Israel, legile și poruncile Sale.",
+        "20": "El n-a lucrat așa cu toate neamurile și ele nu cunosc poruncile Lui. Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Căci este bine să cântăm spre lauda Dumnezeului nostru! Da, cântarea de laudă este plăcută și potrivită!",
+        "2": "Domnul construiește din nou Ierusalimul și-i strânge pe cei risipiți ai lui Israel.",
+        "3": "El îi vindecă pe cei cu inima zdrobită și le leagă rănile.",
+        "4": "El calculează numărul stelelor și le cheamă pe nume pe toate.",
+        "5": "Stăpânul nostru este mare și plin de putere; priceperea Sa nu are margini!",
+        "6": "Domnul îi ridică pe cei smeriți, dar pe cei răi îi apleacă până la pământ.",
+        "7": "Cântați Domnului cu mulțumire! Cântați spre lauda Dumnezeului nostru cu lira!",
+        "8": "El acoperă cerul cu nori, pregătește ploaia pentru pământ și face să răsară iarba pe munți.",
+        "9": "El le dă hrană vitelor și hrănește puii de corb când aceștia strigă.",
+        "10": "Nu de puterea calului se bucură El; nu în picioarele omului Își găsește El plăcerea.",
+        "11": "Domnul Își găsește plăcerea în cei ce se tem de El, în cei ce își pun speranța în îndurarea Lui.",
+        "12": "Adu laudă Domnului, Ierusalime! Laudă-L pe Dumnezeul tău, Sionule!",
+        "13": "Căci El întărește zăvoarele porților tale și îți binecuvântează fiii în mijlocul tău.",
+        "14": "El dă pace în teritoriile tale și te satură cu cel mai ales grâu.",
+        "15": "El Își trimite porunca pe pământ; Cuvântul Lui aleargă repede.",
+        "16": "El așterne zăpada ca lâna și presară bruma precum cenușa.",
+        "17": "El Își azvârle gheața în bucăți; cine poate sta înaintea frigului Său?",
+        "18": "Apoi Își trimite Cuvântul și le topește; când Își pune vântul să sufle, apele curg.",
+        "19": "A făcut cunoscute cuvintele Sale lui Iacov și a descoperit hotărârile și judecățile Sale lui Israel.",
+        "20": "El n-a lucrat așa cu niciuna dintre națiuni, și ele nu cunosc judecățile Lui. Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him.",
+        "2": "Yahweh builds up Jerusalem. He gathers together the outcasts of Israel.",
+        "3": "He heals the broken in heart, and binds up their wounds.",
+        "4": "He counts the number of the stars. He calls them all by their names.",
+        "5": "Great is our Lord, and mighty in power. His understanding is infinite.",
+        "6": "Yahweh upholds the humble. He brings the wicked down to the ground.",
+        "7": "Sing to Yahweh with thanksgiving. Sing praises on the harp to our God,",
+        "8": "who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains.",
+        "9": "He provides food for the livestock, and for the young ravens when they call.",
+        "10": "He doesn’t delight in the strength of the horse. He takes no pleasure in the legs of a man.",
+        "11": "Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness.",
+        "12": "Praise Yahweh, Jerusalem! Praise your God, Zion!",
+        "13": "For he has strengthened the bars of your gates. He has blessed your children within you.",
+        "14": "He makes peace in your borders. He fills you with the finest of the wheat.",
+        "15": "He sends out his commandment to the earth. His word runs very swiftly.",
+        "16": "He gives snow like wool, and scatters frost like ashes.",
+        "17": "He hurls down his hail like pebbles. Who can stand before his cold?",
+        "18": "He sends out his word, and melts them. He causes his wind to blow, and the waters flow.",
+        "19": "He shows his word to Jacob, his statutes and his ordinances to Israel.",
+        "20": "He has not done this for just any nation. They don’t know his ordinances. Praise Yah!"
+      }
+    }
+  }
+}

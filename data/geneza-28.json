@@ -1,0 +1,87 @@
+{
+  "book": "GEN",
+  "chapter": "28",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Isaac a chemat pe Iacov, l-a binecuvântat și i-a dat porunca aceasta: \"Să nu-ți iei nevastă dintre fetele lui Canaan.",
+        "2": "Scoală-te, du-te la Padan-Aram, în casa lui Betuel, tatăl mamei tale, și ia-ți de acolo o nevastă dintre fetele lui Laban, fratele mamei tale.",
+        "3": "Dumnezeul cel Atotputernic să te binecuvânteze, să te facă să crești și să te înmulțești, ca să ajungi o ceată de noroade!",
+        "4": "Să-ți dea binecuvântarea lui Avraam, ție și seminței tale cu tine, ca să stăpânești țara în care locuiești ca străin și pe care a dat-o lui Avraam.\"",
+        "5": "Și Isaac a trimis pe Iacov, care s-a dus la Padan-Aram, la Laban, fiul lui Betuel, Arameul, fratele Rebecăi, mama lui Iacov și a lui Esau.",
+        "6": "Esau a văzut că Isaac binecuvântase pe Iacov și-l trimisese la Padan-Aram, ca să-și ia nevastă de acolo, și că, binecuvântându-l, îi dăduse porunca aceasta: \"Să nu-ți iei nevastă dintre fetele lui Canaan.\"",
+        "7": "A văzut că Iacov ascultase de tatăl său și de mama sa și plecase la Padan-Aram.",
+        "8": "Esau a înțeles astfel că fetele lui Canaan nu-i plăceau tatălui său Isaac.",
+        "9": "Și Esau s-a dus la Ismael. El a mai luat de nevastă, pe lângă nevestele pe care le avea, pe Mahalat, fata lui Ismael, fiul lui Avraam, și sora lui Nebaiot.",
+        "10": "Iacov a plecat din Beer-Șeba și și-a luat drumul spre Haran.",
+        "11": "A ajuns într-un loc unde a rămas peste noapte, căci asfințise soarele. A luat o piatră de acolo, a pus-o căpătâi și s-a culcat în locul acela.",
+        "12": "Și a visat o scară rezemată de pământ, al cărei vârf ajungea până la cer. Îngerii lui Dumnezeu se suiau și se coborau pe scara aceea.",
+        "13": "Și Domnul stătea deasupra ei și zicea: \"Eu sunt Domnul Dumnezeul tatălui tău Avraam și Dumnezeul lui Isaac. Pământul pe care ești culcat ți-l voi da ție și seminței tale.",
+        "14": "Sămânța ta va fi ca pulberea pământului; te vei întinde la apus și la răsărit, la miazănoapte și la miazăzi și toate familiile pământului vor fi binecuvântate în tine și în sămânța ta.",
+        "15": "Iată, Eu sunt cu tine; te voi păzi pretutindeni pe unde vei merge și te voi aduce înapoi în țara aceasta, căci nu te voi părăsi până nu voi împlini ce-ți spun.\"",
+        "16": "Iacov s-a trezit din somn și a zis: \"Cu adevărat, Domnul este în locul acesta, și eu n-am știut.\"",
+        "17": "I-a fost frică și a zis: \"Cât de înfricoșat este locul acesta! Aici este casa lui Dumnezeu, aici este poarta cerurilor!\"",
+        "18": "Și Iacov s-a sculat dis-de-dimineață, a luat piatra pe care o pusese căpătâi, a pus-o ca stâlp de aducere aminte și a turnat untdelemn pe vârful ei.",
+        "19": "A dat locului acestuia numele Betel, dar mai înainte cetatea se chema Luz.",
+        "20": "Iacov a făcut o juruință și a zis: \"Dacă va fi Dumnezeu cu mine și mă va păzi în timpul călătoriei pe care o fac, dacă-mi va da pâine să mănânc și haine să mă îmbrac",
+        "21": "și dacă mă voi întoarce în pace în casa tatălui meu, atunci Domnul va fi Dumnezeul meu;",
+        "22": "piatra aceasta pe care am pus-o ca stâlp de aducere aminte va fi casa lui Dumnezeu și Îți voi da a zecea parte din tot ce-mi vei da.\""
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Isaac l-a chemat pe Iacov, l-a binecuvântat și i-a poruncit, zicându-i: \"Să nu-ți iei o soție dintre fetele lui Canaan.",
+        "2": "Ridică-te, du-te în Padan-Aram, în casa lui Betuel, tatăl mamei tale, și ia-ți de acolo o soție dintre fetele lui Laban, fratele mamei tale.",
+        "3": "Dumnezeul cel Atotputernic să te binecuvânteze, să te facă roditor și să te înmulțească, pentru ca să ajungi o mulțime de popoare.",
+        "4": "El să-ți dea, ție și urmașilor tăi, binecuvântarea promisă lui Avraam, pentru ca să stăpânești țara în care locuiești ca străin, țara pe care Dumnezeu i-a dat-o lui Avraam\".",
+        "5": "Astfel, Isaac l-a trimis pe Iacov, iar acesta s-a dus în Padan-Aram, la Laban, fiul arameului Betuel și fratele Rebecăi, mama lui Iacov și a lui Esau.",
+        "6": "Esau a văzut că Isaac l-a binecuvântat pe Iacov și l-a trimis în Padan-Aram ca să-și ia o soție de acolo și că, atunci când l-a binecuvântat, i-a poruncit, zicând: \"Să nu-ți iei o soție dintre fetele lui Canaan\".",
+        "7": "El a văzut că Iacov i-a ascultat pe tatăl său și pe mama sa și s-a dus în Padan-Aram.",
+        "8": "Esau a văzut astfel că tatălui său, Isaac, nu-i plăceau fetele lui Canaan.",
+        "9": "Prin urmare, Esau s-a dus la Ismael și a luat-o de soție pe Mahalat, sora lui Nebaiot și fata lui Ismael, fiul lui Avraam, pe lângă soțiile pe care le avea.",
+        "10": "Iacov a ieșit din Beer-Șeba și s-a îndreptat spre Haran.",
+        "11": "A ajuns într-un anumit loc și, pentru că soarele asfințise, a înnoptat acolo. A luat una dintre pietrele locului, și-a pus-o sub cap și s-a culcat în locul acela.",
+        "12": "El a avut un vis: iată că o scară era rezemată de pământ, iar capătul ei atingea cerurile. Și, iată că îngerii lui Dumnezeu se suiau și coborau pe ea,",
+        "13": "iar Domnul stătea deasupra ei. El a zis: \"Eu sunt Domnul, Dumnezeul tatălui tău, Avraam, și Dumnezeul lui Isaac. Pământul pe care ești culcat ți-l voi da ție și urmașilor tăi.",
+        "14": "Urmașii tăi vor fi ca pulberea pământului și te vei întinde spre vest și spre est, spre nord și spre sud. Toate familiile pământului vor fi binecuvântate prin tine și prin urmașii tăi.",
+        "15": "Iată că Eu sunt cu tine, te voi păzi oriunde vei merge și te voi aduce înapoi în această țară. Nu te voi părăsi până nu voi împlini ceea ce ți-am promis\".",
+        "16": "Când s-a trezit din somn, Iacov a zis: \"Cu siguranță Domnul este în acest loc, iar eu n-am știut!\".",
+        "17": "El s-a temut și a zis: \"Cât de înfricoșător este acest loc! Aceasta nu este altceva decât Casa lui Dumnezeu! Aceasta este poarta cerurilor!\".",
+        "18": "Iacov s-a sculat dimineața, a luat piatra care fusese sub capul lui, a ridicat-o ca stâlp și a turnat ulei pe vârful ei.",
+        "19": "El a numit acel loc \"Betel\", deși înainte, numele cetății era Luz.",
+        "20": "Apoi Iacov a făcut un jurământ, zicând: \"Dacă Dumnezeu va fi cu mine, dacă mă va păzi în această călătorie pe care o fac și îmi va da pâine să mănânc și haine să mă îmbrac,",
+        "21": "astfel încât mă voi întoarce în pace acasă la tatăl meu, atunci Domnul va fi Dumnezeul meu,",
+        "22": "iar această piatră, pe care am așezat-o ca stâlp, va fi «Casa lui Dumnezeu». Și din tot ceea ce îmi vei da, Îți voi da cu siguranță a zecea parte\"."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Isaac called Jacob, blessed him, and commanded him, \"You shall not take a wife of the daughters of Canaan.",
+        "2": "Arise, go to Paddan Aram, to the house of Bethuel your mother's father. Take a wife from there from the daughters of Laban, your mother's brother.",
+        "3": "May God Almighty bless you, and make you fruitful, and multiply you, that you may be a company of peoples,",
+        "4": "and give you the blessing of Abraham, to you and to your offspring with you, that you may inherit the land where you travel, which God gave to Abraham.\"",
+        "5": "Isaac sent Jacob away. He went to Paddan Aram to Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother.",
+        "6": "Now Esau saw that Isaac had blessed Jacob and sent him away to Paddan Aram, to take him a wife from there, and that as he blessed him he gave him a command, saying, \"You shall not take a wife of the daughters of Canaan;\"",
+        "7": "and that Jacob obeyed his father and his mother, and was gone to Paddan Aram.",
+        "8": "Esau saw that the daughters of Canaan didn't please Isaac, his father.",
+        "9": "So Esau went to Ishmael, and took, in addition to the wives that he had, Mahalath the daughter of Ishmael, Abraham's son, the sister of Nebaioth, to be his wife.",
+        "10": "Jacob went out from Beersheba, and went toward Haran.",
+        "11": "He came to a certain place, and stayed there all night, because the sun had set. He took one of the stones of the place, and put it under his head, and lay down in that place to sleep.",
+        "12": "He dreamed and saw a stairway set upon the earth, and its top reached to heaven. Behold, the angels of God were ascending and descending on it.",
+        "13": "Behold, Yahweh stood above it, and said, \"I am Yahweh, the God of Abraham your father, and the God of Isaac. I will give the land you lie on to you and to your offspring.",
+        "14": "Your offspring will be as the dust of the earth, and you will spread abroad to the west, and to the east, and to the north, and to the south. In you and in your offspring, all the families of the earth will be blessed.",
+        "15": "Behold, I am with you, and will keep you, wherever you go, and will bring you again into this land. For I will not leave you until I have done that which I have spoken of to you.\"",
+        "16": "Jacob awakened out of his sleep, and he said, \"Surely Yahweh is in this place, and I didn't know it.\"",
+        "17": "He was afraid, and said, \"How awesome this place is! This is none other than God's house, and this is the gate of heaven.\"",
+        "18": "Jacob rose up early in the morning, and took the stone that he had put under his head, and set it up for a pillar, and poured oil on its top.",
+        "19": "He called the name of that place Bethel, but the name of the city was Luz at the first.",
+        "20": "Jacob vowed a vow, saying, \"If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and clothing to put on,",
+        "21": "so that I come again to my father's house in peace, and Yahweh will be my God,",
+        "22": "then this stone, which I have set up for a pillar, will be God's house. Of all that you will give me I will surely give a tenth to you.\""
+      }
+    }
+  }
+}

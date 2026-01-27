@@ -1,0 +1,51 @@
+{
+    "book": "Ezechiel",
+    "chapter": "2",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "El mi-a zis: „Fiul omului, stai în picioare și-ți voi vorbi!”",
+                "2": "Cum mi-a vorbit aceste cuvinte, a intrat duh în mine și m-a făcut să stau pe picioare; și am ascultat la Cel ce-mi vorbea.",
+                "3": "El mi-a zis: „Fiul omului, te trimit la copiii lui Israel, la aceste popoare îndărătnice, care s-au răzvrătit împotriva Mea; ei și părinții lor au păcătuit împotriva Mea până în ziua de azi.",
+                "4": "Da, copiii aceștia la care te trimit sunt nerușinați și cu inima împietrită. Tu să le spui: ‘Așa vorbește Domnul Dumnezeu!’",
+                "5": "Fie că vor asculta, fie că nu vor asculta – căci sunt o casă de îndărătnici –, vor ști totuși că în mijlocul lor este un proroc.",
+                "6": "Tu, fiu al omului, să nu te temi de ei, nici să nu te sperii de cuvintele lor și, măcar că ei sunt niște mărăcini și spini lângă tine și măcar că locuiești împreună cu niște scorpii, totuși nu te teme de cuvintele lor și nu te înspăimânta de fețele lor, căci sunt o casă de îndărătnici.",
+                "7": "Ci să le spui cuvintele Mele, fie că vor asculta, fie că nu vor asculta, căci sunt niște îndărătnici!",
+                "8": "Tu însă, fiul omului, ascultă ce-ți spun! Nu fi îndărătnic, ca această casă de îndărătnici! Deschide-ți gura și mănâncă ce-ți voi da!”",
+                "9": "M-am uitat și iată că o mână era întinsă spre mine și ținea o carte în chip de sul.",
+                "10": "A desfășurat-o înaintea mea și era scrisă și pe dinăuntru, și pe dinafară; în ea erau scrise bocete, plângeri și gemete."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "El mi-a zis: „Fiul omului, stai în picioare și-ți voi vorbi!“.",
+                "2": "În timp ce-mi vorbea, Duhul a intrat în mine și m-a făcut să stau în picioare. Și am început să-L ascult pe Cel Ce-mi vorbea.",
+                "3": "El mi-a zis: „Fiul omului, Eu te trimit la fiii lui Israel, la națiuni răzvrătite care s-au răzvrătit împotriva Mea! Atât ei, cât și strămoșii lor, s-au răzvrătit împotriva Mea până în ziua aceasta.",
+                "4": "Fiii la care te trimit Eu au fețe aspre și inimi împietrite. Tu, dar să le spui: «Așa vorbește Stăpânul Domn!».",
+                "5": "Atunci, fie că vor asculta, fie că nu vor asculta, căci sunt o Casă răzvrătită, vor ști totuși că în mijlocul lor se află un profet.",
+                "6": "Cât despre tine, fiul omului, să nu te temi de ei și nici de cuvintele lor să nu-ți fie teamă! Chiar dacă spinii și mărăcinii cresc lângă tine și chiar dacă locuiești printre scorpioni, să nu te temi de cuvintele lor și să nu te înspăimânți de fețele lor, căci ei sunt o Casă răzvrătită.",
+                "7": "Să le vorbești cuvintele Mele, fie că vor asculta, fie că nu vor asculta – căci ei sunt niște răzvrătiți.",
+                "8": "Totodată, fiul omului, ascultă ce am să-ți spun! Nu fi răzvrătit ca această Casă răzvrătită! Deschide gura și mănâncă ceea ce-ți voi da!“",
+                "9": "M-am uitat și iată că o mână era întinsă spre mine, iar în ea am văzut sulul unei cărți.",
+                "10": "El l-a desfășurat înaintea mea. Sulul era scris pe ambele părți, fiind plin de plângeri, bocete și vaiete."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "He said to me, “Son of man, stand on your feet, and I will speak with you.”",
+                "2": "The Spirit entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me.",
+                "3": "He said to me, “Son of man, I send you to the children of Israel, to a nation of rebels who have rebelled against me. They and their fathers have transgressed against me even to this very day.",
+                "4": "The children are impudent and stiff-hearted. I am sending you to them, and you shall tell them, ‘This is what the Lord Yahweh says.’",
+                "5": "They, whether they will hear, or whether they will refuse—for they are a rebellious house—yet they will know that there has been a prophet among them.",
+                "6": "You, son of man, don’t be afraid of them, neither be afraid of their words, though briers and thorns are with you, and you dwell among scorpions. Don’t be afraid of their words, nor be dismayed at their looks, though they are a rebellious house.",
+                "7": "You shall speak my words to them, whether they will hear or whether they will refuse; for they are most rebellious.",
+                "8": "But you, son of man, hear what I tell you. Don’t be rebellious like that rebellious house. Open your mouth, and eat that which I give you.”",
+                "9": "When I looked, behold, a hand was stretched out to me; and behold, a scroll of a book was in it.",
+                "10": "He spread it before me. It was written within and without; and lamentations, mourning, and woe were written in it."
+            }
+        }
+    }
+}

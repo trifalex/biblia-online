@@ -1,0 +1,60 @@
+{
+  "book": "Psalmi",
+  "chapter": "56",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ai milă de mine, Dumnezeule, căci niște oameni mă hărțuiesc! Toată ziua îmi fac război și mă chinuiesc.",
+        "2": "Toată ziua mă hărțuiesc potrivnicii mei; sunt mulți și se războiesc cu mine ca niște trufași.",
+        "3": "Ori de câte ori mă tem, eu mă încred în Tine.",
+        "4": "Eu mă voi lăuda cu Dumnezeu, cu Cuvântul Lui. Mă încred în Dumnezeu și nu mă tem de nimic. Ce pot să-mi facă niște oameni?",
+        "5": "Întruna ei îmi ating drepturile și n-au decât gânduri rele față de mine.",
+        "6": "Uneltesc, pândesc și îmi urmăresc pașii, pentru că vor să-mi ia viața.",
+        "7": "Ei trag nădejde să scape prin nelegiuirea lor: doboară popoarele, Dumnezeule, în mânia Ta!",
+        "8": "Tu numeri pașii vieții mele de pribeag; pune-mi lacrimile în burduful Tău! Nu sunt ele scrise în cartea Ta?",
+        "9": "Vrăjmașii mei dau înapoi în ziua când Te strig: știu că Dumnezeu este de partea mea.",
+        "10": "Eu mă voi lăuda cu Dumnezeu, cu Cuvântul Lui, da, mă voi lăuda cu Domnul, cu Cuvântul Lui.",
+        "11": "Mă încred în Dumnezeu și nu mă tem de nimic. Ce pot să-mi facă niște oameni?",
+        "12": "Dumnezeule, trebuie să împlinesc juruințele pe care Ți le-am făcut; Îți voi aduce jertfe de mulțumire.",
+        "13": "Căci mi-ai izbăvit sufletul de la moarte, mi-ai ferit picioarele de cădere, ca să umblu înaintea lui Dumnezeu, în lumina celor vii."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Arată-Ți bunăvoința față de mine, Dumnezeule, căci niște oameni mă hărțuiesc; niște luptători mă asupresc toată ziua.",
+        "2": "Cei ce mă pândesc mă hărțuiesc toată ziua. Într-adevăr, mulți sunt cei ce luptă împotriva mea cu mândrie,",
+        "3": "dar, când mi-e teamă, mă încred în Tine.",
+        "4": "În Dumnezeu, al Cărui Cuvânt îl laud, în Dumnezeu mă încred și nu mă tem! Ce poate să-mi facă omul?",
+        "5": "Toată ziua ei îmi răstălmăcesc cuvintele; toate gândurile lor sunt împotriva mea, ca să-mi facă rău.",
+        "6": "Conspiră, pândesc, îmi urmăresc pașii, sperând să-mi ia viața.",
+        "7": "Oare să scape ei prin nelegiuire? Dumnezeule, doboară popoarele cu mânie!",
+        "8": "Tu numeri zilele peregrinării mele; adună-mi lacrimile în burduful Tău!",
+        "9": "Dușmanii mei vor fugi când voi striga. Știu un lucru: că Dumnezeu este de partea mea.",
+        "10": "În Dumnezeu, al Cărui Cuvânt îl laud, în Domnul, al Cărui Cuvânt îl laud,",
+        "11": "în Dumnezeu mă încred și nu mă tem. Ce poate să-mi facă un om?",
+        "12": "Dumnezeule, sunt legat de Tine prin jurăminte; Îți voi aduce jertfe de mulțumire,",
+        "13": "căci mi-ai salvat sufletul de la moarte, și picioarele de cădere, ca să pot umbla înaintea lui Dumnezeu în lumina vieții."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Be merciful to me, God, for man wants to swallow me up. All day long, he attacks and oppresses me.",
+        "2": "My enemies want to swallow me up all day long, for they are many who fight proudly against me.",
+        "3": "When I am afraid, I will put my trust in you.",
+        "4": "In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?",
+        "5": "All day long they twist my words. All their thoughts are against me for evil.",
+        "6": "They conspire and lurk, watching my steps. They are eager to take my life.",
+        "7": "Shall they escape by iniquity? In anger cast down the peoples, God.",
+        "8": "You count my wanderings. You put my tears into your container. Aren’t they in your book?",
+        "9": "Then my enemies shall turn back in the day that I call. I know this: that God is for me.",
+        "10": "In God, I will praise his word. In Yahweh, I will praise his word.",
+        "11": "I have put my trust in God. I will not be afraid. What can man do to me?",
+        "12": "Your vows are on me, God. I will give thank offerings to you.",
+        "13": "For you have delivered my soul from death, and prevented my feet from falling, that I may walk before God in the light of the living."
+      }
+    }
+  }
+}

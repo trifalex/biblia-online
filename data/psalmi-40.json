@@ -1,0 +1,72 @@
+{
+  "book": "Psalmi",
+  "chapter": "40",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Îmi pusesem nădejdea în Domnul, și El S-a plecat spre mine, mi-a ascultat strigătele.",
+        "2": "M-a scos din groapa pieirii, din fundul mocirlei; mi-a pus picioarele pe stâncă și mi-a întărit pașii.",
+        "3": "Mi-a pus în gură o cântare nouă, o laudă pentru Dumnezeul nostru. Mulți au văzut lucrul acesta, s-au temut și s-au încrezut în Domnul.",
+        "4": "Ferice de omul care își pune încrederea în Domnul și care nu se îndreaptă spre cei trufași și mincinoși!",
+        "5": "Doamne Dumnezeule, multe sunt minunile și planurile Tale pentru mine: nimeni nu se poate asemăna cu Tine. Aș vrea să le vestesc și să le trâmbițez, dar numărul lor este prea mare ca să le povestesc.",
+        "6": "Tu nu dorești nici jertfă, nici dar de mâncare, ci mi-ai străpuns urechile; nu ceri nici ardere-de-tot, nici jertfă de ispășire.",
+        "7": "Atunci am zis: „Iată-mă că vin! – În sulul cărții este scris despre mine. –",
+        "8": "Vreau să fac voia Ta, Dumnezeule! Și Legea Ta este în fundul inimii mele.”",
+        "9": "Vestesc îndurarea Ta în adunarea cea mare; iată că nu-mi închid buzele. Tu știi lucrul acesta, Doamne!",
+        "10": "Nu țin în inima mea îndurarea Ta, ci vestesc adevărul tău și mântuirea Ta și nu ascund bunătatea și credincioșia Ta în adunarea cea mare.",
+        "11": "Tu, Doamne, nu-mi vei opri îndurările Tale, ci bunătatea și credincioșia Ta mă vor păzi totdeauna.",
+        "12": "Căci rele fără număr mă împresoară, m-au ajuns pedepsele pentru nelegiuirile mele și nu le mai pot suferi vederea. Sunt mai multe decât perii capului meu și mi se înmoaie inima.",
+        "13": "Izbăvește-mă, Doamne! Vino, Doamne, degrabă în ajutorul meu!",
+        "14": "Să fie rușinați și înfruntați toți cei ce vor să-mi ia viața! Să dea înapoi și să roșească de rușine cei ce-mi doresc pierzarea!",
+        "15": "Să rămână înlemniți de rușinea lor cei ce-mi zic: „Ha! Ha!”",
+        "16": "Să se bucure și să se veselească în Tine toți cei ce Te caută! Cei ce iubesc mântuirea Ta să zică fără încetare: „Mărit să fie Domnul!”",
+        "17": "Eu sunt sărac și lipsit, dar Domnul Se gândește la mine. Tu ești ajutorul și izbăvitorul meu: nu zăbovi, Dumnezeule!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Mi-am pus speranța în Domnul, iar El S-a aplecat înspre mine și a auzit strigătul meu după ajutor.",
+        "2": "M-a scos din groapa pieirii, din murdăria mocirlei. Mi-a așezat piciorul pe stâncă și mi-a întărit pașii.",
+        "3": "Mi-a pus în gură o cântare nouă, o laudă pentru Dumnezeul nostru. Mulți vor vedea, se vor teme și se vor încrede în Domnul.",
+        "4": "Ferice de omul care se încrede în Domnul, care nu se abate spre cei mândri și nici spre cei ce se duc după idoli.",
+        "5": "Doamne, Dumnezeul meu, multe sunt minunile și planurile Tale pe care le-ai făcut față de noi! Nimeni nu se poate asemăna cu Tine! Aș dori să le vestesc și să vorbesc despre ele, dar sunt prea multe ca să le istorisesc!",
+        "6": "Tu n-ai dorit jertfă și dar de mâncare, ci mi-ai străpuns urechile. Tu n-ai cerut ardere-de-tot și jertfă pentru păcat.",
+        "7": "Atunci am zis: „Iată că vin! În sulul cărții este scris despre mine.",
+        "8": "Îmi găsesc plăcerea în a face voia Ta, Dumnezeul meu. Legea Ta este în adâncul ființei mele“.",
+        "9": "Vestesc dreptatea în adunarea cea mare; nu-mi închid buzele! Doamne, Tu știi lucrul acesta.",
+        "10": "Nu ascund dreptatea Ta în inima mea, ci vorbesc despre credincioșia și mântuirea Ta, nu acopăr îndurarea și adevărul Tău în adunarea cea mare.",
+        "11": "Doamne, nu înceta să mai ai milă de mine! Fie ca îndurarea Ta și adevărul Tău să mă păzească întotdeauna!",
+        "12": "Căci rele fără număr m-au înconjurat; nelegiuirile mele m-au copleșit și nu mai sunt în stare să văd; sunt mai multe decât perii capului meu și-mi înmoaie inima.",
+        "13": "Binevoiește, Doamne, să mă eliberezi! Doamne, vino degrabă în ajutorul meu!",
+        "14": "Să fie făcuți de rușine și umiliți toți cei ce încearcă să-mi spulbere viața! Să dea înapoi și să fie umiliți cei ce-mi doresc răul!",
+        "15": "Să rămână înmărmuriți din cauza rușinii lor cei ce-mi zic: „Ha! Ha!“.",
+        "16": "Să tresalte de veselie și să se bucure în Tine toți cei ce Te caută! Cei ce iubesc mântuirea Ta să zică întotdeauna: „Mărit să fie Domnul!“.",
+        "17": "Eu sunt sărac și nevoiaș. Stăpânul Se va gândi la mine. Tu ești ajutorul și eliberatorul meu! Dumnezeul meu, nu întârzia!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I waited patiently for Yahweh. He turned to me, and heard my cry.",
+        "2": "He brought me up also out of a horrible pit, out of the miry clay. He set my feet on a rock, and gave me a firm place to stand.",
+        "3": "He has put a new song in my mouth, even praise to our God. Many shall see it, and fear, and shall trust in Yahweh.",
+        "4": "Blessed is the man who makes Yahweh his trust, and doesn’t respect the proud, nor such as turn away to lies.",
+        "5": "Many, Yahweh, my God, are the wonderful works which you have done, and your thoughts which are toward us. They can’t be declared back to you. If I would declare and speak of them, they are more than can be counted.",
+        "6": "Sacrifice and offering you didn’t desire. You have opened my ears. You have not required burnt offering and sin offering.",
+        "7": "Then I said, “Behold, I have come. It is written about me in the book in the scroll.",
+        "8": "I delight to do your will, my God. Yes, your law is within my heart.”",
+        "9": "I have proclaimed glad news of righteousness in the great assembly. Behold, I will not seal my lips, Yahweh, you know.",
+        "10": "I have not hidden your righteousness within my heart. I have declared your faithfulness and your salvation. I have not concealed your loving kindness and your truth from the great assembly.",
+        "11": "Don’t withhold your tender mercies from me, Yahweh. Let your loving kindness and your truth continually preserve me.",
+        "12": "For innumerable evils have surrounded me. My iniquities have overtaken me, so that I am not able to look up. They are more than the hairs of my head. My heart has failed me.",
+        "13": "Be pleased, Yahweh, to deliver me. Hurry to help me, Yahweh.",
+        "14": "Let them be disappointed and confounded together who seek after my soul to destroy it. Let them be turned backward and brought to dishonor who delight in my hurt.",
+        "15": "Let them be desolate by reason of their shame that tell me, “Aha! Aha!”",
+        "16": "Let all those who seek you rejoice and be glad in you. Let such as love your salvation say continually, “Let Yahweh be exalted!”",
+        "17": "But I am poor and needy. May the Lord think about me. You are my help and my deliverer. Don’t delay, my God."
+      }
+    }
+  }
+}

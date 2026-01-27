@@ -1,0 +1,87 @@
+{
+  "book": "Plangerile lui Ieremia",
+  "chapter": "5",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Adu-Ți aminte, Doamne, de ce ni s-a întâmplat! Uită-Te și vezi-ne ocara!",
+        "2": "Moștenirea noastră a trecut la niște străini, casele noastre, la cei din alte țări!",
+        "3": "Am rămas orfani, fără tată; mamele noastre sunt ca niște văduve.",
+        "4": "Apa noastră o bem pe bani, și lemnele noastre trebuie să le plătim.",
+        "5": "Prigonitorii ne urmăresc cu îndârjire și, când obosim, nu ne dau odihnă.",
+        "6": "Am întins mâna spre Egipt, spre Asiria, ca să ne săturăm de pâine.",
+        "7": "Părinții noștri, care au păcătuit, nu mai sunt, iar noi le purtăm păcatele.",
+        "8": "Robii ne stăpânesc, și nimeni nu ne izbăvește din mâinile lor.",
+        "9": "Ne căutăm pâinea cu primejdia vieții noastre, căci ne amenință sabia în pustie.",
+        "10": "Ne arde pielea ca un cuptor de frigurile foamei.",
+        "11": "Au necinstit pe femei în Sion, pe fecioare în cetățile lui Iuda.",
+        "12": "Mai-marii noștri au fost spânzurați de mâinile lor. Bătrânilor nu le-au dat nicio cinste.",
+        "13": "Tinerii au fost puși să râșnească și copiii cădeau sub poverile de lemn.",
+        "14": "Bătrânii nu se mai duc la poartă și tinerii au încetat să mai cânte.",
+        "15": "S-a dus bucuria din inimile noastre și jalea a luat locul jocurilor noastre.",
+        "16": "A căzut cununa de pe capul nostru! Vai de noi, căci am păcătuit!",
+        "17": "Dacă ne doare inima, dacă ni s-au întunecat ochii,",
+        "18": "este din pricină că muntele Sionului este pustiit, din pricină că se plimbă șacalii prin el.",
+        "19": "Dar Tu, Doamne, împărățești pe vecie; scaunul Tău de domnie dăinuiește din neam în neam!",
+        "20": "Pentru ce să ne uiți pe vecie și să ne părăsești pentru multă vreme?",
+        "21": "Întoarce-ne la Tine, Doamne, și ne vom întoarce! Dă-ne iarăși zile ca cele de odinioară!",
+        "22": "Să ne fi lepădat Tu de tot oare și să Te fi mâniat Tu pe noi peste măsură de mult?"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Adu-Ți aminte, Doamne, de ce ni s-a întâmplat! Uită-Te și vezi disprețul nostru!",
+        "2": "Moștenirea noastră s-a dus la necunoscuți, iar casele noastre – la străini.",
+        "3": "Am ajuns orfani de tată, iar mamele noastre sunt ca niște văduve.",
+        "4": "Apa noastră o bem pe bani, iar lemnele noastre trebuie să le cumpărăm.",
+        "5": "Cei ce ne urmăresc sunt chiar în spatele nostru. Suntem obosiți, dar nu suntem lăsați să ne odihnim.",
+        "6": "Am dat mâna cu Egiptul și cu Asiria, ca să ne săturăm cu pâine.",
+        "7": "Părinții noștri au păcătuit și nu mai sunt, iar noi purtăm pedeapsa pentru nelegiuirea lor.",
+        "8": "Sclavii stăpânesc peste noi și nimeni nu ne eliberează din mâna lor.",
+        "9": "Ne câștigăm pâinea riscându-ne viața din cauza sabiei din deșert.",
+        "10": "Ne arde pielea ca un cuptor, de febra cauzată de foame.",
+        "11": "Le-au dezonorat pe femei în Sion, și pe fecioare în cetățile lui Iuda.",
+        "12": "Prinții au fost spânzurați de mâinile lor, iar bătrânilor nu li s-a dat cinste.",
+        "13": "Tinerii trudesc la piatra de moară, iar copiii cad sub poverile de lemne.",
+        "14": "Bătrânii nu mai vin la poarta cetății, iar tinerii au încetat să mai cânte.",
+        "15": "A încetat bucuria inimii noastre, iar dansul nostru s-a transformat în bocet.",
+        "16": "A căzut coroana de pe capul nostru. Vai de noi, căci am păcătuit!",
+        "17": "Iată de ce ne leșină inima, iată de ce ni s-au întunecat ochii:",
+        "18": "muntele Sion a ajuns pustiit; se plimbă șacalii pe el.",
+        "19": "Doamne, Tu împărățești veșnic. Tronul Tău dăinuie din generație în generație.",
+        "20": "De ce să ne uiți pentru totdeauna? De ce să ne părăsești pentru atât de multe zile?",
+        "21": "Întoarce-ne la Tine, Doamne, ca astfel să ne întoarcem! Dă-ne iarăși zile precum cele din trecut!",
+        "22": "Să ne fi respins Tu oare de tot și să Te fi mâniat Tu pe noi peste măsură?"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Remember, Yahweh, what has come on us. Look, and see our reproach.",
+        "2": "Our inheritance has been turned over to strangers, our houses to aliens.",
+        "3": "We are orphans and fatherless. Our mothers are as widows.",
+        "4": "We must pay for water to drink. Our wood is sold to us.",
+        "5": "Our pursuers are on our necks. We are weary, and have no rest.",
+        "6": "We have given our hands to the Egyptians, and to the Assyrians, to be satisfied with bread.",
+        "7": "Our fathers sinned, and are no more. We have borne their iniquities.",
+        "8": "Servants rule over us. There is no one to deliver us out of their hand.",
+        "9": "We get our bread at the peril of our lives, because of the sword in the wilderness.",
+        "10": "Our skin is black like an oven, because of the burning heat of famine.",
+        "11": "They ravished the women in Zion, the virgins in the cities of Judah.",
+        "12": "Princes were hanged up by their hands. The faces of elders were not honored.",
+        "13": "The young men carry millstones. The children stumbled under loads of wood.",
+        "14": "The elders have ceased from the gate, and the young men from their music.",
+        "15": "The joy of our heart has ceased. Our dance is turned into mourning.",
+        "16": "The crown has fallen from our head. Woe to us, for we have sinned!",
+        "17": "For this our heart is faint. For these things our eyes are dim:",
+        "18": "for the mountain of Zion, which is desolate. The foxes walk on it.",
+        "19": "You, Yahweh, remain forever. Your throne is from generation to generation.",
+        "20": "Why do you forget us forever, and forsake us for so long a time?",
+        "21": "Turn us to yourself, Yahweh, and we will be turned. Renew our days as of old.",
+        "22": "But you have utterly rejected us. You are very angry against us."
+      }
+    }
+  }
+}

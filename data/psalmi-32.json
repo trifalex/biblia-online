@@ -1,0 +1,54 @@
+{
+  "book": "Psalmi",
+  "chapter": "32",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ferice de cel cu fărădelegea iertată și de cel cu păcatul acoperit!",
+        "2": "Ferice de omul căruia nu-i ține în seamă Domnul nelegiuirea și în duhul căruia nu este viclenie!",
+        "3": "Câtă vreme am tăcut, mi se topeau oasele de gemetele mele necurmate,",
+        "4": "căci zi și noapte mâna Ta apăsa asupra mea; mi se usca vlaga cum se usucă pământul de seceta verii.",
+        "5": "Atunci Ți-am mărturisit păcatul meu și nu mi-am ascuns fărădelegea. Am zis: „Îmi voi mărturisi Domnului fărădelegile!” Și Tu ai iertat vina păcatului meu.",
+        "6": "De aceea orice om evlavios să se roage Ție la vreme potrivită! Și chiar de s-ar vărsa ape mari, pe el nu-l vor atinge deloc.",
+        "7": "Tu ești ocrotirea mea, Tu mă scoți din necaz, Tu mă înconjori cu cântări de izbăvire.",
+        "8": "„Eu”, zice Domnul, „te voi învăța și-ți voi arăta calea pe care trebuie s-o urmezi, te voi sfătui și voi avea privirea îndreptată asupra ta.”",
+        "9": "Nu fiți ca un cal sau ca un catâr fără pricepere, pe care-l strunești cu un frâu și o zăbală cu care-l legi ca să nu se apropie de tine!",
+        "10": "De multe dureri are parte cel rău, dar cel ce se încrede în Domnul este înconjurat cu îndurarea Lui.",
+        "11": "Neprihăniților, bucurați-vă în Domnul și veseliți-vă! Scoateți strigăte de bucurie, toți cei cu inima fără prihană!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Fericit este cel a cărui fărădelege este iertată, cel al cărui păcat este acoperit!",
+        "2": "Fericit este omul căruia Domnul nu-i ia în considerare nelegiuirea și în duhul căruia nu există înșelăciune!",
+        "3": "Când tăceam, mi se uscau oasele și toată ziua gemeam.",
+        "4": "Căci zi și noapte mâna Ta apăsa asupra mea; ajunsesem sleit de vlagă, ca în timpul arșiței verii.",
+        "5": "Atunci mi-am mărturisit păcatul și nu Ți-am ascuns nelegiuirea mea. Am zis: „Îmi voi mărturisi Domnului fărădelegile!“ și, astfel, Tu ai iertat vina păcatului meu. .",
+        "6": "De aceea fiecare credincios să Ți se roage câtă vreme mai poți fi găsit, iar când apele vor fi mari, pe el nu-l vor atinge.",
+        "7": "Tu îmi ești adăpost! Tu mă vei păzi de necaz, înconjurându-mă cu strigăte de eliberare!",
+        "8": "„Eu te voi instrui și te voi învăța calea pe care să mergi. Te voi sfătui, iar ochiul Meu va veghea asupra ta.",
+        "9": "Să nu fii ca un cal sau ca un catâr fără discernământ, care numai strunit cu un frâu și cu o zăbală se apropie de tine!“.",
+        "10": "De multe dureri are parte cel rău, dar cel ce se încrede în Domnul este înconjurat cu îndurare.",
+        "11": "Bucurați-vă în Domnul, înveseliți-vă, voi, cei drepți! Strigați de bucurie, toți cei cu inima dreaptă!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Blessed is he whose disobedience is forgiven, whose sin is covered.",
+        "2": "Blessed is the man to whom Yahweh doesn’t impute iniquity, in whose spirit there is no deceit.",
+        "3": "When I kept silence, my bones wasted away through my groaning all day long.",
+        "4": "For day and night your hand was heavy on me. My strength was sapped in the heat of summer.",
+        "5": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin.",
+        "6": "For this, let everyone who is godly pray to you in a time when you may be found. Surely when the great waters overflow, they shall not reach to him.",
+        "7": "You are my hiding place. You will preserve me from trouble. You will surround me with songs of deliverance.",
+        "8": "I will instruct you and teach you in the way which you shall go. I will counsel you with my eye on you.",
+        "9": "Don’t be like the horse, or like the mule, which have no understanding, who are controlled by bit and bridle, or else they will not come near to you.",
+        "10": "Many sorrows come to the wicked, but loving kindness shall surround him who trusts in Yahweh.",
+        "11": "Be glad in Yahweh, and rejoice, you righteous! Shout for joy, all you who are upright in heart!"
+      }
+    }
+  }
+}

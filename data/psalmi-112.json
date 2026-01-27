@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "112",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Ferice de omul care se teme de Domnul și care are o mare plăcere pentru poruncile Lui!",
+        "2": "Sămânța lui va fi puternică pe pământ; neamul oamenilor fără prihană va fi binecuvântat.",
+        "3": "El are în casă bogăție și belșug și neprihănirea lui dăinuiește în veci.",
+        "4": "Celui fără prihană îi răsare o lumină în întuneric, el este milostiv, îndurător și drept.",
+        "5": "Ce bine-i merge omului care face milă și împrumută pe altul și care își rânduiește faptele după dreptate!",
+        "6": "Căci el nu se clatină niciodată; pomenirea celui neprihănit ține în veci.",
+        "7": "El nu se teme de vești rele, ci inima lui este tare, încrezătoare în Domnul.",
+        "8": "Inima îi este mângâiată, n-are nicio teamă, până ce își vede împlinită dorința față de potrivnicii lui.",
+        "9": "El este darnic, dă celor lipsiți; milostenia lui ține în veci; capul i se înalță cu slavă.",
+        "10": "Cel rău vede lucrul acesta și se mânie, scrâșnește din dinți și se topește. Poftele celor răi rămân neîmplinite."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Ferice de omul care se teme de Domnul și care găsește o mare plăcere în poruncile Lui!",
+        "2": "Urmașii lui vor fi puternici în țară; generația celor drepți va fi binecuvântată.",
+        "3": "Bogăție și belșug sunt în casa lui, iar dreptatea sa rămâne pe vecie.",
+        "4": "O lumină strălucește în întuneric pentru cei integri, pentru cel ce este îndurător, milostiv și drept.",
+        "5": "Îi merge bine omului care arată bunăvoință și împrumută, care își sprijină faptele cu dreptate.",
+        "6": "Niciodată nu se va clătina. Cel drept va rămâne în amintire pentru totdeauna.",
+        "7": "El nu se teme de vești rele, căci inima lui este tare și se încrede în Domnul.",
+        "8": "Inima lui este tare și nu se teme; el își va vedea împlinită dorința față de dușmanii săi.",
+        "9": "A împărțit, a dăruit celor nevoiași; dreptatea lui rămâne pe vecie; el va avea parte de glorie.",
+        "10": "Cel rău vede aceasta și se mânie, scrâșnește din dinți și leșină; dorința celor răi va rămâne neîmplinită."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yah! Blessed is the man who fears Yahweh, who delights greatly in his commandments.",
+        "2": "His offspring will be mighty in the land. The generation of the upright will be blessed.",
+        "3": "Wealth and riches are in his house. His righteousness endures forever.",
+        "4": "Light dawns in the darkness for the upright, gracious, merciful, and righteous.",
+        "5": "It is well with the man who deals graciously and lends. He will maintain his cause in judgment.",
+        "6": "For he will never be shaken. The righteous will be remembered forever.",
+        "7": "He will not be afraid of evil news. His heart is steadfast, trusting in Yahweh.",
+        "8": "His heart is established. He will not be afraid in the end when he sees his adversaries.",
+        "9": "He has dispersed, he has given to the poor. His righteousness endures forever. His horn will be exalted with honor.",
+        "10": "The wicked will see it, and be grieved. He shall gnash with his teeth, and melt away. The desire of the wicked will perish."
+      }
+    }
+  }
+}

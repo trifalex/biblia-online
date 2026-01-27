@@ -1,0 +1,48 @@
+{
+  "book": "Psalmi",
+  "chapter": "8",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, Dumnezeul nostru, cât de minunat este Numele Tău pe tot pământul! Slava Ta se înalță mai presus de ceruri.",
+        "2": "Din gura copiilor și a celor ce sug la țâță, Ți-ai scos o întăritură de apărare împotriva potrivnicilor tăi, ca să astupi gura vrăjmașului și omului cu dor de răzbunare.",
+        "3": "Când privesc cerurile – lucrarea mâinilor Tale –, luna și stelele pe care le-ai făcut,",
+        "4": "îmi zic: Ce este omul, ca să Te gândești la el? Și fiul omului, ca să-l bagi în seamă?",
+        "5": "L-ai făcut cu puțin mai prejos decât Dumnezeu și l-ai încununat cu slavă și cu cinste.",
+        "6": "I-ai dat stăpânire peste lucrurile mâinilor Tale, toate le-ai pus sub picioarele lui:",
+        "7": "oile și boii laolaltă, fiarele câmpului,",
+        "8": "păsările cerului și peștii mării, tot ce străbate cărările mărilor.",
+        "9": "Doamne, Dumnezeul nostru, cât de minunat este Numele Tău pe tot pământul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, Stăpânul nostru, cât de măreț este Numele Tău pe tot pământul! Fie înălțată gloria Ta mai presus de ceruri!",
+        "2": "Din gura copilașilor și a sugarilor ai întemeiat o fortăreață împotriva vrăjmașilor Tăi, ca să fie astfel reduși la tăcere dușmanul și răzbunătorul.",
+        "3": "Când privesc cerurile Tale, lucrările degetelor Tale, luna și stelele pe care le-ai întemeiat, îmi zic:",
+        "4": "Ce este omul, ca să-Ți amintești de el, sau fiul omului, ca să-l cercetezi?",
+        "5": "Tu l-ai făcut cu puțin inferior lui Dumnezeu și l-ai încoronat cu glorie și cu măreție.",
+        "6": "L-ai pus să stăpânească peste lucrările mâinilor Tale; i-ai supus totul:",
+        "7": "oi și boi deopotrivă, chiar și animalele sălbatice ale câmpului;",
+        "8": "păsările cerului și peștii mării, tot ce străbate căile mărilor.",
+        "9": "Doamne, Stăpânul nostru, cât de măreț este Numele Tău pe tot pământul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens!",
+        "2": "From the lips of babes and infants you have established strength, because of your adversaries, that you might silence the enemy and the avenger.",
+        "3": "When I consider your heavens, the work of your fingers, the moon and the stars, which you have ordained,",
+        "4": "what is man, that you think of him? What is the son of man, that you care for him?",
+        "5": "For you have made him a little lower than the angels, and crowned him with glory and honor.",
+        "6": "You make him ruler over the works of your hands. You have put all things under his feet:",
+        "7": "All sheep and cattle, yes, and the animals of the field,",
+        "8": "the birds of the sky, the fish of the sea, and whatever passes through the paths of the seas.",
+        "9": "Yahweh, our Lord, how majestic is your name in all the earth!"
+      }
+    }
+  }
+}

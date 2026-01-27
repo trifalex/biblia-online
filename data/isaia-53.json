@@ -1,0 +1,57 @@
+{
+    "book": "Isaia",
+    "chapter": "53",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Cine a crezut în ceea ce ni se vestise? Cine a cunoscut brațul Domnului?",
+                "2": "El a crescut înaintea Lui ca o odraslă slabă, ca un Lăstar care iese dintr-un pământ uscat. N-avea nici frumusețe, nici strălucire ca să ne atragă privirile și înfățișarea Lui n-avea nimic care să ne placă.",
+                "3": "Disprețuit și părăsit de oameni, om al durerii și obișnuit cu suferința, era așa de disprețuit, că îți întorceai fața de la El, și noi nu L-am băgat în seamă.",
+                "4": "Totuși El suferințele noastre le-a purtat și durerile noastre le-a luat asupra Lui, și noi am crezut că este pedepsit, lovit de Dumnezeu și smerit.",
+                "5": "Dar El era străpuns pentru păcatele noastre, zdrobit pentru fărădelegile noastre. Pedeapsa care ne dă pacea a căzut peste El, și prin rănile Lui suntem tămăduiți.",
+                "6": "Noi rătăceam cu toții ca niște oi, fiecare își vedea de drumul lui, dar Domnul a făcut să cadă asupra Lui nelegiuirea noastră, a tuturor.",
+                "7": "Când a fost chinuit și asuprit, n-a deschis gura deloc, ca un miel pe care-l duci la măcelărie și ca o oaie mută înaintea celor ce o tund: n-a deschis gura.",
+                "8": "El a fost luat prin apăsare și judecată, dar cine din cei de pe vremea Lui a crezut că El fusese șters de pe pământul celor vii și lovit de moarte pentru păcatele poporului meu?",
+                "9": "Groapa Lui a fost pusă între cei răi, și mormântul Lui, la un loc cu cel bogat, măcar că nu săvârșise nicio nelegiuire și nu se găsise niciun vicleșug în gura Lui.",
+                "10": "Domnul a găsit cu cale să-L zdrobească prin suferință… Dar, după ce Își va da viața ca jertfă pentru păcat, va vedea o sămânță de urmași, va trăi multe zile și lucrarea Domnului va propăși în mâinile Lui.",
+                "11": "„Va vedea rodul muncii sufletului Lui și Se va înviora. Prin cunoștința Lui, Robul Meu cel neprihănit va pune pe mulți oameni într-o stare după voia lui Dumnezeu și va lua asupra Lui povara nelegiuirilor lor.",
+                "12": "De aceea Îi voi da partea Lui la un loc cu cei mari și va împărți prada cu cei puternici, pentru că S-a dat pe Sine Însuși la moarte și a fost pus în numărul celor fărădelege, pentru că a purtat păcatele multora și S-a rugat pentru cei vinovați.”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Cine a crezut ceea ce noi am auzit? Și brațul Domnului, cui i-a fost descoperit?",
+                "2": "El a crescut înaintea Lui ca un lăstar, ca o rădăcină ieșită dintr-un pământ uscat. Nu avea nici frumusețe, nici măreție la care să ne uităm și nu era nimic în înfățișarea Lui ca să-L dorim.",
+                "3": "Era disprețuit și părăsit de oameni, un Om al durerilor și obișnuit cu suferința. Era disprețuit, ca un om de care îți ascunzi fața, iar noi nu L-am luat în seamă.",
+                "4": "Într-adevăr, El a luat suferințele noastre și a purtat durerile noastre. Noi însă L-am considerat lovit, zdrobit de Dumnezeu și asuprit.",
+                "5": "Dar El era străpuns pentru fărădelegile noastre, zdrobit pentru nelegiuirile noastre. Pedeapsa, care ne dă pacea, era peste El și prin rănile Lui suntem vindecați.",
+                "6": "Noi rătăceam cu toții ca niște oi, fiecare urmându-și propria cale, nelegiuirea noastră, a tuturor.",
+                "7": "Când a fost chinuit și asuprit, El nu Și-a deschis gura. și ca o oaie mută înaintea celor ce o tund, tot așa nici El nu Și-a deschis gura.",
+                "8": "A fost luat prin forță și judecată. și lovit pentru fărădelegea poporului Meu?",
+                "9": "I-au pus mormântul lângă al celor răi și L-au așezat în groapa celui bogat, și în gura Lui nu s-a găsit înșelătorie.",
+                "10": "Domnul însă a vrut să-L zdrobească prin suferință. Dar, după ce Își va da viața ca jertfă pentru vină, Își va vedea urmașii și va trăi multe zile, iar voia Domnului va prospera în mâinile Lui.",
+                "11": "După ce va vedea munca sufletului Său, va fi mulțumit. Prin cunoștința Sa, Slujitorul Meu cel drept îi va îndreptăți pe mulți și le va purta nelegiuirile.",
+                "12": "De aceea Îi voi da o parte la un loc cu cei mari și va împărți prada cu cei puternici, căci S-a golit pe Sine, până la moarte, și a fost numărat alături de cei răzvrătiți. Totuși, El a purtat păcatul celor mulți și a mijlocit pentru cei răzvrătiți."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Who has believed our message? To whom has Yahweh’s arm been revealed?",
+                "2": "For he grew up before him as a tender plant, and as a root out of dry ground. He has no good looks or majesty. When we see him, there is no beauty that we should desire him.",
+                "3": "He was despised and rejected by men, and acquainted with disease. He was despised as one from whom men hide their face; and we didn’t respect him.",
+                "4": "Surely he has borne our sickness and carried our suffering; yet we considered him plagued, struck by God, and afflicted.",
+                "5": "But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed.",
+                "6": "All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all.",
+                "7": "He was oppressed, yet when he was afflicted he didn’t open his mouth. As a lamb that is led to the slaughter, and as a sheep that before its shearers is silent, so he didn’t open his mouth.",
+                "8": "He was taken away by oppression and judgment. As for his generation, and stricken for the disobedience of my people?",
+                "9": "They made his grave with the wicked, and with a rich man in his death, although he had done no violence, nor was any deceit in his mouth.",
+                "10": "Yet it pleased Yahweh to bruise him. He has caused him to suffer. When you make his soul an offering for sin, he will see his offspring. and Yahweh’s pleasure will prosper in his hand.",
+                "11": "After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities.",
+                "12": "Therefore I will give him a portion with the great. He will divide the plunder with the strong, and was counted with the transgressors; and made intercession for the transgressors."
+            }
+        }
+    }
+}

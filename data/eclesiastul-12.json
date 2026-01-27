@@ -1,0 +1,63 @@
+{
+  "book": "Eclesiastul",
+  "chapter": "12",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dar adu-ți aminte de Făcătorul tău în zilele tinereții tale, până nu vin zilele cele rele și până nu se apropie anii când vei zice: „Nu găsesc nicio plăcere în ei”;",
+        "2": "până nu se întunecă soarele și lumina, luna și stelele și până nu se întorc norii îndată după ploaie;",
+        "3": "până nu încep să tremure paznicii casei (mâinile) și să se încovoaie cele tari (picioarele); până nu se opresc cei ce macină (dinții), căci s-au împuținat; până nu se întunecă cei ce se uită pe ferestre (ochii);",
+        "4": "până nu se închid cele două uși dinspre uliță (buzele); când huruitul morii slăbește, te scoli la ciripitul unei păsări, glasul tuturor cântărețelor se aude înăbușit,",
+        "5": "te temi de orice înălțime și te sperii pe drum; până nu înflorește migdalul cu peri albi și de abia se târăște lăcusta; până nu-ți trec poftele, căci omul merge spre casa lui cea veșnică, și bocitorii cutreieră ulițele;",
+        "6": "până nu se rupe funia de argint, până nu se sfărâmă vasul de aur, până nu se sparge găleata la izvor și până nu se strică roata de la fântână;",
+        "7": "până nu se întoarce țărâna în pământ, cum a fost, și până nu se întoarce duhul la Dumnezeu, care l-a dat.",
+        "8": "O, deșertăciune a deșertăciunilor, zice Eclesiastul, totul este deșertăciune!",
+        "9": "Pe lângă că Eclesiastul a fost înțelept, el a mai învățat și știința pe popor, a cercetat, a adâncit și a întocmit un mare număr de zicători.",
+        "10": "Eclesiastul a căutat să afle cuvinte plăcute și să scrie întocmai cuvintele adevărului.",
+        "11": "Cuvintele înțelepților sunt ca niște bolduri și, strânse la un loc, sunt ca niște cuie bătute, date de un singur stăpân.",
+        "12": "Încolo, fiule, ia învățătură din aceste lucruri; dacă ai voi să faci o mulțime de cărți, să știi că n-ai mai isprăvi, și multă învățătură obosește trupul.",
+        "13": "Să ascultăm dar încheierea tuturor învățăturilor: Teme-te de Dumnezeu și păzește poruncile Lui. Aceasta este datoria oricărui om.",
+        "14": "Căci Dumnezeu va aduce orice faptă la judecată, și judecata aceasta se va face cu privire la tot ce este ascuns, fie bine, fie rău."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Adu-ți aminte de Creatorul tău în zilele tinereții tale, până nu vin zilele cele rele și până nu se apropie anii când vei zice: „Nu găsesc nicio plăcere în ei“;",
+        "2": "până nu se întunecă soarele și lumina, luna și stelele și până nu se întorc norii după ploaie.",
+        "3": "În zilele acelea încep să tremure paznicii casei, iar oamenii viguroși se încovoaie; cei ce macină se opresc, fiindcă s-au împuținat, iar cei ce se uită pe ferestre se întunecă;",
+        "4": "cele două uși care dau în stradă se închid, iar sunetul morii scade. Atunci, cineva se va trezi la ciripitul păsării, dar glasul tuturor cântărețelor se va auzi înăbușit;",
+        "5": "se vor teme de înălțime, iar pe drum vor fi temeri. Adu-ți aminte de Creatorul tău, până nu înflorește migdalul, până nu se târăște lăcusta și până nu se strică fructul caperului, căci fiecare merge spre casa cea veșnică, iar cei ce jelesc cutreieră pe stradă;",
+        "6": "până nu se rupe funia de argint și până nu se sparge vasul de aur; până nu se sfărâmă ulciorul la izvor și până nu este zdrobită roata de la fântână;",
+        "7": "până nu se întoarce țărâna în pământ, de unde a fost luată, și până când suflarea nu se întoarce la Dumnezeu, Cel Care a dat-o.",
+        "8": "O, deșertăciune a deșertăciunilor! zice oratorul. Totul este deșertăciune! Epilog",
+        "9": "Pe lângă faptul că oratorul a fost un înțelept, el a învățat și cunoștința pe popor, culegând, cercetând și aranjând numeroase proverbe.",
+        "10": "Oratorul a căutat să găsească cuvinte plăcute și să scrie drept cuvintele adevărului.",
+        "11": "Cuvintele înțelepților sunt ca niște țepușe, iar colecțiile de proverbe sunt ca niște cuie bătute, date de un singur păstor.",
+        "12": "Dincolo de toate acestea, fiule, ai grijă: să scrii multe cărți este o activitate fără sfârșit și prea mult studiu este obositor pentru trup.",
+        "13": "Concluzia la tot ce-ai auzit este aceasta: teme-te de Dumnezeu și păzește poruncile Lui, căci aceasta este datoria fiecărui om.",
+        "14": "Fiindcă Dumnezeu va aduce la judecată fiecare lucrare, tot ce este ascuns, fie bine, fie rău."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Remember also your Creator in the days of your youth, before the evil days come, and the years draw near, when you will say, “I have no pleasure in them;”",
+        "2": "Before the sun, the light, the moon, and the stars are darkened, and the clouds return after the rain;",
+        "3": "in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those who look out of the windows are darkened,",
+        "4": "and the doors shall be shut in the street; when the sound of the grinding is low, and one shall rise up at the voice of a bird, and all the daughters of music shall be brought low;",
+        "5": "yes, they shall be afraid of heights, and terrors will be on the way; and the almond tree shall blossom, and the grasshopper shall be a burden, and desire shall fail; because man goes to his everlasting home, and the mourners go about the streets;",
+        "6": "before the silver cord is severed, or the golden bowl is broken, or the pitcher is broken at the spring, or the wheel broken at the cistern,",
+        "7": "and the dust returns to the earth as it was, and the spirit returns to God who gave it.",
+        "8": "“Vanity of vanities,” says the Preacher. “All is vanity!”",
+        "9": "Further, because the Preacher was wise, he still taught the people knowledge. Yes, he pondered, sought out, and set in order many proverbs.",
+        "10": "The Preacher sought to find out acceptable words, and that which was written blamelessly, words of truth.",
+        "11": "The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd.",
+        "12": "Furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+        "13": "This is the end of the matter. All has been heard. Fear God and keep his commandments; for this is the whole duty of man.",
+        "14": "For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil."
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "64",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultă-mi glasul, Dumnezeule, când gem! Ocrotește-mi viața împotriva vrăjmașului de care mă tem!",
+        "2": "Păzește-mă de uneltirile celor răi, de ceata gălăgioasă a oamenilor nelegiuiți!",
+        "3": "Ei își ascut limba ca o sabie, își aruncă vorbele lor amare ca niște săgeți,",
+        "4": "ca să tragă în ascuns asupra celui nevinovat; trag asupra lui pe neașteptate, fără nicio frică.",
+        "5": "Ei se îmbărbătează în răutatea lor: se sfătuiesc împreună ca să întindă curse și zic: „Cine ne va vedea?”",
+        "6": "Pun la cale nelegiuiri și zic: „Iată-ne gata, planul este făcut!” O prăpastie este lăuntrul și inima fiecăruia!",
+        "7": "Dar Dumnezeu aruncă săgeți împotriva lor: deodată iată-i loviți.",
+        "8": "Limba lor le-a pricinuit căderea, și toți cei ce-i văd clatină din cap.",
+        "9": "Toți oamenii sunt cuprinși de frică, și mărturisesc: „Iată ce a făcut Dumnezeu” și recunosc că aceasta este lucrarea Lui!",
+        "10": "Cel neprihănit se bucură în Domnul și în El își caută scăparea; toți cei cu inima fără prihană se laudă că sunt fericiți."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ascultă, Dumnezeule, glasul plângerii mele! Păzește-mi viața de teroarea dușmanului!",
+        "2": "Ferește-mă de sfatul celor răi, de gloata celor ce comit nelegiuiri,",
+        "3": "de cei care își ascut limba drept sabie, care pregătesc cuvinte amare drept săgeți,",
+        "4": "ca să tragă pe ascuns asupra celui integru, să tragă pe neașteptate și fără să se teamă.",
+        "5": "Se încurajează în răutatea lor, își plănuiesc cum să ascundă curse, zicând: „Cine ne va vedea?“.",
+        "6": "Pun la cale nedreptăți, zicând: „Am terminat planul ascuns!“. Gândurile fiecăruia și inima lor sunt de nepătruns.",
+        "7": "Însă Dumnezeu trage pe neașteptate săgeți asupra lor și sunt loviți.",
+        "8": "Propria lor limbă i-a adus în ruină, așa încât toți cei care-i văd clatină din cap.",
+        "9": "Toți oamenii se tem, istorisesc ceea ce a înfăptuit Dumnezeu și se gândesc la lucrarea Lui.",
+        "10": "Să se bucure cel drept în Domnul și să se adăpostească în El! Să se laude cu El toți cei cu inima dreaptă."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear my voice, God, in my complaint. Preserve my life from fear of the enemy.",
+        "2": "Hide me from the conspiracy of the wicked, from the noisy crowd of the ones doing evil;",
+        "3": "who sharpen their tongue like a sword, and aim their arrows, deadly words,",
+        "4": "to shoot innocent men from ambushes. They shoot at him suddenly and fearlessly.",
+        "5": "They encourage themselves in evil plans. They talk about laying snares secretly. They say, “Who will see them?”",
+        "6": "They plot injustice, saying, “We have made a perfect plan!” Surely man’s mind and heart are cunning.",
+        "7": "But God will shoot at them. They will be suddenly struck down with an arrow.",
+        "8": "Their own tongues shall ruin them. All who see them will shake their heads.",
+        "9": "All mankind shall be afraid. They shall declare the work of God, and shall wisely ponder what he has done.",
+        "10": "The righteous shall be glad in Yahweh, and shall take refuge in him. All the upright in heart shall praise him!"
+      }
+    }
+  }
+}

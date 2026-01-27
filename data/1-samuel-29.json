@@ -1,0 +1,54 @@
+{
+  "book": "1 Samuel",
+  "chapter": "29",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Filistenii își strânseseră toate oștile la Afec, și Israel tăbărâse la fântâna lui Izreel.",
+        "2": "Domnii filistenilor au înaintat cu sutele și miile lor, și David și oamenii lui mergeau mai la coadă, cu Achiș.",
+        "3": "Domnii filistenilor au zis: „Ce caută evreii aceștia aici?” Și Achiș a răspuns domnitorilor filistenilor: „Acesta este David, slujitorul lui Saul, împăratul lui Israel. De mult este cu mine și n-am găsit nici cel mai mic lucru de care să-l învinuiesc, de la venirea lui și până în ziua de azi.”",
+        "4": "Dar domnitorii filistenilor s-au mâniat pe Achiș și i-au zis: „Trimite înapoi pe omul acesta, ca să se întoarcă în locul unde l-ai așezat, să nu se coboare cu noi pe câmpul de bătaie, ca să nu ne fie vrăjmaș în timpul luptei. Și cum ar putea să se facă omul acesta plăcut stăpânului său decât cu capetele oamenilor noștri?",
+        "5": "Nu este acesta David pentru care cântau jucând: ‘Saul și-a bătut miile lui, Iar David, zecile lui de mii’?”",
+        "6": "Achiș a chemat pe David și i-a zis: „Viu este Domnul că ești un om curat la suflet și-mi place să te văd mergând și venind cu mine în tabără, căci n-am găsit nimic rău în tine, de la venirea ta la mine până în ziua de azi, dar nu ești pe placul domnitorilor.",
+        "7": "Întoarce-te dar și mergi în pace, ca să nu faci nimic neplăcut înaintea domnitorilor filistenilor.”",
+        "8": "David a zis lui Achiș: „Dar ce am făcut și ce ai găsit în robul tău, de când sunt la tine până în ziua de azi, ca să nu merg să lupt împotriva vrăjmașilor domnului meu, împăratul?”",
+        "9": "Achiș a răspuns lui David: „Știu că ești plăcut înaintea mea ca un înger al lui Dumnezeu, dar domnitorii filistenilor au zis: ‘Să nu se suie cu noi la luptă.’",
+        "10": "Astfel, scoală-te dis-de-dimineață, tu și slujitorii stăpânului tău care au venit cu tine; sculați-vă dis-de-dimineață și plecați de îndată ce se va lumina.”",
+        "11": "David și oamenii lui s-au sculat din noapte de tot, ca să plece dimineața și să se întoarcă în țara filistenilor. Și filistenii s-au suit la Izreel."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Filistenii și-au adunat toate trupele la Afek, în timp ce Israel și-a așezat tabăra în apropiere de izvorul care se află în Izreel.",
+        "2": "Domnitorii filistenilor mărșăluiau cu sutele și miile lor, iar David cu oamenii lui mărșăluiau în urmă, cu Achiș.",
+        "3": "Conducătorii filistenilor însă au zis: ‒ Ce caută evreii aceștia aici? Achiș le-a răspuns: ‒ Nu este acesta David, slujitorul lui Saul, regele lui Israel, care a fost cu mine aceste zile și acești ani și în care nu am găsit nimic greșit, din ziua venirii lui și până în ziua aceasta?",
+        "4": "Dar conducătorii filistenilor s-au mâniat pe el și i-au zis: ‒ Trimite-l pe omul acesta înapoi! Să se întoarcă în locul pe care i l-ai stabilit, ca nu cumva să se coboare cu noi în luptă și să ne devină dușman în timpul luptei. Cum ar putea acesta să se facă din nou plăcut stăpânului său? Oare nu cu capetele acestor oameni?",
+        "5": "Nu este acesta David, despre care cântau în timpul dansurilor, zicând: „Saul a ucis miile lui, iar David zecile lui de mii?“.",
+        "6": "Achiș l-a chemat pe David și i-a zis: ‒ Viu este Domnul că ai fost drept și-mi place când ieși și intri împreună cu mine în tabără. Nu am găsit în tine nimic rău din ziua venirii tale la mine și până astăzi, însă nu ești pe placul domnitorilor.",
+        "7": "Întoarce-te acum și mergi în pace, pentru ca să nu faci ceva care să nu placă domnitorilor filistenilor.",
+        "8": "Însă David i-a răspuns lui Achiș: ‒ Dar ce-am făcut? Ce-ai găsit în slujitorul tău, începând din ziua în care am venit în prezența ta și până în ziua aceasta, încât să nu merg să lupt împotriva dușmanilor stăpânului meu, regele?",
+        "9": "Achiș i-a răspuns: ‒ Știu că, în ochii mei, ești atât de plăcut ca un înger al lui Dumnezeu. Totuși, conducătorii filistenilor au zis: „Să nu vină cu noi în luptă!“.",
+        "10": "Prin urmare, scoală-te dimineața devreme, atât tu, cât și slujitorii stăpânului tău, care au venit cu tine. Și, după ce vă sculați dimineața devreme, să plecați imediat ce se luminează.",
+        "11": "David și oamenii lui s-au sculat dimineața ca să plece și să se întoarcă în țara filistenilor, iar filistenii au pornit spre Izreel."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now the Philistines gathered together all their armies to Aphek; and the Israelites encamped by the spring which is in Jezreel.",
+        "2": "The lords of the Philistines passed on by hundreds and by thousands; and David and his men passed on in the rear with Achish.",
+        "3": "Then the princes of the Philistines said, “What about these Hebrews?” Achish said to the princes of the Philistines, “Isn’t this David, the servant of Saul the king of Israel, who has been with me these days, or rather these years? I have found no fault in him since he fell away until today.”",
+        "4": "But the princes of the Philistines were angry with him; and the princes of the Philistines said to him, “Make the man return, that he may go back to his place where you have appointed him, and let him not go down with us to battle, lest in the battle he become an adversary to us. For with what should this fellow reconcile himself to his lord? Should it not be with the heads of these men?",
+        "5": "Isn’t this David, of whom people sang to one another in dances, saying, ‘Saul has slain his thousands, and David his ten thousands’?”",
+        "6": "Then Achish called David and said to him, “As Yahweh lives, you have been upright, and your going out and your coming in with me in the army is good in my sight; for I have not found evil in you since the day of your coming to me to this day. Nevertheless, the lords don’t favor you.",
+        "7": "Therefore now return, and go in peace, that you not displease the lords of the Philistines.”",
+        "8": "David said to Achish, “But what have I done? What have you found in your servant so long as I have been before you to this day, that I may not go and fight against the enemies of my lord the king?”",
+        "9": "Achish answered David, “I know that you are good in my sight, as an angel of God. Notwithstanding, the princes of the Philistines have said, ‘He shall not go up with us to the battle.’",
+        "10": "Therefore now rise up early in the morning with the servants of your lord who have come with you; and as soon as you are up early in the morning and have light, depart.”",
+        "11": "So David rose up early, he and his men, to depart in the morning, to return into the land of the Philistines; and the Philistines went up to Jezreel."
+      }
+    }
+  }
+}

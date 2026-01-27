@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "101",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Voi cânta bunătatea și dreptatea: Ție, Doamne, Îți voi cânta.",
+        "2": "Mă voi purta cu înțelepciune pe o cale neprihănită. – Când vei veni la mine? – Voi umbla cu inima fără prihană în mijlocul casei mele.",
+        "3": "Nu voi pune nimic rău înaintea ochilor mei; urăsc purtarea păcătoșilor, ea nu se va lipi de mine.",
+        "4": "Inima stricată se va depărta de mine; nu vreau să cunosc pe cel rău.",
+        "5": "Pe cel ce clevetește în ascuns pe aproapele său îl voi nimici; pe cel cu priviri trufașe și cu inima îngâmfată nu-l voi suferi.",
+        "6": "Voi avea ochii îndreptați asupra credincioșilor din țară, ca să locuiască lângă mine; cel ce umblă pe o cale fără prihană, acela îmi va sluji.",
+        "7": "Cel ce se dedă la înșelăciune nu va locui în casa mea; cel ce spune minciuni nu va sta înaintea mea.",
+        "8": "În fiecare dimineață voi nimici pe toți cei răi din țară, ca să stârpesc din cetatea Domnului pe toți cei ce săvârșesc nelegiuirea."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Voi cânta îndurarea și judecata. Spre lauda Ta voi cânta, Doamne!",
+        "2": "Voi umbla cu înțelepciune pe calea integrității. Când vei veni la mine? Voi umbla în integritatea inimii mele, în mijlocul casei mele.",
+        "3": "Nu voi pune înaintea ochilor mei nicio ticăloșie. Urăsc lucrarea răzvrătiților; ea nu se va lipi de mine!",
+        "4": "Inima pervertită se va depărta de mine. Nu vreau să cunosc răul.",
+        "5": "Pe cel ce-și bârfește semenul în secret îl voi nimici. Pe cel cu privirea mândră și cu inima arogantă nu-l voi suferi.",
+        "6": "Ochii mei vor fi asupra credincioșilor din țară, pentru ca ei să locuiască cu mine; cel ce umblă pe calea integrității îmi va sluji.",
+        "7": "Cel ce comite înșelăciuni nu va locui în mijlocul casei mele. Cel ce spune minciuni nu va rămâne în preajma mea.",
+        "8": "În fiecare dimineață îi voi nimici pe toți cei răi din țară, ca să stârpesc din cetatea Domnului pe toți aceia care comit nelegiuiri."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I will sing of loving kindness and justice. To you, Yahweh, I will sing praises.",
+        "2": "I will be careful to live a blameless life. When will you come to me? I will walk within my house with a blameless heart.",
+        "3": "I will set no vile thing before my eyes. I hate the deeds of faithless men. They will not cling to me.",
+        "4": "A perverse heart will be far from me. I will have nothing to do with evil.",
+        "5": "I will silence whoever secretly slanders his neighbor. I won’t tolerate one who is arrogant and conceited.",
+        "6": "My eyes will be on the faithful of the land, that they may dwell with me. He who walks in a perfect way, he will serve me.",
+        "7": "He who practices deceit won’t dwell within my house. He who speaks falsehood won’t be established before my eyes.",
+        "8": "Morning by morning, I will destroy all the wicked of the land, to cut off all the workers of iniquity from Yahweh’s city."
+      }
+    }
+  }
+}

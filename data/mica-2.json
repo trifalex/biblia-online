@@ -1,0 +1,60 @@
+{
+  "book": "Mica",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Vai de cei ce cugetă nelegiuirea și făuresc rele în așternutul lor; când se crapă de ziuă o înfăptuiesc, dacă le stă în putere.",
+        "2": "Dacă poftesc ogoare, pun mâna pe ele, dacă doresc case, le răpesc; asupresc pe om și casa lui, pe om și moștenirea lui.",
+        "3": "De aceea, așa vorbește Domnul: „Iată, Eu am de gând să aduc o nenorocire împotriva acestui leat de oameni, de care nu vă veți feri grumajii și nu veți mai umbla cu capul atât de sus, căci vremurile vor fi rele.",
+        "4": "În ziua aceea, veți ajunge de pomină, veți boci și veți zice: ‘S-a isprăvit! Suntem pustiiți cu desăvârșire! Partea de moștenire a poporului meu trece în mâna altuia! Vai, cum mi-o ia! Ogoarele noastre le împarte vrăjmașului…!’”",
+        "5": "De aceea nu vei avea pe nimeni care să întindă frânghia de măsurat pentru sorțul tău, în adunarea Domnului.",
+        "6": "„Nu prorociți!” zic ei. „Să nu se prorocească asemenea lucruri. Căci altminteri ocările nu mai încetează!”",
+        "7": "Este Domnul atât de grabnic la mânie, casa lui Iacov? Acesta este felul Lui de a lucra? „Da, cuvintele Mele sunt prielnice celui ce umblă cu neprihănire!",
+        "8": "De multă vreme poporul Meu este socotit de Mine ca vrăjmaș; voi răpiți mantaua de pe hainele celor ce trec liniștiți și n-au gust de război.",
+        "9": "Voi izgoniți din casele lor iubite pe femeile poporului Meu, luați pentru totdeauna podoaba Mea de la copiii lor.",
+        "10": "Sculați-vă și plecați, căci aici nu este odihnă pentru voi, căci, din pricina spurcăciunii, vor fi dureri, dureri puternice.",
+        "11": "Da, dacă ar veni un om cu vânt și minciuni și ar zice: ‘Îți voi proroci despre vin și despre băuturi tari’, acela ar fi un proroc pentru poporul acesta!",
+        "12": "Te voi strânge în întregime, Iacove! Voi strânge rămășița lui Israel, îi voi aduna ca pe niște oi dintr-un staul, ca pe o turmă în pășunea ei, așa că va fi o mare zarvă de oameni.",
+        "13": "Cel ce va face spărtura se va sui înaintea lor; vor face spărtura, vor trece pe poartă și vor ieși pe ea; împăratul lor va merge înaintea lor și Domnul va fi în fruntea lor.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Vai de cei ce plănuiesc nelegiuirea și planifică răul în paturile lor! Chiar din zorii dimineții încep să le comită, pentru că le stă în putere.",
+        "2": "Poftesc terenuri, și apoi pun mâna pe ele! Poftesc case, apoi și le însușesc! Asupresc pe om și casa lui, pe bărbat și moștenirea sa.",
+        "3": "De aceea, așa vorbește Domnul: „Iată, plănuiesc împotriva acestui clan o nenorocire de care nu vă veți putea feri cefele! Și nu veți mai umbla plini de înfumurare, căci vor fi vremuri grele.",
+        "4": "În ziua aceea, se va rosti o pildă pe seama voastră și se va face o cântare de jale, care va zice: «Suntem ruinați de tot! El înstrăinează proprietatea poporului meu! Vai cum o înlătură de la mine! Terenurile noastre le împarte trădătorilor!»“.",
+        "5": "De aceea, nu vei mai avea pe nimeni care să întindă funia de măsurat, prin tragere la sorți, în adunarea Domnului. Falșii profeți",
+        "6": "„Nu mai profețiți!“, vor profeți ei atunci. „Să nu mai profețească aceste lucruri! Batjocurile nu ne vor copleși!“",
+        "7": "Dar ce ar trebui să se spună, Casă a lui Iacov? „Se mânie chiar atât de ușor Duhul Domnului? Acesta este felul Lui de a lucra?“ „Oare nu fac bine cuvintele Mele celui ce umblă cu dreptate?",
+        "8": "De curând, poporul Meu s-a ridicat ca un dușman. Ați smuls mantaua de peste haină, de la cei ce trec în siguranță, cei ce nu se gândesc la război.",
+        "9": "Voi le alungați pe femeile poporului Meu din casele lor plăcute și luați de la copiii lor pentru totdeauna măreția Mea.",
+        "10": "Ridicați-vă și plecați, căci acesta nu mai este locul vostru de odihnă. Pentru că a devenit necurat, el va fi distrus, iar distrugerea va fi cumplită!",
+        "11": "Dacă ar veni un om cu vânt și cu înșelăciune, și ar minți spunând: «Îți voi profeți despre vin și despre băuturi tari!», un astfel de profet ar fi potrivit pentru poporul acesta! Promisiunea restaurării",
+        "12": "Sigur îi voi aduna pe toți ai lui Iacov! Sigur voi strânge laolaltă rămășița lui Israel! Îi voi aduna ca pe niște oi în țarc, ca pe o turmă în pășunea ei; locul acela va mișuna de oameni.",
+        "13": "Cel ce deschide calea va merge înaintea lor; ei vor pătrunde, vor intra pe poartă și vor ieși. Împăratul lor va trece înaintea lor și Domnul va fi în fruntea lor“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Woe to those who devise iniquity and work evil on their beds! When the morning is light, they practice it, because it is in the power of their hand.",
+        "2": "They covet fields and seize them, and houses, then take them away. They oppress a man and his house, even a man and his heritage.",
+        "3": "Therefore Yahweh says: “Behold, I am planning against these people a disaster, from which you will not remove your necks, neither will you walk haughtily, for it is an evil time.",
+        "4": "In that day they will take up a parable against you, and lament with a doleful lamentation, saying, ‘We are utterly ruined! My people’s possession is divided up. Indeed he takes it from me and assigns our fields to traitors!’”",
+        "5": "Therefore you will have no one who divides the land by lot in Yahweh’s assembly.",
+        "6": "“Don’t prophesy!”—they prophesy— “Don’t prophesy about these things. Disgrace won’t overtake us.”",
+        "7": "Shall it be said, O house of Jacob, “Is Yahweh’s Spirit angry? Are these his doings? Don’t my words do good to him who walks blamelessly?”",
+        "8": "But lately my people have risen up as an enemy. You strip the robe and clothing from those who pass by without a care, returning from battle.",
+        "9": "You drive the women of my people out from their pleasant houses; from their young children you take away my blessing forever.",
+        "10": "Arise, and depart! For this is not your resting place, because of uncleanness that destroys, even with a grievous destruction.",
+        "11": "If a man walking in a spirit of falsehood lies, saying, “I will prophesy to you of wine and of strong drink,” he would be the prophet of this people.",
+        "12": "I will surely assemble all of you, Jacob. I will surely gather the remnant of Israel. I will put them together as the sheep of Bozrah, as a flock in the middle of their pasture. They will swarm with people.",
+        "13": "He who breaks open the way goes up before them. They break through the gate, and go out. Their king passes on before them, with Yahweh at their head."
+      }
+    }
+  }
+}

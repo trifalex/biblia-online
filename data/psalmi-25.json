@@ -1,0 +1,87 @@
+{
+  "book": "Psalmi",
+  "chapter": "25",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "La Tine, Doamne, îmi înalț sufletul.",
+        "2": "În Tine, Dumnezeule, mă încred: să nu fiu dat de rușine, ca să nu se bucure vrăjmașii mei de mine!",
+        "3": "Da, toți cei ce nădăjduiesc în Tine nu vor fi dați de rușine, ci de rușine vor fi dați cei ce Te părăsesc fără temei.",
+        "4": "Arată-mi, Doamne, căile Tale și învață-mă cărările Tale!",
+        "5": "Povățuiește-mă în adevărul Tău și învață-mă, căci Tu ești Dumnezeul mântuirii mele, Tu ești totdeauna nădejdea mea!",
+        "6": "Adu-Ți aminte, Doamne, de îndurarea și bunătatea Ta, căci sunt veșnice.",
+        "7": "Nu-Ți aduce aminte de greșelile din tinerețea mea, nici de fărădelegile mele, ci adu-Ți aminte de mine, după îndurarea Ta, pentru bunătatea Ta, Doamne!",
+        "8": "Domnul este bun și drept, de aceea arată El păcătoșilor calea.",
+        "9": "El face pe cei smeriți să umble în tot ce este drept. El învață pe cei smeriți calea Sa.",
+        "10": "Toate cărările Domnului sunt îndurare și credincioșie pentru cei ce păzesc legământul și poruncile Lui.",
+        "11": "Pentru Numele Tău, Doamne, iartă-mi fărădelegea, căci mare este!",
+        "12": "Cine este omul care se teme de Domnul? Aceluia Domnul îi arată calea pe care trebuie s-o aleagă.",
+        "13": "El va locui în fericire și sămânța lui va stăpâni țara.",
+        "14": "Prietenia Domnului este pentru cei ce se tem de El și legământul făcut cu El le dă învățătură.",
+        "15": "Eu îmi întorc necurmat ochii spre Domnul, căci El îmi va scoate picioarele din laț.",
+        "16": "Privește-mă și ai milă de mine, căci sunt părăsit și nenorocit!",
+        "17": "Neliniștea inimii mele crește: scoate-mă din necazul meu!",
+        "18": "Uită-Te la ticăloșia și truda mea și iartă-mi toate păcatele mele!",
+        "19": "Vezi cât de mulți sunt vrăjmașii mei și cu ce ură mare mă urmăresc.",
+        "20": "Păzește-mi sufletul și scapă-mă! Nu mă lăsa să fiu dat de rușine când mă încred în Tine!",
+        "21": "Să mă ocrotească nevinovăția și neprihănirea, când îmi pun nădejdea în Tine!",
+        "22": "Izbăvește, Dumnezeule, pe Israel din toate necazurile lui!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, la Tine îmi înalț sufletul!",
+        "2": "Dumnezeul meu, în Tine mă încred: să nu fiu făcut de rușine! Să nu se bucure dușmanii mei de mine!",
+        "3": "Da, toți cei ce își pun speranța în Tine nu se vor face de rușine, ci rușinați vor fi cei ce sunt necredincioși fără motiv.",
+        "4": "Fă-mi cunoscute căile Tale, Doamne, învață-mă cărările Tale!",
+        "5": "Călăuzește-mă în adevărul Tău, învață-mă, căci Tu ești Dumnezeul mântuirii mele. În Tine îmi pun speranța toată ziua.",
+        "6": "Adu-Ți aminte, Doamne, de mila și de îndurarea Ta, căci acestea sunt din vremuri străvechi.",
+        "7": "Nu-Ți aduce aminte de păcatele din tinerețea mea, nici de fărădelegile mele, ci adu-Ți aminte de mine potrivit îndurării Tale, datorită bunătății Tale, Doamne.",
+        "8": "Domnul este bun și drept, de aceea le arată păcătoșilor calea.",
+        "9": "El îi îndrumă pe cei smeriți în ceea ce este drept și îi învață pe cei smeriți calea Lui.",
+        "10": "Toate cărările Domnului sunt îndurare și credincioșie pentru cei ce păzesc legământul și învățăturile Lui.",
+        "11": "Datorită Numelui Tău, Doamne, iartă-mi nelegiuirea, căci mare este!",
+        "12": "Cine este omul care se teme de Domnul? Aceluia El îi arată ce cale să aleagă.",
+        "13": "Sufletul lui va locui în bunăstare, iar urmașii lui vor moșteni țara.",
+        "14": "Sfatul Domnului este pentru cei ce se tem de El. El le face cunoscut legământul Lui.",
+        "15": "Către Domnul îmi îndrept totdeauna privirea, căci El îmi scoate picioarele din laț.",
+        "16": "Întoarce-Te spre mine și arată-Ți bunăvoința față de mine, căci sunt singur și necăjit.",
+        "17": "Necazurile inimii mele s-au înmulțit; scoate-mă din nenorocirile mele!",
+        "18": "Uită-Te la suferința și la necazul meu și iartă toate păcatele mele.",
+        "19": "Uită-Te la dușmanii mei, căci se înmulțesc, și la ura înverșunată cu care mă urăsc.",
+        "20": "Păzește-mi sufletul și scapă-mă. Să nu fiu făcut de rușine, căci mă adăpostesc în Tine.",
+        "21": "Integritatea și nevinovăția să mă protejeze, căci îmi pun speranța în Tine.",
+        "22": "Dumnezeule, răscumpără pe Israel din toate necazurile lui!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "To you, Yahweh, I lift up my soul.",
+        "2": "My God, I have trusted in you. Don’t let me be shamed. Don’t let my enemies triumph over me.",
+        "3": "Yes, no one who waits for you will be shamed. They will be shamed who deal treacherously without cause.",
+        "4": "Show me your ways, Yahweh. Teach me your paths.",
+        "5": "Guide me in your truth, and teach me, for you are the God of my salvation. I wait for you all day long.",
+        "6": "Yahweh, remember your tender mercies and your loving kindness, for they are from old times.",
+        "7": "Don’t remember the sins of my youth, nor my transgressions. Remember me according to your loving kindness, for your goodness’ sake, Yahweh.",
+        "8": "Good and upright is Yahweh, therefore he will instruct sinners in the way.",
+        "9": "He will guide the humble in justice. He will teach the humble his way.",
+        "10": "All the paths of Yahweh are loving kindness and truth to such as keep his covenant and his testimonies.",
+        "11": "For your name’s sake, Yahweh, pardon my iniquity, for it is great.",
+        "12": "What man is he who fears Yahweh? He shall instruct him in the way that he shall choose.",
+        "13": "His soul will dwell at ease. His offspring will inherit the land.",
+        "14": "The friendship of Yahweh is with those who fear him. He will show them his covenant.",
+        "15": "My eyes are ever on Yahweh, for he will pluck my feet out of the net.",
+        "16": "Turn to me, and have mercy on me, for I am desolate and afflicted.",
+        "17": "The troubles of my heart are enlarged. Oh bring me out of my distresses.",
+        "18": "Consider my affliction and my travail. Forgive all my sins.",
+        "19": "Consider my enemies, for they are many. They hate me with cruel hatred.",
+        "20": "Oh keep my soul, and deliver me. Let me not be disappointed, for I take refuge in you.",
+        "21": "Let integrity and uprightness preserve me, for I wait for you.",
+        "22": "God, redeem Israel out of all his troubles."
+      }
+    }
+  }
+}

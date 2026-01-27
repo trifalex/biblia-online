@@ -1,0 +1,66 @@
+{
+  "book": "Psalmi",
+  "chapter": "144",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Binecuvântat să fie Domnul, Stânca mea, care-mi deprinde mâinile la luptă, degetele la bătălie,",
+        "2": "Binefăcătorul meu și Cetățuia mea, Turnul meu de scăpare și Izbăvitorul meu, Scutul meu de adăpost, care-mi supune pe poporul meu!",
+        "3": "Doamne, ce este omul ca să iei cunoștință de el, fiul omului, ca să iei seama la el?",
+        "4": "Omul este ca o suflare, zilele lui sunt ca umbra care trece.",
+        "5": "Pleacă cerurile, Doamne, și coboară-Te! Atinge munții, ca să fumege!",
+        "6": "Fulgeră și risipește pe vrăjmașii mei! Aruncă-Ți săgețile și pune-i pe fugă!",
+        "7": "Întinde-Ți mâinile de sus, izbăvește-mă și scapă-mă din apele cele mari, din mâna fiilor celui străin,",
+        "8": "a căror gură spune neadevăruri și a căror dreaptă este o dreaptă mincinoasă!",
+        "9": "Dumnezeule, Îți voi cânta o cântare nouă, Te voi lăuda cu alăuta cu zece coarde.",
+        "10": "Tu, care dai împăraților biruința, care ai scăpat de sabie ucigașă pe robul Tău David,",
+        "11": "izbăvește-mă și scapă-mă din mâna fiilor celui străin, a căror gură spune neadevăruri și a căror dreaptă este o dreaptă mincinoasă!…",
+        "12": "Fiii noștri sunt ca niște odrasle, care cresc în tinerețea lor; fetele noastre, ca niște stâlpi săpați frumos, care fac podoaba caselor împărătești.",
+        "13": "Grânarele noastre sunt pline și gem de tot felul de merinde; turmele ni se înmulțesc cu miile, cu zecile de mii, în câmpiile noastre:",
+        "14": "vițelele noastre sunt prăsitoare; nu-i nicio pagubă, nicio robie, niciun țipăt în ulițele noastre!",
+        "15": "Ferice de poporul care stă astfel! Ferice de poporul al cărui Dumnezeu este Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Binecuvântat să fie Domnul, Stânca mea, Cel Ce-mi deprinde mâinile pentru luptă și degetele pentru război,",
+        "2": "Binefăcătorul meu, Fortăreața mea, Locul meu de scăpare, Salvatorul meu, Scutul meu și Cel în Care mă adăpostesc, Cel Care-mi supune poporul!",
+        "3": "Doamne, ce este omul, ca să ții cont de el, și fiul omului, ca să te gândești la el?",
+        "4": "Omul este ca o suflare, iar zilele lui sunt ca umbra care trece.",
+        "5": "Doamne, pleacă-Ți cerurile și coboară; atinge munții, ca să fumege!",
+        "6": "Aprinde fulgerul și împrăștie-i pe dușmanii mei; aruncă săgețile Tale și pune-i pe fugă!",
+        "7": "Întinde-Ți mâna din înălțime! Scapă-mă și salvează-mă din apele cele mari, din mâna fiilor celui străin,",
+        "8": "a căror gură vorbește minciuni și a căror dreaptă este înșelătoare.",
+        "9": "Dumnezeule, Îți voi cânta o cântare nouă! Voi cânta spre lauda Ta cu lira cu zece coarde,",
+        "10": "Ție, Care le dai regilor victoria, Care îl scapi pe David, slujitorul Tău, de o sabie distrugătoare.",
+        "11": "Numai scapă-mă, salvează-mă din mâna fiilor celui străin, a căror gură vorbește nimicuri și a căror dreaptă este înșelătoare.",
+        "12": "Atunci fiii noștri, în tinerețea lor, vor fi ca niște plante bine crescute. Fetele noastre vor fi ca niște stâlpi sculptați pentru structura unui palat.",
+        "13": "Grânarele noastre vor fi pline, gemând de tot felul de roade. Turmele noastre ni se vor înmulți cu miile și cu zecile de mii pe pășunile noastre.",
+        "14": "Vitele noastre vor fi bine hrănite; nu vom avea parte nici de ziduri sparte, nici de înrobire, nici de țipăt pe străzile noastre.",
+        "15": "Ferice de poporul care are parte de acestea! Ferice de poporul al cărui Dumnezeu este Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Blessed be Yahweh, my rock, who trains my hands to war, and my fingers to battle—",
+        "2": "my loving kindness, my fortress, my high tower, my deliverer, my shield, and he in whom I take refuge, who subdues my people under me.",
+        "3": "Yahweh, what is man, that you care for him? Or the son of man, that you think of him?",
+        "4": "Man is like a breath. His days are like a shadow that passes away.",
+        "5": "Part your heavens, Yahweh, and come down. Touch the mountains, and they will smoke.",
+        "6": "Throw out lightning, and scatter them. Send out your arrows, and rout them.",
+        "7": "Stretch out your hand from above, rescue me, and deliver me out of great waters, out of the hands of foreigners,",
+        "8": "whose mouths speak deceit, whose right hand is a right hand of falsehood.",
+        "9": "I will sing a new song to you, God. On a ten-stringed lyre, I will sing praises to you.",
+        "10": "You are he who gives salvation to kings, who rescues David, his servant, from the deadly sword.",
+        "11": "Rescue me, and deliver me out of the hands of foreigners, whose mouths speak deceit, whose right hand is a right hand of falsehood.",
+        "12": "Then our sons will be like well-nurtured plants, our daughters like pillars carved to adorn a palace.",
+        "13": "Our barns are full, filled with all kinds of provision. Our sheep produce thousands and ten thousands in our fields.",
+        "14": "Our oxen will pull heavy loads. There is no breaking in, and no going away, and no outcry in our streets.",
+        "15": "Happy are the people who are in such a situation. Happy are the people whose God is Yahweh."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "143",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, ascultă-mi rugăciunea, pleacă-Ți urechea la cererile mele! Ascultă-mă în credincioșia și dreptatea Ta!",
+        "2": "Nu intra la judecată cu robul Tău! Căci niciun om viu nu este fără prihană înaintea Ta.",
+        "3": "Vrăjmașul îmi urmărește sufletul, îmi calcă viața în picioare la pământ: mă face să locuiesc în întuneric, ca cei ce au murit de multă vreme.",
+        "4": "Îmi este mâhnit duhul în mine, îmi este tulburată inima înăuntrul meu.",
+        "5": "Mi-aduc aminte de zilele de odinioară, mă gândesc la toate lucrările Tale, cuget la lucrarea mâinilor Tale.",
+        "6": "Îmi întind mâinile spre Tine; îmi suspină sufletul după Tine ca un pământ uscat.",
+        "7": "Grăbește de m-ascultă, Doamne! Mi se topește duhul: nu-mi ascunde Fața Ta! Căci aș ajunge atunci ca cei ce se coboară în groapă.",
+        "8": "Fă-mă să aud dis-de-dimineață bunătatea Ta, căci mă încred în Tine. Arată-mi calea pe care trebuie să umblu, căci la Tine îmi înalț sufletul.",
+        "9": "Scapă-mă de vrăjmașii mei, Doamne, căci la Tine caut adăpost!",
+        "10": "Învață-mă să fac voia Ta, căci Tu ești Dumnezeul meu! Duhul Tău cel bun să mă călăuzească pe calea cea dreaptă!",
+        "11": "Pentru Numele Tău, Doamne, înviorează-mă; în dreptatea Ta, scoate-mi sufletul din necaz!",
+        "12": "În bunătatea Ta, nimicește pe vrăjmașii mei și pierde pe toți potrivnicii sufletului meu, căci eu sunt robul Tău."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, ascultă-mi rugăciunea! Ascultă cu atenție cererile mele! În credincioșia și dreptatea Ta, răspunde-mi!",
+        "2": "Nu intra la judecată cu slujitorul Tău, căci niciun om viu nu-și poate apăra dreptatea înaintea Ta!",
+        "3": "Dușmanul îmi urmărește sufletul, îmi zdrobește viața de pământ, mă face să locuiesc în întunecimi asemenea celor morți demult.",
+        "4": "Duhul îmi este sleit; inima îmi este pustiită înăuntrul meu.",
+        "5": "Îmi aduc aminte de zilele de odinioară, cuget la toate lucrările Tale și mă gândesc la ceea ce au făcut mâinile Tale.",
+        "6": "Îmi întind mâinile către Tine; sufletul meu însetează după Tine ca un pământ uscat.",
+        "7": "Doamne, grăbește-Te să-mi răspunzi! Duhul îmi este obosit! Nu-Ți ascunde fața de mine, ca să nu ajung asemenea celor ce coboară în groapă.",
+        "8": "Fă ca, dimineața, să aud despre îndurarea Ta, căci în Tine mă încred! Fă-mi cunoscută calea pe care să merg, căci la Tine îmi înalț sufletul!",
+        "9": "Doamne, scapă-mă de dușmanii mei, căci la Tine caut adăpost!",
+        "10": "Învață-mă cum să-Ți împlinesc voia, căci Tu ești Dumnezeul meu! Duhul Tău este bun: să mă călăuzească pe pământ neted!",
+        "11": "Datorită Numelui Tău, Doamne, înviorează-mă! În dreptatea Ta, scapă-mi sufletul din necaz!",
+        "12": "În îndurarea Ta, spulberă-i pe dușmanii mei și nimicește-i pe toți vrăjmașii sufletului meu, căci eu sunt slujitorul Tău!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear my prayer, Yahweh. Listen to my petitions. In your faithfulness and righteousness, relieve me.",
+        "2": "Don’t enter into judgment with your servant, for in your sight no man living is righteous.",
+        "3": "For the enemy pursues my soul. He has struck my life down to the ground. He has made me live in dark places, as those who have been long dead.",
+        "4": "Therefore my spirit is overwhelmed within me. My heart within me is desolate.",
+        "5": "I remember the days of old. I meditate on all your doings. I contemplate the work of your hands.",
+        "6": "I spread out my hands to you. My soul thirsts for you, like a parched land.",
+        "7": "Hurry to answer me, Yahweh. My spirit fails. Don’t hide your face from me, so that I don’t become like those who go down into the pit.",
+        "8": "Cause me to hear your loving kindness in the morning, for I trust in you. Cause me to know the way in which I should walk, for I lift up my soul to you.",
+        "9": "Deliver me, Yahweh, from my enemies. I flee to you to hide me.",
+        "10": "Teach me to do your will, for you are my God. Your Spirit is good. Lead me in the land of uprightness.",
+        "11": "Revive me, Yahweh, for your name’s sake. In your righteousness, bring my soul out of trouble.",
+        "12": "In your loving kindness, cut off my enemies, and destroy all those who afflict my soul, for I am your servant."
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "book": "Psalmi",
+  "chapter": "66",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Înălțați lui Dumnezeu strigăte de bucurie, toți locuitorii pământului!",
+        "2": "Cântați slavă Numelui Său, măriți slava Lui prin laudele voastre!",
+        "3": "Ziceți lui Dumnezeu: „Cât de înfricoșate sunt lucrările Tale! Din pricina mărimii puterii Tale, vrăjmașii Tăi Te lingușesc.",
+        "4": "Tot pământul se închină înaintea Ta și cântă în cinstea Ta, cântă Numele Tău.”",
+        "5": "Veniți și priviți lucrările lui Dumnezeu! Ce înfricoșat este El când lucrează asupra fiilor oamenilor!",
+        "6": "El a prefăcut marea în pământ uscat și râul a fost trecut cu piciorul: atunci ne-am bucurat în El.",
+        "7": "El stăpânește pe vecie prin puterea Lui. Ochii Lui urmăresc pe neamuri, ca cei răzvrătiți să nu se mai scoale împotriva Lui!",
+        "8": "Binecuvântați, popoare, pe Dumnezeul nostru! Faceți să răsune lauda Lui!",
+        "9": "El ne-a păstrat sufletul cu viață și n-a îngăduit să ni se clatine piciorul.",
+        "10": "Căci Tu ne-ai încercat, Dumnezeule, ne-ai trecut prin cuptorul cu foc, ca argintul.",
+        "11": "Ne-ai adus în laț și ne-ai pus o grea povară pe coapse.",
+        "12": "Ai lăsat pe oameni să încalece pe capetele noastre, am trecut prin foc și prin apă, dar Tu ne-ai scos și ne-ai dat belșug.",
+        "13": "De aceea, voi merge în Casa Ta cu arderi-de-tot, îmi voi împlini juruințele făcute Ție,",
+        "14": "juruințe care mi-au ieșit de pe buze, pe care mi le-a rostit gura când eram la strâmtorare.",
+        "15": "Îți voi aduce oi grase ca ardere-de-tot, cu grăsimea berbecilor, voi jertfi oi împreună cu țapi.",
+        "16": "Veniți de ascultați, toți cei ce vă temeți de Dumnezeu, și voi istorisi ce a făcut El sufletului meu!",
+        "17": "Am strigat către El cu gura mea, și îndată lauda a fost pe limba mea.",
+        "18": "Dacă aș fi cugetat lucruri nelegiuite în inima mea, nu m-ar fi ascultat Domnul.",
+        "19": "Dar Dumnezeu m-a ascultat, a luat aminte la glasul rugăciunii mele.",
+        "20": "Binecuvântat să fie Dumnezeu, care nu mi-a lepădat rugăciunea și nu mi-a îndepărtat bunătatea Lui!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Strigați de bucurie către Dumnezeu, toți locuitorii pământului!",
+        "2": "Cântați spre gloria Numelui Său! Faceți glorioasă cântarea Lui de laudă!",
+        "3": "Spuneți-I lui Dumnezeu: „Cât de înfricoșătoare sunt lucrările Tale!“. Puterea Ta este atât de mare, încât dușmanii Tăi se retrag dinaintea Ta.",
+        "4": "Tot pământul să Ți se închine și să cânte spre lauda Ta, să cânte spre lauda Numelui Tău!",
+        "5": "Veniți și vedeți lucrările lui Dumnezeu; ceea ce a făcut El pentru fiii omului este de temut.",
+        "6": "El a schimbat marea în uscat și ei au traversat râul cu piciorul. Acolo, noi ne-am bucurat în El.",
+        "7": "El stăpânește cu puterea Sa pe vecie, ochii Săi supraveghează națiunile. Fie ca răzvrătiții să nu se mai înalțe pe ei înșiși!",
+        "8": "Popoare, binecuvântați-L pe Dumnezeul nostru! Faceți să se audă lauda adusă Numelui Său!",
+        "9": "El ne-a ținut sufletul în viață și nu lasă să ni se clatine piciorul.",
+        "10": "Dumnezeule, Tu ne cercetezi și ne purifici așa cum se purifică argintul.",
+        "11": "Ne-ai făcut să intrăm în laț și ne-ai pus o povară pe coapse.",
+        "12": "Ai îngăduit omului să călărească pe capetele noastre, am trecut prin foc și prin apă, dar apoi ne-ai condus spre abundență.",
+        "13": "De aceea voi veni la Casa Ta cu arderi-de-tot; îmi voi împlini jurămintele față de Tine",
+        "14": "pe care le-au promis buzele mele și pe care gura mea le-a rostit când eram în necaz.",
+        "15": "Îți voi aduce, ca arderi-de-tot, animale îngrășate; alături de fumul berbecilor, voi aduce tauri și țapi.",
+        "16": "Veniți și ascultați, voi, toți cei ce vă temeți de Dumnezeu, și vă voi istorisi ce a făcut El pentru mine.",
+        "17": "Am strigat către El cu gura mea și L-am lăudat cu limba mea.",
+        "18": "Dacă aș fi plănuit nelegiuirea în inima mea, nu m-ar fi ascultat Stăpânul.",
+        "19": "Dar Dumnezeu, într-adevăr, m-a ascultat; El a auzit rugăciunea mea.",
+        "20": "Binecuvântat să fie Dumnezeu Care nu mi-a respins rugăciunea și nici nu Și-a ascuns îndurarea față de mine!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Make a joyful shout to God, all the earth!",
+        "2": "Sing to the glory of his name! Offer glory and praise!",
+        "3": "Tell God, “How awesome are your deeds! Through the greatness of your power, your enemies submit themselves to you.",
+        "4": "All the earth will worship you, and will sing to you; they will sing to your name.”",
+        "5": "Come, and see God’s deeds— awesome work on behalf of the children of men.",
+        "6": "He turned the sea into dry land. They went through the river on foot. There, we rejoiced in him.",
+        "7": "He rules by his might forever. His eyes watch the nations. Don’t let the rebellious rise up against him.",
+        "8": "Praise our God, you peoples! Make the sound of his praise heard,",
+        "9": "who preserves our life among the living, and doesn’t allow our feet to be moved.",
+        "10": "For you, God, have tested us. You have refined us, as silver is refined.",
+        "11": "You brought us into prison. You laid a burden on our backs.",
+        "12": "You allowed men to ride over our heads. We went through fire and through water, but you brought us to the place of abundance.",
+        "13": "I will come into your temple with burnt offerings. I will pay my vows to you,",
+        "14": "which my lips promised, and my mouth spoke, when I was in distress.",
+        "15": "I will offer to you burnt offerings of fat animals, with the offering of rams, I will offer bulls with goats.",
+        "16": "Come and hear, all you who fear God. I will declare what he has done for my soul.",
+        "17": "I cried to him with my mouth. He was extolled with my tongue.",
+        "18": "If I cherished sin in my heart, the Lord wouldn’t have listened.",
+        "19": "But most certainly, God has listened. He has heard the voice of my prayer.",
+        "20": "Blessed be God, who has not turned away my prayer, nor his loving kindness from me."
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "book": "Isaia",
+    "chapter": "35",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Pustia și țara fără apă se vor bucura; pustietatea se va veseli și va înflori ca trandafirul;",
+                "2": "se va acoperi cu flori și va sări de bucurie, cu cântece de veselie și strigăte de biruință, căci i se va da slava Libanului, strălucirea Carmelului și a Saronului. Vor vedea slava Domnului, măreția Dumnezeului nostru.",
+                "3": "Întăriți mâinile slăbănogite și întăriți genunchii care se clatină!",
+                "4": "Spuneți celor slabi de inimă: „Fiți tari și nu vă temeți! Iată Dumnezeul vostru, răzbunarea va veni, răsplătirea lui Dumnezeu; El Însuși va veni și vă va mântui.”",
+                "5": "Atunci se vor deschide ochii orbilor, se vor deschide urechile surzilor;",
+                "6": "atunci șchiopul va sări ca un cerb și limba mutului va cânta de bucurie, căci în pustie vor țâșni ape și în pustietate pâraie;",
+                "7": "marea de nisip se va preface în iaz și pământul uscat, în izvoare de ape. În vizuina care slujea de culcuș șacalilor vor crește trestii și papură.",
+                "8": "Acolo se va croi o cale, un drum, care se va numi „Calea cea sfântă”: niciun om necurat nu va trece pe ea, ci va fi numai pentru cei sfinți; cei ce vor merge pe ea, chiar și cei fără minte, nu vor putea să se rătăcească.",
+                "9": "Pe calea aceasta nu va fi niciun leu și nicio fiară sălbatică nu va apuca pe ea, nici nu va fi întâlnită pe ea, ci cei răscumpărați vor umbla pe ea.",
+                "10": "Cei izbăviți de Domnul se vor întoarce și vor merge spre Sion cu cântece de biruință. O bucurie veșnică le va încununa capul, veselia și bucuria îi vor apuca, iar durerea și gemetele vor fugi!"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Pustia și pământul uscat se vor bucura, și va înflori ca trandafirul.",
+                "2": "Va da flori din belșug, se va bucura mult și va striga de veselie. I se va da gloria Libanului, măreția Carmelului și a Șaronului. Vor vedea gloria Domnului, măreția Dumnezeului nostru.",
+                "3": "Întăriți mâinile slabe și genunchii care se clatină!",
+                "4": "Spuneți celor cu inima speriată: „Fiți tari! Nu vă temeți! Iată-L pe Dumnezeul vostru! El vine cu răzbunare și cu răsplătire divină! El vine să vă salveze!“.",
+                "5": "Atunci ochii orbilor vor fi deschiși și urechile surzilor vor fi destupate;",
+                "6": "atunci șchiopul va sări ca un cerb și limba celui mut va striga de bucurie. Căci în deșert vor țâșni ape, iar în pustiu vor țâșni pârâuri.",
+                "7": "Nisipul arzător va ajunge iaz, iar pământul însetat se va transforma în izvoare. Iarbă, trestie și papirus vor crește acolo unde locuiau cândva șacalii.",
+                "8": "Acolo va fi un drum larg, o cale care va fi numită „Calea Sfințeniei“. Cel necurat nu va călători pe ea, ci aceasta va fi doar pentru cei ce umblă pe Cale; nebunii nu vor ajunge pe ea.",
+                "9": "Niciun leu nu va fi acolo și nicio fiară sălbatică nu va merge pe ea, nici nu va fi găsită acolo; cei răscumpărați vor umbla pe ea.",
+                "10": "Răscumpărații Domnului se vor întoarce și vor intra în Sion cu strigăte de bucurie. O bucurie veșnică va fi pe capul lor; bucuria și veselia îi vor copleși, iar durerea și suspinul vor fugi de la ei."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "The wilderness and the dry land will be glad. The desert will rejoice and blossom like a rose.",
+                "2": "It will blossom abundantly, and rejoice even with joy and singing. Lebanon’s glory will be given to it, the excellence of Carmel and Sharon. They will see Yahweh’s glory, the excellence of our God.",
+                "3": "Strengthen the weak hands, and make the feeble knees firm.",
+                "4": "Tell those who have a fearful heart, “Be strong! Don’t be afraid! Behold, your God will come with vengeance, God’s retribution. He will come and save you.",
+                "5": "Then the eyes of the blind will be opened, and the ears of the deaf will be unstopped.",
+                "6": "Then the lame man will leap like a deer, and the tongue of the mute will sing; for waters will break out in the wilderness, and streams in the desert.",
+                "7": "The burning sand will become a pool, and the thirsty ground springs of water. Grass with reeds and rushes will be in the habitation of jackals, where they lay.",
+                "8": "A highway will be there, a road, and it will be called “The Holy Way”. The unclean shall not pass over it, but it will be for those who walk in the Way. Wicked fools shall not go there.",
+                "9": "No lion will be there, nor will any ravenous animal go up on it. They will not be found there; but the redeemed will walk there.",
+                "10": "Then Yahweh’s ransomed ones will return, and come with singing to Zion; and everlasting joy will be on their heads. They will obtain gladness and joy, and sorrow and sighing will flee away.”"
+            }
+        }
+    }
+}

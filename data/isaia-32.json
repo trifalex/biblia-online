@@ -1,0 +1,81 @@
+{
+    "book": "Isaia",
+    "chapter": "32",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Atunci împăratul va împărăți cu dreptate și voievozii vor cârmui cu nepărtinire.",
+                "2": "Fiecare va fi ca un adăpost împotriva vântului și ca un loc de scăpare împotriva furtunii, ca niște râuri de apă într-un loc uscat, ca umbra unei stânci mari într-un pământ ars de sete.",
+                "3": "Ochii celor ce văd nu vor mai fi legați și urechile celor ce aud vor lua aminte.",
+                "4": "Inima celor ușuratici va pricepe și va înțelege și limba gângavilor va vorbi iute și deslușit.",
+                "5": "Nebunul nu se va mai numi ales la suflet, nici mișelul nu se va mai numi cu inimă largă.",
+                "6": "Căci nebunul spune nebunii și inima lui gândește rău, ca să lucreze în chip nelegiuit și să spună neadevăruri împotriva Domnului, ca să lase lihnit sufletul celui flămând și să ia băutura celui însetat.",
+                "7": "Armele mișelului sunt nimicitoare; el face planuri vinovate ca să piardă pe cel nenorocit prin cuvinte mincinoase, chiar când pricina săracului este dreaptă.",
+                "8": "Dar cel ales la suflet face planuri alese și stăruiește în planurile lui alese.",
+                "9": "Femei fără grijă, sculați-vă și ascultați glasul meu! Fiice nepăsătoare, luați aminte la cuvântul meu!",
+                "10": "Într-un an și câteva zile, veți tremura, nepăsătoarelor, căci se va duce culesul viilor și strângerea poamelor nu va mai veni.",
+                "11": "Îngroziți-vă, voi, cele fără grijă! Tremurați, nepăsătoarelor! Dezbrăcați-vă, dezgoliți-vă și încingeți-vă coapsele cu haine de jale!",
+                "12": "Bateți-vă pieptul, aducându-vă aminte de frumusețea câmpiilor și de rodnicia viilor.",
+                "13": "Pe pământul poporului meu cresc spini și mărăcini, chiar și în toate casele de plăcere ale cetății celei vesele.",
+                "14": "Casa împărătească este părăsită, cetatea gălăgioasă este lăsată; dealul și turnul vor sluji pe vecie ca peșteri; măgarii sălbatici se vor juca în ele și turmele vor paște",
+                "15": "până când se va turna Duhul de sus peste noi; atunci pustia se va preface în pământ și pometul va fi privit ca o pădure.",
+                "16": "Atunci nepărtinirea va locui în pustie și neprihănirea își va avea locuința în pomet.",
+                "17": "Lucrarea neprihănirii va fi pacea; roadele neprihănirii: odihna și liniștea pe vecie.",
+                "18": "Poporul meu va locui în locuința păcii, în case fără grijă și în adăposturi liniștite.",
+                "19": "Dar pădurea va fi prăbușită sub grindină, și cetatea, plecată adânc.",
+                "20": "Ferice de voi, care semănați pretutindeni de-a lungul apelor și care dați drumul pretutindeni boului și măgarului!"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Iată, un rege va domni cu dreptate și niște conducători vor stăpâni drept.",
+                "2": "Fiecare om va fi atunci ca un adăpost împotriva vântului și ca un refugiu în fața furtunii, și ca umbra unei stânci mari într-o regiune aridă.",
+                "3": "Atunci ochii celor ce văd nu vor mai fi tulburi, iar urechile celor ce aud vor asculta cu atenție.",
+                "4": "Inima celor pripiți va judeca sănătos, iar limba celor bâlbâiți va vorbi repede și clar.",
+                "5": "Nebunul nu va mai fi numit ales la suflet și ticălosului nu i se va mai spune că este distins.",
+                "6": "Căci nebunul spune nebunii și inima lui se gândește la nelegiuire: și spune neadevăruri cu privire la Domnul; și fără apă pe cel însetat.",
+                "7": "Armele celui ticălos sunt rele; ca să-l distrugă pe cel sărac cu minciuni, chiar și atunci când cauza nevoiașului este dreaptă.",
+                "8": "Dar cel nobil plănuiește lucruri nobile și prin lucruri nobile va sta drept.",
+                "9": "Femei fără grijă, ridicați-vă și ascultați glasul meu! Fiice încrezătoare, ascultați cu atenție vorbirea mea!",
+                "10": "Într-un an și câteva zile vă veți înfiora, încrezătoarelor! Căci culesul viilor se va opri, iar culesul fructelor va înceta să mai vină.",
+                "11": "Tremurați, femei pline de liniște! Înfiorați-vă, fete încrezătoare! Dezbrăcați-vă! Aruncați-vă hainele și îmbrăcați-vă cu haine de jale!",
+                "12": "Bateți-vă peste piept și plângeți pentru câmpurile plăcute,",
+                "13": "și pentru pământul poporului meu pe care cresc spini și mărăcini! și pentru această cetate plină de bucurie!",
+                "14": "Căci fortăreața va fi abandonată, cetatea zgomotoasă va fi părăsită, vor deveni vizuini pentru totdeauna, și o pășune pentru turme,",
+                "15": "până va fi turnat peste noi Duhul de sus și deșertul va deveni o livadă, iar livada va fi considerată drept o pădure.",
+                "16": "Atunci judecata va locui în deșert și dreptatea va locui în livadă.",
+                "17": "Rodul dreptății va fi pacea, iar urmările dreptății vor fi liniștea și siguranța pentru totdeauna.",
+                "18": "Poporul meu va locui într-o locuință a păcii, și în locuri de odihnă liniștite.",
+                "19": "Chiar dacă pădurea va cădea sub grindină și cetatea va fi făcută una cu pământul,",
+                "20": "ferice de voi, care semănați de-a lungul oricărei ape, care lăsați boul și măgarul să pască liberi."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Behold, a king shall reign in righteousness, and princes shall rule in justice.",
+                "2": "A man shall be as a hiding place from the wind, and a covert from the storm, as streams of water in a dry place, as the shade of a large rock in a weary land.",
+                "3": "The eyes of those who see will not be dim, and the ears of those who hear will listen.",
+                "4": "The heart of the rash will understand knowledge, and the tongue of the stammerers will be ready to speak plainly.",
+                "5": "The fool will no longer be called noble, nor the scoundrel be highly respected.",
+                "6": "For the fool will speak folly, and his heart will work iniquity, to practice profanity, and to utter error against Yahweh, to make empty the soul of the hungry, and to cause the drink of the thirsty to fail.",
+                "7": "The ways of the scoundrel are evil. He devises wicked plans to destroy the humble with lying words, even when the needy speaks right.",
+                "8": "But the noble devises noble things, and he will continue in noble things.",
+                "9": "Rise up, you women who are at ease! Hear my voice! You careless daughters, give ear to my speech!",
+                "10": "For days beyond a year you will be troubled, you careless women; for the vintage will fail. The harvest won’t come.",
+                "11": "Tremble, you women who are at ease! Be troubled, you careless ones! Strip yourselves, make yourselves naked, and put sackcloth on your waist.",
+                "12": "Beat your breasts for the pleasant fields, for the fruitful vine.",
+                "13": "Thorns and briers will come up on my people’s land; yes, on all the houses of joy in the joyous city.",
+                "14": "For the palace will be forsaken. The populous city will be deserted. The hill and the watchtower will be for dens forever, a delight for wild donkeys, a pasture of flocks,",
+                "15": "until the Spirit is poured on us from on high, and the wilderness becomes a fruitful field, and the fruitful field is considered a forest.",
+                "16": "Then justice will dwell in the wilderness; and righteousness will remain in the fruitful field.",
+                "17": "The work of righteousness will be peace, and the effect of righteousness, quietness and confidence forever.",
+                "18": "My people will live in a peaceful habitation, in safe dwellings, and in quiet resting places,",
+                "19": "though hail flattens the forest, and the city is leveled completely.",
+                "20": "Blessed are you who sow beside all waters, who send out the feet of the ox and the donkey."
+            }
+        }
+    }
+}

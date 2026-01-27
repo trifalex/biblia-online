@@ -1,0 +1,72 @@
+{
+  "book": "Iona",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cuvântul Domnului a vorbit lui Iona, fiul lui Amitai, astfel:",
+        "2": "„Scoală-te, du-te la Ninive, cetatea cea mare, și strigă împotriva ei! Căci răutatea ei s-a suit până la Mine!”",
+        "3": "Și Iona s-a sculat să fugă la Tars, departe de Fața Domnului. S-a coborât la Iafo și a găsit acolo o corabie care mergea la Tars. A plătit prețul călătoriei și s-a suit în corabie ca să meargă împreună cu călătorii la Tars, departe de Fața Domnului.",
+        "4": "Dar Domnul a făcut să sufle pe mare un vânt năprasnic și a stârnit o mare furtună. Corabia amenința să se sfărâme.",
+        "5": "Corăbierii s-au temut, a strigat fiecare la dumnezeul lui și au aruncat în mare uneltele din corabie, ca s-o facă mai ușoară. Iona s-a coborât în fundul corabiei, s-a culcat și a adormit dus.",
+        "6": "Cârmaciul s-a apropiat de el și i-a zis: „Ce dormi? Scoală-te și cheamă pe Dumnezeul tău! Poate că Dumnezeu va voi să se gândească la noi, și nu vom pieri!”",
+        "7": "Și au zis unul către altul: „Veniți să tragem la sorți, ca să știm din pricina cui a venit peste noi nenorocirea aceasta!” Au tras la sorți, și sorțul a căzut pe Iona.",
+        "8": "Atunci, ei i-au zis: „Spune-ne din pricina cui a venit peste noi nenorocirea aceasta? Ce meserie ai și de unde vii? Care îți este țara și din ce popor ești?”",
+        "9": "El le-a răspuns: „Sunt evreu și mă tem de Domnul Dumnezeul cerurilor, care a făcut marea și uscatul!”",
+        "10": "Oamenii aceia au avut o mare teamă și i-au zis: „Pentru ce ai făcut lucrul acesta?” Căci oamenii aceia știau că fugea de Fața Domnului, pentru că le spusese el.",
+        "11": "Ei i-au zis: „Ce să-ți facem ca să se potolească marea față de noi?” Căci marea era din ce în ce mai înfuriată.",
+        "12": "El le-a răspuns: „Luați-mă și aruncați-mă în mare, și marea se va liniști față de voi! Căci știu că din vina mea vine peste voi această mare furtună!”",
+        "13": "Oamenii aceștia vâsleau ca să ajungă la uscat, dar nu puteau, pentru că marea se întărâta tot mai mult împotriva lor.",
+        "14": "Atunci au strigat către Domnul și au zis: „Doamne, nu ne pierde din pricina vieții omului acestuia și nu ne împovăra cu sânge nevinovat! Căci Tu, Doamne, faci ce vrei!”",
+        "15": "Apoi au luat pe Iona și l-au aruncat în mare. Și furia mării s-a potolit.",
+        "16": "Pe oamenii aceia i-a apucat o mare frică de Domnul și au adus Domnului o jertfă și I-au făcut juruințe.",
+        "17": "Domnul a trimis un pește mare să înghită pe Iona și Iona a stat în pântecele peștelui trei zile și trei nopți."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cuvântul Domnului i-a vorbit lui Iona, fiul lui Amitai, zicând:",
+        "2": "„Ridică-te și du-te la Ninive, cetatea cea mare, și strigă împotriva ei, căci răutatea ei s-a suit până la Mine!“.",
+        "3": "Dar Iona s-a ridicat ca să fugă la Tarșiș, departe de fața Domnului. El s-a dus la Iafo și a găsit acolo o corabie care mergea spre Tarșiș. După ce a plătit prețul călătoriei, s-a urcat în corabie ca să meargă împreună cu marinarii la Tarșiș, departe de fața Domnului.",
+        "4": "Domnul, însă, a dezlănțuit pe mare un vânt năprasnic și, astfel, s-a stârnit o furtună atât de puternică, încât corabia amenința să se sfărâme.",
+        "5": "Marinarii s-au temut și fiecare a strigat către dumnezeul său, iar pentru a face corabia mai ușoară, au aruncat în mare uneltele care erau în ea. Iona, însă, coborâse în cala corabiei, unde se întinsese și adormise adânc.",
+        "6": "Căpitanul s-a apropiat de el și i-a zis: „Cum poți să dormi? Scoală-te și strigă către Dumnezeul tău! Poate că Dumnezeu Se va gândi la noi și nu vom pieri“.",
+        "7": "Apoi fiecare i-a zis semenului său: „Haideți să tragem la sorți, ca să aflăm din cauza cui a venit peste noi nenorocirea aceasta“. Ei au tras la sorți, iar sorțul a căzut pe Iona.",
+        "8": "Atunci ei l-au întrebat: ‒ Spune-ne, te rugăm, din cauza cui a venit peste noi această nenorocire? Care este meseria ta și de unde vii? Care este țara ta și din ce popor ești?",
+        "9": "El le-a răspuns: ‒ Sunt evreu și mă tem de Domnul, Dumnezeul cerurilor, Care a făcut marea și uscatul!",
+        "10": "Bărbații aceia s-au temut foarte tare și l-au întrebat: ‒ Ce-ai făcut? (Ei aflaseră că fugea de fața Domnului, întrucât le spusese el acest lucru.)",
+        "11": "Marea era din ce în ce mai învolburată, astfel că ei l-au întrebat iarăși: ‒ Ce să-ți facem, pentru ca marea să se liniștească față de noi?",
+        "12": "El le-a răspuns: ‒ Luați-mă și aruncați-mă în mare, iar marea se va liniști față de voi, căci știu că din cauza mea a venit peste voi această furtună puternică!",
+        "13": "Bărbații aceia au încercat totuși să vâslească pentru a se putea întoarce pe uscat, dar n-au reușit, căci marea se învolbura tot mai tare împotriva lor.",
+        "14": "Atunci au strigat către Domnul și au zis: „O, Doamne, Te rugăm, nu ne lăsa să pierim din cauza vieții acestui om! Nu lăsa asupra noastră sânge nevinovat, căci Tu, Doamne, ai făcut așa cum Ți-a plăcut!“.",
+        "15": "Apoi l-au luat pe Iona și l-au aruncat în mare, iar marea și-a potolit furia.",
+        "16": "Atunci bărbații aceia s-au temut foarte tare de Domnul. Ei I-au adus Domnului o jertfă și au făcut jurăminte.",
+        "17": "Domnul a trimis un pește mare să-l înghită pe Iona; și Iona a fost în pântecul peștelui timp de trei zile și trei nopți."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now Yahweh’s word came to Jonah the son of Amittai, saying,",
+        "2": "“Arise, go to Nineveh, that great city, and preach against it, for their wickedness has come up before me.”",
+        "3": "But Jonah rose up to flee to Tarshish from the presence of Yahweh. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of Yahweh.",
+        "4": "But Yahweh sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up.",
+        "5": "Then the mariners were afraid, and every man cried to his god. They threw the cargo that was in the ship into the sea to lighten the ship. But Jonah had gone down into the innermost parts of the ship and he was laying down, and was fast asleep.",
+        "6": "So the ship master came to him, and said to him, “What do you mean, sleeper? Arise, call on your God! Maybe your God will notice us, so that we won’t perish.”",
+        "7": "They all said to each other, “Come! Let’s cast lots, that we may know who is responsible for this evil that is on us.” So they cast lots, and the lot fell on Jonah.",
+        "8": "Then they asked him, “Tell us, please, for whose cause this evil is on us. What is your occupation? Where do you come from? What is your country? Of what people are you?”",
+        "9": "He said to them, “I am a Hebrew, and I fear Yahweh, the God of heaven, who has made the sea and the dry land.”",
+        "10": "Then the men were exceedingly afraid, and said to him, “What have you done?” For the men knew that he was fleeing from the presence of Yahweh, because he had told them.",
+        "11": "Then they said to him, “What shall we do to you, that the sea may be calm to us?” For the sea grew more and more stormy.",
+        "12": "He said to them, “Take me up, and throw me into the sea. Then the sea will be calm for you; for I know that because of me this great storm is on you.”",
+        "13": "Nevertheless the men rowed hard to get them back to the land; but they could not, for the sea grew more and more stormy against them.",
+        "14": "Therefore they cried to Yahweh, and said, “We beg you, Yahweh, we beg you, don’t let us die for this man’s life, and don’t lay on us innocent blood; for you, Yahweh, have done as it pleased you.”",
+        "15": "So they took up Jonah and threw him into the sea; and the sea ceased its raging.",
+        "16": "Then the men feared Yahweh exceedingly; and they offered a sacrifice to Yahweh and made vows.",
+        "17": "Yahweh prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights."
+      }
+    }
+  }
+}

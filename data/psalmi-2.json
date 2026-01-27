@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Pentru ce se întărâtă neamurile și pentru ce cugetă popoarele lucruri deșarte?",
+        "2": "Împărații pământului se răscoală și domnitorii se sfătuiesc împreună împotriva Domnului și împotriva Unsului Său, zicând:",
+        "3": "„Să le rupem legăturile și să scăpăm de lanțurile lor!”",
+        "4": "Cel ce șade în ceruri râde, Domnul Își bate joc de ei.",
+        "5": "Apoi, în mânia Lui, le vorbește și-i îngrozește cu urgia Sa, zicând:",
+        "6": "„Totuși Eu am uns pe Împăratul Meu pe Sion, muntele Meu cel sfânt.”",
+        "7": "„Eu voi vesti hotărârea Lui”, zice Unsul. „Domnul Mi-a zis: ‘Tu ești Fiul Meu! Astăzi Te-am născut.",
+        "8": "Cere-Mi și-Ți voi da neamurile de moștenire și marginile pământului în stăpânire!",
+        "9": "Tu le vei zdrobi cu un toiag de fier și le vei sfărâma ca pe vasul unui olar.’”",
+        "10": "Acum dar, împărați, purtați-vă cu înțelepciune! Luați învățătură, judecătorii pământului!",
+        "11": "Slujiți Domnului cu frică și bucurați-vă tremurând.",
+        "12": "Dați cinste Fiului, ca să nu Se mânie și să nu pieriți pe calea voastră, căci mânia Lui este gata să se aprindă! Ferice de toți câți se încred în El!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "De ce se agită națiunile și de ce cugetă popoarele lucruri deșarte?",
+        "2": "Regii pământului s-au ridicat cu toții, și conducătorii s-au adunat împreună împotriva Domnului și împotriva Unsului Său, zicând:",
+        "3": "„Să Le rupem legăturile și să aruncăm funiile Lor de pe noi!“.",
+        "4": "Cel Ce locuiește în Ceruri râde; Stăpânul Își bate joc de ei.",
+        "5": "Apoi le vorbește în mânia Lui și-i îngrozește în furia Lui, zicând:",
+        "6": "„Totuși, Eu L-am înscăunat pe Împăratul Meu peste Sion, muntele Meu cel sfânt“.",
+        "7": "Voi vesti hotărârea Domnului: El Mi-a zis: „Tu ești Fiul Meu! Astăzi Te-am născut!",
+        "8": "Cere-Mi și-Ți voi da națiunile ca moștenire și marginile pământului în stăpânire!",
+        "9": "Tu le vei zdrobi cu un toiag de fier, le vei sfărâma ca pe vasul unui olar“.",
+        "10": "De aceea, regilor, fiți înțelepți! Judecători ai pământului, primiți învățătură!",
+        "11": "Slujiți Domnului cu teamă și bucurați-vă tremurând!",
+        "12": "Dați sărutare Fiului, ca nu cumva să Se mânie și să pieriți pe cale, căci mânia Lui este gata să se aprindă! Ferice de toți cei ce se adăpostesc în El!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Why do the nations rage, and the peoples plot a vain thing?",
+        "2": "The kings of the earth take a stand, and the rulers take counsel together, against Yahweh, and against his Anointed, saying,",
+        "3": "“Let’s break their bonds apart, and cast their cords from us.”",
+        "4": "He who sits in the heavens will laugh. The Lord will have them in derision.",
+        "5": "Then he will speak to them in his anger, and terrify them in his wrath:",
+        "6": "“Yet I have set my King on my holy hill of Zion.”",
+        "7": "I will tell of the decree: Yahweh said to me, “You are my son. Today I have become your father.",
+        "8": "Ask of me, and I will give the nations for your inheritance, the uttermost parts of the earth for your possession.",
+        "9": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”",
+        "10": "Now therefore be wise, you kings. Be instructed, you judges of the earth.",
+        "11": "Serve Yahweh with fear, and rejoice with trembling.",
+        "12": "Give sincere homage to the Son, lest he be angry, and you perish on the way, for his wrath will soon be kindled. Blessed are all those who take refuge in him."
+      }
+    }
+  }
+}

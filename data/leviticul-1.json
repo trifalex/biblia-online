@@ -1,0 +1,72 @@
+{
+  "book": "Leviticul",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Domnul a chemat pe Moise, i-a vorbit din cortul întâlnirii și a zis:",
+        "2": "„Vorbește copiilor lui Israel și spune-le: ‘Când cineva dintre voi va aduce un dar Domnului, să-l aducă din vite, fie din cireadă, fie din turmă.",
+        "3": "Dacă darul lui va fi o ardere-de-tot din cireadă, să-l aducă din partea bărbătească fără cusur, și anume să-l aducă la ușa cortului întâlnirii, înaintea Domnului, ca să fie plăcut Domnului.",
+        "4": "Să-și pună mâna pe capul dobitocului adus ca ardere-de-tot, și va fi primit de Domnul, ca să facă ispășire pentru el.",
+        "5": "Să înjunghie vițelul înaintea Domnului și preoții, fiii lui Aaron, să aducă sângele și să-l stropească de jur împrejur pe altarul de la ușa cortului întâlnirii.",
+        "6": "Să jupoaie vițelul adus ca ardere-de-tot și să-l taie în bucăți.",
+        "7": "Fiii preotului Aaron să facă foc pe altar și să pună lemne pe foc.",
+        "8": "Preoții, fiii lui Aaron, să așeze bucățile, capul și grăsimea pe lemnele puse pe focul de pe altar.",
+        "9": "Să spele cu apă măruntaiele și picioarele, și preotul să le ardă toate pe altar. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului.",
+        "10": "Dacă darul lui va fi o ardere-de-tot din turmă, de miei sau capre, să aducă o parte bărbătească fără cusur.",
+        "11": "Să-l înjunghie în partea de miazănoapte a altarului, înaintea Domnului, și preoții, fiii lui Aaron, să-i stropească sângele pe altar de jur împrejur.",
+        "12": "El să-l taie în bucăți, și preotul să le pună, împreună cu capul și grăsimea, pe lemnele din focul de pe altar.",
+        "13": "Să spele cu apă măruntaiele și picioarele, și preotul să le aducă pe toate și să le ardă pe altar. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului. Arderea-de-tot din păsări",
+        "14": "Dacă darul adus de el Domnului va fi o ardere-de-tot din păsări, să-l aducă din turturele sau din pui de porumbel.",
+        "15": "Preotul să aducă pasărea pe altar, să-i despice capul cu unghia și s-o ardă pe altar, iar sângele să i se scurgă pe un perete al altarului.",
+        "16": "Să scoată gușa cu penele ei și s-o arunce lângă altar, spre răsărit, în locul unde se strânge cenușa.",
+        "17": "Să-i frângă aripile, fără să le dezlipească, și preotul să ardă pasărea pe altar, pe lemnele de pe foc. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Domnul l-a chemat pe Moise și i-a vorbit din Cortul Întâlnirii, zicând:",
+        "2": "„Vorbește-le fiilor lui Israel și spune-le: «Când cineva dintre voi aduce Domnului vreo ofrandă, să vă aduceți ofranda dintr-un animal din turmă sau cireadă.",
+        "3": "Dacă ofranda lui este o ardere-de-tot din cireadă, atunci să aducă un mascul fără cusur. Să-l aducă la intrarea în Cortul Întâlnirii ca să fie plăcut înaintea Domnului.",
+        "4": "Să-și pună mâna pe capul animalului adus ca ardere-de-tot, și acesta va fi primit în locul lui ca ispășire pentru el.",
+        "5": "Vițelul să fie înjunghiat înaintea Domnului iar fiii lui Aaron, preoții, să aducă sângele și să-l stropească de jur împrejurul altarului de la intrarea în Cortul Întâlnirii.",
+        "6": "Arderea-de-tot să fie jupuită și tăiată în bucăți.",
+        "7": "Fiii preotului Aaron să facă foc pe altar și să pună lemne în foc.",
+        "8": "Apoi preoții, fiii lui Aaron, să așeze bucățile, capul și grăsimea pe lemnele puse în focul de pe altar,",
+        "9": "iar măruntaiele și picioarele să le spele cu apă. Apoi preotul să le ardă pe toate pe altar ca o ardere-de-tot, o jertfă mistuită de foc, de o aromă plăcută Domnului.",
+        "10": "Dacă ofranda lui ca ardere-de-tot este din turmă, din miei sau din capre, atunci să aducă un mascul fără cusur.",
+        "11": "Să-l înjunghie în partea de nord a altarului, înaintea Domnului, iar fiii lui Aaron, preoții, să-i stropească sângele pe altar, de jur împrejur.",
+        "12": "Preotul să-l taie în bucăți și să așeze bucățile împreună cu capul și grăsimea pe lemnele puse pe focul de pe altar,",
+        "13": "iar măruntaiele și picioarele să le spele cu apă. Apoi, preotul să le aducă pe toate și să le ardă pe altar. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de o aromă plăcută Domnului.",
+        "14": "Dacă ofranda lui pentru Domnul este o ardere-de-tot din păsări, atunci să-și aducă ofranda din turturele sau din pui de porumbel.",
+        "15": "Preotul să aducă pasărea lângă altar, să-i desprindă capul și s-o ardă pe altar; sângele ei să-i fie scurs pe o parte a altarului.",
+        "16": "Apoi, să-i scoată gușa cu ce are în ea și s-o arunce lângă altar, pe partea de est, în locul pentru cenușă.",
+        "17": "Să-i rupă aripile, fără să le desprindă. După aceea, preotul să ardă pasărea pe altar, pe lemnele de pe foc. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de o aromă plăcută Domnului."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh called to Moses, and spoke to him from the Tent of Meeting, saying,",
+        "2": "“Speak to the children of Israel, and tell them, ‘When anyone of you offers an offering to Yahweh, you shall offer your offering of the livestock, from the herd and from the flock.",
+        "3": "“‘If his offering is a burnt offering from the herd, he shall offer a male without defect. He shall offer it at the door of the Tent of Meeting, that he may be accepted before Yahweh.",
+        "4": "He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him.",
+        "5": "He shall kill the bull before Yahweh. Aaron’s sons, the priests, shall present the blood and sprinkle the blood around on the altar that is at the door of the Tent of Meeting.",
+        "6": "He shall skin the burnt offering and cut it into pieces.",
+        "7": "The sons of Aaron the priest shall put fire on the altar, and lay wood in order on the fire;",
+        "8": "and Aaron’s sons, the priests, shall lay the pieces, the head, and the fat in order on the wood that is on the fire which is on the altar;",
+        "9": "but he shall wash its innards and its legs with water. The priest shall burn all of it on the altar, for a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh.",
+        "10": "“‘If his offering is from the flock, from the sheep or from the goats, for a burnt offering, he shall offer a male without defect.",
+        "11": "He shall kill it on the north side of the altar before Yahweh. Aaron’s sons, the priests, shall sprinkle its blood around on the altar.",
+        "12": "He shall cut it into its pieces, with its head and its fat. The priest shall lay them in order on the wood that is on the fire which is on the altar,",
+        "13": "but the innards and the legs he shall wash with water. The priest shall offer the whole, and burn it on the altar. It is a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh.",
+        "14": "“‘If his offering to Yahweh is a burnt offering of birds, then he shall offer his offering from turtledoves or of young pigeons.",
+        "15": "The priest shall bring it to the altar, and wring off its head, and burn it on the altar; and its blood shall be drained out on the side of the altar;",
+        "16": "and he shall take away its crop and its feathers, and cast it beside the altar on the east part, in the place of the ashes.",
+        "17": "He shall tear it by its wings, but shall not divide it apart. The priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh."
+      }
+    }
+  }
+}

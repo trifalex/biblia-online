@@ -1,0 +1,72 @@
+{
+  "book": "Cantarea Cantarilor",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Eu sunt un trandafir din Saron, un crin din văi. –",
+        "2": "Ca un crin în mijlocul spinilor, așa este iubita mea între fete. –",
+        "3": "Ca un măr între copacii pădurii, așa este preaiubitul meu între tineri. Cu așa drag stau la umbra lui și rodul lui este dulce pentru cerul gurii mele.",
+        "4": "El m-a dus în casa de ospăț și dragostea era steagul fluturat peste mine.",
+        "5": "Întăriți-mă cu turte de struguri, înviorați-mă cu mere, căci sunt bolnavă de dragostea lui.",
+        "6": "Să-și pună mâna stângă sub capul meu și să mă îmbrățișeze cu dreapta lui! –",
+        "7": "Vă jur, fiice ale Ierusalimului, pe căprioarele și cerboaicele de pe câmp: nu stârniți, nu treziți dragostea până nu vine ea! –",
+        "8": "Aud glasul preaiubitului meu! Iată-l că vine sărind peste munți, săltând pe dealuri.",
+        "9": "Preaiubitul meu seamănă cu o căprioară sau cu puiul de cerboaică. Iată-l că este după zidul nostru, se uită pe fereastră, privește printre zăbrele.",
+        "10": "Preaiubitul meu vorbește și-mi zice: „Scoală-te, iubito, și vino, frumoaso!",
+        "11": "Căci iată că a trecut iarna; a încetat ploaia și s-a dus.",
+        "12": "Se arată florile pe câmp, a venit vremea cântării și se aude glasul turturelei în câmpiile noastre.",
+        "13": "Se pârguiesc roadele în smochin și viile înflorite își răspândesc mirosul. Scoală-te, iubito, și vino, frumoaso!",
+        "14": "Porumbiță din crăpăturile stâncii, ascunsă în scobiturile prăpăstiilor, arată-mi fața ta și fă-mă să-ți aud glasul! Căci glasul tău este dulce și fața ta, plăcută.” –",
+        "15": "Prindeți-ne vulpile, vulpile cele mici, care strică viile, căci viile noastre sunt în floare! –",
+        "16": "Preaiubitul meu este al meu, și eu sunt a lui; el își paște turma între crini.",
+        "17": "Până la răcoarea zilei și până la lungirea umbrelor, întoarce-te!… Iubitule, sari ca o căprioară sau ca puiul de cerb peste munții ce ne despart!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Eu sunt un trandafir din Șaron, un crin al văilor. Iubitul",
+        "2": "Cum este crinul printre spini, așa este iubita mea între fete. Șulamita",
+        "3": "Cum este mărul printre copacii pădurii, așa este iubitul meu între tineri. Îmi place să stau la umbra lui și rodul lui este dulce pentru gura mea.",
+        "4": "El m-a adus în casa ospățului, iar steagul lui peste mine era iubirea.",
+        "5": "Întăriți-mă cu turte cu stafide, înviorați-mă cu mere, fiindcă sunt bolnavă de iubire!",
+        "6": "Stânga lui este sub capul meu și dreapta lui mă îmbrățișează!",
+        "7": "Vă pun să jurați, fete ale Ierusalimului, pe gazelele sau pe cerboaicele câmpului: nu stârniți și nu treziți iubirea până nu-i face ei plăcere…",
+        "8": "Auziți glasul iubitului meu! Iată-l venind, sărind peste munți, săltând peste dealuri!",
+        "9": "Iubitul meu este ca o gazelă, ca un pui de cerb. Iată-l că stă în spatele zidurilor casei noastre, uitându-se prin ferestre și contemplând printre zăbrele.",
+        "10": "Iubitul meu a vorbit și mi-a zis: „Ridică-te, iubita mea, și vino cu mine, frumoasa mea,",
+        "11": "pentru că, iată, iarna a trecut, ploaia s-a oprit și s-a dus.",
+        "12": "Pe câmp răsar florile, a venit timpul cântării, iar pe deasupra câmpiilor noastre se aude glasul turturelei.",
+        "13": "Smochinii dau primele roade și florile viilor își răspândesc parfumul. Ridică-te și vino, iubita mea, vino cu mine, frumoasa mea!“. Iubitul",
+        "14": "Porumbița mea, din crăpăturile stâncii, din locurile ascunse ale înălțimilor, arată-mi fața ta și lasă-mă să-ți aud glasul, căci glasul tău este dulce, iar fața ta este încântătoare. Corul",
+        "15": "Prindeți-ne vulpile, micuțele vulpi care distrug viile, viile noastre, care sunt în floare. Șulamita",
+        "16": "Iubitul meu este al meu, iar eu sunt a lui. El își paște turma printre crini.",
+        "17": "Când se va lumina de ziuă, iar umbrele vor zbura, întoarce-te, iubitul meu, și fii ca o gazelă sau ca un pui de cerb peste munții prăpăstioși."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I am a rose of Sharon, a lily of the valleys. Lover",
+        "2": "As a lily among thorns, so is my love among the daughters. Beloved",
+        "3": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, his fruit was sweet to my taste.",
+        "4": "He brought me to the banquet hall. His banner over me is love.",
+        "5": "Strengthen me with raisins, refresh me with apples; for I am faint with love.",
+        "6": "His left hand is under my head. His right hand embraces me.",
+        "7": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires.",
+        "8": "The voice of my beloved! Behold, he comes, leaping on the mountains, skipping on the hills.",
+        "9": "My beloved is like a roe or a young deer. Behold, he stands behind our wall! He looks in at the windows. He glances through the lattice.",
+        "10": "My beloved spoke, and said to me, “Rise up, my love, my beautiful one, and come away.",
+        "11": "For behold, the winter is past. The rain is over and gone.",
+        "12": "The flowers appear on the earth. The time of the singing has come, and the voice of the turtledove is heard in our land.",
+        "13": "The fig tree ripens her green figs. The vines are in blossom. They give out their fragrance. Arise, my love, my beautiful one, and come away.” Lover",
+        "14": "My dove in the clefts of the rock, in the hiding places of the mountainside, let me see your face. Let me hear your voice; for your voice is sweet and your face is lovely.",
+        "15": "Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in blossom. Beloved",
+        "16": "My beloved is mine, and I am his. He browses among the lilies.",
+        "17": "Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether."
+      }
+    }
+  }
+}

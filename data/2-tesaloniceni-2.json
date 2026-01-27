@@ -1,0 +1,72 @@
+{
+  "book": "2 Tesaloniceni",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cât privește venirea Domnului nostru Isus Hristos și strângerea noastră laolaltă cu El, vă rugăm, fraților,",
+        "2": "să nu vă lăsați clătinați așa de repede în mintea voastră și să nu vă tulburați de vreun duh, nici de vreo vorbă, nici de vreo epistolă ca venind de la noi, ca și cum ziua Domnului ar fi și venit chiar.",
+        "3": "Nimeni să nu vă amăgească în vreun chip, căci nu va veni înainte ca să fi venit lepădarea de credință și de a se descoperi omul fărădelegii, fiul pierzării,",
+        "4": "potrivnicul care se înalță mai presus de tot ce se numește „Dumnezeu” sau de ce este vrednic de închinare. Așa că se va așeza în Templul lui Dumnezeu, dându-se drept Dumnezeu.",
+        "5": "Nu vă aduceți aminte cum vă spuneam lucrurile acestea când eram încă la voi?",
+        "6": "Și acum știți bine ce-l oprește ca să nu se descopere decât la vremea lui.",
+        "7": "Căci taina fărădelegii a și început să lucreze; trebuie numai ca cel ce o oprește acum să fie luat din drumul ei.",
+        "8": "Și atunci se va arăta acel nelegiuit, pe care Domnul Isus îl va nimici cu suflarea gurii Sale și-l va prăpădi cu arătarea venirii Sale.",
+        "9": "Arătarea lui se va face prin puterea Satanei, cu tot felul de minuni, de semne și puteri mincinoase",
+        "10": "și cu toate amăgirile nelegiuirii pentru cei ce sunt pe calea pierzării, pentru că n-au primit dragostea adevărului ca să fie mântuiți.",
+        "11": "Din această pricină, Dumnezeu le trimite o lucrare de rătăcire, ca să creadă o minciună:",
+        "12": "pentru ca toți cei ce n-au crezut adevărul, ci au găsit plăcere în nelegiuire, să fie osândiți.",
+        "13": "Noi însă, frați preaiubiți de Domnul, trebuie să mulțumim totdeauna lui Dumnezeu pentru voi, căci de la început Dumnezeu v-a ales pentru mântuire, în sfințirea Duhului și credința adevărului.",
+        "14": "Iată la ce v-a chemat El, prin Evanghelia noastră, ca să căpătați slava Domnului nostru Isus Hristos.",
+        "15": "Așadar, fraților, rămâneți tari și țineți învățăturile pe care le-ați primit fie prin viu grai, fie prin epistola noastră.",
+        "16": "Și Însuși Domnul nostru Isus Hristos și Dumnezeu, Tatăl nostru, care ne-a iubit și ne-a dat prin harul Său o mângâiere veșnică și o bună nădejde,",
+        "17": "să vă mângâie inimile și să vă întărească în orice lucru și cuvânt bun!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În ce privește venirea Domnului nostru Isus Cristos și strângerea noastră laolaltă cu El, vă rugăm, fraților,",
+        "2": "să nu vă lăsați clătinați sau tulburați așa de repede în mintea voastră nici de vreun duh, nici de vreun cuvânt, nici de vreo scrisoare ca venind din partea noastră, care spune că ziua Domnului a și venit.",
+        "3": "Nimeni să nu vă înșele în niciun fel, fiindcă nu va veni înainte să vină apostazia și să fie descoperit omul nelegiuirii, fiul pierzării,",
+        "4": "cel care se împotrivește și se înalță pe sine deasupra a orice este numit „dumnezeu“ sau obiect de închinare. El se va așeza în Templul lui Dumnezeu, proclamându-se pe sine însuși Dumnezeu.",
+        "5": "Nu vă aduceți aminte că v-am spus aceste lucruri când eram cu voi?",
+        "6": "Și acum știți ce-l oprește, astfel încât să fie descoperit doar la vremea lui.",
+        "7": "Căci taina nelegiuirii lucrează deja. Trebuie doar ca acela care-l oprește acum să se dea la o parte.",
+        "8": "Și atunci va fi descoperit cel nelegiuit, pe care Domnul Isus îl va omorî cu suflarea gurii Sale și-l va distruge la arătarea venirii Sale.",
+        "9": "Venirea celui nelegiuit va fi potrivit cu lucrarea lui Satan, cu tot felul de lucrări puternice, semne și minuni mincinoase",
+        "10": "și cu tot felul de înșelăciuni ale nelegiuirii, pentru cei ce pier, având în vedere că n-au primit dragostea adevărului ca să fie mântuiți.",
+        "11": "De aceea Dumnezeu le trimite o lucrare de rătăcire, pentru ca ei să creadă minciuna,",
+        "12": "așa încât toți cei care n-au crezut adevărul, ci și-au găsit plăcerea în nedreptate, să fie condamnați.",
+        "13": "Însă noi Îi mulțumim întotdeauna lui Dumnezeu pentru voi, frați iubiți de Domnul, pentru că Dumnezeu v-a ales ca prim rod pentru mântuire, prin lucrarea de sfințire a Duhului și prin credința în adevăr.",
+        "14": "Și la aceasta v-a chemat El prin Evanghelia noastră, astfel încât să primiți gloria Domnului nostru Isus Cristos.",
+        "15": "Așadar, fraților, să rămâneți tari și să țineți învățăturile pe care le-ați primit, fie prin cuvânt, fie prin scrisoarea noastră.",
+        "16": "Însuși Domnul nostru Isus Cristos și Dumnezeu, Tatăl nostru, Care ne-a iubit și Care ne-a dat, prin harul Său, o încurajare veșnică și o speranță bună,",
+        "17": "să vă încurajeze inimile și să vă întărească în orice faptă bună pe care o faceți și în orice cuvânt bun pe care-l spuneți."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to him, we ask you",
+        "2": "not to be quickly shaken in your mind or troubled, either by spirit or by word or by letter as if from us, saying that the day of Christ has already come.",
+        "3": "Let no one deceive you in any way. For it will not be unless the rebellion comes first, and the man of sin is revealed, the son of destruction.",
+        "4": "He opposes and exalts himself against all that is called God or that is worshiped, so that he sits as God in the temple of God, setting himself up as God.",
+        "5": "Don’t you remember that when I was still with you, I told you these things?",
+        "6": "Now you know what is restraining him, to the end that he may be revealed in his own season.",
+        "7": "For the mystery of lawlessness already works. Only there is one who restrains now, until he is taken out of the way.",
+        "8": "Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth and destroy by the manifestation of his coming;",
+        "9": "even he whose coming is according to the working of Satan with all power and signs and lying wonders,",
+        "10": "and with all deception of wickedness for those who are being lost, because they didn’t receive the love of the truth, that they might be saved.",
+        "11": "Because of this, God sends them a powerful delusion, that they should believe a lie,",
+        "12": "that they all might be judged who didn’t believe the truth, but had pleasure in unrighteousness.",
+        "13": "But we are bound to always give thanks to God for you, brothers loved by the Lord, because God chose you from the beginning for salvation through sanctification of the Spirit and belief in the truth,",
+        "14": "to which he called you through our Good News, for the obtaining of the glory of our Lord Jesus Christ.",
+        "15": "So then, brothers, stand firm and hold the traditions which you were taught by us, whether by word or by letter.",
+        "16": "Now our Lord Jesus Christ himself, and God our Father, who loved us and gave us eternal comfort and good hope through grace,",
+        "17": "comfort your hearts and establish you in every good work and word."
+      }
+    }
+  }
+}

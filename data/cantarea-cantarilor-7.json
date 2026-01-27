@@ -1,0 +1,60 @@
+{
+  "book": "Cantarea Cantarilor",
+  "chapter": "7",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ce frumoase îți sunt picioarele în încălțămintea ta, fată de domn! Marginile rotunde ale coapsei tale sunt ca niște lănțișoare de pus la gât, lucrate de mâinile unui meșter iscusit.",
+        "2": "Pântecele tău este un pahar rotund, de unde nu lipsește vinul mirositor; trupul tău este un snop de grâu, încins cu crini.",
+        "3": "Amândouă țâțele tale sunt ca doi pui de cerb, ca gemenii unei căprioare.",
+        "4": "Gâtul tău este ca un turn de fildeș; ochii tăi sunt ca iazurile Hesbonului, de lângă Poarta Bat-Rabim; nasul tău este ca turnul Libanului, care privește spre Damasc.",
+        "5": "Capul tău este cum e Carmelul și părul capului tău este ca purpura împărătească: până și un împărat ar fi înlănțuit de pletele tale!…",
+        "6": "Ce frumoasă și ce plăcută ești tu, iubito, în mijlocul desfătărilor!",
+        "7": "Statura ta este ca finicul și țâțele tale ca niște struguri.",
+        "8": "Îmi zic: „Mă voi sui în finic și-i voi apuca crăcile!” Atunci, țâțele tale vor fi ca strugurii din vie, mirosul suflării tale, ca al merelor.",
+        "9": "Și gura ta toarnă un vin ales, care curge lin, ca răspuns la dezmierdările mele, și alunecă pe buzele noastre când adormim! –",
+        "10": "Eu sunt a iubitului meu, și el dorește de mine.",
+        "11": "Vino, iubitule, haidem să ieșim pe câmp, să mânem noaptea în sate!",
+        "12": "Dis-de-dimineață ne vom duce la vii să vedem dacă a înmugurit via, dacă s-a deschis floarea și dacă au înflorit rodiile. Acolo îți voi da dragostea mea.",
+        "13": "Mandragorele își răspândesc mirosul și deasupra ușii avem tot felul de roade bune, noi și vechi, pe care pentru tine, iubitule, le-am păstrat."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ce frumoase îți sunt picioarele în sandalele tale, fată de prinț! Liniile coapselor tale sunt ca un colier, sunt ca lucrarea mâinilor unui artist.",
+        "2": "Buricul tău este un pahar rotund din care nu lipsește vinul amestecat. Pântecul tău este un snop de grâu, înconjurat de crini.",
+        "3": "Cei doi sâni ai tăi sunt ca doi pui de cerb, ca gemenii unei gazele.",
+        "4": "Gâtul tău este ca un turn de fildeș. Ochii tăi sunt ca iazurile Heșbonului, văzute prin poarta Bat-Rabim. Nasul tău este ca turnul Libanului privind spre Damasc.",
+        "5": "Capul tău este înălțat asemenea Carmelului. Părul capului tău este ca purpura; regele este înlănțuit de cosițele tale.",
+        "6": "Ce frumoasă și ce plăcută ești în mijlocul alintărilor, iubito!",
+        "7": "Statura ta este asemenea palmierului, iar sânii tăi sunt ca niște ciorchini.",
+        "8": "Îmi zic: „Mă voi urca în palmier și-i voi apuca ramurile!“. Sânii tăi să fie asemenea ciorchinilor de struguri, iar mirosul respirației tale asemenea merelor. Șulamita",
+        "9": "Cerul gurii tale este ca un vin bun, care curge spre iubitul meu, alunecând ușor pe buzele celor adormiți.",
+        "10": "Eu sunt a iubitului meu, iar dorința lui este îndreptată spre mine.",
+        "11": "Vino, iubitul meu, să ieșim pe câmpie, să înnoptăm în sate!",
+        "12": "Ne vom scula dimineața și vom merge la vii ca să vedem dacă a înmugurit vița, dacă i s-a deschis floarea și dacă a înflorit rodiul. Acolo îți voi dărui iubirea mea.",
+        "13": "Mandragorele își răspândesc parfumul și deasupra porților noastre sunt tot felul de bunătăți, atât cele noi, cât și cele vechi, pe care le-am păstrat pentru tine, iubitul meu."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "How beautiful are your feet in sandals, prince’s daughter! Your rounded thighs are like jewels, the work of the hands of a skillful workman.",
+        "2": "Your body is like a round goblet, no mixed wine is wanting. Your waist is like a heap of wheat, set about with lilies.",
+        "3": "Your two breasts are like two fawns, that are twins of a roe.",
+        "4": "Your neck is like an ivory tower. Your eyes are like the pools in Heshbon by the gate of Bathrabbim. Your nose is like the tower of Lebanon which looks toward Damascus.",
+        "5": "Your head on you is like Carmel. The hair of your head like purple. The king is held captive in its tresses.",
+        "6": "How beautiful and how pleasant you are, love, for delights!",
+        "7": "This, your stature, is like a palm tree, your breasts like its fruit.",
+        "8": "I said, “I will climb up into the palm tree. I will take hold of its fruit.” Let your breasts be like clusters of the vine, the smell of your breath like apples.",
+        "9": "Your mouth is like the best wine, that goes down smoothly for my beloved, gliding through the lips of those who are asleep. Beloved",
+        "10": "I am my beloved’s. His desire is toward me.",
+        "11": "Come, my beloved! Let’s go out into the field. Let’s lodge in the villages.",
+        "12": "Let’s go early up to the vineyards. Let’s see whether the vine has budded, its blossom is open, and the pomegranates are in flower. There I will give you my love.",
+        "13": "The mandrakes produce fragrance. At our doors are all kinds of precious fruits, new and old, which I have stored up for you, my beloved."
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "book": "Psalmi",
+  "chapter": "115",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Nu nouă, Doamne, nu nouă, ci Numelui Tău dă slavă pentru bunătatea Ta, pentru credincioșia Ta!",
+        "2": "Pentru ce să zică neamurile: „Unde este Dumnezeul lor?”",
+        "3": "Dumnezeul nostru este în cer, El face tot ce vrea.",
+        "4": "Idolii lor sunt argint și aur, făcuți de mâini omenești.",
+        "5": "Au gură, dar nu vorbesc; au ochi, dar nu văd;",
+        "6": "au urechi, dar n-aud; au nas, dar nu miros;",
+        "7": "au mâini, dar nu pipăie; picioare, dar nu merg; nu scot niciun sunet din gâtlejul lor.",
+        "8": "Ca ei sunt cei ce-i fac, toți cei ce se încred în ei.",
+        "9": "Israele, încrede-te în Domnul! El este ajutorul și scutul lor.",
+        "10": "Casa lui Aaron, încrede-te în Domnul! El este ajutorul și scutul lor.",
+        "11": "Cei ce vă temeți de Domnul, încredeți-vă în Domnul! El este ajutorul și scutul lor.",
+        "12": "Domnul Și-aduce aminte de noi. El va binecuvânta: va binecuvânta casa lui Israel, va binecuvânta casa lui Aaron,",
+        "13": "va binecuvânta pe cei ce se tem de Domnul, pe cei mici și pe cei mari.",
+        "14": "Domnul să vă înmulțească tot mai mult, pe voi și pe copiii voștri!",
+        "15": "Fiți binecuvântați de Domnul, care a făcut cerurile și pământul!",
+        "16": "Cerurile sunt ale Domnului, dar pământul l-a dat fiilor oamenilor.",
+        "17": "Nu morții laudă pe Domnul și nici vreunul din cei ce se coboară în locul tăcerii,",
+        "18": "ci noi, noi vom binecuvânta pe Domnul, de acum și până în veac. Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Nu nouă, Doamne, nu nouă, ci Numelui Tău să-i fie adusă gloria, pentru îndurarea și credincioșia Ta!",
+        "2": "Pentru ce să zică națiunile: „Unde este Dumnezeul lor?“.",
+        "3": "Dumnezeul nostru însă este în Ceruri; El face tot ce dorește.",
+        "4": "Idolii lor sunt din argint și din aur, sunt lucrarea mâinilor omenești.",
+        "5": "Ei au gură, dar nu vorbesc, au ochi, dar nu văd,",
+        "6": "au urechi, dar nu aud, au nas, dar nu pot mirosi,",
+        "7": "au mâini, dar nu pot pipăi, au picioare, dar nu pot merge, iar din gât nu pot scoate niciun sunet.",
+        "8": "Ca ei sunt cei care-i fac și toți cei care se încred în ei.",
+        "9": "Israel, încrede-te în Domnul – El este ajutorul și scutul lor!",
+        "10": "Casă a lui Aaron, încrede-te în Domnul – El este ajutorul și scutul lor!",
+        "11": "Cei temători de Domnul, încredeți-vă în Domnul – El este ajutorul și scutul lor!",
+        "12": "Domnul Își aduce aminte de noi și dă binecuvântare: El binecuvântează Casa lui Israel, binecuvântează Casa lui Aaron,",
+        "13": "îi binecuvântează pe cei ce se tem de Domnul, de la cei mici până la cei mari.",
+        "14": "Să vă înmulțească Domnul, pe voi și pe fiii voștri!",
+        "15": "Să fiți binecuvântați de Domnul, Creatorul cerurilor și al pământului.",
+        "16": "Cerurile, cerurile sunt ale Domnului, dar pământul l-a dat fiilor oamenilor.",
+        "17": "Nu morții Îi dau laudă Domnului, niciunul dintre aceia care coboară în tărâmul tăcerii,",
+        "18": "ci noi Îl vom binecuvânta pe Domnul, de acum și pentru totdeauna. Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Not to us, Yahweh, not to us, but to your name give glory, for your loving kindness, and for your truth’s sake.",
+        "2": "Why should the nations say, “Where is their God, now?”",
+        "3": "But our God is in the heavens. He does whatever he pleases.",
+        "4": "Their idols are silver and gold, the work of men’s hands.",
+        "5": "They have mouths, but they don’t speak. They have eyes, but they don’t see.",
+        "6": "They have ears, but they don’t hear. They have noses, but they don’t smell.",
+        "7": "They have hands, but they don’t feel. They have feet, but they don’t walk, neither do they speak through their throat.",
+        "8": "Those who make them will be like them; yes, everyone who trusts in them.",
+        "9": "Israel, trust in Yahweh! He is their help and their shield.",
+        "10": "House of Aaron, trust in Yahweh! He is their help and their shield.",
+        "11": "You who fear Yahweh, trust in Yahweh! He is their help and their shield.",
+        "12": "Yahweh remembers us. He will bless us. He will bless the house of Israel. He will bless the house of Aaron.",
+        "13": "He will bless those who fear Yahweh, both small and great.",
+        "14": "May Yahweh increase you more and more, you and your children.",
+        "15": "Blessed are you by Yahweh, who made heaven and earth.",
+        "16": "The heavens are Yahweh’s heavens, but he has given the earth to the children of men.",
+        "17": "The dead don’t praise Yah, nor any who go down into silence,",
+        "18": "but we will bless Yah, from this time forward and forever more. Praise Yah!"
+      }
+    }
+  }
+}

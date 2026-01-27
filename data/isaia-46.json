@@ -1,0 +1,60 @@
+{
+    "book": "Isaia",
+    "chapter": "46",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Bel se prăbușește, Nebo cade; idolii lor sunt puși pe vite și dobitoace; idolii pe care-i purtați voi au ajuns o sarcină, o povară pentru vita obosită!",
+                "2": "Au căzut, s-au prăbușit împreună, nu pot să scape povara; ei înșiși se duc în robie.",
+                "3": "Ascultați-Mă, casa lui Iacov și toată rămășița casei lui Israel, voi, pe care v-am luat în spinare de la obârșia voastră, pe care v-am purtat pe umăr de la nașterea voastră:",
+                "4": "până la bătrânețea voastră Eu voi fi Același, până la căruntețele voastre vă voi sprijini. V-am purtat și tot vreau să vă mai port, să vă sprijin și să vă mântuiesc.",
+                "5": "Cu cine Mă veți pune alături, ca să Mă asemănați? Cu cine Mă veți asemăna și Mă veți potrivi?",
+                "6": "Ei varsă aurul din pungă și cântăresc argintul în cumpănă; tocmesc un argintar să facă un dumnezeu din ele și se închină și îngenunchează înaintea lui.",
+                "7": "Îl poartă, îl iau pe umăr, îl pun la locul lui; acolo rămâne și nu se mișcă din locul lui. Apoi strigă la el, dar nu răspunde, nici nu-i scapă din nevoie.",
+                "8": "Țineți minte aceste lucruri și fiți oameni! Veniți-vă în fire, păcătoșilor!",
+                "9": "Aduceți-vă aminte de cele petrecute în vremurile străbune, căci Eu sunt Dumnezeu, și nu este altul, Eu sunt Dumnezeu, și nu este niciunul ca Mine.",
+                "10": "Eu am vestit de la început ce are să se întâmple și cu mult înainte ce nu este încă împlinit. Eu zic: ‘Hotărârile Mele vor rămâne în picioare și Îmi voi aduce la îndeplinire toată voia Mea.’",
+                "11": "Eu chem de la răsărit o pasăre de pradă, dintr-o țară depărtată, un om ca să împlinească planurile Mele: da, Eu am spus și Eu voi împlini; Eu am plănuit și Eu voi înfăptui.",
+                "12": "Ascultați-Mă, oameni cu inima împietrită, vrăjmași ai neprihănirii!",
+                "13": "Eu Îmi apropii neprihănirea: nu este departe; și mântuirea Mea nu va zăbovi. Eu voi pune mântuirea Mea în Sion și slava Mea peste Israel."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Bel se apleacă, Nebo se îndoaie. Idolii lor sunt puși pe animale și pe vite; pentru animalele obosite.",
+                "2": "Se îndoaie, se apleacă împreună; nu pot să salveze povara, ei înșiși mergând în captivitate.",
+                "3": "„Ascultați-Mă, Casă a lui Iacov și întreaga rămășiță a Casei lui Israel, voi, cei pe care v-am purtat încă de la naștere, cei pe care v-am ridicat de la pântec!",
+                "4": "Până la bătrânețea voastră Eu voi fi Același, până veți încărunți vă voi purta. Eu v-am făcut și Eu vă voi sprijini; vă voi purta și vă voi scăpa.",
+                "5": "Cu cine Mă veți asemăna și Mă veți face deopotrivă? Cu cine Mă veți compara, ca să ne asemănăm?",
+                "6": "Unii varsă aurul din sac, și cântăresc argintul în cumpănă, plătesc un rafinor, care-l transformă într-un dumnezeu, apoi se închină și se pleacă înaintea lui.",
+                "7": "Îl pun pe umeri și-l poartă, îl așază la locul lui și acolo rămâne; nu se poate mișca de la locul lui. Dacă strigă cineva la el, nu-i răspunde, nici nu-l salvează din necaz.",
+                "8": "Amintiți-vă acest lucru și cugetați la el! Gândiți-vă din nou la el, răzvrătiților!",
+                "9": "Amintiți-vă lucrurile de la început, din vechime, căci Eu sunt Dumnezeu, și nu este altul! Eu sunt Dumnezeu, și nu este altul ca Mine!",
+                "10": "Eu fac cunoscut de la început sfârșitul și, din vremuri străvechi, descopăr lucrurile care încă nu s-au întâmplat, zicând: «Planul Meu rămâne să se împlinească; voi face tot ceea ce doresc!».",
+                "11": "Eu chem din est o pasăre de pradă și, dintr-o țară îndepărtată, aduc omul care Îmi va împlini planul. Ce am spus, voi duce la îndeplinire și ce am plănuit, voi face.",
+                "12": "Ascultați-Mă, oameni cu inima încăpățânată, voi, care sunteți departe de dreptate!",
+                "13": "Îmi aduc aproape dreptatea; ea nu este departe, iar mântuirea Mea nu va întârzia. Voi pune în Sion mântuirea, voi da Israelului măreția Mea."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Bel bows down. Nebo stoops. Their idols are carried by animals, and on the livestock. The things that you carried around are heavy loads, a burden for the weary.",
+                "2": "They stoop and they bow down together. They could not deliver the burden, but they have gone into captivity.",
+                "3": "“Listen to me, house of Jacob, and all the remnant of the house of Israel, that have been carried from their birth, that have been carried from the womb.",
+                "4": "Even to old age I am he, and even to gray hairs I will carry you. I have made, and I will bear. Yes, I will carry, and will deliver.",
+                "5": "“To whom will you compare me, and consider my equal, and compare me, as if we were the same?",
+                "6": "Some pour out gold from the bag, and weigh silver in the balance. They hire a goldsmith, and he makes it a god. They fall down— yes, they worship.",
+                "7": "They bear it on their shoulder. They carry it, and set it in its place, and it stands there. It cannot move from its place. Yes, one may cry to it, yet it can not answer. It cannot save him out of his trouble.",
+                "8": "“Remember this, and show yourselves men. Bring it to mind again, you transgressors.",
+                "9": "Remember the former things of old; for I am God, and there is no other. I am God, and there is none like me.",
+                "10": "I declare the end from the beginning, and from ancient times things that are not yet done. I say: My counsel will stand, and I will do all that I please.",
+                "11": "I call a ravenous bird from the east, the man of my counsel from a far country. Yes, I have spoken. I will also bring it to pass. I have planned. I will also do it.",
+                "12": "Listen to me, you stubborn-hearted, who are far from righteousness!",
+                "13": "I bring my righteousness near. It is not far off, and my salvation will not wait. I will grant salvation to Zion, my glory to Israel."
+            }
+        }
+    }
+}

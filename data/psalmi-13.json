@@ -1,0 +1,39 @@
+{
+  "book": "Psalmi",
+  "chapter": "13",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Până când, Doamne, mă vei uita neîncetat? Până când Îți vei ascunde Fața de mine?",
+        "2": "Până când voi avea sufletul plin de griji și inima plină de necazuri în fiecare zi? Până când se va ridica vrăjmașul meu împotriva mea?",
+        "3": "Privește, răspunde-mi, Doamne, Dumnezeul meu! Dă lumină ochilor mei, ca să n-adorm somnul morții,",
+        "4": "ca să nu zică vrăjmașul meu: „L-am biruit” și să nu se bucure potrivnicii mei când mă clatin!",
+        "5": "Eu am încredere în bunătatea Ta, sunt cu inima veselă din pricina mântuirii Tale:",
+        "6": "cânt Domnului, căci mi-a făcut bine!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Până când, Doamne? Mă vei uita mereu? Până când Îți vei ascunde fața de mine?",
+        "2": "Până când să mă frământ în sufletul meu, având durere zi de zi în inima mea? Până când să mă tot învingă dușmanul meu?",
+        "3": "Privește, răspunde-mi, Doamne, Dumnezeul meu! Luminează-mi ochii, ca să nu mă apuce somnul morții,",
+        "4": "ca să nu zică dușmanul meu: „L-am învins!“ și să nu se bucure vrăjmașii mei când mă clatin.",
+        "5": "Dar eu mă încred în îndurarea Ta, și inima mea se bucură de ajutorul Tău.",
+        "6": "Voi cânta Domnului, căci mi-a făcut bine!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "How long, Yahweh? Will you forget me forever? How long will you hide your face from me?",
+        "2": "How long shall I take counsel in my soul, having sorrow in my heart every day? How long shall my enemy triumph over me?",
+        "3": "Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death;",
+        "4": "lest my enemy say, “I have prevailed against him;” lest my adversaries rejoice when I fall.",
+        "5": "But I trust in your loving kindness. My heart rejoices in your salvation.",
+        "6": "I will sing to Yahweh, because he has been good to me."
+      }
+    }
+  }
+}

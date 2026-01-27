@@ -1,0 +1,36 @@
+{
+  "book": "Psalmi",
+  "chapter": "125",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cei ce se încred în Domnul sunt ca muntele Sionului, care nu se clatină, ci stă întărit pe vecie.",
+        "2": "Cum este înconjurat Ierusalimul de munți, așa înconjoară Domnul pe poporul Său, de acum și până în veac.",
+        "3": "Căci toiagul de cârmuire al răutății nu va rămâne pe moștenirea celor neprihăniți, pentru ca cei neprihăniți să nu întindă mâinile spre nelegiuire.",
+        "4": "Doamne, varsă-Ți binefacerile peste cei buni și peste cei cu inima fără prihană!",
+        "5": "Dar pe cei ce apucă pe căi lăturalnice, să-i nimicească Domnul împreună cu cei ce fac rău! Pacea să fie peste Israel!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cei ce se încred în Domnul sunt ca muntele Sion care nu poate fi clătinat, ci va sta pe vecie.",
+        "2": "Cum sunt munții împrejurul Ierusalimului, așa este Domnul împrejurul poporului Său de acum și pentru totdeauna.",
+        "3": "Căci sceptrul răutății nu va rămâne peste moștenirea celor drepți, ca nu cumva cei drepți să-și întindă mâinile spre nedreptate.",
+        "4": "Fă bine, Doamne, celor buni și celor drepți în inimile lor!",
+        "5": "Cât despre cei care se întorc la căile lor corupte, Domnul îi va îndepărta, pe ei și pe cei ce comit nelegiuiri. Pacea să fie peste Israel!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Those who trust in Yahweh are as Mount Zion, which can’t be moved, but remains forever.",
+        "2": "As the mountains surround Jerusalem, so Yahweh surrounds his people from this time forward and forever more.",
+        "3": "For the scepter of wickedness won’t remain over the allotment of the righteous, so that the righteous won’t use their hands to do evil.",
+        "4": "Do good, Yahweh, to those who are good, to those who are upright in their hearts.",
+        "5": "But as for those who turn away to their crooked ways, Yahweh will lead them away with the workers of iniquity. Peace be on Israel."
+      }
+    }
+  }
+}

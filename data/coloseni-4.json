@@ -1,0 +1,75 @@
+{
+  "book": "Coloseni",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Stăpânilor, dați robilor voștri ce le datorați și ce li se cuvine, căci știți că și voi aveți un Stăpân în cer.",
+        "2": "Stăruiți în rugăciune, vegheați în ea cu mulțumiri.",
+        "3": "Rugați-vă totodată și pentru noi, ca Dumnezeu să ne deschidă o ușă pentru Cuvânt, ca să putem vesti taina lui Hristos pentru care, iată, mă găsesc în lanțuri:",
+        "4": "ca s-o fac cunoscută așa cum trebuie să vorbesc despre ea.",
+        "5": "Purtați-vă cu înțelepciune față de cei de afară; răscumpărați vremea.",
+        "6": "Vorbirea voastră să fie totdeauna cu har, dreasă cu sare, ca să știți cum trebuie să răspundeți fiecăruia.",
+        "7": "Tot ce este cu privire la mine vă va spune Tihic, fratele preaiubit și slujitorul credincios, tovarășul meu de slujbă în Domnul.",
+        "8": "Vi l-am trimis înadins, ca să luați cunoștință despre starea noastră și să vă mângâie inimile.",
+        "9": "L-am trimis împreună cu Onisim, fratele credincios și preaiubit, care este dintr-ai voștri. Ei vă vor spune tot ce se petrece pe aici.",
+        "10": "Aristarh, tovarășul meu de temniță, vă trimite sănătate; tot așa și Marcu, vărul lui Barnaba (cu privire la care ați primit porunci… dacă vine la voi, să-l primiți bine),",
+        "11": "și Isus, zis Iust: ei sunt din numărul celor tăiați împrejur, și singurii care au lucrat împreună cu mine pentru Împărăția lui Dumnezeu, oameni care mi-au fost de mângâiere.",
+        "12": "Epafras, care este dintr-ai voștri, vă trimite sănătate. El, rob al lui Hristos, totdeauna se luptă pentru voi în rugăciunile sale, pentru ca, desăvârșiți și deplin încredințați, să stăruiți în voia lui Dumnezeu.",
+        "13": "Căci vă mărturisesc că are o mare râvnă pentru voi, pentru cei din Laodiceea și pentru cei din Ierapole.",
+        "14": "Luca, doctorul preaiubit, și Dima vă trimit sănătate.",
+        "15": "Spuneți sănătate fraților din Laodiceea și lui Nimfa și Bisericii din casa lui.",
+        "16": "După ce va fi citită această epistolă la voi, faceți așa ca să fie citită și în Biserica laodiceenilor; și voi, la rândul vostru, să citiți epistola care vă va veni din Laodiceea.",
+        "17": "Și spuneți lui Arhip: „Ia seama să împlinești bine slujba pe care ai primit-o în Domnul.”",
+        "18": "Urarea de sănătate este cu mâna mea: Pavel. Aduceți-vă aminte de lanțurile mele. Harul să fie cu voi! Amin."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Stăpânilor, dați-le sclavilor voștri ceea ce este drept și corect, știind că și voi aveți un Stăpân în Cer. Alte instrucțiuni",
+        "2": "Stăruiți în rugăciune! Vegheați în ea cu mulțumire!",
+        "3": "Rugați-vă în același timp și pentru noi, ca Dumnezeu să deschidă o ușă pentru Cuvânt, să putem vorbi despre taina lui Cristos, din cauza căreia sunt închis,",
+        "4": "ca s-o pot face cunoscută așa cum trebuie.",
+        "5": "Purtați-vă cu înțelepciune cu cei de afară, răscumpărând vremea.",
+        "6": "Vorbirea voastră să fie întotdeauna cu har, dreasă cu sare, ca să știți cum trebuie să răspundeți fiecăruia. Salutări finale",
+        "7": "Tyhikos vă va face cunoscut totul cu privire la mine. El este un frate preaiubit și un slujitor credincios, confratele meu în Domnul.",
+        "8": "L-am trimis la voi tocmai pentru aceasta, ca să cunoașteți detalii despre noi și să vă încurajeze inimile.",
+        "9": "L-am trimis împreună cu Onisim, un frate credincios și preaiubit, care este unul dintre voi. El vă va face cunoscute toate lucrurile de pe aici.",
+        "10": "Aristarhus, închis împreună cu mine, vă trimite salutări, precum și Marcu, vărul lui Barnabas, cu privire la care ați primit instrucțiuni. Dacă vine la voi, să-l primiți bine.",
+        "11": "De asemenea, vă trimite salutări Isus, zis și Iustus. Aceștia sunt singurii dintre cei circumciși care sunt lucrători împreună cu mine pentru Împărăția lui Dumnezeu. Ei au devenit o încurajare pentru mine.",
+        "12": "Epafras, care este unul dintre voi, slujitor al lui Cristos Isus, vă trimite salutări. El se luptă întotdeauna pentru voi în rugăciune, astfel încât, desăvârșiți și pe deplin convinși, să puteți rămâne în toată voia lui Dumnezeu.",
+        "13": "Căci mărturisesc despre el că a lucrat din greu pentru voi, pentru cei din Laodiceea și pentru cei din Hierapolis.",
+        "14": "Luca, doctorul preaiubit, și Demas vă trimit salutări.",
+        "15": "Salutați-i pe frații din Laodiceea, precum și pe Nimfa și biserica din casa ei.",
+        "16": "După ce va fi citită această scrisoare în prezența voastră, faceți în așa fel încât să fie citită și în biserica din Laodiceea. De asemenea, citiți și voi scrisoarea din Laodiceea.",
+        "17": "Spuneți-i lui Arhippos: „Ai grijă de slujba pe care ai primit-o în Domnul: s-o duci la îndeplinire!“.",
+        "18": "Salutarea este scrisă cu mâna mea, a lui Pavel. Aduceți-vă aminte de lanțurile mele! Harul să fie cu voi! Amin."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven.",
+        "2": "Continue steadfastly in prayer, watching in it with thanksgiving,",
+        "3": "praying together for us also, that God may open to us a door for the word, to speak the mystery of Christ, for which I am also in bonds,",
+        "4": "that I may reveal it as I ought to speak.",
+        "5": "Walk in wisdom toward those who are outside, redeeming the time.",
+        "6": "Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.",
+        "7": "All my affairs will be made known to you by Tychicus, the beloved brother, faithful servant, and fellow bondservant in the Lord.",
+        "8": "I am sending him to you for this very purpose, that he may know your circumstances and comfort your hearts,",
+        "9": "together with Onesimus, the faithful and beloved brother, who is one of you. They will make known to you everything that is going on here.",
+        "10": "Aristarchus, my fellow prisoner, greets you, and Mark the cousin of Barnabas (concerning whom you received instructions, “if he comes to you, receive him”),",
+        "11": "and Jesus who is called Justus. These are my only fellow workers for God’s Kingdom who are of the circumcision, men who have been a comfort to me.",
+        "12": "Epaphras, who is one of you, a servant of Christ, salutes you, always striving for you in his prayers, that you may stand perfect and complete in all the will of God.",
+        "13": "For I testify about him that he has great zeal for you, and for those in Laodicea, and for those in Hierapolis.",
+        "14": "Luke the beloved physician and Demas greet you.",
+        "15": "Greet the brothers who are in Laodicea, with Nymphas and the assembly that is in his house.",
+        "16": "When this letter has been read among you, cause it to be read also in the assembly of the Laodiceans, and that you also read the letter from Laodicea.",
+        "17": "Tell Archippus, “Take heed to the ministry which you have received in the Lord, that you fulfill it.”",
+        "18": "I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you. Amen."
+      }
+    }
+  }
+}

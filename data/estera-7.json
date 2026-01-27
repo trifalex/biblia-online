@@ -1,0 +1,51 @@
+{
+  "book": "Estera",
+  "chapter": "7",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Împăratul și Haman s-au dus la ospăț la împărăteasa Estera.",
+        "2": "În această a doua zi, împăratul a zis iarăși Esterei pe când beau vin: „Care este cererea ta, împărăteasă Estera? Ea îți va fi împlinită. Ce dorești? Chiar dacă ai cere jumătate din împărăție, o vei căpăta.”",
+        "3": "Împărăteasa Estera a răspuns: „Dacă am căpătat trecere înaintea ta, împărate, și dacă găsește cu cale împăratul, dă-mi viața – iată cererea mea – și scapă pe poporul meu – iată dorința mea!",
+        "4": "Căci eu și poporul meu suntem vânduți să fim nimiciți, înjunghiați și prăpădiți. Măcar dacă am fi vânduți să fim robi și roabe, aș tăcea, dar vrăjmașul n-ar putea să înlocuiască pierderea făcută împăratului.”",
+        "5": "Împăratul Ahașveroș a luat cuvântul și a zis împărătesei Estera: „Cine și unde este acela care are de gând să facă așa?”",
+        "6": "Estera a răspuns: „Apăsătorul, vrăjmașul, este Haman, răul acesta!” Haman a rămas îngrozit în fața împăratului și a împărătesei.",
+        "7": "Și împăratul, în mânia lui, s-a sculat și a părăsit ospățul și s-a dus în grădina casei împărătești. Haman a rămas să-și ceară viața de la împărăteasa Estera, căci vedea bine că pierderea lui era hotărâtă în mintea împăratului.",
+        "8": "Când s-a întors împăratul din grădina casei împărătești în odaia ospățului, a văzut pe Haman că se aruncase spre patul pe care era Estera și i-a zis: „Cum, să mai și silești pe împărăteasă la mine, în casa împărătească?” Cum au ieșit cuvintele acestea din gura împăratului, i-au și acoperit fața lui Haman.",
+        "9": "Și Harbona, unul din fameni, a zis în fața împăratului: „Iată, spânzurătoarea pregătită de Haman pentru Mardoheu, care a vorbit spre binele împăratului, este ridicată în casa lui Haman, la o înălțime de cincizeci de coți.” Împăratul a zis: „Haman să fie spânzurat pe ea!”",
+        "10": "Și au spânzurat pe Haman pe spânzurătoarea pe care o pregătise el pentru Mardoheu. Și mânia împăratului s-a potolit."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Astfel, împăratul și Haman au venit să petreacă împreună cu împărăteasa Estera.",
+        "2": "În timp ce beau vin, împăratul a întrebat-o pe Estera și în cea de-a doua zi: ‒ Care-ți este dorința, împărăteasă Estera? Îți va fi împlinită! Oricare îți este cererea, chiar și jumătate din împărăție de ar fi, ți se va face după voie!",
+        "3": "Împărăteasa Estera a răspuns și a zis: ‒ Dacă am găsit bunăvoință înaintea ta, împărate, și dacă împăratul crede că este bine, cruță-mi viața! Aceasta este dorința mea. De asemenea, cruță-mi și poporul,",
+        "4": "căci atât eu, cât și poporul meu am fost vânduți, ca să fim nimiciți, uciși și distruși. Dacă am fi fost vânduți ca sclavi și ca sclave, aș fi tăcut, căci un astfel de necaz nu ar fi meritat atenția împăratului.",
+        "5": "Atunci împăratul Ahașveroș a întrebat-o pe împărăteasa Estera: ‒ Cine și unde este acela căruia i-a îndrăznit inima să facă așa ceva?",
+        "6": "Estera a zis: ‒ Asupritorul și dușmanul este Haman, omul acesta rău. Atunci Haman a rămas îngrozit în fața împăratului și a împărătesei.",
+        "7": "Plin de mânie, împăratul și-a lăsat paharul de vin și s-a dus în grădina palatului. Haman însă a rămas să mijlocească pentru viața sa înaintea împărătesei Estera, fiindcă vedea că împăratul era hotărât să aducă asupra lui nenorocirea.",
+        "8": "Când s-a întors împăratul din grădina palatului în sala banchetului, unde beau vin, a văzut că Haman se aruncase pe patul pe care stătea Estera. Atunci împăratul a zis: ‒ Cum? Vrei s-o mai și molestezi pe împărăteasă chiar în palat, de față cu mine? Imediat ce au ieșit aceste cuvinte din gura împăratului, i-au și acoperit fața lui Haman.",
+        "9": "Harbona, unul dintre eunucii care îi slujeau împăratului, a zis: ‒ Mai mult, iată și spânzurătoarea înaltă de cincizeci de coți, pe care a făcut-o Haman pentru Mardoheu, cel ce a vorbit spre binele împăratului, se află în curtea casei lui Haman. Împăratul a zis: ‒ Atârnați-l de ea!",
+        "10": "Ei l-au atârnat pe Haman de spânzurătoarea ridicată chiar de el pentru Mardoheu, iar mânia împăratului s-a potolit."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "So the king and Haman came to banquet with Esther the queen.",
+        "2": "The king said again to Esther on the second day at the banquet of wine, “What is your petition, queen Esther? It shall be granted you. What is your request? Even to the half of the kingdom it shall be performed.”",
+        "3": "Then Esther the queen answered, “If I have found favor in your sight, O king, and if it pleases the king, let my life be given me at my petition, and my people at my request.",
+        "4": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for male and female slaves, I would have held my peace, although the adversary could not have compensated for the king’s loss.”",
+        "5": "Then King Ahasuerus said to Esther the queen, “Who is he, and where is he who dared presume in his heart to do so?”",
+        "6": "Esther said, “An adversary and an enemy, even this wicked Haman!” Then Haman was afraid before the king and the queen.",
+        "7": "The king arose in his wrath from the banquet of wine and went into the palace garden. Haman stood up to make request for his life to Esther the queen, for he saw that there was evil determined against him by the king.",
+        "8": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman had fallen on the couch where Esther was. Then the king said, “Will he even assault the queen in front of me in the house?” As the word went out of the king’s mouth, they covered Haman’s face.",
+        "9": "Then Harbonah, one of the eunuchs who were with the king, said, “Behold, the gallows fifty cubits high, which Haman has made for Mordecai, who spoke good for the king, is standing at Haman’s house.” The king said, “Hang him on it!”",
+        "10": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then the king’s wrath was pacified."
+      }
+    }
+  }
+}

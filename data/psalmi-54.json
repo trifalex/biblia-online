@@ -1,0 +1,42 @@
+{
+  "book": "Psalmi",
+  "chapter": "54",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Scapă-mă, Dumnezeule, prin Numele Tău și fă-mi dreptate prin puterea Ta!",
+        "2": "Ascultă-mi rugăciunea, Dumnezeule, ia aminte la cuvintele gurii mele!",
+        "3": "Căci niște străini s-au sculat împotriva mea, niște oameni asupritori vor să-mi ia viața; ei nu se gândesc la Dumnezeu.",
+        "4": "Da, Dumnezeu este ajutorul meu, Domnul este sprijinul sufletului meu!",
+        "5": "Răul se va întoarce asupra potrivnicilor mei; nimicește-i în credincioșia Ta!",
+        "6": "Atunci Îți voi aduce jertfe de bunăvoie, voi lăuda Numele Tău, Doamne, căci este binevoitor;",
+        "7": "căci El mă izbăvește din toate necazurile, și cu ochii mei îmi văd împlinită dorința privitoare la vrăjmașii mei."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Salvează-mă, Dumnezeule, prin Numele Tău, și fă-mi dreptate prin puterea Ta!",
+        "2": "Dumnezeule, ascultă-mi rugăciunea, ascultă cu atenție cuvintele gurii mele!",
+        "3": "Niște străini se ridică împotriva mea și niște oameni groaznici încearcă să-mi ia viața; ei nu țin seama de Dumnezeu!",
+        "4": "Iată că Dumnezeu este ajutorul meu, Stăpânul vine în sprijinul sufletului meu!",
+        "5": "Fie ca răul să se întoarcă împotriva celor ce mă pândesc! În credincioșia Ta, nimicește-i!",
+        "6": "Atunci Îți voi aduce jertfe de bunăvoie, voi aduce mulțumiri Numelui Tău, Doamne, căci este bun.",
+        "7": "Într-adevăr, Tu m-ai scăpat din toate necazurile și am putut privi de sus la dușmanii mei."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Save me, God, by your name. Vindicate me in your might.",
+        "2": "Hear my prayer, God. Listen to the words of my mouth.",
+        "3": "For strangers have risen up against me. Violent men have sought after my soul. They haven’t set God before them.",
+        "4": "Behold, God is my helper. The Lord is the one who sustains my soul.",
+        "5": "He will repay the evil to my enemies. Destroy them in your truth.",
+        "6": "With a free will offering, I will sacrifice to you. I will give thanks to your name, Yahweh, for it is good.",
+        "7": "For he has delivered me out of all trouble. My eye has seen triumph over my enemies."
+      }
+    }
+  }
+}

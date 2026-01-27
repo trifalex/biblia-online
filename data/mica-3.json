@@ -1,0 +1,57 @@
+{
+  "book": "Mica",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Am zis: „Ascultați, căpetenii ale lui Iacov și mai-mari ai casei lui Israel! Nu este datoria voastră să cunoașteți dreptatea?",
+        "2": "Și totuși voi urâți binele și iubiți răul, le jupuiți pielea și carnea de pe oase!",
+        "3": "După ce au mâncat carnea poporului Meu, după ce-i jupoaie pielea și-i sfărâmă oasele, îl fac bucăți ca ceea ce se fierbe într-o oală, ca și carnea dintr-un cazan.",
+        "4": "Apoi strigă către Domnul. Dar El nu le răspunde, ci Își ascunde Fața de ei în vremea aceea, pentru că au făcut fapte rele.”",
+        "5": "Așa vorbește Domnul despre prorocii care rătăcesc pe poporul meu, care, dacă au de mușcat ceva cu dinții, vestesc pacea, iar dacă nu li se pune nimic în gură, vestesc războiul sfânt:",
+        "6": "„Din pricina aceasta, va veni noaptea peste voi… fără nicio vedenie! Și întunericul… fără nicio prorocie! Soarele va asfinți peste acești proroci și ziua se va întuneca peste ei!",
+        "7": "Văzătorii vor fi dați de rușine, ghicitorii vor roși, toți își vor acoperi barba, căci Dumnezeu nu va răspunde.”",
+        "8": "Dar eu sunt plin de putere, plin de Duhul Domnului, sunt plin de cunoștința dreptății și de vlagă, ca să fac cunoscută lui Iacov nelegiuirea lui și lui Israel păcatul lui.",
+        "9": "Ascultați dar lucrul acesta, căpetenii ale casei lui Iacov și mai-mari ai casei lui Israel, voi, cărora vă este scârbă de dreptate și care suciți tot ce este drept;",
+        "10": "voi, care zidiți Sionul cu sânge și Ierusalimul cu nelegiuire!",
+        "11": "Căpeteniile cetății judecă pentru daruri, preoții lui învață pe popor pentru plată și prorocii lui prorocesc pe bani și mai îndrăznesc apoi să se bizuiască pe Domnul și zic: „Oare nu este Domnul în mijlocul nostru? Nu ne poate atinge nicio nenorocire!”",
+        "12": "De aceea, din pricina voastră, Sionul va fi arat ca un ogor, Ierusalimul va ajunge un morman de pietre și muntele Templului, o înălțime acoperită de păduri."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Am zis: „Ascultați, vă rog, căpetenii ale lui Iacov și conducători ai Casei lui Israel! N-ar trebui să cunoașteți dreptatea?",
+        "2": "Și totuși, voi urâți binele și iubiți răul, jupuiți pielea de pe poporul Meu și carnea de pe oasele lui,",
+        "3": "mâncați carnea poporului meu, jupuiți pielea de pe el și îi zdrobiți oasele, îl ciopârțiți asemenea cărnii din oală, asemenea cărnii din cazan“.",
+        "4": "Atunci când vor striga către Domnul, El nu le va răspunde; Își va ascunde fața de ei în vremea aceea, pentru că au comis fapte rele.",
+        "5": "Așa vorbește Domnul: „Cât despre profeții care Îmi duc poporul în rătăcire, aceștia, dacă au mușcat ceva cu dinții, vestesc pacea, dar, dacă cineva nu le pune nimic în gură, declară război împotriva lui.",
+        "6": "De aceea, noaptea va veni peste voi, fără nicio vedenie, și întunericul – fără nicio divinație! Soarele va apune peste acești profeți și ziua se va întuneca peste ei.",
+        "7": "Văzătorii vor fi făcuți de rușine, iar cei ce practică divinația vor fi umiliți. Își vor acoperi barba cu toții, căci nu va fi răspuns de la Dumnezeu“.",
+        "8": "Cât despre mine, eu sunt plin de putere, plin de Duhul Domnului, de dreptate și de vigoare, ca să-i fac cunoscută lui Iacov fărădelegea lui și lui Israel – păcatul lui.",
+        "9": "Ascultați aceasta, vă rog, căpetenii ale Casei lui Iacov și conducători ai Casei lui Israel, voi, care disprețuiți dreptatea și suciți tot ce este drept,",
+        "10": "voi, care construiți Sionul prin vărsare de sânge și Ierusalimul – cu nedreptate!",
+        "11": "Căpeteniile lui judecă pe mită, preoții lui dau învățătură pentru plată, iar profeții lui practică divinația în schimbul argintului. Ei încă se sprijină și pe Domnul, zicând: „Oare nu este Domnul în mijlocul nostru? Nu va veni peste noi nicio nenorocire!“.",
+        "12": "De aceea, din cauza voastră, Sionul va fi arat ca un teren, Ierusalimul va deveni un morman de ruine, iar muntele Casei va deveni o înălțime acoperită cu păduri."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I said, “Please listen, you heads of Jacob, and rulers of the house of Israel: Isn’t it for you to know justice?",
+        "2": "You who hate the good, and love the evil; who tear off their skin, and their flesh from off their bones;",
+        "3": "who also eat the flesh of my people, and peel their skin from off them, and break their bones, and chop them in pieces, as for the pot, and as meat within the cauldron.",
+        "4": "Then they will cry to Yahweh, but he will not answer them. Yes, he will hide his face from them at that time, because they made their deeds evil.”",
+        "5": "Yahweh says concerning the prophets who lead my people astray—for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:",
+        "6": "“Therefore night is over you, with no vision, and it is dark to you, that you may not divine; and the sun will go down on the prophets, and the day will be black over them.",
+        "7": "The seers shall be disappointed, and the diviners confounded. Yes, they shall all cover their lips, for there is no answer from God.”",
+        "8": "But as for me, I am full of power by Yahweh’s Spirit, and of judgment, and of might, to declare to Jacob his disobedience, and to Israel his sin.",
+        "9": "Please listen to this, you heads of the house of Jacob, and rulers of the house of Israel, who abhor justice, and pervert all equity,",
+        "10": "who build up Zion with blood, and Jerusalem with iniquity.",
+        "11": "Her leaders judge for bribes, and her priests teach for a price, and her prophets of it tell fortunes for money; yet they lean on Yahweh, and say, “Isn’t Yahweh among us? No disaster will come on us.”",
+        "12": "Therefore Zion for your sake will be plowed like a field, and Jerusalem will become heaps of rubble, and the mountain of the temple like the high places of a forest."
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "book": "Habacuc",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Rugăciunea prorocului Habacuc. (De cântat în felul cântecelor de jale)",
+        "2": "Când am auzit, Doamne, ce ai vestit, m-am îngrozit. Însuflețește-Ți lucrarea în cursul anilor, Doamne! Fă-Te cunoscut în trecerea anilor! Dar, în mânia Ta, adu-Ți aminte de îndurările Tale!",
+        "3": "Dumnezeu vine din Teman și Cel Sfânt vine din muntele Paran… – (Oprire) – Măreția Lui acoperă cerurile și slava Lui umple pământul.",
+        "4": "Strălucirea Lui este ca lumina soarelui, din mâna Lui pornesc raze și acolo este ascunsă tăria Lui.",
+        "5": "Înaintea Lui merge ciuma, și molima calcă pe urmele Lui.",
+        "6": "Se oprește și măsoară pământul cu ochiul; privește și face pe neamuri să tremure; munții cei veșnici se sfărâmă, dealurile cele vechi se pleacă; El umblă pe cărări veșnice.",
+        "7": "Văd corturile Etiopiei pline de groază și se cutremură colibele din țara Madianului.",
+        "8": "S-a mâniat oare Domnul pe râuri? Împotriva râurilor se aprinde mânia Ta sau împotriva mării se varsă urgia Ta, de ai încălecat pe caii Tăi și Te-ai suit în carul Tău de biruință?",
+        "9": "Arcul Tău este dezvelit; blestemele sunt săgețile Cuvântului Tău… – (Oprire) – Tu despici pământul ca să dai drumul râurilor.",
+        "10": "La vederea Ta, se cutremură munții; se năpustesc râuri de apă; adâncul își ridică glasul și își înalță valurile în sus.",
+        "11": "Soarele și luna se opresc în locuința lor de lumina săgeților Tale, care pornesc, de strălucirea suliței Tale, care lucește.",
+        "12": "Tu cutreieri pământul în urgia Ta, zdrobești neamurile în mânia Ta.",
+        "13": "Ieși ca să izbăvești pe poporul Tău, să izbăvești pe unsul Tău; sfărâmi acoperișul casei celui rău, o nimicești din temelii până în vârf. – (Oprire) –",
+        "14": "Străpungi cu săgețile Tale capul căpeteniilor lui, care se năpustesc peste mine ca furtuna, să mă pună pe fugă, scoțând strigăte de bucurie, ca și cum ar fi și mâncat pe cel nenorocit în culcuș.",
+        "15": "Cu caii Tăi mergi pe mare, pe spuma apelor mari.",
+        "16": "Când am auzit lucrul acesta, mi s-a cutremurat trupul; la vestea aceasta, mi se înfioară buzele, îmi intră putrezirea în oase și-mi tremură genunchii. Căci aș putea oare aștepta în tăcere ziua necazului, ziua când asupritorul va merge împotriva poporului?",
+        "17": "Căci, chiar dacă smochinul nu va înflori, vița nu va da niciun rod, rodul măslinului va lipsi și câmpiile nu vor da hrană, oile vor pieri din staule și nu vor mai fi boi în grajduri,",
+        "18": "eu tot mă voi bucura în Domnul, mă voi bucura în Dumnezeul mântuirii mele!",
+        "19": "Domnul Dumnezeu este tăria mea; El îmi face picioarele ca ale cerbilor și mă face să merg pe înălțimile mele. – Către mai-marele cântăreților. De cântat cu instrumente cu coarde."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Rugăciunea profetului Habacuc. De cântat precum un șighionot.",
+        "2": "‒ Doamne, am auzit de faima Ta! Lucrarea Ta, Doamne, îmi inspiră teamă! Însuflețește-o de-a lungul anilor! Fă-o cunoscută în cursul anilor! Dar, la mânie, adu-Ți aminte să arăți îndurare!",
+        "3": "Dumnezeu vine din Teman și Cel Sfânt – din muntele Paran. Selah Splendoarea Lui acoperă cerurile, iar lauda Lui umple pământul.",
+        "4": "Strălucirea Lui este ca lumina și din mâna Lui ies raze; acolo Îi este ascunsă puterea.",
+        "5": "Înaintea Lui merge molima, iar flacăra calcă pe urmele Sale.",
+        "6": "El Se oprește și cutremură pământul; Se uită și face națiunile să tremure. Munții cei trainici se sfărâmă, iar dealurile cele vechi se pleacă. Cărările Lui sunt veșnice.",
+        "7": "Am văzut corturile lui Cușan în necaz și colibele țării lui Midian tremurând.",
+        "8": "S-a înfuriat oare Domnul pe râuri? Împotriva râurilor se arată mânia Ta? Împotriva mării s-a dezlănțuit furia Ta, când ai încălecat pe caii Tăi și Te-ai suit în carele Tale victorioase?",
+        "9": "Arcul Îți este dezvelit în întregime; jurămintele sunt săgeți care se țin de cuvânt. Selah Tu despici pământul prin râuri.",
+        "10": "Când munții Te-au văzut, s-au cutremurat. Potopul de ape s-a revărsat, adâncul și-a făcut auzit glasul; el își ridică mâinile în sus.",
+        "11": "Soarele și luna s-au oprit în înălțimi la sclipirea săgeților Tale care pornesc, la strălucirea lăncii Tale scânteietoare.",
+        "12": "Tu străbați pământul cu indignare și treieri națiunile cu mânie.",
+        "13": "Ai ieșit ca să-Ți eliberezi poporul, ca să-l salvezi pe unsul Tău. Tu ai zdrobit căpetenia din casa răutății, l-ai dezbrăcat din cap până-n picioare! Selah",
+        "14": "Ai străpuns capul războinicilor lui cu propriile-i săgeți, când s-au dezlănțuit ca o furtună să ne împrăștie! Bucuria lor a fost ca și cum l-ar fi devorat pe sărac în ascunzătoare.",
+        "15": "Tu pășești pe mare cu caii Tăi, agitând apele cele mari.",
+        "16": "Când am auzit, mi s-a cutremurat pântecul! La vestea aceasta, mi-au fremătat buzele! Mi-a intrat putrezirea în oase și mi-au tremurat genunchii! Totuși, voi aștepta liniștit ziua necazului ce se va abate peste poporul care ne va ataca.",
+        "17": "Chiar dacă smochinul nu înflorește și în vii nu mai este rod, chiar dacă lipsește rodul din măslin și câmpurile nu mai dau hrană, chiar dacă turma din staul este nimicită și nu mai sunt vite în grajduri,",
+        "18": "eu tot mă voi bucura în Domnul și mă voi veseli în Dumnezeul mântuirii mele!",
+        "19": "Stăpânul Domn este puterea mea! El îmi face picioarele ca ale cerboaicelor și mă face să pășesc pe înălțimile mele. Pentru dirijor. De cântat cu instrumentele mele cu coarde."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "A prayer of Habakkuk, the prophet, set to victorious music.",
+        "2": "Yahweh, I have heard of your fame. I stand in awe of your deeds, Yahweh. Renew your work in the middle of the years. In the middle of the years make it known. In wrath, you remember mercy.",
+        "3": "God came from Teman, the Holy One from Mount Paran. Selah. His glory covered the heavens, and his praise filled the earth.",
+        "4": "His splendor is like the sunrise. Rays shine from his hand, where his power is hidden.",
+        "5": "Plague went before him, and pestilence followed his feet.",
+        "6": "He stood, and shook the earth. He looked, and made the nations tremble. The ancient mountains were crumbled. The age-old hills collapsed. His ways are eternal.",
+        "7": "I saw the tents of Cushan in affliction. The dwellings of the land of Midian trembled.",
+        "8": "Was Yahweh displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?",
+        "9": "You uncovered your bow. You called for your sworn arrows. Selah. You split the earth with rivers.",
+        "10": "The mountains saw you, and were afraid. The storm of waters passed by. The deep roared and lifted up its hands on high.",
+        "11": "The sun and moon stood still in the sky at the light of your arrows as they went, at the shining of your glittering spear.",
+        "12": "You marched through the land in wrath. You threshed the nations in anger.",
+        "13": "You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the land of wickedness. You stripped them head to foot. Selah.",
+        "14": "You pierced the heads of his warriors with their own spears. They came as a whirlwind to scatter me, gloating as if to devour the wretched in secret.",
+        "15": "You trampled the sea with your horses, churning mighty waters.",
+        "16": "I heard, and my body trembled. My lips quivered at the voice. Rottenness enters into my bones, and I tremble in my place because I must wait quietly for the day of trouble, for the coming up of the people who invade us.",
+        "17": "For even though the fig tree doesn’t flourish, nor fruit be in the vines, the labor of the olive fails, the fields yield no food, the flocks are cut off from the fold, and there is no herd in the stalls,",
+        "18": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!",
+        "19": "Yahweh, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places. For the music director, on my stringed instruments."
+      }
+    }
+  }
+}

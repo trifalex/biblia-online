@@ -1,0 +1,36 @@
+{
+  "book": "Psalmi",
+  "chapter": "100",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Strigați de bucurie către Domnul, toți locuitorii pământului!",
+        "2": "Slujiți Domnului cu bucurie, veniți cu veselie înaintea Lui!",
+        "3": "Să știți că Domnul este Dumnezeu! El ne-a făcut, ai Lui suntem: noi suntem poporul Lui și turma pășunii Lui.",
+        "4": "Intrați cu laude pe porțile Lui, intrați cu cântări în curțile Lui! Lăudați-L și binecuvântați-I Numele!",
+        "5": "Căci Domnul este bun; bunătatea Lui ține în veci și credincioșia Lui, din neam în neam."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Strigați de bucurie către Domnul, toți locuitorii pământului!",
+        "2": "Slujiți Domnului cu bucurie, veniți înaintea Lui cu strigăte de veselie!",
+        "3": "Să știți că Domnul este Dumnezeu. El este Acela Care ne-a făcut și ai Lui suntem; suntem poporul Lui și turma pășunii Lui!",
+        "4": "Intrați pe porțile Lui cu mulțumire și în curțile Lui – cu laudă! Mulțumiți-I! Binecuvântați-I Numele!",
+        "5": "Căci Domnul este bun. În veci ține îndurarea Lui și din generație în generație ține credincioșia Lui."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Shout for joy to Yahweh, all you lands!",
+        "2": "Serve Yahweh with gladness. Come before his presence with singing.",
+        "3": "Know that Yahweh, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture.",
+        "4": "Enter into his gates with thanksgiving, and into his courts with praise. Give thanks to him, and bless his name.",
+        "5": "For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations."
+      }
+    }
+  }
+}

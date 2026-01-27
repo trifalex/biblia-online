@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "141",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, eu Te chem; vino degrabă la mine! Ia aminte la glasul meu când Te chem!",
+        "2": "Ca tămâia să fie rugăciunea mea înaintea Ta și ca jertfa de seară să fie ridicarea mâinilor mele!",
+        "3": "Pune, Doamne, o strajă înaintea gurii mele și păzește ușa buzelor mele!",
+        "4": "Nu-mi abate inima la lucruri rele, la fapte vinovate împreună cu oamenii care fac răul, și să nu mănânc din ospețele lor!",
+        "5": "Lovească-mă cel neprihănit, căci lovirea lui îmi este bine-venită; pedepsească-mă, căci pedeapsa lui este ca untdelemnul turnat pe capul meu! Să nu-mi întorc capul de la ea: dar rugăciunea mea se va înălța întruna împotriva răutății lor.",
+        "6": "Când li se vor prăvăli judecătorii de-a lungul stâncilor, atunci vor asculta cuvintele mele și vor vedea că sunt plăcute.",
+        "7": "Cum se brăzdează și se spintecă pământul, așa ni se risipesc oasele la gura mormântului.",
+        "8": "De aceea, către Tine, Doamne Dumnezeule, îmi îndrept ochii, la Tine caut adăpost; nu-mi părăsi sufletul!",
+        "9": "Păzește-mă de cursa pe care mi-o întind ei și de piedicile celor ce fac răul!",
+        "10": "Să cadă cei răi în lațurile lor, în timp ce eu să scap!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, pe Tine Te chem! Grăbește-Te să vii la mine! Ascultă glasul meu, când strig către Tine!",
+        "2": "Fie rugăciunea mea ca tămâia înaintea Ta, iar ridicarea mâinilor mele, ca jertfa de seară.",
+        "3": "Doamne, pune strajă gurii mele; păzește ușa buzelor mele!",
+        "4": "Nu-mi lăsa inima să se abată spre rău și să facă fapte rele împreună cu oamenii care comit nelegiuiri, și nu mă lăsa să mănânc din delicatesele lor.",
+        "5": "Să mă lovească cel drept – aceasta este bunătate! Să mă mustre el – aceasta este ulei pentru capul meu! Să nu-mi feresc capul! Căci rugăciunea mea va fi mereu împotriva răutăților lor.",
+        "6": "Când judecătorii lor vor fi aruncați de pe marginea stâncilor, atunci vor asculta cuvintele mele, căci ele sunt plăcute.",
+        "7": "Cum este pământul arat și brăzdat, așa sunt și oasele noastre împrăștiate la intrarea în Locuința Morților.",
+        "8": "Eu însă, către Tine, Stăpâne Doamne, îmi îndrept ochii. În Tine mă adăpostesc! Nu-mi părăsi sufletul!",
+        "9": "Păzește-mă de cursa pe care mi-au întins-o ei și de capcanele celor ce comit nelegiuiri.",
+        "10": "Să cadă împreună cei răi în lațurile lor, în timp ce eu să scap!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, I have called on you. Come to me quickly! Listen to my voice when I call to you.",
+        "2": "Let my prayer be set before you like incense; the lifting up of my hands like the evening sacrifice.",
+        "3": "Set a watch, Yahweh, before my mouth. Keep the door of my lips.",
+        "4": "Don’t incline my heart to any evil thing, to practice deeds of wickedness with men who work iniquity. Don’t let me eat of their delicacies.",
+        "5": "Let the righteous strike me, it is kindness; let him reprove me, it is like oil on the head; don’t let my head refuse it; Yet my prayer is always against evil deeds.",
+        "6": "Their judges are thrown down by the sides of the rock. They will hear my words, for they are well spoken.",
+        "7": "“As when one plows and breaks up the earth, our bones are scattered at the mouth of Sheol.”",
+        "8": "For my eyes are on you, Yahweh, the Lord. I take refuge in you. Don’t leave my soul destitute.",
+        "9": "Keep me from the snare which they have laid for me, from the traps of the workers of iniquity.",
+        "10": "Let the wicked fall together into their own nets while I pass by."
+      }
+    }
+  }
+}

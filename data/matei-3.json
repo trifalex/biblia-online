@@ -1,0 +1,72 @@
+{
+  "book": "Matei",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "În vremea aceea a venit Ioan Botezătorul și propovăduia în pustia Iudeii.",
+        "2": "El zicea: „Pocăiți-vă, căci Împărăția cerurilor este aproape.”",
+        "3": "Ioan acesta este acela care fusese vestit prin prorocul Isaia, când zice: „Iată glasul celui ce strigă în pustie: ‘Pregătiți calea Domnului, neteziți-I cărările.’”",
+        "4": "Ioan purta o haină de păr de cămilă și la mijloc era încins cu un brâu de curea. El se hrănea cu lăcuste și miere sălbatică.",
+        "5": "Locuitorii din Ierusalim, din toată Iudeea și din toate împrejurimile Iordanului au început să iasă la el;",
+        "6": "și, mărturisindu-și păcatele, erau botezați de el în râul Iordan.",
+        "7": "Dar când a văzut pe mulți din farisei și din saduchei că vin să primească botezul lui, le-a zis: „Pui de năpârci, cine v-a învățat să fugiți de mânia viitoare?",
+        "8": "Faceți dar roade vrednice de pocăința voastră.",
+        "9": "Și să nu credeți că puteți zice în voi înșivă: ‘Avem ca tată pe Avraam!’ Căci vă spun că Dumnezeu din pietrele acestea poate să ridice fii lui Avraam.",
+        "10": "Iată că securea a și fost înfiptă la rădăcina pomilor: deci orice pom care nu face rod bun va fi tăiat și aruncat în foc.",
+        "11": "Cât despre mine, eu vă botez cu apă, spre pocăință; dar Cel ce vine după mine este mai puternic decât mine, și eu nu sunt vrednic să-I duc încălțămintea. El vă va boteza cu Duhul Sfânt și cu foc.",
+        "12": "Acela Își are lopata în mână, Își va curăți cu desăvârșire aria și Își va strânge grâul în grânar, dar pleava o va arde într-un foc care nu se stinge.”",
+        "13": "Atunci a venit Isus din Galileea la Iordan, la Ioan, ca să fie botezat de el.",
+        "14": "Dar Ioan căuta să-l oprească. „Eu”, zicea el, „am trebuință să fiu botezat de Tine, și Tu vii la mine?”",
+        "15": "Drept răspuns, Isus i-a zis: „Lasă-Mă acum, căci așa se cade să împlinim tot ce trebuie împlinit.” Atunci, Ioan L-a lăsat.",
+        "16": "De îndată ce a fost botezat, Isus a ieșit din apă. Și, în clipa aceea, cerurile s-au deschis și a văzut pe Duhul lui Dumnezeu coborându-Se în chip de porumbel și venind peste El.",
+        "17": "Și din ceruri s-a auzit un glas, care zicea: „Acesta este Fiul Meu preaiubit, în care Îmi găsesc plăcerea.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În zilele acelea, a venit Ioan Botezătorul, predicând în deșertul Iudeei",
+        "2": "și zicând: „Pocăiți-vă, căci Împărăția Cerurilor s-a apropiat!“.",
+        "3": "Căci acesta este cel despre care s-a vorbit prin profetul Isaia, care zice: „Iată glasul celui ce strigă în deșert: «Pregătiți calea Domnului, neteziți-I cărările!»“.",
+        "4": "Ioan purta o haină din păr de cămilă, iar în jurul mijlocului avea un brâu de piele. Lăcustele și mierea sălbatică erau hrana lui.",
+        "5": "Atunci Ierusalimul, toată Iudeea și toți din vecinătatea Iordanului au început să iasă la el",
+        "6": "și, mărturisindu-și păcatele, erau botezați de el în râul Iordan.",
+        "7": "Dar, când a văzut că mulți farisei și saduchei vin să primească botezul lui, Ioan le-a zis: „Pui de vipere, cine v-a avertizat să fugiți de mânia care vine?",
+        "8": "Faceți deci rod demn de pocăință!",
+        "9": "Și să nu vă gândiți să spuneți în voi înșivă: «Îl avem ca tată pe Avraam!», căci vă spun că Dumnezeu poate să-i ridice copii lui Avraam chiar din pietrele acestea!",
+        "10": "Securea este pusă deja la rădăcina pomilor. Prin urmare, orice pom care nu face rod bun este tăiat și aruncat în foc.",
+        "11": "Eu, într-adevăr, vă botez cu apă spre pocăință, dar după mine vine Cel Care este mai puternic decât mine, Căruia eu nu sunt demn să-I dau jos sandalele. El vă va boteza cu Duhul Sfânt și cu foc.",
+        "12": "El Își are în mână furca de treierat; Își va curăța aria și Își va aduna grâul în hambar. Pleava însă o va arde într-un foc care nu se stinge“.",
+        "13": "Atunci Isus a venit din Galileea la Iordan, la Ioan, ca să fie botezat de el.",
+        "14": "Însă Ioan încerca să-L oprească, zicând: Eu am nevoie să fiu botezat de Tine, și Tu vii la mine?",
+        "15": "Dar Isus, răspunzând, i-a zis: Lasă să fie așa acum, căci se cuvine să împlinim toată dreptatea. Atunci Ioan L-a lăsat.",
+        "16": "După ce a fost botezat, Isus a ieșit imediat din apă. Și iată că Cerurile I-au fost deschise, și a văzut Duhul lui Dumnezeu coborând asemenea unui porumbel și venind peste El.",
+        "17": "Și iată că un glas din Ceruri spunea: „Acesta este Fiul Meu preaiubit, în Care-Mi găsesc plăcerea!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "In those days, John the Baptizer came, preaching in the wilderness of Judea, saying,",
+        "2": "“Repent, for the Kingdom of Heaven is at hand!”",
+        "3": "For this is he who was spoken of by Isaiah the prophet, saying, “The voice of one crying in the wilderness, make the way of the Lord ready! Make his paths straight!”",
+        "4": "Now John himself wore clothing made of camel’s hair with a leather belt around his waist. His food was locusts and wild honey.",
+        "5": "Then people from Jerusalem, all of Judea, and all the region around the Jordan went out to him.",
+        "6": "They were baptized by him in the Jordan, confessing their sins.",
+        "7": "But when he saw many of the Pharisees and Sadducees coming for his baptism, he said to them, “You offspring of vipers, who warned you to flee from the wrath to come?",
+        "8": "Therefore produce fruit worthy of repentance!",
+        "9": "Don’t think to yourselves, ‘We have Abraham for our father,’ for I tell you that God is able to raise up children to Abraham from these stones.",
+        "10": "Even now the ax lies at the root of the trees. Therefore every tree that doesn’t produce good fruit is cut down, and cast into the fire.",
+        "11": "“I indeed baptize you in water for repentance, but he who comes after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you in the Holy Spirit.",
+        "12": "His winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor. He will gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.”",
+        "13": "Then Jesus came from Galilee to the Jordan to John, to be baptized by him.",
+        "14": "But John would have hindered him, saying, “I need to be baptized by you, and you come to me?”",
+        "15": "But Jesus, answering, said to him, “Allow it now, for this is the fitting way for us to fulfill all righteousness.” Then he allowed him.",
+        "16": "Jesus, when he was baptized, went up directly from the water: and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove, and coming on him.",
+        "17": "Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”"
+      }
+    }
+  }
+}

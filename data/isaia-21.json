@@ -1,0 +1,72 @@
+{
+    "book": "Isaia",
+    "chapter": "21",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Prorocie asupra pustiei mării: Cum înaintează vijelia de la miazăzi, așa vine el din pustie, din țara înfricoșată.",
+                "2": "O vedenie grozavă mi s-a descoperit. Asupritorul asuprește, pustiitorul pustiește. „Suie-te, Elamule! Împresoară, Medio! Căci fac să înceteze toate oftările lor”, zice Domnul.",
+                "3": "De aceea mi s-a umplut inima de neliniște, m-apucă durerile, ca durerile unei femei când naște. Zvârcolirile nu mă lasă s-aud, tremurul mă împiedică să văd.",
+                "4": "Îmi bate inima cu putere, m-apucă groaza; noaptea plăcerilor mele ajunge o noapte de spaimă.",
+                "5": "Ei pun masa, straja veghează, și ei mănâncă, beau… Dar deodată se aude strigând: „În picioare, voievozi! Ungeți scutul!”",
+                "6": "Căci așa mi-a vorbit Domnul: „Du-te și pune un străjer, ca să dea de veste despre ce va vedea.”",
+                "7": "El a văzut călărime, călăreți doi câte doi, călăreți pe măgari, călăreți pe cămile, și asculta cu luare aminte, cu cea mai mare băgare de seamă.",
+                "8": "Apoi a strigat ca un leu: „Doamne, am stat mereu în turnul meu de pază și stăteam de strajă în toate nopțile.",
+                "9": "Și iată că a venit călărime și călăreți doi câte doi.” Apoi a luat iarăși cuvântul și a zis: „A căzut, a căzut Babilonul și toate icoanele dumnezeilor lui sunt sfărâmate la pământ!”",
+                "10": "O, poporul meu, care ai fost stropșit ca boabele de grâu din aria mea, ce am auzit de la Domnul oștirilor, Dumnezeul lui Israel, aceea vă vestesc.",
+                "11": "Prorocie asupra Dumei: Mi se strigă din Seir: „Străjerule, cât mai este din noapte? Străjerule, mai este mult din noapte?”",
+                "12": "Străjerul răspunde: „Vine dimineața, și este tot noapte. Dacă vreți să întrebați, întrebați; întoarceți-vă și veniți iarăși!”",
+                "13": "Prorocie asupra Arabiei: Veți petrece noaptea în tufele Arabiei, cete de negustori din Dedan!",
+                "14": "Duceți apă celor ce le este sete; locuitorii țării Tema, duceți pâine fugarilor!",
+                "15": "Căci ei fug dinaintea săbiilor, dinaintea sabiei scoase din teacă, dinaintea arcului încordat și dinaintea unei lupte înverșunate.",
+                "16": "Căci așa mi-a vorbit Domnul: „Încă un an, ca anii unui simbriaș, și s-a isprăvit cu toată slava Chedarului.",
+                "17": "Nu va mai rămâne decât un mic număr din vitejii arcași, fii ai Chedarului, căci Domnul Dumnezeul lui Israel a spus-o.”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "O rostire cu privire la deșertul de lângă mare. Așa cum se dezlănțuie vijelia în Neghev, tot astfel vine el din deșert, dintr-o țară de temut.",
+                "2": "O vedenie cumplită mi s-a arătat: trădătorul trădează, iar jefuitorul jefuiește. „Înaintează, Elam! Asediază, Medio! Voi opri tot suspinul provocat de el“.",
+                "3": "De aceea coapsele îmi sunt pline de durere; chinurile m-au cuprins, așa cum o cuprind pe o femeie când naște. Ceea ce aud, mă face să leșin, iar ceea ce văd, mă îngrozește.",
+                "4": "Inima mi se zbate și, de spaimă, tremur; amurgul, după care tânjeam cândva, a devenit o groază pentru mine.",
+                "5": "Au pregătit masa, au întins păturile, mănâncă și beau. Ridicați-vă, conducători, și ungeți-vă scuturile!",
+                "6": "Căci astfel mi-a vorbit Stăpânul: „Du-te și pune un străjer, care să anunțe ceea ce vede.",
+                "7": "Când va vedea un car cu o pereche de cai și călăreți pe măgari și pe cămile, să asculte cu atenție, cu mare atenție“.",
+                "8": "El a strigat ca un leu: „Zi după zi, Stăpâne, și, în fiecare noapte, veghez în postul meu.",
+                "9": "Iată că vine un călăreț într-un car, o pereche de cai. El a răspuns și a zis: «A căzut! Babilonul a căzut! stau sfărâmate pe pământ!»“.",
+                "10": "O, poporul meu, zdrobit în aria de treierat, de la Domnul Oștirilor, Dumnezeul lui Israel.",
+                "11": "O rostire cu privire la Duma. Cineva mă strigă din Seir: ‒ Străjer, mai este din noapte? Străjer, mai este din noapte?",
+                "12": "Străjerul răspunde: ‒ Vine dimineața, dar și noaptea. Dacă veți dori să întrebați, întrebați; întoarceți-vă, veniți iarăși!",
+                "13": "O rostire cu privire la Arabia: Veți înnopta printre tufișurile Arabiei, caravane ale dedaniților!",
+                "14": "Aduceți apă și întâmpinați-l pe cel însetat! Locuitori ai regiunii Tema, întâmpinați-l cu pâine pe fugar!",
+                "15": "Căci ei fug dinaintea săbiilor, dinaintea sabiei scoase, și dinaintea unei lupte înverșunate.",
+                "16": "Stăpânul mi-a vorbit astfel: „În decursul unui an, numărat ca anii unui lucrător plătit, toată gloria Chedarului se va sfârși.",
+                "17": "Supraviețuitorii arcașilor, vitejii fiilor Chedarului vor fi puțini, pentru că Domnul, Dumnezeul lui Israel, a vorbit“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "The burden of the wilderness of the sea. As whirlwinds in the South sweep through, it comes from the wilderness, from an awesome land.",
+                "2": "A grievous vision is declared to me. The treacherous man deals treacherously, and the destroyer destroys. Go up, Elam; attack! I have stopped all of Media’s sighing.",
+                "3": "Therefore my thighs are filled with anguish. Pains have seized me, like the pains of a woman in labor. I am in so much pain that I can’t hear. I am so dismayed that I can’t see.",
+                "4": "My heart flutters. Horror has frightened me. The twilight that I desired has been turned into trembling for me.",
+                "5": "They prepare the table. They set the watch. They eat. They drink. Rise up, you princes, oil the shield!",
+                "6": "For the Lord said to me, “Go, set a watchman. Let him declare what he sees.",
+                "7": "When he sees a troop, horsemen in pairs, a troop of donkeys, a troop of camels, he shall listen diligently with great attentiveness.”",
+                "8": "He cried like a lion: “Lord, I stand continually on the watchtower in the daytime, and every night I stay at my post.",
+                "9": "Behold, here comes a troop of men, horsemen in pairs.” He answered, “Fallen, fallen is Babylon; and all the engraved images of her gods are broken to the ground.",
+                "10": "You are my threshing, and the grain of my floor!” That which I have heard from Yahweh of Armies, the God of Israel, I have declared to you.",
+                "11": "The burden of Dumah. One calls to me out of Seir, “Watchman, what of the night? Watchman, what of the night?”",
+                "12": "The watchman said, “The morning comes, and also the night. If you will inquire, inquire. Come back again.”",
+                "13": "The burden on Arabia. You will lodge in the thickets in Arabia, you caravans of Dedanites.",
+                "14": "They brought water to him who was thirsty. The inhabitants of the land of Tema met the fugitives with their bread.",
+                "15": "For they fled away from the swords, from the drawn sword, from the bent bow, and from the heat of battle.",
+                "16": "For the Lord said to me, “Within a year, as a worker bound by contract would count it, all the glory of Kedar will fail,",
+                "17": "and the residue of the number of the archers, the mighty men of the children of Kedar, will be few; for Yahweh, the God of Israel, has spoken it.”"
+            }
+        }
+    }
+}

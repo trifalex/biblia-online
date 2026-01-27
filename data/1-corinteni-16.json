@@ -1,0 +1,93 @@
+{
+  "book": "1 Corinteni",
+  "chapter": "16",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cât privește strângerea de ajutoare pentru sfinți, să faceți și voi cum am rânduit Bisericilor Galatiei.",
+        "2": "În ziua dintâi a săptămânii, fiecare din voi să pună deoparte, acasă, ce va putea, după câștigul lui, ca să nu se strângă ajutoarele când voi veni eu.",
+        "3": "Și când voi veni, voi trimite cu epistole pe cei ce îi veți socoti vrednici ca să ducă darurile voastre la Ierusalim.",
+        "4": "Dacă va face să mă duc și eu, vor merge cu mine.",
+        "5": "La voi am să vin după ce voi trece prin Macedonia, căci prin Macedonia voi trece.",
+        "6": "Poate mă voi opri pe la voi sau poate chiar voi ierna la voi, ca apoi să mă însoțiți acolo unde voi avea să mă duc.",
+        "7": "De data aceasta nu vreau să vă văd în treacăt, ci trag nădejde să mai rămân cu voi câtăva vreme, dacă va îngădui Domnul.",
+        "8": "Voi mai rămâne totuși în Efes până la Cincizecime,",
+        "9": "căci mi s-a deschis aici o ușă mare și largă și sunt mulți potrivnici.",
+        "10": "Dacă sosește Timotei, aveți grijă să fie fără frică la voi, căci el este prins ca și mine la lucrul Domnului.",
+        "11": "Nimeni dar să nu-l disprețuiască. Să-l petreceți în pace, ca să vină la mine, pentru că îl aștept cu frații.",
+        "12": "Cât pentru fratele Apolo, l-am rugat mult să vină la voi cu frații, dar n-a voit nicidecum să vină acum; va veni însă când va avea înlesnire. Îndemnuri",
+        "13": "Vegheați, fiți tari în credință, fiți oameni, întăriți-vă!",
+        "14": "Tot ce faceți să fie făcut cu dragoste!",
+        "15": "Încă un îndemn, fraților. Cunoașteți casa lui Stefana; știți că ea este cel dintâi rod al Ahaiei și că s-a pus cu totul în slujba sfinților.",
+        "16": "Fiți și voi supuși unor astfel de oameni și fiecăruia care ajută la lucru și se ostenește.",
+        "17": "Mă bucur de venirea lui Stefana, lui Fortunat și lui Ahaic; ei au împlinit ce lipsea din partea voastră,",
+        "18": "căci mi-au răcorit duhul meu și al vostru. Să știți dar să prețuiți pe astfel de oameni. Urări de sănătate",
+        "19": "Bisericile din Asia vă trimit sănătate. Aquila și Priscila, împreună cu Biserica din casa lor, vă trimit multă sănătate în Domnul.",
+        "20": "Toți frații vă trimit sănătate. Spuneți-vă sănătate unii altora cu o sărutare sfântă.",
+        "21": "Urările de sănătate sunt scrise cu însăși mâna mea: Pavel.",
+        "22": "Dacă nu iubește cineva pe Domnul nostru Isus Hristos, să fie anatema! „Maranata!” (Domnul nostru vine!)",
+        "23": "Harul Domnului Isus Hristos să fie cu voi.",
+        "24": "Dragostea mea este cu voi cu toți în Hristos Isus. Amin."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cu privire la colecta pentru sfinți, faceți și voi tot așa cum le-am dat îndrumări bisericilor din Galatia:",
+        "2": "în prima zi a săptămânii, fiecare dintre voi să pună deoparte câte ceva, adunând potrivit cu ceea ce a fost binecuvântat, astfel încât să nu aibă loc strângerea colectelor atunci când vin.",
+        "3": "Iar când voi sosi, pe cei pe care-i recomandați prin scrisori îi voi trimite să ducă darul vostru la Ierusalim.",
+        "4": "Dacă mi se va părea potrivit să merg și eu, vor merge cu mine. Planuri de călătorie",
+        "5": "Voi veni la voi după ce voi trece prin Macedonia, căci prin Macedonia voi trece.",
+        "6": "S-ar putea să stau un timp cu voi sau chiar să iernez acolo, pentru ca apoi să mă trimiteți mai departe, oriunde va fi să merg.",
+        "7": "Căci de data aceasta nu vreau să vă văd doar în treacăt, ci sper să rămân un timp la voi, dacă va îngădui Domnul.",
+        "8": "Voi mai rămâne totuși în Efes până la Cincizecime,",
+        "9": "căci mi s-a deschis o ușă mare și rodnică, și sunt mulți împotrivitori.",
+        "10": "Dacă vine Timotei, aveți grijă să fie fără frică între voi, pentru că și el face lucrarea Domnului, ca și mine.",
+        "11": "De aceea nimeni să nu-l disprețuiască. Trimiteți-l mai departe în pace, ca să vină la mine, pentru că îl aștept împreună cu frații.",
+        "12": "Cu privire la fratele Apollos, l-am rugat mult să vină la voi împreună cu frații, dar n-a vrut deloc să vină acum. Va veni însă când va avea ocazia. Îndemnuri finale",
+        "13": "Vegheați, stați fermi în credință, fiți curajoși, fiți tari!",
+        "14": "Tot ceea ce faceți, să fie făcut în dragoste.",
+        "15": "Vă dau un îndemn, fraților: știți familia lui Stefanas, că este cel dintâi rod al Ahaiei și că s-au dat pe ei înșiși pentru a-i sluji pe sfinți.",
+        "16": "Supuneți-vă unor astfel de oameni și fiecăruia care lucrează și depune eforturi împreună cu ei.",
+        "17": "Mă bucur de venirea lui Stefanas, a lui Fortunatus și a lui Ahaikos, pentru că ei au împlinit ceea ce lipsea din partea voastră.",
+        "18": "Ei au înviorat duhul meu și al vostru. Prin urmare, apreciați astfel de oameni. Saluturi",
+        "19": "Bisericile din Asia vă salută. Akyla și Prisca, împreună cu biserica din casa lor, vă salută călduros în Domnul.",
+        "20": "Toți frații vă salută. Salutați-vă unul pe altul cu o sărutare sfântă.",
+        "21": "Salutul este scris cu mâna mea: Pavel.",
+        "22": "Dacă cineva nu-L iubește pe Domnul, să fie anatema! Marana tha!",
+        "23": "Harul Domnului Isus să fie cu voi!",
+        "24": "Dragostea mea este cu voi toți, în Cristos Isus. Amin."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now concerning the collection for the saints: as I commanded the assemblies of Galatia, you do likewise.",
+        "2": "On the first day of every week, let each one of you save as he may prosper, that no collections are made when I come.",
+        "3": "When I arrive, I will send whoever you approve with letters to carry your gracious gift to Jerusalem.",
+        "4": "If it is appropriate for me to go also, they will go with me.",
+        "5": "I will come to you when I have passed through Macedonia, for I am passing through Macedonia.",
+        "6": "But with you it may be that I will stay with you, or even winter with you, that you may send me on my journey wherever I go.",
+        "7": "For I do not wish to see you now in passing, but I hope to stay a while with you, if the Lord permits.",
+        "8": "But I will stay at Ephesus until Pentecost,",
+        "9": "for a great and effective door has opened to me, and there are many adversaries.",
+        "10": "Now if Timothy comes, see that he is with you without fear, for he does the work of the Lord, as I also do.",
+        "11": "Therefore let no one despise him. But set him forward on his journey in peace, that he may come to me; for I expect him with the brothers.",
+        "12": "Now concerning Apollos the brother, I strongly urged him to come to you with the brothers, but it was not at all his desire to come now; but he will come when he has an opportunity.",
+        "13": "Watch! Stand firm in the faith! Be courageous! Be strong!",
+        "14": "Let all that you do be done in love.",
+        "15": "Now I beg you, brothers—you know the house of Stephanas, that it is the first fruits of Achaia, and that they have set themselves to serve the saints—",
+        "16": "that you also be in subjection to such, and to everyone who helps in the work and labors.",
+        "17": "I rejoice at the coming of Stephanas, Fortunatus, and Achaicus; for that which was lacking on your part, they supplied.",
+        "18": "For they refreshed my spirit and yours. Therefore acknowledge those who are like that.",
+        "19": "The assemblies of Asia greet you. Aquila and Priscilla greet you warmly in the Lord, together with the assembly that is in their house.",
+        "20": "All the brothers greet you. Greet one another with a holy kiss.",
+        "21": "This greeting is by me, Paul, with my own hand.",
+        "22": "If any man doesn’t love the Lord Jesus Christ, let him be cursed. Come, Lord!",
+        "23": "The grace of the Lord Jesus Christ be with you.",
+        "24": "My love to all of you in Christ Jesus. Amen."
+      }
+    }
+  }
+}

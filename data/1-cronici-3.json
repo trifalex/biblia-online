@@ -1,0 +1,93 @@
+{
+  "book": "1 Cronici",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Iată fiii lui David care i s-au născut la Hebron: Întâiul născut: Amnon, cu Ahinoam din Izreel; al doilea: Daniel, cu Abigail din Carmel;",
+        "2": "al treilea: Absalom, fiul Maachei, fata lui Talmai, împăratul Gheșurului; al patrulea: Adonia, fiul Haghitei;",
+        "3": "al cincilea: Șefatia, cu Abital; al șaselea: Itream, cu nevastă-sa Egla.",
+        "4": "Acești șase i s-au născut la Hebron. El a domnit acolo șapte ani și șase luni, iar la Ierusalim a domnit treizeci și trei de ani.",
+        "5": "Iată cei ce i s-au născut la Ierusalim: Șimea, Șobab, Natan și Solomon, patru, cu Bat-Șua, fata lui Amiel;",
+        "6": "Ibhar, Elișama, Elifelet,",
+        "7": "Noga, Nefeg, Iafia,",
+        "8": "Elișama, Eliada și Elifelet, nouă.",
+        "9": "Aceștia sunt toți fiii lui David, afară de fiii țiitoarelor. Și Tamar era sora lor. Urmașii lui Solomon",
+        "10": "Fiul lui Solomon: Roboam. Abia, fiul său; Asa, fiul său; Iosafat, fiul său;",
+        "11": "Ioram, fiul său; Ahazia, fiul său; Ioas, fiul său;",
+        "12": "Amația, fiul său; Azaria, fiul său; Iotam, fiul său;",
+        "13": "Ahaz, fiul său; Ezechia, fiul său; Manase, fiul său;",
+        "14": "Amon, fiul său; Iosia, fiul său.",
+        "15": "Fiii lui Iosia: întâiul născut, Iohanan; al doilea, Ioiachim; al treilea, Zedechia; al patrulea, Șalum.",
+        "16": "Fiii lui Ioiachim: Ieconia, fiul său; Zedechia, fiul său.",
+        "17": "Fiii lui Ieconia: Asir, al cărui fiu a fost Șealtiel;",
+        "18": "Malchiram, Pedaia, Șenațar, Iecamia, Hoșama și Nedabia.",
+        "19": "Fiii lui Pedaia: Zorobabel și Șimei. Fiii lui Zorobabel: Meșulam și Hanania; Șelomit, sora lor,",
+        "20": "și Hașuba, Ohel, Berechia, Hasadia, Iușab-Hesed, cinci.",
+        "21": "Fiii lui Hanania: Pelatia și Isaia; fiii lui Refaia, fiii lui Arnan, fiii lui Obadia, fiii lui Șecania.",
+        "22": "Fiul lui Șecania: Șemaia. Fiii lui Șemaia: Hatuș, Igheal, Bariah, Nearia și Șafat, șase.",
+        "23": "Fiii lui Nearia: Elioenai, Ezechia și Azricam, trei.",
+        "24": "Fiii lui Elioenai: Hodavia, Eliașib, Pelaia, Acub, Iohanan, Delaia și Anani, șapte."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Fiii lui David care i s-au născut la Hebron au fost următorii: Amnon, întâiul născut, fiul izreelitei Ahinoam; Daniel, al doilea, fiul lui Abigail, carmelita;",
+        "2": "Absalom, al treilea, fiul Maacăi, fata lui Talmai, regele Gheșurului; Adonia, al patrulea, fiul Haghitei;",
+        "3": "Șefatia, al cincilea, fiul lui Abital; Itream, al șaselea, al lui Egla, soția lui David;",
+        "4": "Aceștia șase i s-au născut în Hebron. El a domnit acolo timp de șapte ani și șase luni, iar la Ierusalim a domnit timp de treizeci și trei de ani.",
+        "5": "Fiii care i s-au născut la Ierusalim au fost: Șimea, Șobab, Natan, Solomon – în total patru – născuți din Batșeba, fata lui Amiel;",
+        "6": "apoi Ibhar, Elișua, Elifelet,",
+        "7": "Nogah, Nefeg, Iafia,",
+        "8": "Elișama, Eliada și Elifelet – în total nouă.",
+        "9": "Toți aceștia au fost fiii lui David, în afară de fiii născuți de țiitoare. Tamar era sora lor. Regii lui Iuda",
+        "10": "Fiul lui Solomon a fost: Roboam; fiul său, Abia; fiul său, Asa; fiul său, Iehoșafat;",
+        "11": "fiul său, Ioram; fiul său, Ahazia; fiul său, Ioaș;",
+        "12": "fiul său, Amația; fiul său, Azaria; fiul său, Iotam;",
+        "13": "fiul său, Ahaz; fiul său, Ezechia; fiul său, Manase;",
+        "14": "fiul său, Amon; fiul său, Iosia.",
+        "15": "Fiii lui Iosia au fost: Iohanan, întâiul lui născut; Iehoiachim, al doilea născut; Zedechia, al treilea născut; Șalum, al patrulea născut.",
+        "16": "Urmașii lui Iehoiachim au fost: fiul său, Iehonia, și fiul acestuia, Zedechia. Urmașii lui David după exil",
+        "17": "Urmașii lui Iehonia au fost: Asir – cu fiul lui, Șealtiel –",
+        "18": "apoi Malchiram, Pedaia, Șenațar, Iekamia, Hoșama și Nedabia.",
+        "19": "Fiii lui Pedaia au fost: Zerub-Babel și Șimei. Fiii lui Zerub-Babel au fost: Meșulam și Hanania – Șelomit era sora lor –",
+        "20": "apoi Hașuba, Ohel, Berechia, Hasadia și Iușab-Hesed – în total cinci.",
+        "21": "Urmașii lui Hanania au fost: Pelatia și Ieșaia, fiii lui Refaia, fiii lui Arnan, fiii lui Obadia; fiii lui Șecania.",
+        "22": "Urmașii lui Șecania au fost: Șemaia și fiii lui Șemaia: Hatuș, Igal, Bariah, Nearia și Șafat – în total șase.",
+        "23": "Fiii lui Nearia au fost: Elioenai, Ezechia și Azrikam – în total trei.",
+        "24": "Fiii lui Elioenai au fost: Hodavia, Eliașib, Pelaia, Akub, Iohanan, Delaia și Anani – în total șapte."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now these were the sons of David, who were born to him in Hebron: the firstborn, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess;",
+        "2": "the third, Absalom the son of Maacah the daughter of Talmai king of Geshur; the fourth, Adonijah the son of Haggith;",
+        "3": "the fifth, Shephatiah of Abital; the sixth, Ithream by Eglah his wife:",
+        "4": "six were born to him in Hebron; and he reigned there seven years and six months. He reigned thirty-three years in Jerusalem;",
+        "5": "and these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four, by Bathshua the daughter of Ammiel;",
+        "6": "and Ibhar, Elishama, Eliphelet,",
+        "7": "Nogah, Nepheg, Japhia,",
+        "8": "Elishama, Eliada, and Eliphelet, nine.",
+        "9": "All these were the sons of David, in addition to the sons of the concubines; and Tamar was their sister.",
+        "10": "Solomon’s son was Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son,",
+        "11": "Joram his son, Ahaziah his son, Joash his son,",
+        "12": "Amaziah his son, Azariah his son, Jotham his son,",
+        "13": "Ahaz his son, Hezekiah his son, Manasseh his son,",
+        "14": "Amon his son, and Josiah his son.",
+        "15": "The sons of Josiah: the firstborn Johanan, the second Jehoiakim, the third Zedekiah, and the fourth Shallum.",
+        "16": "The sons of Jehoiakim: Jeconiah his son, and Zedekiah his son.",
+        "17": "The sons of Jeconiah, the captive: Shealtiel his son,",
+        "18": "Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.",
+        "19": "The sons of Pedaiah: Zerubbabel and Shimei. The sons of Zerubbabel: Meshullam and Hananiah; and Shelomith was their sister;",
+        "20": "and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab Hesed, five.",
+        "21": "The sons of Hananiah: Pelatiah and Jeshaiah; the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah.",
+        "22": "The son of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six.",
+        "23": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.",
+        "24": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven."
+      }
+    }
+  }
+}

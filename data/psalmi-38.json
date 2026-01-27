@@ -1,0 +1,87 @@
+{
+  "book": "Psalmi",
+  "chapter": "38",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, nu mă mustra în mânia Ta și nu mă pedepsi în urgia Ta!",
+        "2": "Căci săgețile Tale s-au înfipt în mine și mâna Ta apasă asupra mea.",
+        "3": "N-a mai rămas nimic sănătos în carnea mea din pricina mâniei Tale; nu mai este nicio vlagă în oasele mele în urma păcatului meu.",
+        "4": "Căci fărădelegile mele se ridică deasupra capului meu; ca o povară grea, sunt prea grele pentru mine.",
+        "5": "Rănile mele miros greu și sunt pline de coptură, în urma nebuniei mele.",
+        "6": "Sunt gârbovit, peste măsură de istovit. Toată ziua umblu plin de întristare.",
+        "7": "Căci o durere arzătoare îmi mistuie măruntaiele și n-a mai rămas nimic sănătos în carnea mea.",
+        "8": "Sunt fără putere, zdrobit cu desăvârșire; tulburarea inimii mele mă face să gem.",
+        "9": "Doamne, toate dorințele mele sunt înaintea Ta și suspinele mele nu-Ți sunt ascunse.",
+        "10": "Inima îmi bate cu tărie, puterea mă părăsește și lumina ochilor mei nu mai este cu mine.",
+        "11": "Prietenii și cunoscuții mei se depărtează de rana mea și rudele mele stau deoparte.",
+        "12": "Cei ce vor să-mi ia viața își întind cursele, cei ce-mi caută nenorocirea spun răutăți și toată ziua urzesc la înșelătorii.",
+        "13": "Iar eu sunt ca un surd: n-aud; sunt ca un mut, care nu deschide gura.",
+        "14": "Sunt ca un om care n-aude și în gura căruia nu este niciun răspuns.",
+        "15": "Doamne, în Tine nădăjduiesc; Tu vei răspunde, Doamne Dumnezeule!",
+        "16": "Căci zic: „Nu îngădui să se bucure vrăjmașii mei de mine și să se fudulească împotriva mea, când mi se clatină piciorul!”",
+        "17": "Căci sunt aproape să cad și durerea mea este totdeauna înaintea mea.",
+        "18": "Îmi mărturisesc fărădelegea, mă doare de păcatul meu.",
+        "19": "Dar vrăjmașii mei sunt plini de viață și plini de putere; cei ce mă urăsc fără temei sunt mulți la număr.",
+        "20": "Ei îmi întorc rău pentru bine, îmi sunt potrivnici, pentru că eu urmăresc binele.",
+        "21": "Nu mă părăsi, Doamne! Dumnezeule, nu Te depărta de mine!",
+        "22": "Vino degrabă în ajutorul meu, Doamne, Mântuirea mea!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, nu mă mai mustra în mânia Ta și nu mă mai disciplina în furia Ta!",
+        "2": "Căci săgețile Tale m-au străpuns, mâna Ta a coborât asupra mea.",
+        "3": "Din cauza mâniei Tale, nu mai este nimic sănătos în trupul meu, niciun os nu mai este întreg din cauza păcatului meu.",
+        "4": "Căci nelegiuirile mele mă copleșesc ca o povară grea; sunt prea grele pentru mine.",
+        "5": "Rănile mele duhnesc, putrezesc, din cauza nebuniei mele.",
+        "6": "Sunt încovoiat, peste măsură de gârbovit. Toată ziua umblu bocind.",
+        "7": "Coapsele-mi sunt pline de arsuri, nu mai este nimic sănătos în trupul meu.",
+        "8": "Sunt atât de slăbit și de zdrobit! Sufăr din cauza suspinelor inimii mele.",
+        "9": "Stăpâne, Tu știi toate dorințele mele, iar suspinele mele nu-ți sunt ascunse.",
+        "10": "Mi se zbate inima, puterile mă părăsesc, nici chiar lumina ochilor mei nu o mai am.",
+        "11": "Cei care mă iubesc, prietenii mei, nu stau aproape de rana mea, cei apropiați mie stau deoparte.",
+        "12": "Cei ce încearcă să-mi ia viața îmi întind curse; cei ce-mi doresc răul vorbesc cu răutate și toată ziua se gândesc numai la înșelătorii.",
+        "13": "Eu însă nu aud, întocmai ca un surd, ca un mut care nu-și deschide gura!",
+        "14": "Am ajuns ca omul care nu aude și a cărui gură nu mai are răspuns.",
+        "15": "Totuși, îmi pun speranța în Tine, Doamne! Tu vei răspunde, Stăpâne, Dumnezeul meu!",
+        "16": "Căci am zis: „Să nu se bucure din cauza mea, atunci când îmi alunecă piciorul, să nu se laude pe seama mea!“.",
+        "17": "Chiar acum sunt aproape să cad, iar durerea mă însoțește întotdeauna.",
+        "18": "Îmi mărturisesc nelegiuirea; sunt tulburat din cauza păcatului meu.",
+        "19": "Dușmanii mei sunt mulți și plini de viață, și cei ce mă urăsc fără motiv sunt fără număr.",
+        "20": "Cei ce răsplătesc binele cu rău mi se opun, când eu urmăresc binele.",
+        "21": "Nu mă părăsi, Doamne! Dumnezeul meu, nu Te îndepărta de mine!",
+        "22": "Vino degrabă în ajutorul meu, Stăpâne, Mântuirea mea!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, don’t rebuke me in your wrath, neither chasten me in your hot displeasure.",
+        "2": "For your arrows have pierced me, your hand presses hard on me.",
+        "3": "There is no soundness in my flesh because of your indignation, neither is there any health in my bones because of my sin.",
+        "4": "For my iniquities have gone over my head. As a heavy burden, they are too heavy for me.",
+        "5": "My wounds are loathsome and corrupt because of my foolishness.",
+        "6": "I am in pain and bowed down greatly. I go mourning all day long.",
+        "7": "For my waist is filled with burning. There is no soundness in my flesh.",
+        "8": "I am faint and severely bruised. I have groaned by reason of the anguish of my heart.",
+        "9": "Lord, all my desire is before you. My groaning is not hidden from you.",
+        "10": "My heart throbs. My strength fails me. As for the light of my eyes, it has also left me.",
+        "11": "My lovers and my friends stand aloof from my plague. My kinsmen stand far away.",
+        "12": "They also who seek after my life lay snares. Those who seek my hurt speak mischievous things, and meditate deceits all day long.",
+        "13": "But I, as a deaf man, don’t hear. I am as a mute man who doesn’t open his mouth.",
+        "14": "Yes, I am as a man who doesn’t hear, in whose mouth are no reproofs.",
+        "15": "For I hope in you, Yahweh. You will answer, Lord my God.",
+        "16": "For I said, “Don’t let them gloat over me, or exalt themselves over me when my foot slips.”",
+        "17": "For I am ready to fall. My pain is continually before me.",
+        "18": "For I will declare my iniquity. I will be sorry for my sin.",
+        "19": "But my enemies are vigorous and many. Those who hate me without reason are numerous.",
+        "20": "They who give evil for good are also adversaries to me, because I follow what is good.",
+        "21": "Don’t forsake me, Yahweh. My God, don’t be far from me.",
+        "22": "Hurry to help me, Lord, my salvation."
+      }
+    }
+  }
+}

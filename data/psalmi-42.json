@@ -1,0 +1,54 @@
+{
+  "book": "Psalmi",
+  "chapter": "42",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cum dorește un cerb izvoarele de apă, așa Te dorește sufletul meu pe Tine, Dumnezeule!",
+        "2": "Sufletul meu însetează după Dumnezeu, după Dumnezeul cel viu; când mă voi duce și mă voi arăta înaintea lui Dumnezeu?",
+        "3": "Cu lacrimi mă hrănesc zi și noapte, când mi se zice fără încetare: „Unde este Dumnezeul tău?”",
+        "4": "Mi-aduc aminte și-mi vărs tot focul inimii în mine când mă gândesc cum mergeam înconjurat de mulțime și cum înaintam în fruntea ei spre Casa lui Dumnezeu, în mijlocul strigătelor de bucurie și mulțumire ale unei mulțimi în sărbătoare.",
+        "5": "Pentru ce te mâhnești, suflete, și gemi înăuntrul meu? Nădăjduiește în Dumnezeu, căci iarăși Îl voi lăuda; El este mântuirea mea și Dumnezeul meu.",
+        "6": "Îmi este mâhnit sufletul în mine, Dumnezeule, de aceea la Tine mă gândesc din țara Iordanului, din Hermon și din muntele Mițear.",
+        "7": "Un val cheamă un alt val la vuietul căderii apelor Tale; toate talazurile și valurile Tale trec peste mine.",
+        "8": "Ziua, Domnul îmi dădea îndurarea Lui, iar noaptea, cântam laudele Lui și înălțam o rugăciune Dumnezeului vieții mele.",
+        "9": "De aceea zic lui Dumnezeu, Stânca mea: „Pentru ce mă uiți? Pentru ce trebuie să umblu plin de întristare sub apăsarea vrăjmașului?”",
+        "10": "Parcă mi se sfărâmă oasele cu sabia când mă batjocoresc vrăjmașii mei și-mi zic neîncetat: „Unde este Dumnezeul tău?”",
+        "11": "Pentru ce te mâhnești, suflete, și gemi înăuntrul meu? Nădăjduiește în Dumnezeu, căci iarăși Îl voi lăuda; El este mântuirea mea și Dumnezeul meu."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cum tânjește cerbul după apa izvoarelor, așa tânjește sufletul meu după Tine, Dumnezeule!",
+        "2": "Sufletul meu însetează după Dumnezeu, după Dumnezeul cel Viu! Când voi veni și voi vedea fața lui Dumnezeu?",
+        "3": "Lacrimile-mi sunt hrană zi și noapte, când toată ziua mi se spune: „Unde este Dumnezeul tău?“.",
+        "4": "Mi se întristează sufletul când îmi aduc aminte cum treceam prin mulțime, mergând spre Casa lui Dumnezeu, în mijlocul strigătelor de bucurie și de mulțumire ale mulțimii aflate la sărbătoare.",
+        "5": "Suflete al meu, de ce te mâhnești și gemi înăuntrul meu? Pune-ți speranța în Dumnezeu, căci iarăși Îi voi mulțumi. El este ajutorul meu.",
+        "6": "Dumnezeul meu, sufletul meu se mâhnește înăuntrul meu. De aceea îmi amintesc de Tine, din țara Iordanului și a Hermonului, din muntele Mițar.",
+        "7": "Un torent adânc cheamă un alt torent adânc, la zgomotul puternic al cascadelor Tale. Toate talazurile și valurile Tale au trecut peste mine.",
+        "8": "Ziua, Domnul îmi face parte de îndurarea Sa, iar noaptea am cu mine cântarea Lui și rugăciunea către Dumnezeul vieții mele.",
+        "9": "Îi zic lui Dumnezeu, Stânca mea: „De ce m-ai uitat? De ce să umblu întristat, asuprit de dușman?“.",
+        "10": "Ca zdrobirea oaselor este batjocura dușmanilor mei, când îmi zic toată ziua: „Unde este Dumnezeul tău?“.",
+        "11": "Suflete al meu, de ce te mâhnești și gemi înăuntrul meu? Pune-ți speranța în Dumnezeu, căci iarăși Îi voi mulțumi. El este ajutorul meu și Dumnezeul meu."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "As the deer pants for the water brooks, so my soul pants after you, God.",
+        "2": "My soul thirsts for God, for the living God. When shall I come and appear before God?",
+        "3": "My tears have been my food day and night, while they continually ask me, “Where is your God?”",
+        "4": "These things I remember, and pour out my soul within me, how I used to go with the crowd, and led them to God’s house, with the voice of joy and praise, a multitude keeping a holy day.",
+        "5": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him for the saving help of his presence.",
+        "6": "My God, my soul is in despair within me. Therefore I remember you from the land of the Jordan, the heights of Hermon, from the hill Mizar.",
+        "7": "Deep calls to deep at the noise of your waterfalls. All your waves and your billows have swept over me.",
+        "8": "Yahweh will command his loving kindness in the daytime. In the night his song shall be with me: a prayer to the God of my life.",
+        "9": "I will ask God, my rock, “Why have you forgotten me? Why do I go mourning because of the oppression of the enemy?”",
+        "10": "As with a sword in my bones, my adversaries reproach me, while they continually ask me, “Where is your God?”",
+        "11": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God."
+      }
+    }
+  }
+}

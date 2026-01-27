@@ -1,0 +1,42 @@
+{
+  "book": "Psalmi",
+  "chapter": "14",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Nebunul zice în inima lui: „Nu este Dumnezeu!” S-au stricat oamenii, fac fapte urâte; nu este niciunul care să facă binele.",
+        "2": "Domnul Se uită de la înălțimea cerurilor peste fiii oamenilor, să vadă de este vreunul care să aibă pricepere și care să caute pe Dumnezeu.",
+        "3": "Dar toți s-au rătăcit, toți s-au dovedit niște netrebnici; nu este niciunul care să facă binele, niciunul măcar.",
+        "4": "Și-au pierdut mintea toți cei ce săvârșesc fărădelegea de mănâncă pe poporul meu cum mănâncă pâinea și nu cheamă pe Domnul?",
+        "5": "Ei vor tremura de spaimă când Se va arăta Dumnezeu în mijlocul neamului neprihănit.",
+        "6": "Râdeți voi de nădejdea celui nenorocit…, dar scăparea lui este Domnul.",
+        "7": "O, de ar porni din Sion izbăvirea lui Israel!… Când va întoarce Domnul înapoi pe prinșii de război ai poporului Său, Iacov se va veseli și Israel se va bucura."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Nebunul zice în inima lui: „Nu există Dumnezeu!“. Toți s-au pervertit, comit fapte groaznice; nu mai este nimeni care să facă binele.",
+        "2": "Domnul Își pleacă privirea din Ceruri peste fiii omului, ca să vadă dacă există vreunul care să aibă înțelepciune, vreunul care să-L caute pe Dumnezeu.",
+        "3": "Toți s-au rătăcit; au ajuns, cu toții, corupți. Nu mai este nimeni care să facă binele, nimeni, niciunul măcar!",
+        "4": "Chiar nu înțeleg nimic toți cei ce comit nelegiuiri, de Îmi devorează poporul așa cum mănâncă pâinea și nu-L cheamă pe Domnul?",
+        "5": "Chiar acolo unde sunt se vor îngrozi foarte tare, căci Dumnezeu este cu generația celui drept.",
+        "6": "Râdeți voi de planul celui sărac, dar Domnul este adăpostul lui!",
+        "7": "O, de ar veni din Sion eliberarea lui Israel! Când Domnul va aduce înapoi captivii poporului Său, să se înveselească Iacov și să se bucure Israel!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The fool has said in his heart, “There is no God.” They are corrupt. They have done abominable deeds. There is no one who does good.",
+        "2": "Yahweh looked down from heaven on the children of men, to see if there were any who understood, who sought after God.",
+        "3": "They have all gone aside. They have together become corrupt. There is no one who does good, no, not one.",
+        "4": "Have all the workers of iniquity no knowledge, who eat up my people as they eat bread, and don’t call on Yahweh?",
+        "5": "There they were in great fear, for God is in the generation of the righteous.",
+        "6": "You frustrate the plan of the poor, because Yahweh is his refuge.",
+        "7": "Oh that the salvation of Israel would come out of Zion! When Yahweh restores the fortunes of his people, then Jacob shall rejoice, and Israel shall be glad."
+      }
+    }
+  }
+}

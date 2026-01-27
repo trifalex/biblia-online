@@ -1,0 +1,78 @@
+{
+  "book": "Neemia",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Nu pusesem încă ușile porților când Sanbalat, Tobia, Gheșem, Arabul, și ceilalți vrăjmași ai noștri au auzit că zidisem zidul și că n-a mai rămas nicio spărtură.",
+        "2": "Atunci, Sanbalat și Gheșem au trimis să-mi spună: „Vino și să ne întâlnim în satele din valea Ono.” Își puseseră de gând să-mi facă rău.",
+        "3": "Le-am trimis soli cu următorul răspuns: „Am o mare lucrare de făcut și nu pot să mă cobor; cât timp l-aș lăsa ca să vin la voi, lucrul ar înceta.”",
+        "4": "Mi-au făcut în patru rânduri aceeași cerere, și le-am dat același răspuns.",
+        "5": "Sanbalat mi-a trimis solia aceasta a cincea oară prin slujitorul său, care ținea în mână o scrisoare deschisă.",
+        "6": "În ea era scris: „Se răspândește zvonul printre popoare și Gașmu spune că tu și iudeii aveți de gând să vă răsculați și că în acest scop zidești zidul. Se zice că tu vei ajunge împăratul lor",
+        "7": "și că ai pus chiar proroci, ca să te numească la Ierusalim împărat al lui Iuda. Și acum lucrurile acestea vor ajunge la cunoștința împăratului. Vino dar și să ne sfătuim împreună.”",
+        "8": "Am trimis următorul răspuns lui Sanbalat: „Ce ai spus tu în scrisoare nu este; tu de la tine le născocești!”",
+        "9": "Toți oamenii aceștia voiau să ne înfricoșeze și își ziceau: „Li se va înmuia inima, și lucrarea nu se va face.” Acum, Dumnezeule, întărește-mă!",
+        "10": "M-am dus la Șemaia, fiul lui Delaia, fiul lui Mehetabeel. El se închisese și a zis: „Haidem împreună în Casa lui Dumnezeu, în mijlocul Templului, și să închidem ușile Templului, căci vin să te omoare și au să vină noaptea să te omoare.”",
+        "11": "Eu am răspuns: „Un om ca mine să fugă? Și care om ca mine ar putea să intre în Templu și să trăiască? Nu voi intra!”",
+        "12": "Și am cunoscut că nu Dumnezeu îl trimitea. Ci a prorocit așa pentru mine, fiindcă Sanbalat și Tobia îi dăduseră argint.",
+        "13": "Și, câștigându-l astfel, nădăjduiau că am să mă tem și că am să urmez sfaturile lui și să fac un păcat. Ei s-ar fi folosit de această atingere a bunului meu nume ca să mă umple de ocară.",
+        "14": "Adu-Ți aminte, Dumnezeule, de Tobia și de Sanbalat și de faptele lor! Adu-Ți aminte și de Noadia, prorocița, și de ceilalți proroci care căutau să mă sperie!",
+        "15": "Zidul a fost isprăvit în a douăzeci și cincea zi a lunii Elul, în cincizeci și două de zile.",
+        "16": "Când au auzit toți vrăjmașii noștri, s-au temut toate popoarele dimprejurul nostru; s-au smerit foarte mult și au cunoscut că lucrarea se făcuse prin voia Dumnezeului nostru.",
+        "17": "În vremea aceea erau unii fruntași din Iudeea care trimiteau deseori scrisori lui Tobia și primeau și ei scrisori de la el.",
+        "18": "Căci mulți din Iuda erau legați cu el prin jurământ, pentru că era ginerele lui Șecania, fiul lui Arah, și fiul său Iohanan luase pe fata lui Meșulam, fiul lui Berechia.",
+        "19": "Vorbeau bine de el chiar în fața mea și-i spuneau cuvintele mele. Tobia trimitea scrisori ca să mă înfricoșeze."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Sanbalat, Tobia, arabul Gheșem și ceilalți dușmani ai noștri au fost înștiințați că am reconstruit zidul și că nu au mai rămas spărturi în el (pe vremea aceea încă nu pusesem ușile la porți).",
+        "2": "Atunci Sanbalat și Gheșem mi-au trimis următorul mesaj: „Vino să ne întâlnim într-unul dintre satele din Valea Ono!“. Aveau însă de gând să-mi facă rău.",
+        "3": "Le-am trimis mesageri cu următorul răspuns: „Am o mare lucrare de făcut și nu pot să vin. De ce să se oprească lucrul cât timp lipsesc ca să vin la voi?“.",
+        "4": "Au trimis același mesaj de patru ori și le-am răspuns la fel.",
+        "5": "A cincea oară, Sanbalat mi-a trimis mesajul acesta prin slujitorul său, care ținea în mână o scrisoare deschisă.",
+        "6": "În ea scria: „Se zvonește printre națiuni – iar Gheșem spune la fel – că tu și iudeii plănuiți să vă răsculați și de aceea reconstruiești zidul. Potrivit aceluiași zvon, tu plănuiești să fii regele lor",
+        "7": "și chiar ai numit profeți să facă un anunț despre tine în Ierusalim și să zică: «Este un rege în Iuda!». Vezi că lucrurile acestea vor ajunge la cunoștința împăratului, așa că vino să ne sfătuim!“.",
+        "8": "Atunci i-am trimis următorul răspuns: „Nu sunt adevărate cuvintele pe care le spui. Tu le inventezi din inima ta“.",
+        "9": "Ei toți voiau să ne facă să ne temem, zicând: „Vor lăsa lucrarea din mâini și ea nu se va mai face“. Acum, te rog Dumnezeule: „întărește-mi brațele!“.",
+        "10": "M-am dus la Șemaia, fiul lui Delaia, fiul lui Mehetabeel, care se închisese în casă, și el mi-a zis: ‒ Să ne întâlnim la Casa lui Dumnezeu, în mijlocul Templului, și să închidem porțile Templului, căci vor veni să te ucidă! Da, noaptea vor veni să te ucidă!",
+        "11": "Eu i-am zis: ‒ Un om ca mine să fugă? Un om ca mine să intre în Templu, ca să-și scape viața? Nu voi intra!",
+        "12": "Mi-am dat seama că nu Dumnezeu îl trimisese, ci rostise profeția împotriva mea pentru că fusese plătit de Tobia și de Sanbalat.",
+        "13": "El fusese plătit pentru ca, făcându-mă să mă tem, să urmez sfatul lui și să păcătuiesc. Atunci, ei mi-ar fi distrus reputația ca să mă facă de rușine.",
+        "14": "„Dumnezeul meu, adu-Ți aminte de Tobia și de Sanbalat, precum și de aceste fapte ale lor! Adu-Ți aminte și de profetesa Noadia, precum și de ceilalți profeți care au vrut să mă facă să mă tem!“ Finalizarea construcției zidului",
+        "15": "Zidul a fost încheiat în a douăzeci și cincea zi a lunii elul, în cincizeci și două de zile.",
+        "16": "Toți dușmanii noștri au auzit lucrul acesta și toate națiunile care erau în jurul nostru s-au temut, s-au smerit foarte mult și au recunoscut că lucrarea aceasta a fost făcută cu ajutorul Dumnezeului nostru.",
+        "17": "În acele zile, scrisorile multora dintre nobilii lui Iuda erau trimise lui Tobia, iar scrisorile lui Tobia ajungeau la ei.",
+        "18": "Căci mulți din Iuda erau legați cu el prin jurământ, deoarece era ginerele lui Șecania, fiul lui Arah, iar fiul său, Iehohanan, era căsătorit cu fata lui Meșulam, fiul lui Berechia.",
+        "19": "Aceștia vorbeau despre faptele lui bune în prezența mea, după care îl înștiințau ce spuneam. Iar Tobia îmi trimitea scrisori ca să mă facă să mă tem."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now when it was reported to Sanballat, Tobiah, Geshem the Arabian, and to the rest of our enemies that I had built the wall, and that there was no breach left in it (though even to that time I had not set up the doors in the gates),",
+        "2": "Sanballat and Geshem sent to me, saying, “Come! Let’s meet together in the villages in the plain of Ono.” But they intended to harm me.",
+        "3": "I sent messengers to them, saying, “I am doing a great work, so that I can’t come down. Why should the work cease while I leave it and come down to you?”",
+        "4": "They sent to me four times like this; and I answered them the same way.",
+        "5": "Then Sanballat sent his servant to me the same way the fifth time with an open letter in his hand,",
+        "6": "in which was written, “It is reported among the nations, and Gashmu says it, that you and the Jews intend to rebel. Because of that, you are building the wall. You would be their king, according to these words.",
+        "7": "You have also appointed prophets to proclaim of you at Jerusalem, saying, ‘There is a king in Judah!’ Now it will be reported to the king according to these words. Come now therefore, and let’s take counsel together.”",
+        "8": "Then I sent to him, saying, “There are no such things done as you say, but you imagine them out of your own heart.”",
+        "9": "For they all would have made us afraid, saying, “Their hands will be weakened from the work, that it not be done.” But now, strengthen my hands.",
+        "10": "I went to the house of Shemaiah the son of Delaiah the son of Mehetabel, who was shut in at his home; and he said, “Let us meet together in God’s house, within the temple, and let’s shut the doors of the temple; for they will come to kill you. Yes, in the night they will come to kill you.”",
+        "11": "I said, “Should a man like me flee? Who is there that, being such as I, would go into the temple to save his life? I will not go in.”",
+        "12": "I discerned, and behold, God had not sent him, but he pronounced this prophecy against me. Tobiah and Sanballat had hired him.",
+        "13": "He was hired so that I would be afraid, do so, and sin, and that they might have material for an evil report, that they might reproach me.",
+        "14": "“Remember, my God, Tobiah and Sanballat according to these their works, and also the prophetess Noadiah and the rest of the prophets that would have put me in fear.”",
+        "15": "So the wall was finished in the twenty-fifth day of Elul, in fifty-two days.",
+        "16": "When all our enemies heard of it, all the nations that were around us were afraid, and they lost their confidence; for they perceived that this work was done by our God.",
+        "17": "Moreover in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them.",
+        "18": "For there were many in Judah sworn to him because he was the son-in-law of Shecaniah the son of Arah; and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as wife.",
+        "19": "Also they spoke of his good deeds before me, and reported my words to him. Tobiah sent letters to put me in fear."
+      }
+    }
+  }
+}

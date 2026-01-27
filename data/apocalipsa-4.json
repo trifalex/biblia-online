@@ -1,0 +1,54 @@
+{
+  "book": "Apocalipsa",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "După aceste lucruri, m-am uitat și iată că o ușă era deschisă în cer. Glasul cel dintâi, pe care-l auzisem ca sunetul unei trâmbițe și care vorbea cu mine, mi-a zis: „Suie-te aici și-ți voi arăta ce are să se întâmple după aceste lucruri!”",
+        "2": "Numaidecât am fost răpit în Duhul. Și iată că în cer era pus un scaun de domnie, și pe scaunul acesta de domnie ședea Cineva.",
+        "3": "Cel ce ședea pe el avea înfățișarea unei pietre de iaspis și de sardiu și scaunul de domnie era înconjurat cu un curcubeu ca o piatră de smarald la vedere.",
+        "4": "Împrejurul scaunului de domnie stăteau douăzeci și patru de scaune de domnie; și pe aceste scaune de domnie stăteau douăzeci și patru de bătrâni îmbrăcați în haine albe și pe capete aveau cununi de aur.",
+        "5": "Din scaunul de domnie ieșeau fulgere, glasuri și tunete. Înaintea scaunului de domnie ardeau șapte lămpi de foc, care sunt cele șapte Duhuri ale lui Dumnezeu.",
+        "6": "În fața scaunului de domnie mai este un fel de mare de sticlă, asemenea cu cristalul. În mijlocul scaunului de domnie și împrejurul scaunului de domnie stau patru făpturi vii, pline cu ochi pe dinainte și pe dinapoi.",
+        "7": "Cea dintâi făptură vie seamănă cu un leu; a doua seamănă cu un vițel; a treia are fața ca a unui om; și a patra seamănă cu un vultur care zboară.",
+        "8": "Fiecare din aceste patru făpturi vii avea câte șase aripi și era plină cu ochi de jur împrejur și pe dinăuntru. Zi și noapte ziceau fără încetare: „Sfânt, Sfânt, Sfânt este Domnul Dumnezeu, Cel Atotputernic, care era, care este, care vine!”",
+        "9": "Când aceste făpturi vii aduceau slavă, cinste și mulțumiri Celui ce ședea pe scaunul de domnie și care este viu în vecii vecilor,",
+        "10": "cei douăzeci și patru de bătrâni cădeau înaintea Celui ce ședea pe scaunul de domnie și se închinau Celui ce este viu în vecii vecilor, își aruncau cununile înaintea scaunului de domnie și ziceau:",
+        "11": "„Vrednic ești, Doamne și Dumnezeul nostru, să primești slava, cinstea și puterea, căci Tu ai făcut toate lucrurile și prin voia Ta stau în ființă și au fost făcute!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "După acestea, m-am uitat și iată că în Cer era o ușă deschisă. Primul glas, ca sunetul de trâmbiță, pe care l-am auzit vorbind cu mine, a zis: „Urcă-te aici și-ți voi arăta ce trebuie să se întâmple după acestea“.",
+        "2": "Imediat am fost în Duhul și iată că în Cer era un tron, iar pe tron ședea Cineva.",
+        "3": "Cel Ce ședea pe el era la înfățișare asemenea unei pietre de jasp și de sardiu, iar de jur împrejurul tronului era un curcubeu, a cărui înfățișare era asemenea smaraldului.",
+        "4": "De jur împrejurul tronului erau douăzeci și patru de tronuri, iar pe aceste tronuri ședeau douăzeci și patru de bătrâni îmbrăcați în haine albe și având pe cap coroane de aur.",
+        "5": "Din tron ieșeau fulgere, sunete și tunete. Înaintea tronului ardeau șapte torțe de foc, care sunt cele șapte duhuri ale lui Dumnezeu,",
+        "6": "și tot înaintea tronului era ceva ca o mare de sticlă, asemenea cristalului. În mijlocul tronului și de jur împrejurul tronului erau patru ființe vii, pline cu ochi în față și în spate.",
+        "7": "Prima ființă vie era asemenea unui leu, a doua ființă vie era asemenea unui vițel, a treia ființă vie avea fața ca a unui om, iar a patra ființă vie era asemenea unui vultur care zboară.",
+        "8": "Fiecare dintre cele patru ființe vii avea șase aripi și era plină cu ochi de jur împrejur și pe interior. Zi și noapte ele spuneau fără încetare: „Sfânt, sfânt, sfânt este Domnul Dumnezeu, Cel Atotputernic, Cel Care era, Care este și Care vine!“.",
+        "9": "Ori de câte ori ființele vii Îi aduceau glorie, onoare și mulțumire Celui Ce ședea pe tron, Care este viu în vecii vecilor,",
+        "10": "cei douăzeci și patru de bătrâni se aruncau la pământ înaintea Celui Ce ședea pe tron, I se închinau Celui Ce este viu în vecii vecilor și își așterneau coroanele înaintea tronului, zicând:",
+        "11": "„Demn ești Tu, Domnul și Dumnezeul nostru, să primești gloria, onoarea și puterea, pentru că Tu le-ai creat pe toate și prin voia Ta ele erau și au fost create!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "After these things I looked and saw a door opened in heaven; and the first voice that I heard, like a trumpet speaking with me, was one saying, “Come up here, and I will show you the things which must happen after this.”",
+        "2": "Immediately I was in the Spirit. Behold, there was a throne set in heaven, and one sitting on the throne",
+        "3": "that looked like a jasper stone and a sardius. There was a rainbow around the throne, like an emerald to look at.",
+        "4": "Around the throne were twenty-four thrones. On the thrones were twenty-four elders sitting, dressed in white garments, with crowns of gold on their heads.",
+        "5": "Out of the throne proceed lightnings, sounds, and thunders. There were seven lamps of fire burning before his throne, which are the seven Spirits of God.",
+        "6": "Before the throne was something like a sea of glass, similar to crystal. In the middle of the throne, and around the throne were four living creatures full of eyes before and behind.",
+        "7": "The first creature was like a lion, the second creature like a calf, the third creature had a face like a man, and the fourth was like a flying eagle.",
+        "8": "The four living creatures, each one of them having six wings, are full of eyes around and within. They have no rest day and night, saying, “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!”",
+        "9": "When the living creatures give glory, honor, and thanks to him who sits on the throne, to him who lives forever and ever,",
+        "10": "the twenty-four elders fall down before him who sits on the throne and worship him who lives forever and ever, and throw their crowns before the throne, saying,",
+        "11": "“Worthy are you, our Lord and God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed and were created!”"
+      }
+    }
+  }
+}

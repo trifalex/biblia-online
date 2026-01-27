@@ -1,0 +1,66 @@
+{
+  "book": "Amos",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ascultați cuvântul acesta pe care-l rostește Domnul împotriva voastră, copii ai lui Israel, împotriva întregii familii pe care am scos-o din țara Egiptului:",
+        "2": "„Eu v-am ales numai pe voi dintre toate familiile pământului, de aceea vă voi și pedepsi pentru toate nelegiuirile voastre.”",
+        "3": "Merg oare doi oameni împreună fără să fie învoiți?",
+        "4": "Răcnește leul în pădure dacă n-are pradă? Zbiară puiul de leu din fundul vizuinii lui dacă n-a prins nimic?",
+        "5": "Cade pasărea în lațul de pe pământ dacă nu i s-a întins o cursă? Se ridică lațul de la pământ fără să se fi prins ceva în el?",
+        "6": "Sau sună cineva cu trâmbița într-o cetate fără să se înspăimânte poporul? Sau se întâmplă o nenorocire într-o cetate fără s-o fi făcut Domnul?",
+        "7": "Nu, Domnul Dumnezeu nu face nimic fără să-Și descopere taina Sa slujitorilor Săi, prorocii.",
+        "8": "Leul răcnește: cine nu se va speria? Domnul Dumnezeu vorbește: cine nu va proroci?",
+        "9": "Strigați de pe acoperișul palatelor Asdodului și de pe palatele țării Egiptului și spuneți: „Strângeți-vă pe munții Samariei și vedeți ce neorânduială mare este în mijlocul ei, ce asupriri sunt în ea!",
+        "10": "Nu sunt în stare să lucreze cu neprihănire”, zice Domnul, „ci își grămădesc în palate comori câștigate prin silnicie și răpire.”",
+        "11": "De aceea, așa vorbește Domnul Dumnezeu: „Vrăjmașul va împresura țara, îți va doborî tăria și palatele tale vor fi jefuite!”",
+        "12": "Așa vorbește Domnul: „După cum păstorul scapă din gura leului numai două bucăți de picioare sau un vârf de ureche, așa vor scăpa copiii lui Israel care stau în Samaria în colțul unui pat și pe covoare de Damasc!",
+        "13": "Ascultați și spuneți lucrul acesta casei lui Iacov”, zice Domnul Dumnezeu, Dumnezeul oștirilor:",
+        "14": "„În ziua când voi pedepsi pe Israel pentru fărădelegile lui, voi pedepsi și altarele din Betel; coarnele altarului vor fi sfărâmate și vor cădea la pământ.",
+        "15": "Voi surpa casele de iarnă și casele de vară; palatele de fildeș se vor duce și casele cele multe se vor nimici”, zice Domnul."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "„Fii ai lui Israel, ascultați acum cuvântul acesta pe care l-a rostit Domnul împotriva voastră, împotriva întregului clan pe care Eu l-am scos din țara Egiptului:",
+        "2": "Numai pe voi vă recunosc dintre toate familiile pământului. De aceea vă voi și pedepsi pentru toate nelegiuirile voastre“.",
+        "3": "Merg oare doi oameni împreună, dacă nu s-au înțeles la aceasta?",
+        "4": "Oare răcnește leul în pădure când nu are pradă? Oare se aude glasul leului tânăr din vizuina lui, dacă nu a prins ceva?",
+        "5": "Oare cade pasărea în capcana de pe pământ, dacă nu i s-a întins un laț? Se ridică oare lațul de la pământ fără să se fi prins ceva în el?",
+        "6": "Dacă sună trâmbița în cetate, oare nu se înspăimântă poporul? Dacă vine o nenorocire în cetate, oare nu Domnul a dat-o?",
+        "7": "Căci Stăpânul Domn nu face nimic fără să-Și descopere hotărârea slujitorilor Săi, profeții.",
+        "8": "Leul a răcnit – cine nu se va teme? Stăpânul Domn a vorbit – cine ar putea să nu profețească?",
+        "9": "Proclamați în fortărețele Așdodului și în fortărețele țării Egiptului, zicând: „Adunați-vă pe munții Samariei și uitați-vă la numeroasele tulburări din mijlocul ei și la asuprirea care este în ea!“.",
+        "10": "„Nu știu să facă dreptate“, zice Domnul, „ei, care strâng în fortărețele lor violență și jaf“.",
+        "11": "De aceea, așa vorbește Stăpânul Domn: „Un dușman va înconjura țara, îți va doborî puterea, iar fortărețele tale vor fi jefuite!“.",
+        "12": "Așa vorbește Domnul: „Așa cum păstorul scapă din gura leului două picioare sau o bucată de ureche, tot așa vor fi salvați și fiii lui Israel, cei ce locuiesc în Samaria pe un colț de pat și pe marginea divanului.",
+        "13": "Ascultați și mărturisiți împotriva Casei lui Iacov“, zice Stăpânul Domn, Dumnezeul Oștirilor.",
+        "14": "„În ziua când îl voi pedepsi pe Israel pentru fărădelegile lui, voi aduce pedeapsa și asupra altarelor din Betel; coarnele altarului vor fi retezate și vor cădea la pământ.",
+        "15": "Voi dărâma reședința de iarnă și reședința de vară. Palatele decorate cu fildeș vor fi distruse, iar casele cele mari vor fi spulberate“, zice Domnul."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Hear this word that Yahweh has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:",
+        "2": "“I have only chosen you of all the families of the earth. Therefore I will punish you for all of your sins.”",
+        "3": "Do two walk together, unless they have agreed?",
+        "4": "Will a lion roar in the thicket, when he has no prey? Does a young lion cry out of his den, if he has caught nothing?",
+        "5": "Can a bird fall in a trap on the earth, where no snare is set for him? Does a snare spring up from the ground, when there is nothing to catch?",
+        "6": "Does the trumpet alarm sound in a city, without the people being afraid? Does evil happen to a city, and Yahweh hasn’t done it?",
+        "7": "Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets.",
+        "8": "The lion has roared. Who will not fear? The Lord Yahweh has spoken. Who can but prophesy?",
+        "9": "Proclaim in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, “Assemble yourselves on the mountains of Samaria, and see what unrest is in her, and what oppression is among them.”",
+        "10": "“Indeed they don’t know to do right,” says Yahweh, “Who hoard plunder and loot in their palaces.”",
+        "11": "Therefore the Lord Yahweh says: “An adversary will overrun the land; and he will pull down your strongholds, and your fortresses will be plundered.”",
+        "12": "Yahweh says: “As the shepherd rescues out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued who sit in Samaria on the corner of a couch, and on the silken cushions of a bed.”",
+        "13": "“Listen, and testify against the house of Jacob,” says the Lord Yahweh, the God of Armies.",
+        "14": "“For in the day that I visit the transgressions of Israel on him, I will also visit the altars of Bethel; and the horns of the altar will be cut off, and fall to the ground.",
+        "15": "I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end,” says Yahweh."
+      }
+    }
+  }
+}

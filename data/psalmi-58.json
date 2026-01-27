@@ -1,0 +1,54 @@
+{
+  "book": "Psalmi",
+  "chapter": "58",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Oare tăcând faceți voi dreptate? Oare așa judecați voi fără părtinire, fiii oamenilor?",
+        "2": "Dimpotrivă, în inimă săvârșiți nelegiuiri; în țară puneți în cumpănă silnicia mâinilor voastre.",
+        "3": "Cei răi sunt stricați încă din pântecele mamei lor, mincinoșii se rătăcesc odată cu ieșirea din pântecele mamei lor.",
+        "4": "Au o otravă ca otrava unui șarpe, ca otrava unei aspide surde, care își astupă urechea,",
+        "5": "care n-aude glasul vrăjitorilor, glasul fermecătorului celui mai iscusit.",
+        "6": "Dumnezeule, zdrobește-le dinții din gură! Smulge, Doamne, măselele acestor pui de lei!",
+        "7": "Să se risipească întocmai ca niște ape care se scurg! Săgețile pe care le-aruncă ei să fie niște săgeți tocite!",
+        "8": "Să piară ca un melc care se topește umblând; să nu vadă soarele, ca stârpitura unei femei!",
+        "9": "Înainte ca oalele voastre să simtă focul de spin verde sau uscat, îl va lua vârtejul.",
+        "10": "Cel fără prihană se va bucura la vederea răzbunării; își va scălda picioarele în sângele celor răi.",
+        "11": "Și atunci oamenii vor zice: „Da, este o răsplată pentru cel fără prihană! Da, este un Dumnezeu care judecă pe pământ!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Oare într-adevăr rostiți voi ceea ce este drept, conducătorilor? Oare cu imparțialitate judecați voi, fii ai omului?",
+        "2": "Dimpotrivă, în inimă comiteți nedreptăți, iar în țară răspândiți violența mâinilor voastre.",
+        "3": "Cei răi se înstrăinează încă din pântec, cei ce rostesc minciuni se rătăcesc încă de la naștere.",
+        "4": "Veninul lor este ca veninul șarpelui, ca al cobrei surde care și-a închis urechea,",
+        "5": "care nu aude glasul celor ce șoptesc, oricât de iscusit ar fi cel care leagă prin descântece.",
+        "6": "Dumnezeule, zdrobește-le dinții din gură! Doamne, scoate colții acestor lei!",
+        "7": "Să se scurgă precum apa care trece! Când întind arcul, fie-le săgețile oarbe!",
+        "8": "Să fie ca un melc care se topește mergând, ca avortonul unei femei, care nu a văzut soarele!",
+        "9": "Înainte ca oalele voastre să simtă focul de spini, verzi sau uscați, El îl va spulbera pe cel rău!",
+        "10": "Cel drept se va bucura când se va vedea răzbunat, când își va spăla picioarele în sângele celui rău.",
+        "11": "Atunci oamenii vor zice: „Sigur există un rod pentru cel drept! Sigur există un Dumnezeu Care judecă pe pământ!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Do you indeed speak righteousness, silent ones? Do you judge blamelessly, you sons of men?",
+        "2": "No, in your heart you plot injustice. You measure out the violence of your hands in the earth.",
+        "3": "The wicked go astray from the womb. They are wayward as soon as they are born, speaking lies.",
+        "4": "Their poison is like the poison of a snake, like a deaf cobra that stops its ear,",
+        "5": "which doesn’t listen to the voice of charmers, no matter how skillful the charmer may be.",
+        "6": "Break their teeth, God, in their mouth. Break out the great teeth of the young lions, Yahweh.",
+        "7": "Let them vanish like water that flows away. When they draw the bow, let their arrows be made blunt.",
+        "8": "Let them be like a snail which melts and passes away, like the stillborn child, who has not seen the sun.",
+        "9": "Before your pots can feel the heat of the thorns, he will sweep away the green and the burning alike.",
+        "10": "The righteous shall rejoice when he sees the vengeance. He shall wash his feet in the blood of the wicked,",
+        "11": "so that men shall say, “Most certainly there is a reward for the righteous. Most certainly there is a God who judges the earth.”"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "book": "Proverbe",
+  "chapter": "5",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Fiule, ia aminte la înțelepciunea mea și pleacă urechea la învățătura mea,",
+        "2": "ca să fii cu chibzuință și buzele tale să aibă cunoștință.",
+        "3": "Căci buzele femeii străine strecoară miere și cerul gurii ei este mai lunecos decât untdelemnul,",
+        "4": "dar la urmă este amară ca pelinul, ascuțită ca o sabie cu două tăișuri.",
+        "5": "Picioarele ei coboară la moarte, pașii ei dau în Locuința morților.",
+        "6": "Așa că ea nu poate găsi calea vieții, rătăcește în căile ei și nu știe unde merge.",
+        "7": "Și acum, fiule, ascultă-mă și nu te abate de la cuvintele gurii mele:",
+        "8": "depărtează-te de drumul care duce la ea și nu te apropia de ușa casei ei,",
+        "9": "ca nu cumva să-ți dai altora vlaga ta și unui om fără milă anii tăi,",
+        "10": "ca nu cumva niște străini să se sature de averea ta și tu să te trudești pentru casa altuia,",
+        "11": "ca nu cumva să gemi, la urmă, când carnea și trupul ți se vor istovi",
+        "12": "și să zici: „Cum am putut eu să urăsc certarea și cum a disprețuit inima mea mustrarea?",
+        "13": "Cum am putut să n-ascult glasul învățătorilor mei și să nu iau aminte la cei ce mă învățau?",
+        "14": "Cât pe ce să mă nenorocesc de tot în mijlocul poporului și adunării!”",
+        "15": "Bea apă din fântâna ta și din izvoarele puțului tău!",
+        "16": "Ce, vrei să ți se verse izvoarele afară? Și să-ți curgă râurile pe piețele de obște?",
+        "17": "Lasă-le să fie numai pentru tine, și nu pentru străinii de lângă tine.",
+        "18": "Izvorul tău să fie binecuvântat și bucură-te de nevasta tinereții tale!",
+        "19": "Cerboaică iubită, căprioară plăcută: fii îmbătat tot timpul de drăgălășiile ei, fii îndrăgostit necurmat de dragostea ei!",
+        "20": "Și pentru ce, fiule, ai fi îndrăgostit de o străină și ai îmbrățișa sânul unei necunoscute?",
+        "21": "Căci căile omului sunt lămurite înaintea ochilor Domnului și El vede toate cărările lui.",
+        "22": "Cel rău este prins în înseși nelegiuirile lui și este apucat de legăturile păcatului lui.",
+        "23": "El va muri din lipsă de înfrânare, se va poticni din prea multa lui nebunie."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Fiule, fii atent la înțelepciunea mea, pleacă-ți urechea la priceperea mea,",
+        "2": "ca să-ți păstrezi discernământul, și buzele tale să păstreze cunoștința!",
+        "3": "Căci buzele femeii străine picură miere și cerul gurii ei este mai alunecos decât uleiul,",
+        "4": "dar la urmă ea este amară ca pelinul, ascuțită ca o sabie cu două tăișuri.",
+        "5": "Picioarele ei coboară la moarte și pașii ei conduc spre Locuința Morților.",
+        "6": "Ea nu-și cercetează cărarea vieții; căile ei rătăcesc, dar ea nu știe.",
+        "7": "Acum, fiilor, ascultați-mă și nu vă îndepărtați de cuvintele gurii mele.",
+        "8": "Fiule, păstrează-ți calea departe de ea, nu te apropia de ușa casei ei,",
+        "9": "ca să nu-ți dai vigoarea altora, și anii tăi unui om nemilos,",
+        "10": "ca nu cumva niște străini să se sature de pe urma puterii tale, și eforturile tale să fie pentru casa unui străin,",
+        "11": "iar la sfârșitul vieții tale să gemi, când carnea și trupul vor fi pe sfârșite,",
+        "12": "și să spui: „Cum am urât eu disciplinarea! Cum a disprețuit inima mea mustrarea",
+        "13": "și n-am ascultat de glasul învățătorilor mei, nici nu mi-am plecat urechea la cei ce mă îndrumau!",
+        "14": "Mai era puțin și eram ruinat de tot, în mijlocul adunării și al comunității“.",
+        "15": "Bea apă din fântâna ta și din șuvoaiele apei tale!",
+        "16": "De ce să se reverse izvoarele tale afară, și râurile tale în piețe?",
+        "17": "Lasă-le să fie doar pentru tine, și nu pentru străinii de lângă tine.",
+        "18": "Izvorul tău să fie binecuvântat și să te bucuri de soția tinereții tale,",
+        "19": "cerboaică iubită, căprioară plăcută. Sânii ei să te sature întotdeauna; fii amețit continuu de dragostea ei.",
+        "20": "Și pentru ce, fiule, să fii amețit de o străină și să îmbrățișezi sânul unei necunoscute?",
+        "21": "Căci căile omului sunt înaintea ochilor Domnului și El cercetează toate cărările lui.",
+        "22": "Cel rău va fi prins de înseși nelegiuirile lui și va fi legat cu funiile păcatului său.",
+        "23": "El va muri din lipsă de disciplinare și va rătăci din prea multa lui nebunie."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "My son, pay attention to my wisdom. Turn your ear to my understanding,",
+        "2": "that you may maintain discretion, that your lips may preserve knowledge.",
+        "3": "For the lips of an adulteress drip honey. Her mouth is smoother than oil,",
+        "4": "but in the end she is as bitter as wormwood, and as sharp as a two-edged sword.",
+        "5": "Her feet go down to death. Her steps lead straight to Sheol.",
+        "6": "She gives no thought to the way of life. Her ways are crooked, and she doesn’t know it.",
+        "7": "Now therefore, my sons, listen to me. Don’t depart from the words of my mouth.",
+        "8": "Remove your way far from her. Don’t come near the door of her house,",
+        "9": "lest you give your honor to others, and your years to the cruel one;",
+        "10": "lest strangers feast on your wealth, and your labors enrich another man’s house.",
+        "11": "You will groan at your latter end, when your flesh and your body are consumed,",
+        "12": "and say, “How I have hated instruction, and my heart despised reproof.",
+        "13": "I haven’t obeyed the voice of my teachers, nor turned my ear to those who instructed me!",
+        "14": "I have come to the brink of utter ruin, among the gathered assembly.”",
+        "15": "Drink water out of your own cistern, running water out of your own well.",
+        "16": "Should your springs overflow in the streets, streams of water in the public squares?",
+        "17": "Let them be for yourself alone, not for strangers with you.",
+        "18": "Let your spring be blessed. Rejoice in the wife of your youth.",
+        "19": "A loving doe and a graceful deer— let her breasts satisfy you at all times. Be captivated always with her love.",
+        "20": "For why should you, my son, be captivated with an adulteress? Why embrace the bosom of another?",
+        "21": "For the ways of man are before Yahweh’s eyes. He examines all his paths.",
+        "22": "The evil deeds of the wicked ensnare him. The cords of his sin hold him firmly.",
+        "23": "He will die for lack of instruction. In the greatness of his folly, he will go astray."
+      }
+    }
+  }
+}

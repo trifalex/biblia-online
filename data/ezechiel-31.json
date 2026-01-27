@@ -1,0 +1,75 @@
+{
+    "book": "Ezechiel",
+    "chapter": "31",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "În anul al unsprezecelea, în ziua întâi a lunii a treia, cuvântul Domnului mi-a vorbit astfel:",
+                "2": "„Fiul omului, spune lui Faraon, împăratul Egiptului, și mulțimii lui: ‘Cu cine te asemeni tu în mărimea ta?",
+                "3": "Iată că asirianul era un cedru falnic în Liban; ramurile lui erau stufoase, frunzișul umbros, tulpina înaltă, iar vârful îi ajungea până la nori.",
+                "4": "Apele îl făcuseră să crească, adâncul îl făcuse înalt, râurile lui îi scăldau răsadnița și își trimiteau pâraiele la toți copacii de pe câmp.",
+                "5": "De aceea, tulpina lui se înălța deasupra tuturor copacilor de pe câmp, crengile i se înmulțiseră și ramurile i se întindeau de mulțimea apelor care-l făcuseră să dea lăstari.",
+                "6": "Toate păsările cerului își făceau cuiburi în crengile lui; toate fiarele câmpului fătau sub ramurile lui și tot felul de neamuri multe locuiau sub umbra lui.",
+                "7": "Era frumos prin mărimea lui, prin întinderea ramurilor lui, căci rădăcinile îi erau înfipte în ape mari.",
+                "8": "Cedrii din grădina lui Dumnezeu nu-l întreceau, chiparoșii nu erau de asemuit cu crengile lui și platanii nu erau ca ramurile lui; niciun copac din grădina lui Dumnezeu nu era ca el în frumusețe.",
+                "9": "Îl făcusem atât de frumos prin mulțimea crengilor lui, că-l pizmuiau toți copacii Edenului, care se aflau în grădina lui Dumnezeu.’",
+                "10": "De aceea, așa vorbește Domnul Dumnezeu: ‘Pentru că avea o tulpină așa de înaltă, pentru că își înălța vârful până la nori și inima i se mândrea cu înălțimea lui,",
+                "11": "l-am dat în mâinile viteazului neamurilor, care-i va face după răutatea lui, căci l-am izgonit.",
+                "12": "Străinii, cele mai grozave popoare, l-au tăiat și l-au lepădat. Crengile i-au căzut în munți și în toate văile. Ramurile i s-au sfărâmat în toate puhoaiele țării și toate popoarele pământului au plecat de la umbra lui și l-au părăsit.",
+                "13": "Pe sfărâmăturile lui au venit și s-au așezat toate păsările cerului și toate fiarele câmpului și-au făcut culcușul între ramurile lui,",
+                "14": "ca să nu se mai îngâmfe niciunul din copacii de lângă ape cu înălțimea lor și să nu-și mai ridice vârful până în nori, ca să nu se mai fălească stejarii udați de apă cu înălțimea lor, căci toți sunt dați pradă morții, în adâncimile pământului, printre copiii oamenilor, împreună cu cei ce se coboară în groapă.’",
+                "15": "Așa vorbește Domnul Dumnezeu: ‘În ziua când s-a coborât în Locuința morților, am răspândit jalea, am acoperit adâncul din pricina lui și i-am oprit râurile; apele cele mari au fost oprite; am întristat Libanul pentru el și toți copacii de pe câmp s-au uscat.",
+                "16": "De vuietul căderii lui am făcut să se cutremure neamurile când l-am aruncat în Locuința morților împreună cu cei ce se coboară în groapă și s-au mângâiat în adâncimile pământului toți copacii Edenului, cei mai frumoși și cei mai buni copaci din Liban, toți cei udați de ape.",
+                "17": "S-au coborât și ei cu el în Locuința morților, la cei ce au pierit uciși de sabie, ei, care erau brațul lui și locuiau la umbra lui printre neamuri.",
+                "18": "Cu cine poți fi asemuit tu în slavă și în mărime între copacii Edenului? Totuși vei fi aruncat împreună cu copacii Edenului în adâncimile pământului și vei fi culcat în mijlocul celor netăiați împrejur, împreună cu cei ce au pierit uciși de sabie. Iată ce este Faraon și toată mulțimea lui’, zice Domnul Dumnezeu.”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "În anul al unsprezecelea, în prima zi a lunii a treia, Cuvântul Domnului a venit la mine și mi-a zis:",
+                "2": "„Fiul omului, spune-i lui Faraon, regele Egiptului, și mulțimii sale astfel: «Cu cine poți fi asemănat tu, în măreția ta?",
+                "3": "Iată că, odinioară, Asiria era un cedru în Liban, cu ramuri frumoase și coroana aducătoare de umbră. Era înalt în statură, iar vârful îi ajungea printre nori.",
+                "4": "Apele îl făcuseră să crească și adâncul îl înălțase. plantația pe care se afla, la toți copacii câmpiei.",
+                "5": "De aceea s-a înălțat în statură mai mult decât toți ceilalți copaci din câmpie. și ramurile i s-au lungit, care-l făcuse să dea vlăstare.",
+                "6": "Printre crengile lui își făceau cuibul toate păsările cerului. Sub coroana lui zămisleau toate vietățile câmpului, iar la umbra lui locuiau toate națiunile cele multe.",
+                "7": "Era frumos prin măreția lui și prin lungimea ramurilor lui, în apropierea multor ape.",
+                "8": "Cedrii din grădina lui Dumnezeu nu-l întreceau, cu crengile lui, cu ramurile lui. nu se putea compara cu el în frumusețe.",
+                "9": "L-am făcut atât de frumos, prin mulțimea crengilor lui, încât îl invidiau toți copacii Edenului, care erau în grădina lui Dumnezeu».",
+                "10": "De aceea, așa vorbește Stăpânul Domn: «Pentru că se înălța în statură, pentru că își ridica vârful până la nori și inima i se mândrea cu înălțimea lui,",
+                "11": "l-am dat pe mâna prințului națiunilor, care i-a făcut după răutatea lui. Eu l-am alungat",
+                "12": "și, astfel, cele mai groaznice dintre națiunile străine l-au tăiat și l-au părăsit. Crengile i-au căzut pe munți și prin toate văile, iar ramurile i-au fost spulberate prin toate albiile țării. Toate popoarele pământului au plecat de la umbra lui și l-au părăsit.",
+                "13": "Pe trunchiul lui căzut și-au făcut cuibul toate păsările cerului, iar între crengile lui s-au așezat toate vietățile câmpului.",
+                "14": "S-au întâmplat toate acestea, pentru ca niciunul dintre copacii de lângă ape să nu se mai mândrească cu înălțimea lui și să nu-și mai ridice vârful până la nori, pentru ca niciun copac udat de ape să nu-și mai înalțe trunchiul spre ei. Căci toți sunt dați morții, în tărâmul cel mai de jos, în mijlocul fiilor omului, la cei ce au coborât în groapă».",
+                "15": "Așa vorbește Stăpânul Domn: «În ziua în care a coborât în Locuința Morților, am răspândit bocetul. L-am acoperit cu adâncul și i-am retras râurile, iar apele cele multe au fost oprite. Am întunecat Libanul pentru el și toți copacii câmpiei au pălit din cauza lui.",
+                "16": "La vuietul căderii sale am făcut să se cutremure națiunile, când l-am coborât în Locuința Morților împreună cu cei ce coboară în groapă. Atunci toți copacii Edenului, ce avea Libanul mai bun și mai ales, toți copaci bine udați, s-au consolat în tărâmul cel mai de jos.",
+                "17": "Au coborât și ei împreună cu el în Locuința Morților, la cei răpuși de sabie, ei care erau aliații lui și locuiau la umbra lui printre națiuni.",
+                "18": "Așadar, Faraon, cu cine poți fi asemănat tu printre copacii Edenului, în gloria și măreția ta? Și totuși vei fi coborât împreună cu copacii Edenului în tărâmul cel mai de jos și vei zăcea printre cei necircumciși, alături de cei răpuși de sabie. Iată ce este Faraon și toată mulțimea lui, zice Stăpânul Domn»“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "In the eleventh year, in the third month, in the first day of the month, Yahweh’s word came to me, saying,",
+                "2": "“Son of man, tell Pharaoh king of Egypt and his multitude: ‘Whom are you like in your greatness?",
+                "3": "Behold, the Assyrian was a cedar in Lebanon with beautiful branches, and with a forest-like shade, of high stature; and its top was among the thick boughs.",
+                "4": "The waters nourished it. The deep made it to grow. Its rivers ran all around its plantation. It sent out its channels to all the trees of the field.",
+                "5": "Therefore its stature was exalted above all the trees of the field; and its boughs were multiplied. Its branches became long by reason of many waters, when it spread them out.",
+                "6": "All the birds of the sky made their nests in its boughs. Under its branches, all the animals of the field gave birth to their young. All great nations lived under its shadow.",
+                "7": "Thus it was beautiful in its greatness, in the length of its branches; for its root was by many waters.",
+                "8": "The cedars in the garden of God could not hide it. The cypress trees were not like its branches. The pine trees were not like its branches; nor was any tree in the garden of God like it in its beauty.",
+                "9": "I made it beautiful by the multitude of its branches, so that all the trees of Eden, that were in the garden of God, envied it.’",
+                "10": "“Therefore thus said the Lord Yahweh: ‘Because he is exalted in stature, and he has set his top among the thick branches, and his heart is lifted up in his height,",
+                "11": "I will deliver him into the hand of the mighty one of the nations. He will surely deal with him. I have driven him out for his wickedness.",
+                "12": "Foreigners, the tyrants of the nations, have cut him off and have left him. His branches have fallen on the mountains and in all the valleys, and his boughs are broken by all the watercourses of the land. All the peoples of the earth have gone down from his shadow and have left him.",
+                "13": "All the birds of the sky will dwell on his ruin, and all the animals of the field will be on his branches,",
+                "14": "to the end that none of all the trees by the waters exalt themselves in their stature, and don’t set their top among the thick boughs. Their mighty ones don’t stand up on their height, even all who drink water; for they are all delivered to death, to the lower parts of the earth, among the children of men, with those who go down to the pit.’",
+                "15": "“The Lord Yahweh says: ‘In the day when he went down to Sheol, I caused a mourning. I covered the deep for him, and I restrained its rivers. The great waters were stopped. I caused Lebanon to mourn for him, and all the trees of the field fainted for him.",
+                "16": "I made the nations to shake at the sound of his fall, when I cast him down to Sheol with those who descend into the pit. All the trees of Eden, the choice and best of Lebanon, all that drink water, were comforted in the lower parts of the earth.",
+                "17": "They also went down into Sheol with him to those who are slain by the sword; yes, those who were his arm, who lived under his shadow in the middle of the nations.",
+                "18": "“‘To whom are you thus like in glory and in greatness among the trees of Eden? Yet you will be brought down with the trees of Eden to the lower parts of the earth. You will lie in the middle of the uncircumcised, with those who are slain by the sword. “‘This is Pharaoh and all his multitude,’ says the Lord Yahweh.”"
+            }
+        }
+    }
+}

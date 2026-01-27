@@ -1,0 +1,63 @@
+{
+  "book": "Psalmi",
+  "chapter": "19",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cerurile spun slava lui Dumnezeu, și întinderea lor vestește lucrarea mâinilor Lui.",
+        "2": "O zi istorisește alteia acest lucru, o noapte dă de știre alteia despre el.",
+        "3": "Și aceasta, fără vorbe, fără cuvinte, al căror sunet să fie auzit,",
+        "4": "dar răsunetul lor străbate tot pământul și glasul lor merge până la marginile lumii. În ceruri, El a întins un cort soarelui.",
+        "5": "Și soarele, ca un mire care iese din odaia lui de nuntă, se aruncă în drumul lui cu bucuria unui viteaz:",
+        "6": "răsare la un capăt al cerurilor și își isprăvește drumul la celălalt capăt; nimic nu se ascunde de căldura lui.",
+        "7": "Legea Domnului este desăvârșită și înviorează sufletul; mărturia Domnului este adevărată și dă înțelepciune celui neștiutor.",
+        "8": "Orânduirile Domnului sunt fără prihană și veselesc inima; poruncile Domnului sunt curate și luminează ochii.",
+        "9": "Frica de Domnul este curată și ține pe vecie; judecățile Domnului sunt adevărate, toate sunt drepte.",
+        "10": "Ele sunt mai de preț decât aurul, decât mult aur curat; sunt mai dulci decât mierea, decât picurul din faguri.",
+        "11": "Robul Tău primește și el învățătura de la ele; pentru cine le păzește, răsplata este mare.",
+        "12": "Cine își cunoaște greșelile făcute din neștiință? Iartă-mi greșelile pe care nu le cunosc!",
+        "13": "Păzește de asemenea pe robul Tău de mândrie, ca să nu stăpânească ea peste mine! Atunci voi fi fără prihană, nevinovat de păcate mari.",
+        "14": "Primește cu bunăvoință cuvintele gurii mele și cugetele inimii mele, Doamne, Stânca mea și Izbăvitorul meu!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cerurile declară gloria lui Dumnezeu, iar bolta cerească istorisește despre lucrarea mâinilor Lui.",
+        "2": "O zi îi comunică alteia acest mesaj și o noapte îi vestește alteia această cunoaștere,",
+        "3": "dar fără vorbe și fără cuvinte, fără să li se audă glasul.",
+        "4": "Glasul lor a străbătut întreg pământul, și cuvintele lor au ajuns până la marginea lumii. În ceruri, El a întins un cort soarelui.",
+        "5": "Acesta este asemenea unui mire care iese din camera lui de nuntă, asemenea unui viteaz care se bucură să alerge pe cale:",
+        "6": "răsăritul lui este la un capăt al cerului și roată-i este drumul până la celălalt capăt al lui. Nimic nu se poate ascunde de căldura lui.",
+        "7": "Legea Domnului este desăvârșită; ea înviorează sufletul. Mărturia Domnului este demnă de încredere; ea înțelepțește pe cel neștiutor.",
+        "8": "Reglementările Domnului sunt drepte; ele îmi bucură inima. Porunca Domnului este curată; ea luminează ochii.",
+        "9": "Teama de Domnul este curată; ea rămâne pe vecie. Judecățile Domnului sunt adevărate; toate sunt drepte.",
+        "10": "Ele sunt mai de dorit decât aurul, decât mult aur pur, sunt mai dulci decât mierea, decât picurul din faguri.",
+        "11": "Chiar și slujitorul Tău este instruit prin ele. Când le păzește, are o mare răsplată.",
+        "12": "Cine-și cunoaște toate greșelile? Iartă-mi greșelile de care nu sunt conștient!",
+        "13": "Păzește-l, de asemenea, pe slujitorul Tău de păcatele comise în mod conștient, ca să nu stăpânească peste mine. Atunci voi fi integru, nevinovat de o mare fărădelege.",
+        "14": "Fie plăcute cuvintele gurii mele și murmurul inimii mele înaintea Ta, Doamne, Stânca mea, Răscumpărătorul meu!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The heavens declare the glory of God. The expanse shows his handiwork.",
+        "2": "Day after day they pour out speech, and night after night they display knowledge.",
+        "3": "There is no speech nor language where their voice is not heard.",
+        "4": "Their voice has gone out through all the earth, their words to the end of the world. In them he has set a tent for the sun,",
+        "5": "which is as a bridegroom coming out of his room, like a strong man rejoicing to run his course.",
+        "6": "His going out is from the end of the heavens, his circuit to its ends. There is nothing hidden from its heat.",
+        "7": "Yahweh’s law is perfect, restoring the soul. Yahweh’s covenant is sure, making wise the simple.",
+        "8": "Yahweh’s precepts are right, rejoicing the heart. Yahweh’s commandment is pure, enlightening the eyes.",
+        "9": "The fear of Yahweh is clean, enduring forever. Yahweh’s ordinances are true, and righteous altogether.",
+        "10": "They are more to be desired than gold, yes, than much fine gold, sweeter also than honey and the extract of the honeycomb.",
+        "11": "Moreover your servant is warned by them. In keeping them there is great reward.",
+        "12": "Who can discern his errors? Forgive me from hidden errors.",
+        "13": "Keep back your servant also from presumptuous sins. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression.",
+        "14": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer."
+      }
+    }
+  }
+}

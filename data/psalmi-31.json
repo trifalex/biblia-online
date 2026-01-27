@@ -1,0 +1,93 @@
+{
+  "book": "Psalmi",
+  "chapter": "31",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, în Tine mă încred: să nu fiu dat de rușine niciodată. Izbăvește-mă, în dreptatea Ta!",
+        "2": "Pleacă-Ți urechea spre mine, grăbește de-mi ajută! Fii pentru mine o stâncă ocrotitoare, o cetățuie unde să-mi găsesc scăparea!",
+        "3": "Căci Tu ești Stânca mea, Cetățuia mea și, pentru Numele Tău, mă vei povățui și mă vei călăuzi.",
+        "4": "Scoate-mă din lațul pe care mi l-au întins vrăjmașii, căci Tu ești Ocrotitorul meu!",
+        "5": "În mâinile Tale îmi încredințez duhul: Tu mă vei izbăvi, Doamne Dumnezeule adevărat!",
+        "6": "Eu urăsc pe cei ce se lipesc de idoli deșerți și mă încred în Domnul.",
+        "7": "Fă-mă să mă veselesc și să mă bucur de îndurarea Ta, căci vezi ticăloșia mea, știi neliniștea sufletului meu",
+        "8": "și nu mă vei da în mâinile vrăjmașului, ci îmi vei pune picioarele la loc larg!",
+        "9": "Ai milă de mine, Doamne, căci sunt în strâmtorare: fața, sufletul și trupul mi s-au topit de întristare;",
+        "10": "mi se sfârșește viața în durere și anii în suspine. Mi s-au sleit puterile din pricina fărădelegii mele și-mi putrezesc oasele!",
+        "11": "Din pricina potrivnicilor mei, am ajuns de ocară, de mare ocară, pentru vecinii mei și de groază pentru prietenii mei; cei ce mă văd pe uliță fug de mine.",
+        "12": "Sunt uitat de inimi ca un mort, am ajuns ca un vas sfărâmat.",
+        "13": "Aud vorbele rele ale multora, văd spaima care domnește împrejur, când se sfătuiesc ei împreună împotriva mea și uneltesc să-mi ia viața.",
+        "14": "Dar eu mă încred în Tine, Doamne, și zic: „Tu ești Dumnezeul meu!”",
+        "15": "Soarta mea este în mâna Ta; scapă-mă de vrăjmașii și de prigonitorii mei!",
+        "16": "Fă să lumineze Fața Ta peste robul Tău, scapă-mă prin îndurarea Ta!",
+        "17": "Doamne, să nu rămân de rușine când Te chem, ci să rămână de rușine cei răi și ei să se coboare muți în Locuința morților!",
+        "18": "Să amuțească buzele mincinoase, care vorbesc cu îndrăzneală, cu trufie și dispreț împotriva celui neprihănit!",
+        "19": "O, cât de mare este bunătatea Ta, pe care o păstrezi pentru cei ce se tem de Tine și pe care o arăți celor ce se încred în Tine, în fața fiilor oamenilor!",
+        "20": "Tu îi ascunzi la adăpostul Feței Tale de cei ce-i prigonesc, îi ocrotești în cortul Tău de limbile care-i clevetesc.",
+        "21": "Binecuvântat să fie Domnul, căci Și-a arătat în chip minunat îndurarea față de mine: parc-aș fi fost într-o cetate întărită!",
+        "22": "În pornirea mea nechibzuită, ziceam: „Sunt izgonit dinaintea Ta!” Dar Tu ai auzit glasul rugăciunilor mele când am strigat spre Tine.",
+        "23": "Iubiți dar pe Domnul, toți cei iubiți de El, căci Domnul păzește pe cei credincioși și pedepsește aspru pe cei mândri!",
+        "24": "Fiți tari și îmbărbătați-vă inima, toți cei ce nădăjduiți în Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În Tine, Doamne, mă adăpostesc! Să nu fiu făcut de rușine niciodată! În dreptatea Ta, salvează-mă!",
+        "2": "Pleacă-Ți urechea spre mine și scapă-mă cât mai repede. Fii pentru mine o stâncă de refugiu, o casă a fortărețelor, ca să fiu salvat.",
+        "3": "Căci Tu ești stânca mea și fortăreața mea. Tu mă vei conduce și mă vei călăuzi, datorită Numelui Tău.",
+        "4": "Tu mă vei scăpa de lațul care mi-a fost întins, căci Tu ești refugiul meu.",
+        "5": "În mâinile Tale îmi încredințez duhul! Tu m-ai răscumpărat, Doamne, Dumnezeul adevărului.",
+        "6": "Îi urăsc pe cei ce se alipesc de idoli deșerți, dar mă încred în Domnul.",
+        "7": "Mă voi bucura și mă voi înveseli în îndurarea Ta, fiindcă mi-ai văzut suferința și ai cunoscut necazul sufletului meu.",
+        "8": "Tu nu m-ai dat pe mâna dușmanului, ci mi-ai pus picioarele să stea într-un loc larg.",
+        "9": "Arată-Ți bunăvoința față de mine, Doamne, căci sunt în necaz. Mi se topesc ochii, sufletul și pântecul de atâta întristare.",
+        "10": "Îmi sfârșesc viața în durere și anii în întristare. Puterea îmi este sleită din cauza nelegiuirii mele, iar oasele mi se topesc.",
+        "11": "Din cauza tuturor dușmanilor mei am ajuns de mare dispreț pentru vecinii mei și de groază pentru cunoscuții mei. Cei ce mă văd pe drum fug de mine.",
+        "12": "Sunt uitat de inimi ca și cum aș fi mort; am ajuns ca un vas spart.",
+        "13": "Căci aud calomniile multora – teroare este de jur împrejur! Când se sfătuiesc împreună împotriva mea, ei plănuiesc să-mi ia viața.",
+        "14": "Dar eu mă-ncred în Tine, Doamne, și zic: „Tu ești Dumnezeul meu“.",
+        "15": "Zilele mele sunt în mâna Ta; scapă-mă din mâna dușmanilor și a celor ce mă urmăresc!",
+        "16": "Fă să strălucească fața Ta peste slujitorul Tău! Salvează-mă, în îndurarea Ta!",
+        "17": "Doamne, să nu fiu făcut de rușine, căci pe Tine Te chem. Să fie făcuți de rușine cei răi! Să se coboare tăcuți în Locuința Morților!",
+        "18": "Să fie amuțite buzele mincinoase, care vorbesc cu obrăznicie, cu mândrie și dispreț împotriva celui drept.",
+        "19": "Cât de mare este bunătatea Ta, pe care ai păstrat-o pentru cei ce se tem de Tine, pe care ai arătat-o celor ce se adăpostesc în Tine, înaintea fiilor omului.",
+        "20": "Tu-i ascunzi la adăpostul prezenței Tale de conspirațiile omului; îi adăpostești în colibă de limbile certărețe.",
+        "21": "Binecuvântat să fie Domnul, căci minunată I-a fost îndurarea față de mine când eram într-o cetate asediată.",
+        "22": "M-am pripit când am zis: „Sunt alungat dinaintea ochilor Tăi“. Într-adevăr, Tu ai ascultat glasul cererilor mele, când am strigat către Tine după ajutor.",
+        "23": "Iubiți-L pe Domnul, toți sfinții Lui, Domnul păzește pe cei credincioși, dar celor ce se poartă cu mândrie le dă ce li se cuvine.",
+        "24": "Fiți tari și încurajați-vă inimile, toți cei ce vă puneți speranța în Domnul."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "In you, Yahweh, I take refuge. Let me never be disappointed. Deliver me in your righteousness.",
+        "2": "Bow down your ear to me. Deliver me speedily. Be to me a strong rock, a house of defense to save me.",
+        "3": "For you are my rock and my fortress, therefore for your name’s sake lead me and guide me.",
+        "4": "Pluck me out of the net that they have laid secretly for me, for you are my stronghold.",
+        "5": "Into your hand I commend my spirit. You redeem me, Yahweh, God of truth.",
+        "6": "I hate those who regard lying vanities, but I trust in Yahweh.",
+        "7": "I will be glad and rejoice in your loving kindness, for you have seen my affliction. You have known my soul in adversities.",
+        "8": "You have not shut me up into the hand of the enemy. You have set my feet in a large place.",
+        "9": "Have mercy on me, Yahweh, for I am in distress. My eye, my soul, and my body waste away with grief.",
+        "10": "For my life is spent with sorrow, my years with sighing. My strength fails because of my iniquity. My bones are wasted away.",
+        "11": "Because of all my adversaries I have become utterly contemptible to my neighbors, a horror to my acquaintances. Those who saw me on the street fled from me.",
+        "12": "I am forgotten from their hearts like a dead man. I am like broken pottery.",
+        "13": "For I have heard the slander of many, terror on every side, while they conspire together against me, they plot to take away my life.",
+        "14": "But I trust in you, Yahweh. I said, “You are my God.”",
+        "15": "My times are in your hand. Deliver me from the hand of my enemies, and from those who persecute me.",
+        "16": "Make your face to shine on your servant. Save me in your loving kindness.",
+        "17": "Let me not be disappointed, Yahweh, for I have called on you. Let the wicked be disappointed. Let them be silent in Sheol.",
+        "18": "Let the lying lips be mute, which speak against the righteous insolently, with pride and contempt.",
+        "19": "Oh how great is your goodness, which you have laid up for those who fear you, which you have worked for those who take refuge in you, before the sons of men!",
+        "20": "In the shelter of your presence you will hide them from the plotting of man. You will keep them secretly in a dwelling away from the strife of tongues.",
+        "21": "Praise be to Yahweh, for he has shown me his marvelous loving kindness in a strong city.",
+        "22": "As for me, I said in my haste, “I am cut off from before your eyes.” Nevertheless you heard the voice of my petitions when I cried to you.",
+        "23": "Oh love Yahweh, all you his saints! Yahweh preserves the faithful, and fully recompenses him who behaves arrogantly.",
+        "24": "Be strong, and let your heart take courage, all you who hope in Yahweh."
+      }
+    }
+  }
+}

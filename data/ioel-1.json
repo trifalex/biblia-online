@@ -1,0 +1,81 @@
+{
+  "book": "Ioel",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cuvântul Domnului care a fost spus lui Ioel, fiul lui Petuel:",
+        "2": "Ascultați lucrul acesta, bătrâni! Și luați seama, toți locuitorii țării! S-a întâmplat așa ceva pe vremea voastră sau pe vremea părinților voștri?",
+        "3": "Povestiți copiilor voștri despre lucrul acesta și copiii voștri să povestească copiilor lor, iar copiii lor să povestească neamului de oameni care va urma!",
+        "4": "Ce a lăsat nemâncat lăcusta gazam a mâncat lăcusta arbeh, ce a lăsat lăcusta arbeh a mâncat lăcusta ielec, ce a lăsat lăcusta ielec a mâncat lăcusta hasil.",
+        "5": "Treziți-vă, bețivilor, și plângeți! Văitați-vă, toți cei ce beți vin, căci vi s-a luat mustul de la gură!",
+        "6": "Căci în țara mea a năvălit un popor puternic și fără număr, cu dinți de leu și măsele de leoaică.",
+        "7": "Mi-a pustiit via; mi-a făcut bucăți smochinul, l-a jupuit de coajă și l-a trântit jos; mlădițele de viță au ajuns albe.",
+        "8": "Bocește-te ca fecioara încinsă cu un sac după bărbatul tinereții ei!",
+        "9": "Au încetat darurile de mâncare și jertfele de băutură din Casa Domnului; preoții, slujitorii Domnului, jelesc.",
+        "10": "Câmpia este pustiită, pământul, întristat, căci grâul este nimicit, mustul a secat, untdelemnul nu mai este.",
+        "11": "Înmărmuriți, plugari, văitați-vă, vieri, din pricina grâului și a orzului, căci bucatele de pe câmp sunt pierdute!",
+        "12": "Via este prăpădită, smochinul este veștejit, rodiul, finicul, mărul, toți pomii de pe câmp s-au uscat… Și s-a dus bucuria de la copiii oamenilor!",
+        "13": "Încingeți-vă, preoți, și plângeți! Bociți-vă, slujitori ai altarului; veniți și petreceți noaptea îmbrăcați cu saci, slujitori ai Dumnezeului meu! Căci au încetat darurile de mâncare și jertfele de băutură din Casa Dumnezeului vostru.",
+        "14": "Vestiți un post, chemați o adunare de sărbătoare; strângeți pe bătrâni, pe toți locuitorii țării, în Casa Domnului Dumnezeului vostru și strigați către Domnul!",
+        "15": "„Vai! ce zi!” Da, ziua Domnului este aproape, vine ca o pustiire de la Cel Atotputernic.",
+        "16": "Nu s-a prăpădit hrana sub ochii noștri? Și n-au pierit bucuria și veselia din Casa Dumnezeului nostru?",
+        "17": "S-au uscat semințele sub bulgări; grânarele stau goale, hambarele sunt stricate, căci s-a stricat semănătura!",
+        "18": "Cum gem vitele! Cirezile de boi umblă buimace, căci nu mai au pășune; chiar și turmele de oi suferă!",
+        "19": "Către Tine, Doamne, strig, căci a mâncat focul islazurile pustiei și para focului a pârlit toți copacii de pe câmp!",
+        "20": "Chiar și fiarele câmpului se îndreaptă doritoare către Tine, căci au secat pâraiele și a mâncat focul islazurile pustiei."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cuvântul Domnului, care i-a fost spus lui Ioel, fiul lui Petuel: Invazia lăcustelor",
+        "2": "Ascultați lucrul acesta, bătrânilor! Ascultați cu atenție, toți locuitorii țării! S-a mai întâmplat așa ceva în zilele voastre sau în zilele strămoșilor voștri?",
+        "3": "Povestiți copiilor voștri despre lucrul acesta și copiii voștri să-l spună copiilor lor, iar copiii lor să-l istorisească generației următoare.",
+        "4": "Ceea ce a lăsat lăcusta Gazam, a mâncat lăcusta Arbe; ceea ce a lăsat lăcusta Arbe, a mâncat lăcusta Ielek și ceea ce a lăsat lăcusta Ielek, a mâncat lăcusta Hasil.",
+        "5": "Treziți-vă, bețivilor, și plângeți! Gemeți, voi, toți băutorii de vin, pentru că vi s-a luat mustul de la gură!",
+        "6": "Căci împotriva țării mele a venit o națiune puternică și fără număr. Dinții ei sunt dinți de leu, iar colții ei sunt colți de leoaică.",
+        "7": "Mi-a pustiit viile și mi-a făcut bucăți smochinii; i-a jupuit de coajă și i-a trântit jos, lăsându-le ramurile descojite.",
+        "8": "Jelește ca o fecioară îmbrăcată cu o pânză de sac, care îl jelește pe soțul tinereții ei!",
+        "9": "Darurile de mâncare și jertfele de băutură au fost oprite în Casa Domnului, iar preoții, slujitorii Domnului, bocesc.",
+        "10": "Terenurile sunt pustiite, pământul bocește, căci grânele sunt pustiite. Mustul a secat și uleiul s-a terminat.",
+        "11": "Îngroziți-vă, plugari, gemeți, vieri, din cauza grâului și a orzului, căci roadele câmpului sunt distruse.",
+        "12": "Via s-a uscat, iar smochinul este veștejit; rodiul, palmierul, mărul, toți pomii de pe câmp sunt uscați. Într-adevăr, s-a veștejit bucuria din mijlocul fiilor omului! Chemare la pocăință",
+        "13": "Preoților, puneți-vă brâul în jurul mijlocului și jeliți! Gemeți, slujitori ai altarului! Veniți și înnoptați îmbrăcați cu pânză de sac, slujitori ai Dumnezeului meu! Căci darurile de mâncare și jertfele de băutură sunt oprite în Casa Dumnezeului vostru.",
+        "14": "Declarați un post sfânt, vestiți o adunare. Adunați-i pe bătrâni, pe toți locuitorii țării, la Casa Domnului, Dumnezeul vostru, și strigați către Domnul.",
+        "15": "Vai, ce zi! Căci ziua Domnului este aproape; ea va veni ca o distrugere de la Cel Atotputernic.",
+        "16": "Nu s-a prăpădit hrana sub ochii voștri – adică bucuria și veselia din Casa Dumnezeului nostru?",
+        "17": "Semințele s-au pârjolit sub bulgări, hambarele sunt pustii, grânarele sunt dărâmate, căci grânele s-au uscat.",
+        "18": "Cum gem animalele! Cirezile de vite umblă amețite, pentru că nu mai au pășune; chiar și turmele de oi suferă pedeapsa.",
+        "19": "Către Tine, Doamne, strig, căci focul a distrus pășunile deșertului și flăcările au ars toți copacii câmpiei.",
+        "20": "Chiar și animalele câmpului tânjesc după Tine, căci albiile s-au uscat, iar focul a distrus pășunile deșertului."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh’s word that came to Joel, the son of Pethuel.",
+        "2": "Hear this, you elders, and listen, all you inhabitants of the land! Has this ever happened in your days, or in the days of your fathers?",
+        "3": "Tell your children about it, and have your children tell their children, and their children, another generation.",
+        "4": "What the swarming locust has left, the great locust has eaten. What the great locust has left, the grasshopper has eaten. What the grasshopper has left, the caterpillar has eaten.",
+        "5": "Wake up, you drunkards, and weep! Wail, all you drinkers of wine, because of the sweet wine, for it is cut off from your mouth.",
+        "6": "For a nation has come up on my land, strong, and without number. His teeth are the teeth of a lion, and he has the fangs of a lioness.",
+        "7": "He has laid my vine waste, and stripped my fig tree. He has stripped its bark, and thrown it away. Its branches are made white.",
+        "8": "Mourn like a virgin dressed in sackcloth for the husband of her youth!",
+        "9": "The meal offering and the drink offering are cut off from Yahweh’s house. The priests, Yahweh’s ministers, mourn.",
+        "10": "The field is laid waste. The land mourns, for the grain is destroyed, The new wine has dried up, and the oil languishes.",
+        "11": "Be confounded, you farmers! Wail, you vineyard keepers, for the wheat and for the barley; for the harvest of the field has perished.",
+        "12": "The vine has dried up, and the fig tree withered— the pomegranate tree, the palm tree also, and the apple tree, even all of the trees of the field are withered; for joy has withered away from the sons of men.",
+        "13": "Put on sackcloth and mourn, you priests! Wail, you ministers of the altar. Come, lie all night in sackcloth, you ministers of my God, for the meal offering and the drink offering are withheld from your God’s house.",
+        "14": "Sanctify a fast. Call a solemn assembly. Gather the elders and all the inhabitants of the land to the house of Yahweh, your God, and cry to Yahweh.",
+        "15": "Alas for the day! For the day of Yahweh is at hand, and it will come as destruction from the Almighty.",
+        "16": "Isn’t the food cut off before our eyes, joy and gladness from the house of our God?",
+        "17": "The seeds rot under their clods. The granaries are laid desolate. The barns are broken down, for the grain has withered.",
+        "18": "How the animals groan! The herds of livestock are perplexed, because they have no pasture. Yes, the flocks of sheep are made desolate.",
+        "19": "Yahweh, I cry to you, for the fire has devoured the pastures of the wilderness, and the flame has burned all the trees of the field.",
+        "20": "Yes, the animals of the field pant to you, for the water brooks have dried up, and the fire has devoured the pastures of the wilderness."
+      }
+    }
+  }
+}

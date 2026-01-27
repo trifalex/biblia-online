@@ -1,0 +1,69 @@
+{
+  "book": "1 Corinteni",
+  "chapter": "2",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Cât despre mine, fraților, când am venit la voi, n-am venit să vă vestesc taina lui Dumnezeu cu o vorbire sau înțelepciune strălucită.",
+        "2": "Căci n-am avut de gând să știu între voi altceva decât pe Isus Hristos, și pe El răstignit.",
+        "3": "Eu însumi, când am venit în mijlocul vostru, am fost slab, fricos și plin de cutremur.",
+        "4": "Și învățătura și propovăduirea mea nu stăteau în vorbirile înduplecătoare ale înțelepciunii, ci într-o dovadă dată de Duhul și de putere,",
+        "5": "pentru ca credința voastră să fie întemeiată nu pe înțelepciunea oamenilor, ci pe puterea lui Dumnezeu. Înțelepciunea creștină",
+        "6": "Totuși ceea ce propovăduim noi printre cei desăvârșiți este o înțelepciune, dar nu a veacului acestuia, nici a fruntașilor veacului acestuia, care vor fi nimiciți.",
+        "7": "Noi propovăduim înțelepciunea lui Dumnezeu, cea tainică și ținută ascunsă, pe care o rânduise Dumnezeu, spre slava noastră, mai înainte de veci,",
+        "8": "și pe care n-a cunoscut-o niciunul din fruntașii veacului acestuia; căci, dacă ar fi cunoscut-o, n-ar fi răstignit pe Domnul slavei.",
+        "9": "Dar, după cum este scris: „Lucruri pe care ochiul nu le-a văzut, urechea nu le-a auzit și la inima omului nu s-au suit, așa sunt lucrurile pe care le-a pregătit Dumnezeu pentru cei ce-L iubesc.”",
+        "10": "Nouă însă Dumnezeu ni le-a descoperit prin Duhul Său. Căci Duhul cercetează totul, chiar și lucrurile adânci ale lui Dumnezeu.",
+        "11": "În adevăr, cine dintre oameni cunoaște lucrurile omului, afară de duhul omului, care este în el? Tot așa, nimeni nu cunoaște lucrurile lui Dumnezeu afară de Duhul lui Dumnezeu.",
+        "12": "Și noi n-am primit duhul lumii, ci Duhul care vine de la Dumnezeu, ca să putem cunoaște lucrurile pe care ni le-a dat Dumnezeu prin harul Său.",
+        "13": "Și vorbim despre ele nu cu vorbiri învățate de la înțelepciunea omenească, ci cu vorbiri învățate de la Duhul Sfânt, întrebuințând o vorbire duhovnicească pentru lucrurile duhovnicești.",
+        "14": "Dar omul firesc nu primește lucrurile Duhului lui Dumnezeu, căci pentru el sunt o nebunie, și nici nu le poate înțelege, pentru că trebuie judecate duhovnicește.",
+        "15": "Omul duhovnicesc, dimpotrivă, poate să judece totul și el însuși nu poate fi judecat de nimeni.",
+        "16": "Căci „cine a cunoscut gândul Domnului, ca să-I poată da învățătură?” Noi însă avem gândul lui Hristos."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Fraților, și eu, când am venit la voi, n-am venit vestindu-vă taina lui Dumnezeu printr-o vorbire sau înțelepciune aleasă,",
+        "2": "căci am hotărât să nu știu nimic între voi decât pe Isus Cristos și pe El răstignit.",
+        "3": "Eu am venit la voi neputincios, temător și având mari emoții,",
+        "4": "iar vorbirea și predicarea mea nu stăteau în cuvintele convingătoare ale înțelepciunii, ci în dovada Duhului și a puterii,",
+        "5": "astfel încât credința voastră să nu fie întemeiată pe înțelepciunea oamenilor, ci pe puterea lui Dumnezeu. Înțelepciunea care vine prin Duhul",
+        "6": "Totuși, noi vorbim despre o înțelepciune printre cei desăvârșiți, dar nu a veacului acestuia, nici a conducătorilor acestui veac, care sunt nimiciți,",
+        "7": "ci vorbim despre înțelepciunea lui Dumnezeu, cea ținută ascunsă într-o taină, pe care Dumnezeu a hotărât-o dinainte spre gloria noastră, înaintea veacurilor,",
+        "8": "și pe care niciunul dintre conducătorii acestui veac n-a cunoscut-o, pentru că, dacă ar fi cunoscut-o, nu L-ar fi răstignit pe Domnul gloriei.",
+        "9": "Dar, așa cum este scris: „Lucruri pe care niciun ochi nu le-a văzut și nicio ureche nu le-a auzit, iar la inima omului n-au ajuns – așa sunt lucrurile pe care le-a pregătit Dumnezeu celor ce-L iubesc“.",
+        "10": "Nouă însă Dumnezeu ni le-a descoperit prin Duhul. Căci Duhul cercetează toate lucrurile, chiar și lucrurile adânci ale lui Dumnezeu.",
+        "11": "Într-adevăr, cine cunoaște lucrurile omului, dacă nu duhul omului, care este în el? Tot astfel, nimeni nu cunoaște lucrurile lui Dumnezeu, în afară de Duhul lui Dumnezeu.",
+        "12": "Însă noi n-am primit duhul lumii, ci Duhul de la Dumnezeu, ca să cunoaștem lucrurile ce ne-au fost dăruite de Dumnezeu.",
+        "13": "Și vorbim despre ele nu prin cuvinte învățate cu ajutorul înțelepciunii omenești, ci prin cuvinte învățate cu ajutorul Duhului, explicând lucrurile spirituale pentru cei spirituali.",
+        "14": "Dar omul firesc nu primește lucrurile Duhului lui Dumnezeu, căci pentru el sunt o nebunie, și nu le poate înțelege, pentru că ele sunt judecate spiritual.",
+        "15": "Cel spiritual însă judecă toate lucrurile, iar el nu este judecat de nimeni.",
+        "16": "Căci „Cine a cunoscut gândul Domnului, ca să-L poată sfătui?“ Noi însă avem gândul lui Cristos."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God.",
+        "2": "For I determined not to know anything among you except Jesus Christ and him crucified.",
+        "3": "I was with you in weakness, in fear, and in much trembling.",
+        "4": "My speech and my preaching were not in persuasive words of human wisdom, but in demonstration of the Spirit and of power,",
+        "5": "that your faith wouldn’t stand in the wisdom of men, but in the power of God.",
+        "6": "We speak wisdom, however, among those who are full grown, yet a wisdom not of this world nor of the rulers of this world who are coming to nothing.",
+        "7": "But we speak God’s wisdom in a mystery, the wisdom that has been hidden, which God foreordained before the worlds for our glory,",
+        "8": "which none of the rulers of this world has known. For had they known it, they wouldn’t have crucified the Lord of glory.",
+        "9": "But as it is written, “Things which an eye didn’t see, and an ear didn’t hear, which didn’t enter into the heart of man, these God has prepared for those who love him.”",
+        "10": "But to us, God revealed them through the Spirit. For the Spirit searches all things, yes, the deep things of God.",
+        "11": "For who among men knows the things of a man except the spirit of the man which is in him? Even so, no one knows the things of God except God’s Spirit.",
+        "12": "But we received not the spirit of the world, but the Spirit which is from God, that we might know the things that were freely given to us by God.",
+        "13": "We also speak these things, not in words which man’s wisdom teaches but which the Holy Spirit teaches, comparing spiritual things with spiritual things.",
+        "14": "Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned.",
+        "15": "But he who is spiritual discerns all things, and he himself is to be judged by no one.",
+        "16": "“For who has known the mind of the Lord that he should instruct him?” But we have Christ’s mind."
+      }
+    }
+  }
+}

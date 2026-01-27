@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, nu mă pedepsi cu mânia Ta și nu mă mustra cu urgia Ta!",
+        "2": "Ai milă de mine, Doamne, căci mă ofilesc! Vindecă-mă, Doamne, căci îmi tremură oasele!",
+        "3": "Sufletul mi-e îngrozit de tot. Și Tu, Doamne, până când vei zăbovi să Te înduri de mine?",
+        "4": "Întoarce-Te, Doamne, izbăvește-mi sufletul! Mântuiește-mă, pentru îndurarea Ta!",
+        "5": "Căci cel ce moare nu-și mai aduce aminte de Tine și cine Te va lăuda în Locuința morților?",
+        "6": "Nu mai pot gemând! În fiecare noapte îmi stropesc așternutul și-mi scald patul în lacrimi.",
+        "7": "Mi s-a supt fața de întristare și a îmbătrânit din pricina tuturor celor ce mă prigonesc.",
+        "8": "Depărtați-vă de la mine toți cei ce faceți răul, căci Domnul a auzit glasul plângerii mele!",
+        "9": "Domnul îmi ascultă cererile și Domnul îmi primește rugăciunea!",
+        "10": "Toți vrăjmașii mei vor fi acoperiți de rușine și cuprinși de spaimă; într-o clipă vor da înapoi, acoperiți de rușine."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, nu mă mustra în mânia Ta și nu mă disciplina în furia Ta.",
+        "2": "Arată-Ți bunăvoința față de mine, Doamne, căci sunt slab. Vindecă-mă, Doamne, căci oasele-mi sunt îngrozite.",
+        "3": "Sufletul meu este foarte îngrozit, iar Tu, Doamne, până când…?",
+        "4": "Întoarce-Te, Doamne, salvează-mi sufletul, mântuiește-mă datorită îndurării Tale!",
+        "5": "Căci în moarte nu este vreo amintire despre Tine; în Locuința Morților, cine Îți va mulțumi?",
+        "6": "Sunt sleit de atâtea suspine. În fiecare noapte îmi scald patul și-mi inund așternutul cu lacrimi.",
+        "7": "Mi-a slăbit ochiul de atâta întristare, a îmbătrânit din cauza tuturor dușmanilor mei.",
+        "8": "Depărtați-vă de la mine, voi, toți cei ce comiteți nelegiuiri, căci Domnul a auzit glasul plângerii mele.",
+        "9": "Domnul a auzit cererea mea, Domnul mi-a primit rugăciunea.",
+        "10": "Să fie făcuți de rușine și îngroziți peste măsură toți dușmanii mei! Să dea înapoi și să fie făcuți de rușine într-o clipă."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, don’t rebuke me in your anger, neither discipline me in your wrath.",
+        "2": "Have mercy on me, Yahweh, for I am faint. Yahweh, heal me, for my bones are troubled.",
+        "3": "My soul is also in great anguish. But you, Yahweh—how long?",
+        "4": "Return, Yahweh. Deliver my soul, and save me for your loving kindness’ sake.",
+        "5": "For in death there is no memory of you. In Sheol, who shall give you thanks?",
+        "6": "I am weary with my groaning. Every night I flood my bed. I drench my couch with my tears.",
+        "7": "My eye wastes away because of grief. It grows old because of all my adversaries.",
+        "8": "Depart from me, all you workers of iniquity, for Yahweh has heard the voice of my weeping.",
+        "9": "Yahweh has heard my supplication. Yahweh accepts my prayer.",
+        "10": "May all my enemies be ashamed and dismayed. They shall turn back, they shall be disgraced suddenly."
+      }
+    }
+  }
+}

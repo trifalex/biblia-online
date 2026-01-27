@@ -1,0 +1,30 @@
+{
+  "book": "Psalmi",
+  "chapter": "134",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Iată, binecuvântați pe Domnul, toți robii Domnului, care stați noaptea în Casa Domnului!",
+        "2": "Ridicați-vă mâinile spre Sfântul Locaș și binecuvântați pe Domnul!",
+        "3": "Domnul să te binecuvânteze din Sion, El, care a făcut cerurile și pământul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Iată, binecuvântați-L pe Domnul, toți slujitorii Domnului, voi, care stați în Casa Domnului în timpul nopții.",
+        "2": "Ridicați-vă mâinile spre Lăcașul cel sfânt și binecuvântați-L pe Domnul!",
+        "3": "Din Sion să te binecuvânteze Domnul, Creatorul cerurilor și al pământului."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh’s house!",
+        "2": "Lift up your hands in the sanctuary. Praise Yahweh!",
+        "3": "May Yahweh bless you from Zion, even he who made heaven and earth."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Psalmi",
+  "chapter": "76",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Dumnezeu este cunoscut în Iuda, mare este Numele Lui în Israel.",
+        "2": "Cortul Lui este în Salem și locuința Lui, în Sion;",
+        "3": "acolo a sfărâmat El săgețile, scutul, sabia și armele de război.",
+        "4": "Tu ești mai măreț, mai puternic decât munții răpitorilor.",
+        "5": "Despuiați au fost vitejii aceia plini de inimă, au adormit somnul de apoi; n-au putut să se apere toți acei oameni viteji.",
+        "6": "La mustrarea Ta, Dumnezeul lui Iacov, au adormit și călăreți, și cai.",
+        "7": "Cât de înfricoșat ești Tu! Cine poate să-Ți stea împotrivă când Îți izbucnește mânia?",
+        "8": "Ai rostit hotărârea de la înălțimea cerurilor; pământul s-a îngrozit și a tăcut",
+        "9": "când S-a ridicat Dumnezeu să facă dreptate și să scape pe toți nenorociții de pe pământ.",
+        "10": "Omul Te laudă chiar și în mânia lui, când Te îmbraci cu toată urgia Ta.",
+        "11": "Faceți juruințe Domnului Dumnezeului vostru și împliniți-le! Toți cei ce-L înconjoară să aducă daruri Dumnezeului celui înfricoșat.",
+        "12": "El frânge mândria domnitorilor, El este înfricoșat pentru împărații pământului."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dumnezeu este cunoscut în Iuda. Mare este Numele Lui în Israel!",
+        "2": "Cortul Său este în Salem, Locuința Lui se află în Sion.",
+        "3": "Acolo a sfărâmat săgețile arcului, scutul și sabia de război.",
+        "4": "Tu ești luminos, mai măreț decât munții încărcați de pradă.",
+        "5": "Vitejii au fost jefuiți, au căzut într-un somn adânc. Niciunul dintre luptători n-a mai avut putere în mâini.",
+        "6": "La mustrarea Ta, Dumnezeul lui Iacov, călărețul și calul au pierit!",
+        "7": "Tu ești de temut! Cine poate sta înaintea Ta, când ești mânios?",
+        "8": "Când ai rostit sentința din Ceruri, pământul s-a temut și a amuțit.",
+        "9": "Da, așa a fost când Te-ai ridicat să judeci, Dumnezeule, și să-i salvezi pe toți cei smeriți de pe pământ.",
+        "10": "Într-adevăr, chiar și cel mai furios om Te va lăuda, când Îți vei înfășura mijlocul cu toată mânia Ta.",
+        "11": "Faceți jurăminte Domnului, Dumnezeul vostru, și împliniți-le! Voi toți cei din preajma Lui, aduceți un dar Celui de temut!",
+        "12": "El taie avântul conducătorilor și este de temut printre regii pământului."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "In Judah, God is known. His name is great in Israel.",
+        "2": "His tabernacle is also in Salem. His dwelling place in Zion.",
+        "3": "There he broke the flaming arrows of the bow, the shield, and the sword, and the weapons of war.",
+        "4": "Glorious are you, and excellent, more than mountains of game.",
+        "5": "Valiant men lie plundered, they have slept their last sleep. None of the men of war can lift their hands.",
+        "6": "At your rebuke, God of Jacob, both chariot and horse are cast into a dead sleep.",
+        "7": "You, even you, are to be feared. Who can stand in your sight when you are angry?",
+        "8": "You pronounced judgment from heaven. The earth feared, and was silent,",
+        "9": "when God arose to judgment, to save all the afflicted ones of the earth.",
+        "10": "Surely the wrath of man praises you. The survivors of your wrath are restrained.",
+        "11": "Make vows to Yahweh your God, and fulfill them! Let all of his neighbors bring presents to him who is to be feared.",
+        "12": "He will cut off the spirit of princes. He is feared by the kings of the earth."
+      }
+    }
+  }
+}

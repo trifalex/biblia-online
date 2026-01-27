@@ -1,0 +1,48 @@
+{
+    "book": "Isaia",
+    "chapter": "15",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Prorocie împotriva Moabului: „Chiar în noaptea când este pustiit, Ar-Moabul este nimicit! Chiar în noaptea când este pustiit, Chir-Moabul este nimicit!…",
+                "2": "Poporul se suie la templu și la Dibon, pe înălțimi, ca să plângă; Moabul se bocește: pe Nebo și pe Medeba toate capetele sunt rase și toate bărbile sunt tăiate.",
+                "3": "Pe ulițe sunt încinși cu saci, pe acoperișuri și în piețe totul geme și se topește plângând.",
+                "4": "Hesbonul și Eleale țipă de li se aude glasul până la Iahaț, chiar și războinicii Moabului se bocesc cu sufletul plin de groază.",
+                "5": "Îmi plânge inima pentru Moab, ai cărui fugari aleargă până la Țoar, până la Eglat-Șelișia, căci suie, plângând, suișul Luhitului și scot țipete de durere pe drumul Horonaimului.",
+                "6": "Căci apele Nimrim sunt pustiite, s-a uscat iarba, s-a dus verdeața și nu mai este niciun fir verde.",
+                "7": "De aceea strâng ce le mai rămâne și își strămută averile dincolo de pârâul sălciilor.",
+                "8": "Căci țipetele înconjoară hotarele Moabului; bocetele lui răsună până la Eglaim și urletele lui răsună până la Beer-Elim.",
+                "9": "Apele Dimonului sunt pline de sânge și voi trimite peste Dimon noi nenorociri; un leu va veni împotriva celor scăpați ai Moabului, împotriva rămășiței din țară."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "O rostire cu privire la Moab. „Da! Pustiit într-o singură noapte, distrus este Ar-Moab. Da! Pustiit într-o singură noapte, distrus este Chir-Moab.",
+                "2": "Chiar și Dibon s-a dus la templu, pe înălțimi, ca să plângă. Pentru Nebo și pentru Medeba, geme Moabul. și toate bărbile sunt tăiate.",
+                "3": "Pe străzi umblă având mijlocul înfășurat cu pânză de sac. Pe acoperișuri și în piețe, toți gem, fiind doborâți de plâns.",
+                "4": "Heșbon și Eleale țipă, iar glasul lor se aude până în Iahaț. Iată de ce războinicii Moabului țipă, având sufletul plin de groază.",
+                "5": "Îmi plânge inima pentru Moab! și până la Eglat-Șelișia. Căci ei urcă culmea Luhitului plângând; într-adevăr, ei scot un strigăt sfâșietor pe drumul Horonaimului.",
+                "6": "Apele din Nimrim sunt secate, iarba este uscată, vegetația a pierit și nu mai există nimic verde.",
+                "7": "De aceea își duc bogăția câștigată și agoniseala lor dincolo de Pârâul Sălciilor.",
+                "8": "Într-adevăr, un strigăt înconjoară teritoriul Moabului. Geamătul lui ajunge până la Eglaim; Geamătul lui ajunge până la Beer-Elim.",
+                "9": "Într-adevăr, apele Dimonului sunt pline de sânge. Dar voi aduce și mai multe asupra Dimonului – și împotriva rămășiței din țară“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "The burden of Moab. For in a night, Ar of Moab is laid waste, and brought to nothing. For in a night Kir of Moab is laid waste, and brought to nothing.",
+                "2": "They have gone up to Bayith, and to Dibon, to the high places, to weep. Moab wails over Nebo and over Medeba. Baldness is on all of their heads. Every beard is cut off.",
+                "3": "In their streets, they clothe themselves in sackcloth. In their streets and on their housetops, everyone wails, weeping abundantly.",
+                "4": "Heshbon cries out with Elealeh. Their voice is heard even to Jahaz. Therefore the armed men of Moab cry aloud. Their souls tremble within them.",
+                "5": "My heart cries out for Moab! Her nobles flee to Zoar, to Eglath Shelishiyah; for they go up by the ascent of Luhith with weeping; for on the way to Horonaim, they raise up a cry of destruction.",
+                "6": "For the waters of Nimrim will be desolate; for the grass has withered away, the tender grass fails, there is no green thing.",
+                "7": "Therefore they will carry away the abundance they have gotten, and that which they have stored up, over the brook of the willows.",
+                "8": "For the cry has gone around the borders of Moab, its wailing to Eglaim, and its wailing to Beer Elim.",
+                "9": "For the waters of Dimon are full of blood; for I will bring yet more on Dimon, a lion on those of Moab who escape, and on the remnant of the land."
+            }
+        }
+    }
+}

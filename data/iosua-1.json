@@ -1,0 +1,75 @@
+{
+  "book": "Iosua",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "După moartea lui Moise, robul Domnului, Domnul a zis lui Iosua, fiul lui Nun, slujitorul lui Moise:",
+        "2": "„Robul Meu Moise a murit: acum, scoală-te, treci Iordanul acesta, tu și tot poporul acesta, și intrați în țara pe care o dau copiilor lui Israel.",
+        "3": "Orice loc pe care-l va călca talpa piciorului vostru vi-l dau, cum am spus lui Moise.",
+        "4": "Ținutul vostru se va întinde de la pustie și Liban până la râul cel mare, râul Eufrat, toată țara hetiților și până la Marea cea Mare, spre apusul soarelui.",
+        "5": "Nimeni nu va putea să stea împotriva ta cât vei trăi. Eu voi fi cu tine, cum am fost cu Moise; nu te voi lăsa, nici nu te voi părăsi.",
+        "6": "Întărește-te și îmbărbătează-te, căci tu vei da în stăpânire poporului acestuia țara pe care am jurat părinților lor că le-o voi da.",
+        "7": "Întărește-te numai și îmbărbătează-te, lucrând cu credincioșie după toată legea pe care ți-a dat-o robul Meu Moise; nu te abate de la ea nici la dreapta, nici la stânga, ca să izbutești în tot ce vei face.",
+        "8": "Cartea aceasta a legii să nu se depărteze de gura ta; cugetă asupra ei zi și noapte, căutând să faci tot ce este scris în ea, căci atunci vei izbândi în toate lucrările tale și atunci vei lucra cu înțelepciune.",
+        "9": "Nu ți-am dat Eu oare porunca aceasta: ‘Întărește-te și îmbărbătează-te’? Nu te înspăimânta și nu te îngrozi, căci Domnul Dumnezeul tău este cu tine în tot ce vei face.” Poporul făgăduiește ascultare",
+        "10": "Iosua a dat căpeteniilor oștirii poporului următoarea poruncă:",
+        "11": "„Treceți prin tabără și iată ce să porunciți poporului: ‘Pregătiți-vă merinde, căci peste trei zile veți trece Iordanul acesta ca să mergeți să cuceriți țara pe care v-o dă în stăpânire Domnul Dumnezeul vostru.’”",
+        "12": "Iosua a zis rubeniților, gadiților și jumătății din seminția lui Manase:",
+        "13": "„Aduceți-vă aminte ce v-a poruncit Moise, robul Domnului, când a zis: ‘Domnul Dumnezeul vostru v-a dat odihnă și v-a dat țara aceasta.’",
+        "14": "Nevestele voastre, pruncii voștri și vitele voastre să rămână în țara pe care v-a dat-o Moise dincoace de Iordan, dar voi, toți bărbații voinici, să treceți înarmați înaintea fraților voștri și să-i ajutați,",
+        "15": "până ce Domnul va da odihnă fraților voștri ca și vouă și până ce vor fi și ei în stăpânirea țării pe care le-o dă Domnul Dumnezeul vostru. Apoi să vă întoarceți să stăpâniți țara care este moșia voastră și pe care v-a dat-o Moise, robul Domnului, dincoace de Iordan, spre răsăritul soarelui.”",
+        "16": "Ei au răspuns lui Iosua și au zis: „Vom face tot ce ne-ai poruncit și ne vom duce oriunde ne vei trimite.",
+        "17": "Te vom asculta în totul, cum am ascultat pe Moise. Numai Domnul Dumnezeul tău să fie cu tine, cum a fost cu Moise!",
+        "18": "Orice om care se va răzvrăti împotriva poruncii tale și care nu va asculta de tot ce-i vei porunci să fie pedepsit cu moartea! Întărește-te numai și îmbărbătează-te!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "După moartea lui Moise, slujitorul Domnului, Domnul i-a vorbit lui Iosua, fiul lui Nun, slujitorul lui Moise, zicând:",
+        "2": "„Moise, slujitorul Meu, a murit. Acum, deci, ridică-te și traversează Iordanul, tu împreună cu tot poporul acesta, spre țara pe care o dau fiilor lui Israel.",
+        "3": "Vă voi da orice teritoriu peste care va călca talpa piciorului vostru, întocmai cum i-am promis lui Moise.",
+        "4": "Teritoriul vostru se va întinde de la deșert până la Liban și de la Râul cel Mare, râul Eufrat, cuprinzând toată țara hitiților, până la Marea cea Mare, în vest.",
+        "5": "Niciun om nu-ți va putea sta împotrivă cât vei trăi. Cum am fost cu Moise, tot așa voi fi și cu tine! Nu te voi lăsa și nu te voi părăsi!",
+        "6": "Fii tare și curajos, pentru că tu vei da în stăpânire acestui popor țara pe care am jurat că le-o voi da strămoșilor lor.",
+        "7": "Fii deci tare și foarte curajos, veghind să împlinești toată Legea pe care ți-a poruncit-o slujitorul Meu Moise. Nu te abate de la ea nici la dreapta, nici la stânga, ca să reușești oriunde vei merge.",
+        "8": "Cartea aceasta a Legii să nu se depărteze de gura ta! Meditează asupra ei zi și noapte, veghind, astfel încât să poți împlini tot ceea ce este scris în ea, căci atunci vei reuși oriunde vei merge și vei prospera!",
+        "9": "Oare nu ți-am poruncit Eu: «fii tare și curajos!»? Nu te îngrozi și nu te înspăimânta, fiindcă Domnul, Dumnezeul tău, este cu tine oriunde vei merge!“.",
+        "10": "Iosua le-a poruncit supraveghetorilor poporului, zicând:",
+        "11": "„Treceți prin tabără și porunciți poporului astfel: «Pregătiți-vă provizii, căci peste trei zile veți traversa Iordanul ca să intrați și să cuceriți țara pe care Domnul, Dumnezeul vostru, v-o dă ca s-o stăpâniți»“.",
+        "12": "Iosua le-a zis rubeniților, gadiților și unei jumătăți din seminția lui Manase:",
+        "13": "‒ Aduceți-vă aminte ce v-a poruncit Moise, slujitorul Domnului, când a zis: „Domnul, Dumnezeul vostru, vă dă odihnă și vă dă țara aceasta“.",
+        "14": "Prin urmare, soțiile voastre, copiii voștri și vitele voastre să rămână în țara pe care v-a dat-o Moise în partea aceasta a Iordanului. Însă toți războinicii viteji să traverseze înarmați înaintea fraților voștri ca să-i ajute,",
+        "15": "până când Domnul, Dumnezeul vostru, va da odihnă fraților voștri asemenea vouă și până când vor lua și ei în stăpânire țara pe care Domnul, Dumnezeul vostru, le-o dă. După aceea, vă veți întoarce să stăpâniți țara care v-a fost dată ca moștenire de către Moise, slujitorul Domnului, dincoace de Iordan, spre răsăritul soarelui.",
+        "16": "Ei i-au răspuns lui Iosua, zicând: ‒ Vom face tot ceea ce ne-ai poruncit și vom merge oriunde ne vei trimite!",
+        "17": "Te vom asculta tot așa cum l-am ascultat și pe Moise! Numai să fie acum Domnul, Dumnezeul tău, și cu tine la fel cum a fost cu Moise.",
+        "18": "Orice om care se va răzvrăti împotriva poruncii tale și care nu va asculta de toate cuvintele pe care ni le poruncești, va fi omorât. Tu însă fii tare și curajos!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now after the death of Moses the servant of Yahweh, Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying,",
+        "2": "“Moses my servant is dead. Now therefore arise, go across this Jordan, you and all these people, to the land which I am giving to them, even to the children of Israel.",
+        "3": "I have given you every place that the sole of your foot will tread on, as I told Moses.",
+        "4": "From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to the great sea toward the going down of the sun, shall be your border.",
+        "5": "No man will be able to stand before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you nor forsake you.",
+        "6": "“Be strong and courageous; for you shall cause this people to inherit the land which I swore to their fathers to give them.",
+        "7": "Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go.",
+        "8": "This book of the law shall not depart from your mouth, but you shall meditate on it day and night, that you may observe to do according to all that is written in it; for then you shall make your way prosperous, and then you shall have good success.",
+        "9": "Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your God is with you wherever you go.”",
+        "10": "Then Joshua commanded the officers of the people, saying,",
+        "11": "“Pass through the middle of the camp, and command the people, saying, ‘Prepare food; for within three days you are to pass over this Jordan, to go in to possess the land which Yahweh your God gives you to possess.’”",
+        "12": "Joshua spoke to the Reubenites, and to the Gadites, and to the half-tribe of Manasseh, saying,",
+        "13": "“Remember the word which Moses the servant of Yahweh commanded you, saying, ‘Yahweh your God gives you rest, and will give you this land.",
+        "14": "Your wives, your little ones, and your livestock shall live in the land which Moses gave you beyond the Jordan; but you shall pass over before your brothers armed, all the mighty men of valor, and shall help them",
+        "15": "until Yahweh has given your brothers rest, as he has given you, and they have also possessed the land which Yahweh your God gives them. Then you shall return to the land of your possession and possess it, which Moses the servant of Yahweh gave you beyond the Jordan toward the sunrise.’”",
+        "16": "They answered Joshua, saying, “All that you have commanded us we will do, and wherever you send us we will go.",
+        "17": "Just as we listened to Moses in all things, so will we listen to you. Only may Yahweh your God be with you, as he was with Moses.",
+        "18": "Whoever rebels against your commandment, and doesn’t listen to your words in all that you command him shall himself be put to death. Only be strong and courageous.”"
+      }
+    }
+  }
+}

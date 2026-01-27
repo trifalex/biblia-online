@@ -1,0 +1,60 @@
+{
+    "book": "Isaia",
+    "chapter": "6",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "În anul morții împăratului Ozia, am văzut pe Domnul șezând pe un scaun de domnie foarte înalt, și poalele mantiei Lui umpleau Templul.",
+                "2": "Serafimii stăteau deasupra Lui și fiecare avea șase aripi: cu două își acopereau fața, cu două își acopereau picioarele și cu două zburau.",
+                "3": "Strigau unul la altul și ziceau: „Sfânt, sfânt, sfânt este Domnul oștirilor! Tot pământul este plin de mărirea Lui!”",
+                "4": "Și se zguduiau ușorii ușii de glasul care răsuna și casa s-a umplut de fum.",
+                "5": "Atunci am zis: „Vai de mine! Sunt pierdut, căci sunt un om cu buze necurate, locuiesc în mijlocul unui popor tot cu buze necurate, și am văzut cu ochii mei pe Împăratul, Domnul oștirilor!”",
+                "6": "Dar unul din serafimi a zburat spre mine cu un cărbune aprins în mână, pe care-l luase cu cleștele de pe altar.",
+                "7": "Mi-a atins gura cu el și a zis: „Iată, atingându-se cărbunele acesta de buzele tale, nelegiuirea ta este îndepărtată și păcatul tău este ispășit!”",
+                "8": "Am auzit glasul Domnului întrebând: „Pe cine să trimit și cine va merge pentru Noi?” Eu am răspuns: „Iată-mă, trimite-mă!”",
+                "9": "El a zis atunci: „Du-te și spune poporului acestuia: ‘Întruna veți auzi, și nu veți înțelege; întruna veți vedea, și nu veți pricepe!’",
+                "10": "Împietrește inima acestui popor, fă-l tare de urechi și astupă-i ochii, ca să nu vadă cu ochii, să n-audă cu urechile, să nu înțeleagă cu inima, să nu se întoarcă la Mine și să nu fie tămăduit.”",
+                "11": "Și eu am întrebat: „Până când, Doamne?” El a răspuns: „Până când vor rămâne cetățile pustii și lipsite de locuitori; până când nu va mai fi nimeni în case și țara va fi pustiită de tot;",
+                "12": "până va îndepărta Domnul pe oameni și țara va ajunge o mare pustie.",
+                "13": "Și chiar a zecea parte de va mai rămâne din locuitori, vor fi nimiciți și ei la rândul lor. Dar, după cum terebintul și stejarul își păstrează butucul din rădăcină când sunt tăiați, tot așa o sămânță sfântă se va naște iarăși din poporul acesta.”"
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "În anul morții regelui Uzia, L-am văzut pe Stăpânul șezând pe un tron măreț și înălțat, marginea mantiei Lui umplând Templul.",
+                "2": "Deasupra Lui stăteau serafimi. Fiecare avea șase aripi: cu două își acopereau fețele, cu două își acopereau picioarele și cu două zburau.",
+                "3": "Strigau unul către altul și ziceau: „Sfânt, sfânt, sfânt este Domnul Oștirilor! Întreg pământul este plin de gloria Lui!“.",
+                "4": "Stâlpii ușilor și pragurile s-au cutremurat la sunetul glasului lor, iar Casa s-a umplut de fum.",
+                "5": "Am strigat: „Vai de mine! Sunt pierdut! Căci sunt un om cu buze necurate și trăiesc în mijlocul unui popor tot cu buze necurate, iar ochii mei L-au văzut pe Împăratul, Domnul Oștirilor!“.",
+                "6": "Atunci unul dintre serafimi a zburat spre mine cu un cărbune aprins în mână, pe care-l luase cu cleștele de pe altar.",
+                "7": "Mi-a atins gura cu el și a zis: „Iată! Cărbunele acesta ți-a atins buzele. Acum nelegiuirea ta este îndepărtată și păcatul tău este ispășit“.",
+                "8": "Apoi am auzit glasul Stăpânului, întrebând: ‒ Pe cine să trimit? Cine va merge pentru Noi? Eu am zis: ‒ Iată-mă! Trimite-mă!",
+                "9": "El a zis: ‒ Du-te și spune-i acestui popor: „Să auziți cu urechile, dar să nu înțelegeți și să priviți cu ochii, dar să nu pricepeți!“.",
+                "10": "Împietrește inima acestui popor! Fă ca urechile lor să audă greu și încețoșează-le ochii, ca nu cumva să vadă cu ochii, să audă cu urechile, să înțeleagă cu inima, să se întoarcă și să fie vindecați!",
+                "11": "Atunci am întrebat: ‒ Până când, Stăpâne? El mi-a răspuns: ‒ Până când cetățile vor fi transformate în ruină și lăsate fără locuitori, până când casele vor rămâne fără oameni, iar pământurile vor fi transformate într-o pustietate,",
+                "12": "până când Domnul îi va trimite pe oameni departe, iar locurile părăsite vor fi multe în mijlocul țării.",
+                "13": "Chiar dacă o zecime va rămâne în ea, aceasta va fi pustiită din nou. Dar, așa cum unui terebint sau unui stejar îi rămâne buturuga atunci când este tăiat, tot așa descendenții sfinți vor fi ca o buturugă în țară."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up; and his train filled the temple.",
+                "2": "Above him stood the seraphim. Each one had six wings. With two he covered his face. With two he covered his feet. With two he flew.",
+                "3": "One called to another, and said, “Holy, holy, holy, is Yahweh of Armies! The whole earth is full of his glory!”",
+                "4": "The foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke.",
+                "5": "Then I said, “Woe is me! For I am undone, because I am a man of unclean lips and I live among a people of unclean lips, for my eyes have seen the King, Yahweh of Armies!”",
+                "6": "Then one of the seraphim flew to me, having a live coal in his hand, which he had taken with the tongs from off the altar.",
+                "7": "He touched my mouth with it, and said, “Behold, this has touched your lips; and your iniquity is taken away, and your sin forgiven.”",
+                "8": "I heard the Lord’s voice, saying, “Whom shall I send, and who will go for us?” Then I said, “Here I am. Send me!”",
+                "9": "He said, “Go, and tell this people, ‘You hear indeed, but don’t understand. You see indeed, but don’t perceive.’",
+                "10": "Make the heart of this people fat. Make their ears heavy, and shut their eyes; lest they see with their eyes, hear with their ears, understand with their heart, and turn again, and be healed.”",
+                "11": "Then I said, “Lord, how long?” He answered, “Until cities are waste without inhabitant, houses without man, the land becomes utterly waste,",
+                "12": "and Yahweh has removed men far away, and the forsaken places are many within the land.",
+                "13": "If there is a tenth left in it, that also will in turn be consumed, as a terebinth, and as an oak whose stump remains when they are cut down, so the holy seed is its stump.”"
+            }
+        }
+    }
+}

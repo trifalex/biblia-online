@@ -1,0 +1,72 @@
+{
+  "book": "Leviticul",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Când cineva va aduce Domnului un dar ca jertfă de mulțumire, dacă îl va aduce din cireadă, fie parte bărbătească, fie parte femeiască, s-o aducă fără cusur înaintea Domnului.",
+        "2": "Să pună mâna pe capul dobitocului, să-l înjunghie la ușa cortului întâlnirii, și preoții, fiii lui Aaron, să stropească sângele pe altar de jur împrejur.",
+        "3": "Din această jertfă de mulțumire, să aducă drept jertfă mistuită de foc înaintea Domnului grăsimea care acoperă măruntaiele și toată grăsimea care ține de măruntaie,",
+        "4": "cei doi rărunchi și grăsimea de pe ei și de pe coapse și prapurul de pe ficat, pe care-l va dezlipi de lângă rărunchi.",
+        "5": "Fiii lui Aaron să le ardă pe altar, deasupra arderii-de-tot, care va fi pe lemnele de pe foc. Aceasta este o jertfă mistuită de foc, de un miros plăcut Domnului.",
+        "6": "Dacă darul pe care-l aduce ca jertfă de mulțumire Domnului va fi din turmă, fie parte bărbătească, fie parte femeiască, s-o aducă fără cusur.",
+        "7": "Dacă va aduce jertfă un miel, să-l aducă înaintea Domnului.",
+        "8": "Să-și pună mâna pe capul dobitocului și să-l înjunghie înaintea cortului întâlnirii; fiii lui Aaron să-i stropească sângele pe altar, de jur împrejur.",
+        "9": "Din această jertfă de mulțumire, să aducă o jertfă mistuită de foc înaintea Domnului, și anume: grăsimea, coada întreagă, pe care o va desface de la osul spinării, grăsimea care acoperă măruntaiele și toată grăsimea care ține de măruntaie,",
+        "10": "cei doi rărunchi și grăsimea de pe ei, de pe coapse, și prapurul ficatului, pe care-l va dezlipi de lângă rărunchi.",
+        "11": "Preotul să le ardă pe altar. Aceasta este mâncarea unei jertfe mistuite de foc înaintea Domnului.",
+        "12": "Dacă darul lui va fi o capră, s-o aducă înaintea Domnului.",
+        "13": "Să-și pună mâna pe capul vitei și s-o înjunghie înaintea cortului întâlnirii, și fiii lui Aaron să-i stropească sângele pe altar, de jur împrejur.",
+        "14": "Apoi, din ea să aducă drept jertfă mistuită de foc înaintea Domnului: grăsimea care acoperă măruntaiele și toată grăsimea care ține de ele,",
+        "15": "cei doi rărunchi și grăsimea de pe ei, de pe coapse, și prapurul ficatului, pe care-l va dezlipi de lângă rărunchi.",
+        "16": "Preotul să le ardă pe altar. Aceasta este mâncarea unei jertfe mistuite de foc, de un miros plăcut Domnului. Toată grăsimea este a Domnului.",
+        "17": "Aceasta este o lege veșnică pentru urmașii voștri, în toate locurile unde veți locui. Cu niciun chip să nu mâncați nici grăsime, nici sânge.’”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Dacă ofranda cuiva este o jertfă de pace și dacă el o aduce din cireadă, animalul, mascul sau femelă, trebuie să fie fără cusur; așa să fie adus înaintea Domnului.",
+        "2": "Să pună mâna pe capul ofrandei sale și s-o înjunghie la intrarea în Cortul Întâlnirii, iar preoții, fiii lui Aaron, să stropească sângele pe altar, de jur împrejur.",
+        "3": "Apoi, din această jertfă de pace, să aducă o jertfă mistuită de foc pentru Domnul. S-o aducă din grăsimea care acoperă măruntaiele și din toată grăsimea din jurul măruntaielor,",
+        "4": "din cei doi rinichi cu grăsimea de pe ei și de pe coapse, precum și din membrana ficatului, pe care o va desprinde odată cu rinichii.",
+        "5": "Fiii lui Aaron să le ardă pe altar, deasupra arderii-de-tot care va fi pe lemnele de pe foc, ca o jertfă mistuită de foc, de o aromă plăcută Domnului.",
+        "6": "Dacă ofranda lui, ca jertfă de pace pentru Domnul, este din turmă, să aducă un animal, mascul sau femelă, fără cusur.",
+        "7": "Dacă aduce ca ofrandă un miel, să-l aducă înaintea Domnului,",
+        "8": "să-și pună mâna pe capul ofrandei sale și s-o înjunghie înaintea Cortului Întâlnirii, iar fiii lui Aaron să-i stropească sângele pe altar, de jur împrejur.",
+        "9": "Apoi, din jertfa de pace, să aducă o jertfă mistuită de foc pentru Domnul. S-o aducă din grăsime – și anume toată grăsimea cozii care va fi desprinsă de la șira spinării, grăsimea de pe măruntaie și toată grăsimea din jurul măruntaielor –",
+        "10": "din cei doi rinichi cu grăsimea de pe ei și de pe coapse, precum și din membrana ficatului, pe care o va desprinde odată cu rinichii.",
+        "11": "Apoi, preotul să le ardă pe altar. Aceasta este o mâncare adusă ca jertfă mistuită de foc pentru Domnul.",
+        "12": "Dacă ofranda lui este o capră, atunci s-o aducă înaintea Domnului,",
+        "13": "să-și pună mâna pe capul ei și s-o înjunghie înaintea Cortului Întâlnirii, iar fiii lui Aaron să stropească sângele pe altar, de jur împrejur.",
+        "14": "Apoi să aducă din ofranda sa o jertfă mistuită de foc pentru Domnul. S-o aducă din grăsimea de pe măruntaie, din toată grăsimea din jurul măruntaielor,",
+        "15": "din cei doi rinichi cu grăsimea de pe ei și de pe coapse, precum și din membrana ficatului, pe care o va desprinde odată cu rinichii.",
+        "16": "Apoi preotul să le ardă pe altar ca o jertfă de mâncare mistuită de foc, de o aromă plăcută. Toată grăsimea este a Domnului.",
+        "17": "Aceasta să fie o hotărâre veșnică de-a lungul generațiilor voastre, în toate locuințele voastre: să nu mâncați grăsimea și să nu mâncați sângele»“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "“‘If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he shall offer it without defect before Yahweh.",
+        "2": "He shall lay his hand on the head of his offering, and kill it at the door of the Tent of Meeting. Aaron’s sons, the priests, shall sprinkle the blood around on the altar.",
+        "3": "He shall offer of the sacrifice of peace offerings an offering made by fire to Yahweh. The fat that covers the innards, and all the fat that is on the innards,",
+        "4": "and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away.",
+        "5": "Aaron’s sons shall burn it on the altar on the burnt offering, which is on the wood that is on the fire: it is an offering made by fire, of a pleasant aroma to Yahweh.",
+        "6": "“‘If his offering for a sacrifice of peace offerings to Yahweh is from the flock, either male or female, he shall offer it without defect.",
+        "7": "If he offers a lamb for his offering, then he shall offer it before Yahweh;",
+        "8": "and he shall lay his hand on the head of his offering, and kill it before the Tent of Meeting. Aaron’s sons shall sprinkle its blood around on the altar.",
+        "9": "He shall offer from the sacrifice of peace offerings an offering made by fire to Yahweh; its fat, the entire tail fat, he shall take away close to the backbone; and the fat that covers the entrails, and all the fat that is on the entrails,",
+        "10": "and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away.",
+        "11": "The priest shall burn it on the altar: it is the food of the offering made by fire to Yahweh.",
+        "12": "“‘If his offering is a goat, then he shall offer it before Yahweh.",
+        "13": "He shall lay his hand on its head, and kill it before the Tent of Meeting; and the sons of Aaron shall sprinkle its blood around on the altar.",
+        "14": "He shall offer from it as his offering, an offering made by fire to Yahweh; the fat that covers the innards, and all the fat that is on the innards,",
+        "15": "and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away.",
+        "16": "The priest shall burn them on the altar: it is the food of the offering made by fire, for a pleasant aroma; all the fat is Yahweh’s.",
+        "17": "“‘It shall be a perpetual statute throughout your generations in all your dwellings, that you shall eat neither fat nor blood.’”"
+      }
+    }
+  }
+}

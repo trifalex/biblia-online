@@ -1,0 +1,75 @@
+{
+  "book": "Psalmi",
+  "chapter": "132",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, adu-Ți aminte de David și de toate necazurile lui!",
+        "2": "Adu-Ți aminte cum a jurat el Domnului și a făcut următoarea juruință Puternicului lui Iacov:",
+        "3": "„Nu voi intra în cortul în care locuiesc, nu mă voi sui în patul în care mă odihnesc,",
+        "4": "nu voi da somn ochilor mei, nici ațipire pleoapelor mele",
+        "5": "până nu voi găsi un loc pentru Domnul, o locuință pentru Puternicul lui Iacov.”",
+        "6": "Iată, am auzit vorbindu-se despre el la Efrata, l-am găsit în ogorul Iaar…",
+        "7": "„Haidem la locuința Lui, să ne închinăm înaintea așternutului picioarelor Lui!…",
+        "8": "Scoală-Te, Doamne, vino la locul Tău de odihnă, Tu și chivotul măreției Tale!",
+        "9": "Preoții Tăi să se îmbrace în neprihănire și credincioșii Tăi să scoată strigăte de bucurie!",
+        "10": "Pentru robul Tău David, nu lepăda pe unsul Tău!”",
+        "11": "Domnul a jurat lui David adevărul și nu Se va întoarce de la ce a jurat: „Voi pune pe scaunul tău de domnie un fiu din trupul tău.",
+        "12": "Dacă fiii tăi vor păzi legământul Meu și învățăturile Mele pe care li le voi da, vor ședea și fiii lor în veci pe scaunul tău de domnie.”",
+        "13": "Da, Domnul a ales Sionul, l-a dorit ca locuință a Lui și a zis:",
+        "14": "„Acesta este locul Meu de odihnă pe vecie; voi locui în el, căci l-am dorit.",
+        "15": "Îi voi binecuvânta din belșug hrana, voi sătura cu pâine pe săracii lui.",
+        "16": "Voi îmbrăca în mântuire pe preoții lui și credincioșii lui vor scoate strigăte de bucurie.",
+        "17": "Acolo voi înălța puterea lui David, voi pregăti o candelă unsului Meu,",
+        "18": "voi îmbrăca cu rușine pe vrăjmașii lui și peste el va străluci cununa lui.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, amintește-Ți de David și de toate necazurile lui,",
+        "2": "de cel ce I-a jurat Domnului, de cel ce I-a făcut un jurământ Puternicului lui Iacov:",
+        "3": "„Nu voi intra în casa mea, nici nu mă voi sui în așternutul patului meu,",
+        "4": "nu voi da somn ochilor mei, nici ațipire pleoapelor mele,",
+        "5": "până când nu voi găsi un loc pentru Domnul, o Locuință pentru Puternicul lui Iacov“.",
+        "6": "„Iată, noi am auzit despre Chivot în Efrata și l-am găsit pe terenurile lui Iair.",
+        "7": "Să mergem la Lăcașul Lui! Să ne închinăm lângă scăunașul picioarelor Sale!“.",
+        "8": "Ridică-Te, Doamne, și vino la locul Tău de odihnă, Tu și Chivotul puterii Tale!",
+        "9": "Preoții Tăi să se îmbrace cu dreptatea, iar credincioșii Tăi să strige de bucurie.",
+        "10": "Datorită lui David, slujitorul Tău, nu-Ți întoarce fața de la unsul Tău!",
+        "11": "Domnul i-a jurat lui David credincioșie. El nu-Și va retrage promisiunea: „Îl voi pune pe tronul tău pe unul dintre urmașii tăi.",
+        "12": "Dacă fiii tăi vor păzi legământul Meu și învățăturile Mele, pe care Eu li le voi da, atunci chiar și fiii lor vor sta pe tronul tău pentru totdeauna“.",
+        "13": "Căci Domnul a ales Sionul; El l-a dorit ca locuință a Sa.",
+        "14": "„Acesta este locul Meu de odihnă pentru totdeauna. Aici voi locui, căci l-am dorit.",
+        "15": "Îi voi binecuvânta din belșug hrana și-i voi sătura cu pâine pe cei nevoiași.",
+        "16": "Îi voi îmbrăca preoții cu mântuire, iar credincioșii lui vor striga de bucurie.",
+        "17": "Acolo voi face să crească puterea lui David; îi voi pregăti o candelă unsului Meu.",
+        "18": "Îi voi îmbrăca dușmanii cu rușine, dar pe fruntea lui va străluci coroana“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, remember David and all his affliction,",
+        "2": "how he swore to Yahweh, and vowed to the Mighty One of Jacob:",
+        "3": "“Surely I will not come into the structure of my house, nor go up into my bed;",
+        "4": "I will not give sleep to my eyes, or slumber to my eyelids,",
+        "5": "until I find out a place for Yahweh, a dwelling for the Mighty One of Jacob.”",
+        "6": "Behold, we heard of it in Ephrathah. We found it in the field of Jaar.",
+        "7": "“We will go into his dwelling place. We will worship at his footstool.”",
+        "8": "Arise, Yahweh, into your resting place, you, and the ark of your strength.",
+        "9": "Let your priests be clothed with righteousness. Let your saints shout for joy!",
+        "10": "For your servant David’s sake, don’t turn away the face of your anointed one.",
+        "11": "Yahweh has sworn to David in truth. He will not turn from it: “I will set the fruit of your body on your throne.",
+        "12": "If your children will keep my covenant, my testimony that I will teach them, their children also will sit on your throne forever more.”",
+        "13": "For Yahweh has chosen Zion. He has desired it for his habitation.",
+        "14": "“This is my resting place forever. I will live here, for I have desired it.",
+        "15": "I will abundantly bless her provision. I will satisfy her poor with bread.",
+        "16": "I will also clothe her priests with salvation. Her saints will shout aloud for joy.",
+        "17": "I will make the horn of David to bud there. I have ordained a lamp for my anointed.",
+        "18": "I will clothe his enemies with shame, but on himself, his crown will shine.”"
+      }
+    }
+  }
+}

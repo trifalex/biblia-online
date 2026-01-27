@@ -1,0 +1,45 @@
+{
+    "book": "Ezechiel",
+    "chapter": "15",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Cuvântul Domnului mi-a vorbit astfel:",
+                "2": "„Fiul omului, ce are lemnul de viță mai mult decât orice alt lemn, vițele-de-vie mai mult decât cele ce sunt printre copacii din pădure?",
+                "3": "Ia oare cineva din lemnul acesta ca să facă vreo lucrare? Face cineva din el vreun cârlig de atârnat ceva în el?",
+                "4": "Iată că este pus pe foc să ardă. După ce îi arde focul cele două capete și mijlocul, mai poate fi el bun de ceva?",
+                "5": "Iată, când era întreg, nu se putea face nimic din el. Cu cât mai puțin acum, după ce l-a mistuit și l-a ars focul, s-ar mai putea face vreo lucrare din el?",
+                "6": "De aceea, așa vorbește Domnul Dumnezeu: ‘Ca lemnul de viță dintre copacii din pădure, pe care-l pun pe foc să-l ard, așa voi da și pe locuitorii Ierusalimului.",
+                "7": "Îmi voi întoarce Fața împotriva lor; au ieșit din foc, dar focul îi va arde de tot. Și veți ști că Eu sunt Domnul când Îmi voi întoarce Fața împotriva lor.",
+                "8": "Voi preface țara într-un pustiu, pentru că au fost necredincioși’”, zice Domnul Dumnezeu."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Cuvântul Domnului mi-a vorbit, zicând:",
+                "2": "„Fiul omului, prin ce se deosebește lemnul de viță de orice altă ramură a vreunui copac din pădure?",
+                "3": "Se ia lemn de viță pentru a se face vreo lucrare anume? Se ia cumva lemn de viță pentru a se face din el măcar un țăruș, de care să se atârne tot felul de vase?",
+                "4": "Iată că este aruncat în foc să ardă. Iar după ce focul îi arde cele două capete și îi face scrum mijlocul, mai poate fi el bun pentru vreo lucrare?",
+                "5": "Deci, dacă atunci când era întreg nu s-a putut face nimic din el, cu cât mai puțin acum, după ce l-a ars focul și l-a făcut scrum!“.",
+                "6": "De aceea, așa vorbește Stăpânul Domn: „Așa cum deosebesc lemnul de viță de lemnul oricărui copac din pădure, ca să-l pun pe foc să fie ars, tot așa voi face și cu locuitorii Ierusalimului.",
+                "7": "Îmi voi îndrepta fața împotriva lor. Din foc au scăpat, dar tot focul îi va arde! Când Îmi voi îndrepta privirea împotriva lor, veți ști că Eu sunt Domnul.",
+                "8": "Voi preface țara într-o pustietate din cauză că au fost necredincioși, zice Stăpânul Domn“."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "Yahweh’s word came to me, saying,",
+                "2": "“Son of man, what is the vine tree more than any tree, the vine branch which is among the trees of the forest?",
+                "3": "Will wood be taken of it to make anything? Will men take a pin of it to hang any vessel on it?",
+                "4": "Behold, it is cast into the fire for fuel; the fire has devoured both its ends, and the middle of it is burned. Is it profitable for any work?",
+                "5": "Behold, when it was whole, it was suitable for no work. How much less, when the fire has devoured it, and it has been burned, will it yet be suitable for any work?”",
+                "6": "Therefore the Lord Yahweh says: “As the vine wood among the trees of the forest, which I have given to the fire for fuel, so I will give the inhabitants of Jerusalem.",
+                "7": "I will set my face against them. They will go out from the fire, but the fire will still devour them. Then you will know that I am Yahweh, when I set my face against them.",
+                "8": "I will make the land desolate, because they have acted unfaithfully,” says the Lord Yahweh."
+            }
+        }
+    }
+}

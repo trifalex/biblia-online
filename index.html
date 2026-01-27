@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblia Online - Citire Paralela</title>
+    <meta name="description" content="Citeste Biblia online in paralel: Versiunea Dumitru Cornilescu (VDC), Noua Traducere (NTR) si World English Bible (WEBUS). Biblia online gratuita.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <a href="index.html" class="logo-link">
+                    <span class="logo-icon">📖</span>
+                    <span class="logo-text">Biblia Online</span>
+                </a>
+            </div>
+            <div class="header-actions">
+                <button class="header-btn" onclick="toggleSettings()" title="Setari">
+                    <i class="fa-solid fa-gear"></i>
+                </button>
+                <button class="header-btn" onclick="toggleTheme()" title="Schimba tema">
+                    <i class="fa-solid fa-moon icon-moon"></i>
+                    <i class="fa-solid fa-sun icon-sun"></i>
+                </button>
+            </div>
+        </header>
+
+        <!-- Book Selection -->
+        <div class="book-selection">
+            <div class="testament-tabs">
+                <button class="testament-tab active" onclick="showTestament('VT', this)">Vechiul Testament</button>
+                <button class="testament-tab" onclick="showTestament('NT', this)">Noul Testament</button>
+            </div>
+            
+            <div id="books-VT" class="books-list"></div>
+            <div id="books-NT" class="books-list" style="display: none;"></div>
+        </div>
+
+        <!-- Navigation Bar -->
+        <div class="nav-bar" id="navBar" style="display: none;">
+            <div class="nav-content">
+                <div class="nav-selects">
+                    <select id="bookSelect" onchange="onBookChange()"></select>
+                    <select id="chapterSelect" onchange="onChapterChange()"></select>
+                </div>
+                
+                <div class="chapter-buttons">
+                    <button onclick="changeChapter(-1)" id="btnPrev">
+                        <span class="btn-icon"><i class="fa-solid fa-chevron-left"></i></span>
+                        <span class="btn-text">Anterior</span>
+                    </button>
+                    <button onclick="changeChapter(1)" id="btnNext">
+                        <span class="btn-text">Urmator</span>
+                        <span class="btn-icon"><i class="fa-solid fa-chevron-right"></i></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Reading Area -->
+        <div id="readingArea" style="display: none;">
+            <!-- Desktop View -->
+            <div class="desktop-view">
+                <div class="grid-header" id="gridHeader"></div>
+                <div id="versesDesktop"></div>
+            </div>
+            
+            <!-- Mobile View -->
+            <div class="mobile-view">
+                <div class="version-indicator" id="versionIndicator">
+                    <button class="nav-btn-mobile" onclick="changeChapter(-1)" id="btnPrevMobile" title="Capitol anterior">
+                        <i class="fa-solid fa-chevron-left"></i>
+                    </button>
+                    <div class="indicator-center">
+                        <span class="indicator-book" id="mobileBookName"></span>
+                        <span class="indicator-separator">·</span>
+                        <span class="indicator-version" id="mobileVersionName"></span>
+                    </div>
+                    <button class="nav-btn-mobile" onclick="changeChapter(1)" id="btnNextMobile" title="Capitol urmator">
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </button>
+                </div>
+                <div class="swipe-hint" id="swipeHint"><i class="fa-solid fa-chevron-left"></i> Swipe pentru alta versiune <i class="fa-solid fa-chevron-right"></i></div>
+                
+                <div class="verses-container">
+                    <div class="verse-numbers-column" id="verseNumbersColumn"></div>
+                    <div class="versions-scroll-area" id="versionsScrollArea">
+                        <div class="versions-track" id="versionsTrack"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer" id="footer">
+            <p><a href="https://biblia-online.org" target="_blank">biblia-online.org</a></p>
+        </footer>
+    </div>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()" title="Inapoi sus">
+        <i class="fa-solid fa-chevron-up"></i>
+    </button>
+
+    <!-- Verse Actions Modal -->
+    <div id="verseModal" class="modal-overlay" onclick="closeVerseModal(event)">
+        <div class="modal-content verse-modal" onclick="event.stopPropagation()">
+            <div class="verse-modal-header" id="verseModalHeader">
+                <span class="verse-modal-title" id="verseModalTitle">Verset</span>
+                <button class="modal-close" onclick="closeVerseModal()">&times;</button>
+            </div>
+            <div class="verse-modal-actions">
+                <button class="verse-modal-btn" onclick="copyAllVersions()">
+                    <i class="fa fa-copy"></i> Copiaza versetul
+                </button>
+                <button class="verse-modal-btn" onclick="shareVerse()">
+                    <i class="fa fa-share-alt"></i> Distribuie
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Settings Dropdown -->
+    <div class="settings-dropdown" id="settingsPanel">
+        <div class="settings-content">
+            <div class="setting-item">
+                <label>Marime text</label>
+                <div class="font-size-controls">
+                    <button onclick="changeFontSize(-0.1)">A-</button>
+                    <span id="fontSizeIndicator">100%</span>
+                    <button onclick="changeFontSize(0.1)">A+</button>
+                </div>
+            </div>
+            <div class="setting-item">
+                <label>Versiuni vizibile</label>
+                <div class="versions-checkboxes" id="versionsCheckboxes"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

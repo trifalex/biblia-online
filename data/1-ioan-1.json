@@ -1,0 +1,51 @@
+{
+  "book": "1 Ioan",
+  "chapter": "1",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Ce era de la început, ce am auzit, ce am văzut cu ochii noștri, ce am privit și ce am pipăit cu mâinile noastre cu privire la Cuvântul vieții –",
+        "2": "pentru că viața a fost arătată și noi am văzut-o și mărturisim despre ea și vă vestim viața veșnică, viață care era la Tatăl și care ne-a fost arătată –,",
+        "3": "deci ce am văzut și am auzit, aceea vă vestim și vouă, ca și voi să aveți părtășie cu noi. Și părtășia noastră este cu Tatăl și cu Fiul Său, Isus Hristos.",
+        "4": "Și vă scriem aceste lucruri pentru ca bucuria voastră să fie deplină.",
+        "5": "Vestea pe care am auzit-o de la El și pe care v-o propovăduim este că Dumnezeu e lumină și în El nu este întuneric.",
+        "6": "Dacă zicem că avem părtășie cu El și umblăm în întuneric, mințim și nu trăim adevărul.",
+        "7": "Dar, dacă umblăm în lumină, după cum El Însuși este în lumină, avem părtășie unii cu alții; și sângele lui Isus Hristos, Fiul Lui, ne curățește de orice păcat.",
+        "8": "Dacă zicem că n-avem păcat, ne înșelăm singuri și adevărul nu este în noi.",
+        "9": "Dacă ne mărturisim păcatele, El este credincios și drept ca să ne ierte păcatele și să ne curățească de orice nelegiuire.",
+        "10": "Dacă zicem că n-am păcătuit, Îl facem mincinos și Cuvântul Lui nu este în noi."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Ceea ce era de la început, ceea ce am auzit, ceea ce am văzut cu ochii noștri, ceea ce am privit și ceea ce mâinile noastre au atins cu privire la Cuvântul vieții",
+        "2": "– căci viața a fost arătată, iar noi am văzut și mărturisim și vă vestim viața veșnică, viață care era cu Tatăl și care ne-a fost arătată –",
+        "3": "deci, ceea ce am văzut și am auzit, vă vestim și vouă, pentru ca și voi să aveți părtășie cu noi. Și părtășia noastră este cu Tatăl și cu Fiul Său, Isus Cristos.",
+        "4": "Scriem aceste lucruri pentru ca bucuria noastră să fie deplină.",
+        "5": "Și acesta este mesajul pe care l-am auzit de la El și pe care vi-l vestim: Dumnezeu este lumină și în El nu este nicio urmă de întunecime.",
+        "6": "Dacă spunem că avem părtășie cu El, dar umblăm în întuneric, mințim și nu trăim adevărul.",
+        "7": "Dacă însă umblăm în lumină, după cum El este în lumină, avem părtășie unii cu alții, iar sângele lui Isus, Fiul Său, ne curățește de orice păcat.",
+        "8": "Dacă zicem că nu avem păcat, ne înșelăm singuri și adevărul nu este în noi.",
+        "9": "Dacă ne mărturisim păcatele, El este credincios și drept să ne ierte păcatele și să ne curățească de orice nedreptate.",
+        "10": "Dacă zicem că n-am păcătuit, Îl facem mincinos, și Cuvântul Lui nu este în noi."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life",
+        "2": "(and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);",
+        "3": "that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father and with his Son, Jesus Christ.",
+        "4": "And we write these things to you, that our joy may be fulfilled.",
+        "5": "This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all.",
+        "6": "If we say that we have fellowship with him and walk in the darkness, we lie and don't tell the truth.",
+        "7": "But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son, cleanses us from all sin.",
+        "8": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+        "9": "If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness.",
+        "10": "If we say that we haven't sinned, we make him a liar, and his word is not in us."
+      }
+    }
+  }
+}

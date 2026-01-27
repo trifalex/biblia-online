@@ -1,0 +1,87 @@
+{
+  "book": "Plangerile lui Ieremia",
+  "chapter": "4",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Vai, cum s-a înnegrit aurul și cum s-a schimbat aurul cel curat! Cum s-au risipit pietrele Sfântului Locaș pe la toate colțurile ulițelor!",
+        "2": "Cum sunt priviți acum fiii Sionului, cei aleși și prețuiți ca aurul curat altădată, cum sunt priviți acum, vai! Ca niște vase de pământ și ca o lucrare făcută de mâinile olarului!",
+        "3": "Chiar și șacalii își apleacă țâța și dau să sugă puilor lor, dar fiica poporului meu a ajuns fără milă, ca struții din pustie.",
+        "4": "Limba sugarului i se lipește de cerul gurii, uscată de sete; copiii cer pâine, dar nimeni nu le-o dă.",
+        "5": "Cei ce se hrăneau cu bucate alese leșină pe ulițe. Cei ce fuseseră crescuți în purpură se bucură acum de o grămadă de gunoi!",
+        "6": "Căci vina fiicei poporului meu este mai mare decât păcatul Sodomei, care a fost nimicită într-o clipă, fără să fi pus cineva mâna pe ea.",
+        "7": "Voievozii ei erau mai strălucitori decât zăpada, mai albi decât laptele; trupul le era mai roșu decât mărgeanul; fața le era ca safirul.",
+        "8": "Dar acum înfățișarea le este mai negricioasă decât funinginea, așa că nu mai sunt cunoscuți pe ulițe, pielea le este lipită de oase, uscată ca lemnul.",
+        "9": "Cei ce pier uciși de sabie sunt mai fericiți decât cei ce pier de foame, care cad sleiți de puteri, din lipsa roadelor câmpului!",
+        "10": "Femeile, cu toată mila lor, își fierb copiii, care le slujesc ca hrană în mijlocul prăpădului fiicei poporului meu.",
+        "11": "Domnul Și-a sleit urgia, Și-a vărsat mânia aprinsă; a aprins în Sion un foc care-i mistuie temeliile.",
+        "12": "Împărații pământului n-ar fi crezut și niciunul din locuitorii lumii n-ar fi crezut că potrivnicul care-l împresura are să intre pe porțile Ierusalimului.",
+        "13": "Iată rodul păcatelor prorocilor săi, a nelegiuirilor preoților săi, care au vărsat în mijlocul lui sângele celor neprihăniți!",
+        "14": "Rătăceau ca orbii pe ulițe, mânjiți de sânge, așa că nimeni nu putea să se atingă de hainele lor.",
+        "15": "„Depărtați-vă, necuraților”, li se striga, „la o parte, la o parte, nu vă atingeți de noi!” Când fugeau pribegind încoace și încolo printre neamuri, se spunea: „Să nu mai locuiască aici!”",
+        "16": "În mânia Lui, Domnul i-a împrăștiat și nu-Și mai îndreaptă privirile spre ei! Vrăjmașul n-a căutat la fața preoților, nici n-a avut milă de cei bătrâni.",
+        "17": "Și acolo ni se sfârșeau ochii și așteptam zadarnic ajutor! Privirile ni se îndreptau cu nădejde spre un neam care totuși nu ne-a izbăvit.",
+        "18": "Ne pândeau pașii, ca să ne împiedice să mergem pe ulițele noastre; ni se apropia sfârșitul, ni se împliniseră zilele… Da, ne venise sfârșitul!",
+        "19": "Prigonitorii noștri erau mai iuți decât vulturii cerului. Ne-au fugărit pe munți și ne-au pândit în pustie.",
+        "20": "Suflarea vieții noastre, unsul Domnului, a fost prins în gropile lor, el, despre care ziceam: „Vom trăi sub umbra lui printre neamuri.”",
+        "21": "Bucură-te și saltă de bucurie, fiica Edomului, care locuiești în țara Uț! Dar și la tine va trece potirul și tu te vei îmbăta și te vei dezgoli!",
+        "22": "Fiica Sionului, nelegiuirea îți este ispășită: El nu te va mai trimite în robie. Dar ție, fiica Edomului, îți va pedepsi nelegiuirea și îți va da pe față păcatele."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Cum s-a înnegrit aurul și cum s-a schimbat aurul cel curat! Pietrele sfinte stau risipite pe la fiecare colț de stradă.",
+        "2": "Cum fiii prețioși ai Sionului, altădată prețuiți ca aurul pur, sunt considerați acum ca ulcioarele de lut, lucrate de mâinile olarului.",
+        "3": "Până și șacalii își scot sânul ca să-și alăpteze puii! Fiica poporului meu a ajuns însă nemiloasă, ca struții deșertului.",
+        "4": "Limba celui alăptat se lipește de cerul gurii, fiind uscată de sete. Copiii cer pâine, însă nimeni nu le-o dă.",
+        "5": "Cei ce se hrăneau cu delicatese zac acum părăsiți pe străzi. Cei crescuți în purpură se lipesc acum de un morman de cenușă.",
+        "6": "Nelegiuirea fiicei poporului meu a devenit mai mare decât păcatul Sodomei, care a fost distrusă într-o clipă, fără a pune mâna cineva pe ea.",
+        "7": "Prinții ei erau mai curați decât zăpada și mai albi decât laptele. Trupurile lor erau mai roșii decât rubinele, iar fețele lor erau ca safirul.",
+        "8": "Acum, însă, sunt mai negri la înfățișare decât funinginea, astfel că nu-i mai recunoști pe străzi. Pielea li s-a lipit de oase și a devenit uscată ca lemnul.",
+        "9": "Cei uciși de sabie sunt mai fericiți decât cei uciși de foamete. Ei se scurg, cad străpunși din lipsa roadelor câmpului.",
+        "10": "Femeile, care erau pline de milă, și-au fiert copiii cu mâinile lor. Ei le-au slujit drept hrană când fiica poporului meu era zdrobită.",
+        "11": "Domnul Și-a dezlănțuit toată furia, Și-a revărsat mânia. A aprins un foc în Sion, care i-a distrus temeliile.",
+        "12": "Regii pământului n-ar fi crezut, sau vreunul dintre locuitorii lumii, că asupritorul și dușmanul vor intra pe porțile Ierusalimului.",
+        "13": "S-a întâmplat din cauza păcatelor profeților lui și a nelegiuirilor preoților lui care au vărsat în mijlocul lui sângele celor drepți.",
+        "14": "Ei rătăcesc orbi pe străzi, atât de mânjiți de sânge, încât nimeni nu îndrăznește să se atingă de veșmintele lor.",
+        "15": "„Plecați, necuraților!“, se strigă la ei. „Plecați! Plecați! Nu ne atingeți!“ Fugind și rătăcind printre națiuni, acestea spun: „Nu vor mai locui aici!“.",
+        "16": "Domnul Însuși i-a împrăștiat; El nu mai veghează asupra lor. Preoții nu mai sunt respectați, iar bătrânilor nu li se mai arată bunăvoință.",
+        "17": "Ochii noștri obosiseră, așteptând zadarnic ajutorul. Ne uitam, din turnurile noastre, după o națiune, dar ea nu ne-a salvat.",
+        "18": "Dușmanii ne luau urma, și nu puteam să ieșim în piețe. Sfârșitul se apropia, zilele se împliniseră, căci ne venise sfârșitul.",
+        "19": "Cei ce ne-au urmărit au fost mai iuți decât vulturii cerului. Ne-au urmărit pe munți și ne-au pândit în deșert.",
+        "20": "Unsul Domnului, suflarea nărilor noastre, a fost capturat în gropile lor, el, despre care spuneam: „Vom trăi la umbra lui printre națiuni!“.",
+        "21": "Bucură-te și saltă de veselie, fiică a Edomului, tu, care locuiești în țara Uț! Să știi însă că potirul va trece și pe la tine; te vei îmbăta și te vei dezbrăca.",
+        "22": "Fiică a Sionului, pedeapsa pentru nelegiuirea ta a luat sfârșit. El nu-ți va mai prelungi exilul. Nelegiuirea ta însă, fiică a Edomului, El o va pedepsi și îți va scoate la iveală păcatele."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street.",
+        "2": "The precious sons of Zion, comparable to fine gold, how they are esteemed as earthen pitchers, the work of the hands of the potter!",
+        "3": "Even the jackals offer their breast. They nurse their young ones. But the daughter of my people has become cruel, like the ostriches in the wilderness.",
+        "4": "The tongue of the nursing child clings to the roof of his mouth for thirst. The young children ask for bread, and no one breaks it for them.",
+        "5": "Those who ate delicacies are desolate in the streets. Those who were brought up in purple embrace dunghills.",
+        "6": "For the iniquity of the daughter of my people is greater than the sin of Sodom, which was overthrown as in a moment. No hands were laid on her.",
+        "7": "Her nobles were purer than snow. They were whiter than milk. They were more ruddy in body than rubies. Their polishing was like sapphire.",
+        "8": "Their appearance is blacker than a coal. They are not known in the streets. Their skin clings to their bones. It is withered. It has become like wood.",
+        "9": "Those who are killed with the sword are better than those who are killed with hunger; for these pine away, stricken through, for lack of the fruits of the field.",
+        "10": "The hands of the pitiful women have boiled their own children. They were their food in the destruction of the daughter of my people.",
+        "11": "Yahweh has accomplished his wrath. He has poured out his fierce anger. He has kindled a fire in Zion, which has devoured its foundations.",
+        "12": "The kings of the earth didn’t believe, neither did all the inhabitants of the world, that the adversary and the enemy would enter into the gates of Jerusalem.",
+        "13": "It is because of the sins of her prophets and the iniquities of her priests, that have shed the blood of the just in the middle of her.",
+        "14": "They wander as blind men in the streets. They are polluted with blood, So that men can’t touch their garments.",
+        "15": "“Go away!” they cried to them. “Unclean! Go away! Go away! Don’t touch! When they fled away and wandered, men said among the nations, “They can’t live here any more.”",
+        "16": "Yahweh’s anger has scattered them. He will not pay attention to them any more. They didn’t respect the persons of the priests. They didn’t favor the elders.",
+        "17": "Our eyes still fail, looking in vain for our help. In our watching we have watched for a nation that could not save.",
+        "18": "They hunt our steps, so that we can’t go in our streets. Our end is near. Our days are fulfilled, for our end has come.",
+        "19": "Our pursuers were swifter than the eagles of the sky. They chased us on the mountains. They set an ambush for us in the wilderness.",
+        "20": "The breath of our nostrils, the anointed of Yahweh, was taken in their pits; of whom we said, under his shadow we will live among the nations.",
+        "21": "Rejoice and be glad, daughter of Edom, who dwells in the land of Uz. The cup will pass through to you also. You will be drunken, and will make yourself naked.",
+        "22": "The punishment of your iniquity is accomplished, daughter of Zion. He will no more carry you away into captivity. He will visit your iniquity, daughter of Edom. He will uncover your sins."
+      }
+    }
+  }
+}

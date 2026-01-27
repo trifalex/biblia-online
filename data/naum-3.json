@@ -1,0 +1,78 @@
+{
+  "book": "Naum",
+  "chapter": "3",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Vai de cetatea vărsătoare de sânge, plină de minciună, plină de silnicie și care nu încetează să se dedea la răpire!…",
+        "2": "Auziți pocnetul biciului, huruitul roților, tropăitul cailor și duruitul carelor!",
+        "3": "Se aruncă năvalnici călăreții, scânteiază sabia, fulgeră sulița… O mulțime de răniți!… Grămezi de trupuri moarte!… Morți fără număr!… Cei vii se împiedică de cei morți!…",
+        "4": "Din pricina multelor curvii ale curvei pline de farmec, fermecătoare iscusită, care vindea neamurile prin curviile ei și popoarele prin vrăjitoriile ei,",
+        "5": "„iată, am necaz pe tine”, zice Domnul oștirilor. „Îți voi ridica poalele peste cap, ca să-ți vadă neamurile goliciunea și împărățiile, rușinea.",
+        "6": "Voi azvârli cu murdării peste tine, te voi înjosi și te voi face de ocară.",
+        "7": "Toți cei ce te vor vedea vor fugi de tine și vor zice: ‘Ninive este nimicită! Cine o va plânge?’ Unde să-ți caut mângâietori?”",
+        "8": "Ești tu mai bună decât No-Amon, cetatea care ședea între râuri, înconjurată de ape, având ca zid de apărare marea, ca ziduri marea?",
+        "9": "Etiopia și egiptenii fără număr erau tăria ei, Put și libienii erau ajutoarele ei.",
+        "10": "Și totuși a trebuit să plece și ea în surghiun, s-a dus în robie, și pruncii ei au fost zdrobiți în toate colțurile ulițelor; au aruncat sorțul asupra fruntașilor ei și toți mai-marii ei au fost aruncați în lanțuri.",
+        "11": "Și tu te vei îmbăta, te vei ascunde; și tu vei căuta un loc de adăpost împotriva vrăjmașului!",
+        "12": "Toate cetățuile tale sunt niște smochini cu cele dintâi roade; când îi scuturi, smochinele cad în gura cui vrea să le mănânce.",
+        "13": "Iată, poporul tău este ca femeile în mijlocul tău; porțile țării tale se deschid înaintea vrăjmașilor tăi; focul îți mistuie zăvoarele!",
+        "14": "Scoate-ți apă pentru împresurare! Drege-ți întăriturile! Calcă pământul, frământă lutul și gătește cuptorul de cărămidă!",
+        "15": "Acolo te va mânca focul, te va nimici sabia cu desăvârșire, te va mistui ca niște lăcuste, căci te-ai înmulțit ca forfecarul, te-ai îngrămădit ca lăcustele!",
+        "16": "Negustorii tăi sunt mai mulți decât stelele cerului, s-au îngrămădit ca puii de lăcustă care își întind aripile și zboară.",
+        "17": "Voievozii tăi sunt ca lăcustele, mai-marii tăi, ca o ceată de lăcuste care tăbărăsc în dumbrăvi pe răcoarea zilei: când răsare soarele, zboară și nu se mai cunoaște locul unde erau.",
+        "18": "În timp ce păstorii tăi dorm, împărate al Asiriei, și vitejii tăi se odihnesc, poporul tău este risipit pe munți și nimeni nu-l mai strânge.",
+        "19": "Rana ta nu se alină prin nimic, rana ta este fără leac! Toți cei ce vor auzi de tine vor bate din palme, căci cine este acela pe care să nu-l fi atins răutatea ta?"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Vai de cetatea vărsătoare de sânge, plină de minciună, plină de jaf și care nu renunță la jaf.",
+        "2": "Se aude pocnetul biciului și uruitul roții, galopul cailor și huruitul carelor.",
+        "3": "Călăreții se năpustesc, săbiile scânteiază, iar sulițele fulgeră. Sunt o mulțime de morți, grămezi de cadavre, hoituri fără număr, oameni care se împiedică de hoituri.",
+        "4": "Și aceasta din cauza multelor curvii ale prostituatei, cea plăcută și grațioasă, stăpâna vrăjitoriilor, care vindea națiuni prin desfrânările ei și clanuri prin vrăjitoriile ei.",
+        "5": "„Iată că sunt împotriva ta!“ zice Domnul Oștirilor. „Îți voi ridica poalele în cap și voi arăta națiunilor goliciunea ta, iar regatelor – rușinea ta!",
+        "6": "Voi arunca spurcăciuni peste tine, te voi înjosi și te voi face o priveliște pentru toți.",
+        "7": "Atunci toți cei ce te vor vedea vor fugi de tine și vor zice: «Ninive este pustiită! Cine o va plânge?». Unde să-ți caut mângâietori?“.",
+        "8": "Ești tu mai bună decât No-Amon, cetatea care era așezată pe Nil, înconjurată de ape, a cărei fortăreață era marea al cărei zid era apa?",
+        "9": "Cuș și Egiptul erau puterea ei nemărginită, iar Put și Libia îi erau ajutoare.",
+        "10": "Și totuși, a fost exilată; a trebuit să plece în captivitate. Chiar și copiii ei au fost zdrobiți la fiecare capăt de drum. Au tras la sorți pentru liderii ei și toți conducătorii ei au fost puși în lanțuri.",
+        "11": "Și tu te vei îmbăta și te vei ascunde! Și tu vei căuta un refugiu în fața dușmanului!",
+        "12": "Toate fortificațiile tale sunt ca niște smochini plini cu cele dintâi roade; dacă sunt scuturate, ele cad în gura celui ce vrea să le mănânce.",
+        "13": "Iată, cei din poporul tău sunt ca niște femei în mijlocul tău! Porțile țării tale sunt larg deschise dușmanilor tăi; focul le-a distrus zăvoarele.",
+        "14": "Scoate-ți apă pentru asediu! Întărește-ți fortificațiile! Calcă noroiul și frământă lutul! Pregătește cuptorul de cărămidă!",
+        "15": "Acolo te va arde focul, iar sabia te va tăia, te va devora, ca o lăcustă! Înmulțiți-vă ca lăcusta Ielek! Înmulțiți-vă ca lăcusta Arbe!",
+        "16": "Ți-ai înmulțit negustorii mai mult decât stelele cerurilor. Ei însă prădează ca lăcusta Ielek și apoi zboară.",
+        "17": "Voievozii tăi sunt ca lăcusta Arbe, iar scribii tăi ca un roi de lăcuste care se așază pe ziduri într-o zi răcoroasă, dar care, atunci când răsare soarele, zboară și nu se mai cunoaște locul unde au fost.",
+        "18": "Păstorii tăi au ațipit, împărate al Asiriei, iar cei măreți ai tăi se odihnesc. Poporul tău a fost împrăștiat pe munți și nu este nimeni să-i adune.",
+        "19": "Nu este alinare pentru rana ta, iar lovitura-ți este fatală. Toți cei ce aud vești despre tine, bat din palme, căci cine n-a fost afectat de răutatea ta continuă?"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Woe to the bloody city! It is all full of lies and robbery—no end to the prey.",
+        "2": "The noise of the whip, the noise of the rattling of wheels, prancing horses, and bounding chariots,",
+        "3": "the horseman charging, and the flashing sword, the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies. They stumble on their bodies",
+        "4": "because of the multitude of the prostitution of the alluring prostitute, the mistress of witchcraft, who sells nations through her prostitution, and families through her witchcraft.",
+        "5": "“Behold, I am against you,” says Yahweh of Armies, “and I will lift your skirts over your face. I will show the nations your nakedness, and the kingdoms your shame.",
+        "6": "I will throw abominable filth on you and make you vile, and will make you a spectacle.",
+        "7": "It will happen that all those who look at you will flee from you, and say, ‘Nineveh is laid waste! Who will mourn for her?’ Where will I seek comforters for you?”",
+        "8": "Are you better than No-Amon, who was situated among the rivers, who had the waters around her, whose rampart was the sea, and her wall was of the sea?",
+        "9": "Cush and Egypt were her boundless strength. Put and Libya were her helpers.",
+        "10": "Yet was she carried away. She went into captivity. Her young children also were dashed in pieces at the head of all the streets, and they cast lots for her honorable men, and all her great men were bound in chains.",
+        "11": "You also will be drunken. You will be hidden. You also will seek a stronghold because of the enemy.",
+        "12": "All your fortresses will be like fig trees with the first-ripe figs. If they are shaken, they fall into the mouth of the eater.",
+        "13": "Behold, your troops among you are women. The gates of your land are set wide open to your enemies. The fire has devoured your bars.",
+        "14": "Draw water for the siege. Strengthen your fortresses. Go into the clay, and tread the mortar. Make the brick kiln strong.",
+        "15": "There the fire will devour you. The sword will cut you off. It will devour you like the grasshopper. Multiply like grasshoppers. Multiply like the locust.",
+        "16": "You have increased your merchants more than the stars of the skies. The grasshopper strips and flees away.",
+        "17": "Your guards are like the locusts, and your officials like the swarms of locusts, which settle on the walls on a cold day, but when the sun appears, they flee away, and their place is not known where they are.",
+        "18": "Your shepherds slumber, king of Assyria. Your nobles lie down. Your people are scattered on the mountains, and there is no one to gather them.",
+        "19": "There is no healing your wound, for your injury is fatal. All who hear the report of you clap their hands over you, for who hasn’t felt your endless cruelty?"
+      }
+    }
+  }
+}

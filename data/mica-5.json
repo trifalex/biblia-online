@@ -1,0 +1,66 @@
+{
+  "book": "Mica",
+  "chapter": "5",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Acum, strânge-ți rândurile în cetate, ceata Sionului, căci suntem împresurați! Judecătorul lui Israel este lovit cu nuiaua pe obraz!",
+        "2": "„Și tu, Betleeme Efrata, măcar că ești prea mic între cetățile de căpetenie ale lui Iuda, totuși din tine Îmi va ieși Cel ce va stăpâni peste Israel și a cărui obârșie se suie până în vremuri străvechi, până în zilele veșniciei.”",
+        "3": "De aceea îi va lăsa până la vremea când va naște cea care are să nască și rămășița fraților Săi se va întoarce la copiii lui Israel.",
+        "4": "El Se va înfățișa și va cârmui cu puterea Domnului și cu măreția Numelui Domnului Dumnezeului Său; vor locui liniștiți, căci El va fi proslăvit până la marginile pământului.",
+        "5": "El va fi pacea noastră! Când va veni asirianul în țara noastră și va pătrunde în palatele noastre, vom ridica împotriva lui șapte păstori și opt căpetenii ale poporului.",
+        "6": "Ei vor pustii țara Asiriei cu sabia și țara lui Nimrod cu sabia scoasă din teacă. Ne va izbăvi astfel de asirian când va veni în țara noastră și va pătrunde în ținutul nostru.",
+        "7": "Rămășița lui Iacov va fi în mijlocul multor popoare ca o rouă care vine de la Domnul, ca ploaia măruntă pe iarbă, care nu se bizuiește pe nimeni și nu atârnă de copiii oamenilor.",
+        "8": "Rămășița lui Iacov va fi între neamuri, în mijlocul multor popoare, ca un leu între fiarele pădurii, ca un pui de leu între turmele de oi, care, când trece, calcă în picioare și sfâșie, și nimeni nu poate scăpa pe altul.",
+        "9": "Ți se va ridica mâna peste potrivnicii tăi și toți vrăjmașii tăi vor fi nimiciți!",
+        "10": "„În ziua aceea”, zice Domnul, „îți voi nimici cu desăvârșire caii din mijlocul tău și-ți voi sfărâma carele;",
+        "11": "voi nimici cu desăvârșire cetățile din țara ta și-ți voi surpa toate cetățuile.",
+        "12": "Voi nimici cu desăvârșire descântecele din mijlocul tău și nu vei mai avea vrăjitori;",
+        "13": "voi nimici cu desăvârșire idolii tăi și stâlpii tăi idolești din mijlocul tău și nu te vei mai închina la lucrarea mâinilor tale;",
+        "14": "voi nimici cu desăvârșire din mijlocul tău astarteele tale și-ți voi dărâma idolii.",
+        "15": "Mă voi răzbuna cu mânie, cu urgie, pe neamurile care n-au vrut s-asculte.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Acum, strânge-ți ceata, fiică a cetei. S-a pornit un asediu împotriva noastră! Ei îl vor lovi cu un toiag peste obraz pe judecătorul lui Israel!",
+        "2": "„Dar tu, Betleeme Efrata, deși ești neînsemnat printre miile lui Iuda, totuși din tine Îmi va ieși Cel Ce va fi Conducător în Israel, Cel ale Cărui origini sunt din vechime, din zilele veșniciei“.",
+        "3": "De aceea El îi va abandona până la vremea când cea care trebuie să nască va naște. Apoi, rămășița fraților Săi se va întoarce la fiii lui Israel.",
+        "4": "El se va înfățișa și va păstori poporul în puterea Domnului, în toată maiestatea Numelui Domnului, Dumnezeul Său. Și ei vor locui liniștiți, căci atunci El va fi măreț până la marginile pământului!",
+        "5": "El va fi pacea lor! Când va veni asirianul în țara noastră și va pătrunde în citadelele noastre, vom ridica împotriva lui șapte păstori, chiar opt conducători.",
+        "6": "Ei vor păstori țara Asiriei cu sabia, iar țara lui Nimrod – cu sabia scoasă din teacă. El ne va scăpa de asirian, când acesta va invada țara noastră și va pătrunde în teritoriul nostru. Rămășița lui Iacov, restaurată și purificată",
+        "7": "Atunci rămășița lui Iacov va fi, în mijlocul multor popoare, ca roua de la Domnul, ca aversele de pe iarbă, care nu așteaptă pe nimeni și care nu stă după fiii omului.",
+        "8": "Atunci rămășița lui Iacov va fi printre națiuni, în mijlocul multor popoare, ca leul între animalele pădurii, ca un leu tânăr printre turmele de oi, care trece și calcă în picioare, care sfâșie, și nu este nimeni care să elibereze.",
+        "9": "Mâna îți va fi ridicată peste vrăjmașii tăi, și toți dușmanii tăi vor fi nimiciți!",
+        "10": "„În ziua aceea“, zice Domnul, „îți voi nimici caii din mijlocul tău și-ți voi distruge carele,",
+        "11": "îți voi nimici cetățile din țară și-ți voi dărâma toate fortificațiile,",
+        "12": "îți voi nimici vrăjitoriile din mână și nu se vor mai găsi la tine cei care prezic,",
+        "13": "îți voi nimici chipurile cioplite și stâlpii sacri din mijlocul tău și nu te vei mai închina la lucrarea mâinilor tale,",
+        "14": "îți voi dezrădăcina așerele din mijlocul tău și-ți voi nimici cetățile.",
+        "15": "Apoi, Mă voi răzbuna cu mânie și furie pe națiunile care nu M-au ascultat“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Now you shall gather yourself in troops, daughter of troops. He has laid siege against us. They will strike the judge of Israel with a rod on the cheek.",
+        "2": "But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come out to me who is to be ruler in Israel; whose goings out are from of old, from ancient times.",
+        "3": "Therefore he will abandon them until the time that she who is in labor gives birth. Then the rest of his brothers will return to the children of Israel.",
+        "4": "He shall stand, and shall shepherd in the strength of Yahweh, in the majesty of the name of Yahweh his God. They will live, for then he will be great to the ends of the earth.",
+        "5": "He will be our peace when Assyria invades our land and when he marches through our fortresses, then we will raise against him seven shepherds, and eight leaders of men.",
+        "6": "They will rule the land of Assyria with the sword, and the land of Nimrod in its gates. He will deliver us from the Assyrian, when he invades our land, and when he marches within our border.",
+        "7": "The remnant of Jacob will be among many peoples like dew from Yahweh, like showers on the grass, that don’t wait for man nor wait for the sons of men.",
+        "8": "The remnant of Jacob will be among the nations, among many peoples, like a lion among the animals of the forest, like a young lion among the flocks of sheep; who, if he goes through, treads down and tears in pieces, and there is no one to deliver.",
+        "9": "Let your hand be lifted up above your adversaries, and let all of your enemies be cut off.",
+        "10": "“It will happen in that day”, says Yahweh, “that I will cut off your horses from among you and will destroy your chariots.",
+        "11": "I will cut off the cities of your land and will tear down all your strongholds.",
+        "12": "I will destroy witchcraft from your hand. You shall have no soothsayers.",
+        "13": "I will cut off your engraved images and your pillars from among you; and you shall no more worship the work of your hands.",
+        "14": "I will uproot your Asherah poles from among you; and I will destroy your cities.",
+        "15": "I will execute vengeance in anger and wrath on the nations that didn’t listen.”"
+      }
+    }
+  }
+}

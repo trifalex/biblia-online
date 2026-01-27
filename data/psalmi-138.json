@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "138",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Te laud din toată inima, cânt laudele Tale înaintea dumnezeilor.",
+        "2": "Mă închin în Templul Tău cel sfânt și laud Numele Tău pentru bunătatea și credincioșia Ta, căci Ți s-a mărit faima prin împlinirea făgăduințelor Tale.",
+        "3": "În ziua când Te-am chemat, m-ai ascultat, m-ai îmbărbătat și mi-ai întărit sufletul.",
+        "4": "Toți împărații pământului Te vor lăuda, Doamne, când vor auzi cuvintele gurii Tale;",
+        "5": "ei vor lăuda căile Domnului, căci mare este slava Domnului!",
+        "6": "Domnul este înălțat, totuși vede pe cei smeriți și cunoaște de departe pe cei îngâmfați.",
+        "7": "Când umblu în mijlocul strâmtorării, Tu mă înviorezi, Îți întinzi mâna spre mânia vrăjmașilor mei și dreapta Ta mă mântuiește.",
+        "8": "Domnul va sfârși ce a început pentru mine. Doamne, bunătatea Ta ține în veci: nu părăsi lucrările mâinilor Tale."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Îți voi mulțumi din toată inima mea; Voi cânta spre lauda Ta înaintea dumnezeilor!",
+        "2": "Mă voi închina în Templul Tău cel sfânt și voi aduce mulțumiri Numelui Tău, pentru îndurarea Ta și pentru credincioșia Ta, căci Ți-ai înălțat Cuvântul mai presus de toată faima Ta.",
+        "3": "În ziua când Te-am chemat, Tu mi-ai răspuns, mi-ai încurajat sufletul cu putere.",
+        "4": "Doamne, toți regii pământului îți vor aduce mulțumiri când vor auzi cuvintele gurii Tale!",
+        "5": "Vor cânta despre căile Domnului, căci mare este gloria Ta, Doamne!",
+        "6": "Deși este înălțat, Domnul îl vede pe cel smerit și îl cunoaște, de departe, pe cel mândru.",
+        "7": "Când umblu prin mijlocul necazului, Tu mă înviorezi, Îți întinzi mâna împotriva mâniei dușmanilor mei și mă salvezi cu dreapta Ta.",
+        "8": "Domnul mă va răzbuna. Doamne, îndurarea Ta este veșnică: nu părăsi lucrările mâinilor Tale!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I will give you thanks with my whole heart. Before the gods, I will sing praises to you.",
+        "2": "I will bow down toward your holy temple, and give thanks to your Name for your loving kindness and for your truth; for you have exalted your Name and your Word above all.",
+        "3": "In the day that I called, you answered me. You encouraged me with strength in my soul.",
+        "4": "All the kings of the earth will give you thanks, Yahweh, for they have heard the words of your mouth.",
+        "5": "Yes, they will sing of the ways of Yahweh, for Yahweh’s glory is great!",
+        "6": "For though Yahweh is high, yet he looks after the lowly; but he knows the proud from afar.",
+        "7": "Though I walk in the middle of trouble, you will revive me. You will stretch out your hand against the wrath of my enemies. Your right hand will save me.",
+        "8": "Yahweh will fulfill that which concerns me. Your loving kindness, Yahweh, endures forever. Don’t forsake the works of your own hands."
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "book": "Psalmi",
+  "chapter": "129",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Destul m-au asuprit din tinerețe – s-o spună Israel! –",
+        "2": "destul m-au asuprit din tinerețe, dar nu m-au biruit.",
+        "3": "Plugarii au arat pe spinarea mea, au tras brazde lungi pe ea.",
+        "4": "Domnul este drept: El a tăiat funiile celor răi.",
+        "5": "Să se umple de rușine și să dea înapoi toți cei ce urăsc Sionul!",
+        "6": "Să fie ca iarba de pe acoperișuri, care se usucă înainte de a fi smulsă!",
+        "7": "Secerătorul nu-și umple mâna cu ea, cel ce leagă snopii nu-și încarcă brațul cu ea",
+        "8": "și trecătorii nu zic: „Binecuvântarea Domnului să fie peste voi! Vă binecuvântăm în Numele Domnului!”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "„Mult m-au mai dușmănit încă din tinerețea mea“ – să spună acum Israel lucrul acesta –",
+        "2": "„mult m-au mai dușmănit încă din tinerețea mea, dar nu m-au învins.",
+        "3": "Pe spatele meu au arat plugarii și au tras brazde lungi.",
+        "4": "Însă Domnul este drept; El a tăiat funiile celor răi“.",
+        "5": "Să se rușineze și să dea înapoi toți cei ce urăsc Sionul.",
+        "6": "Să fie ca iarba de pe acoperișuri, care se usucă înainte de a fi smulsă.",
+        "7": "Secerătorul nu-și umple mâna cu ea, și cel ce leagă snopii nu-și încarcă brațul cu ea.",
+        "8": "Trecătorii să nu zică: „Fie binecuvântarea Domnului peste voi!“ sau „Vă binecuvântăm în Numele Domnului!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Many times they have afflicted me from my youth up. Let Israel now say:",
+        "2": "many times they have afflicted me from my youth up, yet they have not prevailed against me.",
+        "3": "The plowers plowed on my back. They made their furrows long.",
+        "4": "Yahweh is righteous. He has cut apart the cords of the wicked.",
+        "5": "Let them be disappointed and turned backward, all those who hate Zion.",
+        "6": "Let them be as the grass on the housetops, which withers before it grows up,",
+        "7": "with which the reaper doesn’t fill his hand, nor he who binds sheaves, his bosom.",
+        "8": "Neither do those who go by say, “The blessing of Yahweh be on you. We bless you in Yahweh’s name.”"
+      }
+    }
+  }
+}

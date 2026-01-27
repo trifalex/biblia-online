@@ -1,0 +1,36 @@
+{
+  "book": "Psalmi",
+  "chapter": "15",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, cine va locui în cortul Tău? Cine va locui pe muntele Tău cel sfânt?",
+        "2": "Cel ce umblă în neprihănire, cel ce face voia lui Dumnezeu și spune adevărul din inimă.",
+        "3": "Acela nu clevetește cu limba lui, nu face rău semenului său și nu aruncă ocară asupra aproapelui său.",
+        "4": "El privește cu dispreț pe cel vrednic de disprețuit, dar cinstește pe cei ce se tem de Domnul. El nu-și ia vorba înapoi dacă face un jurământ în paguba lui.",
+        "5": "El nu-și dă banii cu dobândă și nu ia mită împotriva celui nevinovat. Cel ce se poartă așa nu se clatină niciodată."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, cine va locui în cortul Tău? Cine își va așeza locuința pe muntele Tău cel sfânt?",
+        "2": "Cel ce umblă cu integritate, cel ce face dreptate și cel ce spune adevărul din inimă.",
+        "3": "El nu bârfește cu limba lui, nu-i face rău prietenului său și nu aduce dispreț asupra semenului său.",
+        "4": "Cel ticălos este disprețuit în ochii lui, însă îi onorează pe cei ce se tem de Domnul. El nu-și schimbă jurământul, chiar dacă l-a făcut în paguba lui.",
+        "5": "El nu-și dă banii cu dobândă și nu ia mită împotriva celui nevinovat. Cel ce face aceste lucruri nu va fi clătinat niciodată!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Yahweh, who shall dwell in your sanctuary? Who shall live on your holy hill?",
+        "2": "He who walks blamelessly and does what is right, and speaks truth in his heart;",
+        "3": "he who doesn’t slander with his tongue, nor does evil to his friend, nor casts slurs against his fellow man;",
+        "4": "in whose eyes a vile man is despised, but who honors those who fear Yahweh; he who keeps an oath even when it hurts, and doesn’t change;",
+        "5": "he who doesn’t lend out his money for usury, nor take a bribe against the innocent. He who does these things shall never be shaken."
+      }
+    }
+  }
+}

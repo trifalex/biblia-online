@@ -1,0 +1,51 @@
+{
+  "book": "Psalmi",
+  "chapter": "24",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Al Domnului este pământul cu tot ce este pe el, lumea și cei ce o locuiesc!",
+        "2": "Căci El l-a întemeiat pe mări și l-a întărit pe râuri.",
+        "3": "Cine va putea să se suie la muntele Domnului? Cine se va ridica până la Locul Lui cel Sfânt?",
+        "4": "Cel ce are mâinile nevinovate și inima curată, cel ce nu-și dedă sufletul la minciună și nu jură ca să înșele.",
+        "5": "Acela va căpăta binecuvântarea Domnului, starea după voia Lui, dată de Dumnezeul mântuirii lui.",
+        "6": "Iată partea de moștenire a celor ce-L cheamă, a celor ce caută Fața Ta, Dumnezeul lui Iacov.",
+        "7": "Porți, ridicați-vă capetele; ridicați-vă, porți veșnice, ca să intre Împăratul slavei!",
+        "8": "„Cine este acest Împărat al slavei?” Domnul cel tare și puternic, Domnul cel viteaz în lupte.",
+        "9": "Porți, ridicați-vă capetele; ridicați-le, porți veșnice, ca să intre Împăratul slavei!",
+        "10": "„Cine este acest Împărat al slavei?” Domnul oștirilor: El este Împăratul slavei!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Al Domnului este pământul cu tot ce este pe el, lumea și locuitorii ei,",
+        "2": "căci El l-a întemeiat pe mări și l-a consolidat pe ape.",
+        "3": "Cine se va urca pe muntele Domnului? Cine se va ridica până la locul Lui cel sfânt?",
+        "4": "Cel cu mâinile nevinovate și cu inima curată, care nu-și dedă sufletul la minciună și nu jură ca să înșele.",
+        "5": "El va primi binecuvântare de la Domnul și dreptate de la Dumnezeul mântuirii lui.",
+        "6": "Aceasta este generația celor ce-L caută, a celor ce caută fața Ta, Dumnezeul lui Iacov!",
+        "7": "Porți, ridicați-vă capetele! Stați ridicate, intrări veșnice! Să intre Împăratul gloriei!",
+        "8": "Cine este Acest Împărat al gloriei? Domnul cel tare și puternic, Domnul cel puternic în luptă!",
+        "9": "Porți, ridicați-vă capetele! Stați ridicate, intrări veșnice! Să intre Împăratul gloriei!",
+        "10": "Cine este Acest Împărat al gloriei? Domnul Oștirilor! El este Împăratul gloriei!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "The earth is Yahweh’s, with its fullness; the world, and those who dwell in it.",
+        "2": "For he has founded it on the seas, and established it on the floods.",
+        "3": "Who may ascend to Yahweh’s hill? Who may stand in his holy place?",
+        "4": "He who has clean hands and a pure heart; who has not lifted up his soul to falsehood, and has not sworn deceitfully.",
+        "5": "He shall receive a blessing from Yahweh, righteousness from the God of his salvation.",
+        "6": "This is the generation of those who seek Him, who seek your face—even Jacob.",
+        "7": "Lift up your heads, you gates! Be lifted up, you everlasting doors, and the King of glory will come in.",
+        "8": "Who is the King of glory? Yahweh strong and mighty, Yahweh mighty in battle.",
+        "9": "Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the King of glory will come in.",
+        "10": "Who is this King of glory? Yahweh of Armies is the King of glory!"
+      }
+    }
+  }
+}

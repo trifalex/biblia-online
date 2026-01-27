@@ -1,0 +1,63 @@
+{
+  "book": "Estera",
+  "chapter": "6",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "În noaptea aceea, împăratul n-a putut să doarmă și a poruncit să-i aducă lângă el Cartea Aducerilor aminte, Cronicile. Le-au citit înaintea împăratului",
+        "2": "și s-a găsit scris ce descoperise Mardoheu cu privire la Bigtan și Tereș, cei doi fameni ai împăratului, păzitorii pragului, care voiseră să întindă mâna asupra împăratului Ahașveroș.",
+        "3": "Împăratul a zis: „Ce cinste și mărire i s-a făcut lui Mardoheu pentru aceasta?” „Nu i s-a făcut nimic”, au răspuns cei ce slujeau împăratului.",
+        "4": "Atunci, împăratul a zis: „Cine este în curte?” (Haman venise în curtea de afară a casei împăratului să ceară împăratului să spânzure pe Mardoheu pe lemnul pe care-l pregătise pentru el.)",
+        "5": "Slujitorii împăratului i-au răspuns: „Haman este în curte.” Și împăratul a zis: „Să intre.”",
+        "6": "Haman a intrat și împăratul i-a zis: „Ce trebuie făcut pentru un om pe care vrea să-l cinstească împăratul?” Haman și-a zis în sine: „Pe cine altul decât pe mine ar vrea împăratul să-l cinstească?”",
+        "7": "Și Haman a răspuns împăratului: „Omului pe care vrea împăratul să-l cinstească,",
+        "8": "trebuie să i se aducă haina împărătească, aceea cu care se îmbracă împăratul, și calul pe care călărește împăratul și să i se pună cununa împărătească pe cap.",
+        "9": "Să se dea haina și calul uneia din căpeteniile de seamă ale împăratului, apoi să îmbrace cu haina pe omul acela pe care vrea să-l cinstească împăratul, să-l plimbe călare pe cal prin locul deschis al cetății și să se strige înaintea lui: ‘Așa se face omului pe care vrea împăratul să-l cinstească!’”",
+        "10": "Împăratul i-a zis lui Haman: „Ia îndată haina și calul, cum ai zis, și fă așa iudeului Mardoheu, care șade la poarta împăratului. Nu lăsa nefăcut nimic din ce ai spus.”",
+        "11": "Și Haman a luat haina și calul, a îmbrăcat pe Mardoheu, l-a plimbat călare pe cal prin locul deschis al cetății și a strigat înaintea lui: „Așa se face omului pe care vrea împăratul să-l cinstească!”",
+        "12": "Mardoheu s-a întors la poarta împăratului, și Haman s-a dus în grabă acasă, mâhnit și cu capul acoperit.",
+        "13": "Haman a istorisit nevestei sale Zereș și tuturor prietenilor săi tot ce i se întâmplase. Și înțelepții lui și nevastă-sa Zereș i-au zis: „Dacă Mardoheu, înaintea căruia ai început să cazi, este din neamul iudeilor, nu vei putea face nimic împotriva lui, ci vei cădea înaintea lui.”",
+        "14": "Pe când îi vorbeau ei încă, au venit famenii împăratului și au luat îndată pe Haman la ospățul pe care-l pregătise Estera."
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "În noaptea aceea, împăratul n-a putut să doarmă. A cerut să-i fie adusă „Cartea cronicilor“, adică analele, și i s-a citit împăratului din ea.",
+        "2": "S-a găsit scris ce descoperise Mardoheu cu privire la Bigtana și Tereș, doi dintre eunucii împăratului, responsabili cu paza porții, care încercaseră să ridice mâna împotriva împăratului Ahașveroș.",
+        "3": "Împăratul a întrebat: ‒ Ce onoare și ce răsplată i s-au dat lui Mardoheu pentru aceasta? Tinerii slujitori ai împăratului au răspuns: ‒ Nu i s-a dat nimic.",
+        "4": "Atunci împăratul a întrebat: ‒ Cine este în curte? Haman tocmai intrase în curtea exterioară a palatului împăratului, cu gând să-i ceară împăratului să-l spânzure pe Mardoheu pe spânzurătoarea pe care i-o pregătise.",
+        "5": "Slujitorii împăratului i-au răspuns: ‒ Iată, Haman este în curte! Împăratul a zis: ‒ Să intre!",
+        "6": "Imediat ce Haman a intrat, împăratul l-a și întrebat: ‒ Ce trebuie făcut pentru omul pe care împăratul dorește să-l onoreze? Haman a zis în inima lui: „Pe cine altul ar dori împăratul să-l onoreze mai mult, dacă nu pe mine?“.",
+        "7": "Haman i-a răspuns împăratului: ‒ Omului pe care împăratul dorește să-l onoreze",
+        "8": "să i se aducă mantia imperială, cu care se îmbracă împăratul, calul pe care călărește împăratul și să i se pună pe cap coroana împărătească.",
+        "9": "Calul și haina să fie date celui mai nobil dintre demnitarii împăratului, iar el să-l îmbrace pe omul pe care împăratul dorește să-l onoreze, să-l plimbe călare pe cal prin piața cetății și să strige înaintea lui: „Așa se va face omului pe care împăratul dorește să-l onoreze!“.",
+        "10": "Împăratul i-a zis apoi lui Haman: ‒ Grăbește-te de ia mantia și calul, așa cum ai spus, și fă-i întocmai lui Mardoheu, iudeul care stă la poarta împăratului. Să nu lași nimic nefăcut din ce ai zis!",
+        "11": "Haman a luat mantia și calul, l-a îmbrăcat pe Mardoheu și l-a plimbat călare pe cal prin piața cetății, strigând înaintea lui: „Așa se va face omului pe care împăratul dorește să-l onoreze!“.",
+        "12": "După aceea, Mardoheu s-a întors la poarta împăratului, iar Haman s-a grăbit să plece acasă, plângând și cu capul acoperit.",
+        "13": "Haman a istorisit soției sale, Zereș, și tuturor prietenilor săi tot ce i s-a întâmplat. Atunci prietenii lui înțelepți și Zereș, soția sa, i-au zis: „Dacă Mardoheu, înaintea căruia ai început să cazi, este din neamul iudeilor, nu-l vei putea învinge, ci cu siguranță vei cădea înaintea lui!“.",
+        "14": "În timp ce vorbeau cu el, au sosit eunucii împăratului și s-au grăbit să-l ducă pe Haman la ospățul pregătit de Estera."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king.",
+        "2": "It was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, who were doorkeepers, who had tried to lay hands on the King Ahasuerus.",
+        "3": "The king said, “What honor and dignity has been given to Mordecai for this?” Then the king’s servants who attended him said, “Nothing has been done for him.”",
+        "4": "The king said, “Who is in the court?” Now Haman had come into the outer court of the king’s house, to speak to the king about hanging Mordecai on the gallows that he had prepared for him.",
+        "5": "The king’s servants said to him, “Behold, Haman stands in the court.” The king said, “Let him come in.”",
+        "6": "So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honor?” Now Haman said in his heart, “Who would the king delight to honor more than myself?”",
+        "7": "Haman said to the king, “For the man whom the king delights to honor,",
+        "8": "let royal clothing be brought which the king uses to wear, and the horse that the king rides on, and on the head of which a royal crown is set.",
+        "9": "Let the clothing and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man whom the king delights to honor with them, and have him ride on horseback through the city square, and proclaim before him, ‘Thus it shall be done to the man whom the king delights to honor!’”",
+        "10": "Then the king said to Haman, “Hurry and take the clothing and the horse, as you have said, and do this for Mordecai the Jew, who sits at the king’s gate. Let nothing fail of all that you have spoken.”",
+        "11": "Then Haman took the clothing and the horse, and arrayed Mordecai, and had him ride through the city square, and proclaimed before him, “Thus it shall be done to the man whom the king delights to honor!”",
+        "12": "Mordecai came back to the king’s gate, but Haman hurried to his house, mourning and having his head covered.",
+        "13": "Haman recounted to Zeresh his wife and all his friends everything that had happened to him. Then his wise men and Zeresh his wife said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him, but you will surely fall before him.”",
+        "14": "While they were yet talking with him, the king’s eunuchs came, and hurried to bring Haman to the banquet that Esther had prepared."
+      }
+    }
+  }
+}

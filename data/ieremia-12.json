@@ -1,0 +1,72 @@
+{
+    "book": "Ieremia",
+    "chapter": "12",
+    "versions": {
+        "VDC": {
+            "name": "Versiunea Dumitru Cornilescu",
+            "verses": {
+                "1": "Tu ești prea drept, Doamne, ca să mă cert cu Tine; vreau totuși să Te întreb asupra orânduirilor Tale. Pentru ce propășește calea celor răi și toți mișeii trăiesc în pace?",
+                "2": "I-ai sădit, au prins rădăcină, cresc, fac rod. Ce-i drept, ești aproape de gura lor, dar departe de inima lor!",
+                "3": "Totuși Tu, Doamne, mă cunoști, mă vezi, îmi cercetezi inima și vezi că este cu Tine. Ia-i ca pe niște oi care trebuie tăiate și pregătește-i pentru ziua măcelului!",
+                "4": "Până când să se jelească țara și să se usuce iarba de pe toate câmpiile? Pier vitele și păsările din pricina răutății locuitorilor. Căci ei zic: „El (Ieremia) n-are să ne vadă sfârșitul!”",
+                "5": "„Dacă, alergând cu cei ce aleargă pe picioare, ei te obosesc, cum vei putea să te iei la întrecere cu niște cai? Și dacă nu te crezi la adăpost decât într-o țară liniștită, ce vei face pe malurile îngâmfate ale Iordanului?",
+                "6": "Căci chiar frații tăi și casa tatălui tău te vând, ei înșiși strigă în gura mare după tine. Nu-i crede când îți vor spune vorbe prietenoase. Țara pustiită. Asupra pustiitorilor",
+                "7": "Mi-am părăsit casa și Mi-am lăsat moștenirea, am dat pe iubita Mea în mâinile vrăjmașilor ei.",
+                "8": "Moștenirea Mea a ajuns pentru Mine ca un leu în pădure, a mugit împotriva Mea, și de aceea o urăsc.",
+                "9": "A ajuns oare moștenirea Mea pentru Mine o pasăre de pradă pestriță, în jurul căreia se strâng păsările de pradă? Duceți-vă și strângeți toate fiarele câmpului și aduceți-le ca s-o mănânce!",
+                "10": "Un mare număr de păstori îmi pustiesc via, îmi calcă ogorul în picioare; ogorul meu cel plăcut îl prefac într-un pustiu părăsit.",
+                "11": "Îl pustiesc, și el stă trist și pustiit înaintea mea. Toată țara este pustiită, căci nimeni nu ia seama la ea.",
+                "12": "Peste toate înălțimile pustiei vin pustiitori, căci sabia Domnului mănâncă țara de la un capăt la altul, și nimeni nu-i lăsat în pace.",
+                "13": "Au semănat grâu, și seceră spini, s-au ostenit fără folos. Să vă fie rușine de ce culegeți în urma mâniei aprinse a Domnului!”",
+                "14": "„Așa vorbește Domnul despre toți vecinii Mei cei răi, care se ating de moștenirea pe care am dat-o poporului Meu Israel: ‘Iată, îi voi smulge din țara lor și voi smulge casa lui Iuda din mijlocul lor.",
+                "15": "Dar, după ce-i voi smulge, voi avea iarăși milă de ei și-i voi aduce înapoi pe fiecare în moștenirea lui și pe fiecare în țara lui.",
+                "16": "Și, dacă vor învăța căile poporului Meu, dacă vor jura pe Numele Meu zicând: «Viu este Domnul!» cum au învățat pe poporul Meu să jure pe Baal, atunci vor fi fericiți în mijlocul poporului Meu.",
+                "17": "Dar, dacă nu vor asculta nimic, voi nimici cu desăvârșire pe un astfel de popor, îl voi nimici și îl voi pierde’”, zice Domnul."
+            }
+        },
+        "NTR": {
+            "name": "Noua Traducere in Limba Romana",
+            "verses": {
+                "1": "Tu ești întotdeauna drept, Doamne, când mă cert cu Tine. Îți voi vorbi totuși cu privire la judecățile Tale. De ce prosperă calea celor răi? De ce toți trădătorii au parte de bine?",
+                "2": "Tu i-ai plantat, iar ei au prins rădăcină. Cresc și aduc rod. Tu ești întotdeauna pe buzele lor, dar departe de inimile lor.",
+                "3": "Totuși, Tu, Doamne, mă cunoști; Tu mă vezi și îmi cercetezi inima cu privire la Tine. Înhață-i ca pe niște oi care trebuie înjunghiate! Pune-i deoparte pentru ziua măcelului!",
+                "4": "Până când se va usca țara și se va veșteji iarba de pe orice câmpie? Din cauza răutății celor ce locuiesc în ea, animalele și păsările sunt spulberate. Căci ei zic: „El nu ne va vedea sfârșitul!“.",
+                "5": "„Dacă ai alergat cu pedestrașii iar ei te-au obosit, cum vei putea să te iei la întrecere cu niște cai? Într-o țară liniștită te crezi în siguranță, dar ce vei face la desișul Iordanului?",
+                "6": "Chiar și frații tăi, propria familie, te trădează; ei înșiși strigă în gura mare după tine. Nu te încrede în ei, chiar dacă te vorbesc de bine.",
+                "7": "Mi-am părăsit Casa, Mi-am abandonat moștenirea, în mâna dușmanilor ei.",
+                "8": "Moștenirea Mea a ajuns pentru Mine ca un leu în pădure: și-a ridicat glasul împotriva Mea, de aceea o urăsc.",
+                "9": "N-a ajuns oare moștenirea Mea pentru Mine o pasăre de pradă pestriță, înconjurată de păsări de pradă? Duceți-vă și strângeți toate vietățile câmpului! Aduceți-le ca s-o devoreze!",
+                "10": "Mulți păstori Mi-au distrus via și Mi-au călcat în picioare terenul. într-un deșert pustiit.",
+                "11": "L-au transformat într-o pustietate. Pustiit, el bocește înaintea Mea. Toată țara a fost devastată, dar nu este nimeni care să pună la inimă.",
+                "12": "Distrugătorii au sosit pe toate înălțimile golașe din deșert, și nimeni nu va avea pace.",
+                "13": "Au semănat grâu, dar au cules spini; au muncit din greu, dar n-au obținut nimic. în urma mâniei aprige a Domnului!“",
+                "14": "Așa vorbește Domnul: „Cât despre toți vecinii Mei cei răi, care se ating de moștenirea pe care am dat-o poporului Meu, Israel, îi voi smulge din țara lor și voi smulge Casa lui Iuda din mijlocul lor.",
+                "15": "Dar, după ce-i voi smulge, voi avea iarăși milă de ei și-i voi aduce pe fiecare la moștenirea lui și în țara lui.",
+                "16": "Dacă vor învăța bine căile poporului Meu și vor jura pe Numele Meu, zicând: «Viu este Domnul!», așa cum Mi-au învățat și ei poporul să jure pe Baal, atunci vor fi repuși în drepturi în mijlocul poporului Meu.",
+                "17": "Dar, dacă vreo națiune nu va asculta, o voi smulge cu desăvârșire și o voi distruge“, zice Domnul."
+            }
+        },
+        "WEBUS": {
+            "name": "World English Bible US",
+            "verses": {
+                "1": "You are righteous, Yahweh, when I contend with you; yet I would like to plead a case with you. Why does the way of the wicked prosper? Why are they all at ease who deal very treacherously?",
+                "2": "You have planted them. Yes, they have taken root. They grow. Yes, they produce fruit. You are near in their mouth, and far from their heart.",
+                "3": "But you, Yahweh, know me. You see me, and test my heart toward you. Pull them out like sheep for the slaughter, and prepare them for the day of slaughter.",
+                "4": "How long will the land mourn, and the herbs of the whole country wither? Because of the wickedness of those who dwell therein, the animals and birds are consumed; because they said, “He won’t see our latter end.”",
+                "5": "“If you have run with the footmen, and they have wearied you, then how can you contend with horses? Though in a land of peace you are secure, yet how will you do in the pride of the Jordan?",
+                "6": "For even your brothers, and the house of your father, even they have dealt treacherously with you! Even they have cried aloud after you! Don’t believe them, though they speak beautiful words to you.",
+                "7": "“I have forsaken my house. I have cast off my heritage. I have given the dearly beloved of my soul into the hand of her enemies.",
+                "8": "My heritage has become to me as a lion in the forest. She has uttered her voice against me. Therefore I have hated her.",
+                "9": "Is my heritage to me as a speckled bird of prey? Are the birds of prey against her all around? Go, assemble all the animals of the field. Bring them to devour.",
+                "10": "Many shepherds have destroyed my vineyard. They have trodden my portion under foot. They have made my pleasant portion a desolate wilderness.",
+                "11": "They have made it a desolation. It mourns to me, being desolate. The whole land is made desolate, because no one cares.",
+                "12": "Destroyers have come on all the bare heights in the wilderness; for the sword of Yahweh devours from the one end of the land even to the other end of the land. No flesh has peace.",
+                "13": "They have sown wheat, and have reaped thorns. They have exhausted themselves, and profit nothing. You will be ashamed of your fruits, because of Yahweh’s fierce anger.”",
+                "14": "Yahweh says, “Concerning all my evil neighbors, who touch the inheritance which I have caused my people Israel to inherit: Behold, I will pluck them up from off their land, and will pluck up the house of Judah from among them.",
+                "15": "It will happen that after I have plucked them up, I will return and have compassion on them. I will bring them again, every man to his heritage, and every man to his land.",
+                "16": "It will happen, if they will diligently learn the ways of my people, to swear by my name, ‘As Yahweh lives;’ even as they taught my people to swear by Baal, then they will be built up in the middle of my people.",
+                "17": "But if they will not hear, then I will pluck up that nation, plucking up and destroying it,” says Yahweh."
+            }
+        }
+    }
+}

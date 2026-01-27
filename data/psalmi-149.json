@@ -1,0 +1,48 @@
+{
+  "book": "Psalmi",
+  "chapter": "149",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Lăudați pe Domnul! Cântați Domnului o cântare nouă, cântați laudele Lui în adunarea credincioșilor Lui!",
+        "2": "Să se bucure Israel de Cel ce l-a făcut, să se veselească fiii Sionului de Împăratul lor!",
+        "3": "Să laude Numele Lui cu jocuri, să-L laude cu toba și cu harpa!",
+        "4": "Căci Domnul are plăcere de poporul Său și slăvește pe cei nenorociți mântuindu-i.",
+        "5": "Să salte de bucurie credincioșii Lui îmbrăcați în slavă, să scoată strigăte de bucurie în așternutul lor!",
+        "6": "Laudele lui Dumnezeu să fie în gura lor și sabia cu două tăișuri, în mâna lor,",
+        "7": "ca să facă răzbunare asupra neamurilor și să pedepsească popoarele;",
+        "8": "să lege pe împărații lor cu lanțuri și pe mai-marii lor cu obezi de fier,",
+        "9": "ca să aducă la îndeplinire împotriva lor judecata scrisă! Aceasta este o cinste pentru toți credincioșii Lui. Lăudați pe Domnul!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Lăudați-L pe Domnul! Cântați Domnului o cântare nouă; lăudați-L în adunarea credincioșilor!",
+        "2": "Să se bucure Israel de Creatorul lui și să se înveselească fiii Sionului de Împăratul lor!",
+        "3": "Să-I laude Numele prin dansuri și să cânte spre lauda Lui cu tamburina și cu lira!",
+        "4": "Căci Domnul Își găsește plăcerea în poporul Său; El îi onorează pe cei smeriți, salvându-i.",
+        "5": "Să salte de veselie credincioșii, în glorie! Să strige de bucurie în așternuturile lor!",
+        "6": "Laudele spre gloria lui Dumnezeu să fie în gura lor, iar sabia cu două tăișuri în mâna lor,",
+        "7": "ca să se răzbune pe națiuni, să pedepsească popoarele,",
+        "8": "să-i lege pe regii acestora cu lanțuri și pe nobilii lor cu obezi de fier,",
+        "9": "și să împlinească astfel judecata scrisă. Aceasta este o cinste pentru toți credincioșii Săi! Lăudați-L pe Domnul!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "Praise Yahweh! Sing to Yahweh a new song, his praise in the assembly of the saints.",
+        "2": "Let Israel rejoice in him who made them. Let the children of Zion be joyful in their King.",
+        "3": "Let them praise his name in the dance! Let them sing praises to him with tambourine and harp!",
+        "4": "For Yahweh takes pleasure in his people. He crowns the humble with salvation.",
+        "5": "Let the saints rejoice in honor. Let them sing for joy on their beds.",
+        "6": "May the high praises of God be in their mouths, and a two-edged sword in their hand,",
+        "7": "to execute vengeance on the nations, and punishments on the peoples;",
+        "8": "to bind their kings with chains, and their nobles with fetters of iron;",
+        "9": "to execute on them the written judgment. All his saints have this honor. Praise Yah!"
+      }
+    }
+  }
+}

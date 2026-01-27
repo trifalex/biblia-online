@@ -1,0 +1,84 @@
+{
+  "book": "Psalmi",
+  "chapter": "145",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Te voi înălța, Dumnezeule, Împăratul meu, și voi binecuvânta Numele Tău în veci de veci!",
+        "2": "În fiecare zi Te voi binecuvânta și voi lăuda Numele Tău în veci de veci!",
+        "3": "Mare este Domnul și foarte vrednic de laudă, și mărimea Lui este nepătrunsă.",
+        "4": "Fiecare neam de om să laude lucrările Tale și să vestească isprăvile Tale cele mari!",
+        "5": "Voi spune strălucirea slăvită a măreției Tale și voi cânta minunile Tale.",
+        "6": "Oamenii vor vorbi de puterea Ta cea înfricoșată, și eu voi povesti mărimea Ta.",
+        "7": "Să se trâmbițeze aducerea aminte de nemărginita Ta bunătate, și să se laude dreptatea Ta!",
+        "8": "Domnul este milostiv și plin de îndurare, îndelung răbdător și plin de bunătate.",
+        "9": "Domnul este bun față de toți și îndurările Lui se întind peste toate lucrările Lui.",
+        "10": "Toate lucrările Tale Te vor lăuda, Doamne! Și credincioșii Tăi Te vor binecuvânta.",
+        "11": "Vor spune slava Împărăției Tale și vor vesti puterea Ta,",
+        "12": "ca să facă cunoscute fiilor oamenilor puterea Ta și strălucirea plină de slavă a împărăției Tale.",
+        "13": "Împărăția Ta este o împărăție veșnică și stăpânirea Ta rămâne în picioare în toate veacurile.",
+        "14": "Domnul sprijină pe toți cei ce cad și îndreaptă pe cei încovoiați.",
+        "15": "Ochii tuturor nădăjduiesc în Tine, și Tu le dai hrana la vreme.",
+        "16": "Îți deschizi mâna și saturi după dorință tot ce are viață.",
+        "17": "Domnul este drept în toate căile Lui și milostiv în toate faptele Lui.",
+        "18": "Domnul este lângă toți cei ce-L cheamă, lângă cei ce-L cheamă cu toată inima.",
+        "19": "El împlinește dorințele celor ce se tem de El, le aude strigătul și-i scapă.",
+        "20": "Domnul păzește pe toți cei ce-L iubesc și nimicește pe toți cei răi.",
+        "21": "Gura mea să vestească lauda Domnului și orice făptură să binecuvânteze Numele Lui cel sfânt în veci de veci!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Te voi înălța, Dumnezeul meu, Împărate! Voi binecuvânta Numele Tău în veci de veci!",
+        "2": "Te voi binecuvânta în fiecare zi; voi lăuda Numele Tău în veci de veci!",
+        "3": "Domnul este mare și foarte demn de laudă! Măreția Lui este de nepătruns!",
+        "4": "Fiecare generație va lăuda lucrările Tale și va vesti faptele Tale mărețe!",
+        "5": "Voi vorbi despre splendoarea gloriei măreției Tale și voi istorisi minunile Tale!",
+        "6": "Oamenii vor vorbi despre puterea Ta de temut, iar eu voi povesti despre măreția Ta.",
+        "7": "Vor vesti aducerea-aminte a marii Tale bunătăți și vor aclama cu bucurie dreptatea Ta.",
+        "8": "Domnul este plin de har și milostiv, încet la mânie și bogat în îndurare.",
+        "9": "Domnul este bun cu toți, și mila Lui este peste toate lucrările Sale.",
+        "10": "Toate lucrările Tale Îți vor aduce mulțumiri, Doamne, iar credincioșii Tăi Te vor binecuvânta.",
+        "11": "Vor mărturisi despre gloria împărăției Tale și vor vorbi despre măreția Ta,",
+        "12": "ca să reveleze fiilor omului faptele Tale mărețe și gloria splendorii împărăției Tale.",
+        "13": "Împărăția Ta este o împărăție veșnică, iar stăpânirea Ta dăinuie din generație în generație. Domnul este credincios tuturor promisiunilor Sale și plin de îndurare față de tot ce a creat.",
+        "14": "Domnul îi sprijină pe toți cei ce cad și îi îndreaptă pe toți cei încovoiați.",
+        "15": "Ochii tuturor se îndreaptă cu speranță către Tine, iar Tu le dai hrană la timpul potrivit.",
+        "16": "Îți deschizi mâna și saturi, după dorință, tot ce are viață.",
+        "17": "Domnul este drept în toate căile Sale și îndurător în toate faptele Sale.",
+        "18": "Domnul este aproape de toți cei ce-L cheamă, de toți cei ce-L cheamă în adevăr.",
+        "19": "El împlinește dorința celor ce se tem de El; aude strigătul lor după ajutor și-i salvează.",
+        "20": "Domnul îi păzește pe toți cei ce-L iubesc, dar îi distruge pe toți cei răi.",
+        "21": "Gura mea va rosti lauda Domnului și orice făptură să binecuvânteze Numele Lui cel sfânt, în veci de veci."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "I will exalt you, my God, the King. I will praise your name forever and ever.",
+        "2": "Every day I will praise you. I will extol your name forever and ever.",
+        "3": "Great is Yahweh, and greatly to be praised! His greatness is unsearchable.",
+        "4": "One generation will commend your works to another, and will declare your mighty acts.",
+        "5": "I will meditate on the glorious majesty of your honor, on your wondrous works.",
+        "6": "Men will speak of the might of your awesome acts. I will declare your greatness.",
+        "7": "They will utter the memory of your great goodness, and will sing of your righteousness.",
+        "8": "Yahweh is gracious, merciful, slow to anger, and of great loving kindness.",
+        "9": "Yahweh is good to all. His tender mercies are over all his works.",
+        "10": "All your works will give thanks to you, Yahweh. Your saints will extol you.",
+        "11": "They will speak of the glory of your kingdom, and talk about your power,",
+        "12": "to make known to the sons of men his mighty acts, the glory of the majesty of his kingdom.",
+        "13": "Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds.",
+        "14": "Yahweh upholds all who fall, and raises up all those who are bowed down.",
+        "15": "The eyes of all wait for you. You give them their food in due season.",
+        "16": "You open your hand, and satisfy the desire of every living thing.",
+        "17": "Yahweh is righteous in all his ways, and gracious in all his works.",
+        "18": "Yahweh is near to all those who call on him, to all who call on him in truth.",
+        "19": "He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.",
+        "20": "Yahweh preserves all those who love him, but he will destroy all the wicked.",
+        "21": "My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever."
+      }
+    }
+  }
+}

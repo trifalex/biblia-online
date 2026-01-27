@@ -1,0 +1,48 @@
+{
+  "book": "Psalmi",
+  "chapter": "28",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Doamne, către Tine strig. Stânca mea! Nu rămâne surd la glasul meu, ca nu cumva, dacă Te vei depărta fără să-mi răspunzi, să ajung ca cei ce se coboară în groapă!",
+        "2": "Ascultă glasul rugăciunilor mele, când strig către Tine și când îmi ridic mâinile spre Locașul Tău cel Sfânt!",
+        "3": "Nu mă lua de pe pământ împreună cu cei răi și cu oamenii nelegiuiți, care vorbesc de pace aproapelui lor și, când colo, au răutate în inimă!",
+        "4": "Răsplătește-le după lucrările lor și după răutatea faptelor lor, răsplătește-le după lucrarea mâinilor lor! Dă-le plata care li se cuvine!",
+        "5": "Căci ei nu iau aminte la lucrările Domnului, la lucrarea mâinilor Lui. Să-i doboare și să nu-i mai scoale!",
+        "6": "Binecuvântat să fie Domnul, căci ascultă glasul rugăciunilor mele!",
+        "7": "Domnul este tăria mea și scutul meu; în El mi se încrede inima și sunt ajutat. De aceea îmi este plină de veselie inima și-L laud prin cântările mele.",
+        "8": "Domnul este tăria poporului Său, El este Stânca izbăvitoare a unsului Său.",
+        "9": "Mântuiește, Doamne, poporul Tău și binecuvântează moștenirea Ta! Fii păstorul și sprijinitorul lor în veci!"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Doamne, către Tine strig! Stânca mea, să nu rămâi surd față de mine, ca nu cumva, tăcând față de mine, să mă asemăn cu cei ce coboară în groapă.",
+        "2": "Ascultă glasul cererilor mele, atunci când strig către Tine după ajutor, atunci când îmi ridic mâinile spre Locul Tău Preasfânt!",
+        "3": "Nu mă lua împreună cu cei răi și cu cei ce comit nelegiuiri, cu cei ce vorbesc de pace semenului lor, dar în inima lor este răutate.",
+        "4": "Dă-le potrivit cu lucrarea lor, potrivit cu răutatea faptelor lor. Dă-le potrivit cu lucrarea mâinilor lor! Întoarce asupra lor răsplata cuvenită!",
+        "5": "Pentru că ei nu se gândesc la lucrările Domnului și la lucrarea mâinilor Lui, El îi va dărâma și nu-i va mai zidi din nou!",
+        "6": "Binecuvântat să fie Domnul, căci a ascultat glasul cererilor mele!",
+        "7": "Domnul este puterea mea și scutul meu! În El s-a încrezut inima mea și am fost ajutat. De aceea inima mea tresaltă de bucurie și-I aduc mulțumiri prin cântarea mea!",
+        "8": "Domnul este puterea poporului Său! El este un refugiu care-l protejează pe unsul Său.",
+        "9": "Mântuiește-Ți poporul! Binecuvântează-Ți moștenirea! Păstorește-i și sprijină-i pe vecie!"
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "To you, Yahweh, I call. My rock, don’t be deaf to me, lest, if you are silent to me, I would become like those who go down into the pit.",
+        "2": "Hear the voice of my petitions, when I cry to you, when I lift up my hands toward your Most Holy Place.",
+        "3": "Don’t draw me away with the wicked, with the workers of iniquity who speak peace with their neighbors, but mischief is in their hearts.",
+        "4": "Give them according to their work, and according to the wickedness of their doings. Give them according to the operation of their hands. Bring back on them what they deserve.",
+        "5": "Because they don’t respect the works of Yahweh, nor the operation of his hands, he will break them down and not build them up.",
+        "6": "Blessed be Yahweh, because he has heard the voice of my petitions.",
+        "7": "Yahweh is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him.",
+        "8": "Yahweh is their strength. He is a stronghold of salvation to his anointed.",
+        "9": "Save your people, and bless your inheritance. Be their shepherd also, and bear them up forever."
+      }
+    }
+  }
+}

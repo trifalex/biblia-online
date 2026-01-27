@@ -1,0 +1,42 @@
+{
+  "book": "Psalmi",
+  "chapter": "87",
+  "versions": {
+    "VDC": {
+      "name": "Versiunea Dumitru Cornilescu",
+      "verses": {
+        "1": "Sionul are temeliile așezate pe munții cei sfinți:",
+        "2": "Domnul iubește porțile Sionului mai mult decât toate locașurile lui Iacov.",
+        "3": "Lucruri pline de slavă au fost spuse despre tine, cetate a lui Dumnezeu!",
+        "4": "Eu pomenesc Egiptul și Babilonul printre cei ce Mă cunosc; iată, țara filistenilor, Tirul, cu Etiopia „în Sion s-au născut”,",
+        "5": "iar despre Sion este zis: „Toți s-au născut în el”, și Cel Preaînalt îl întărește.",
+        "6": "Domnul numără popoarele, scriindu-le: „Acolo s-au născut.”",
+        "7": "Și cei ce cântă și cei ce joacă strigă: „Toate izvoarele mele sunt în Tine.”"
+      }
+    },
+    "NTR": {
+      "name": "Noua Traducere in Limba Romana",
+      "verses": {
+        "1": "Temelia lui este în munții cei sfinți.",
+        "2": "Dintre toate locuințele lui Iacov, Domnul iubește porțile Sionului.",
+        "3": "Lucruri glorioase s-au spus despre tine, cetate a lui Dumnezeu!",
+        "4": "Voi aminti Rahabul și Babilonul ca fiind printre cei ce Mă cunosc. Iată, despre Filistia și Tyr, alături de Cuș, se zice: „Acesta s-a născut acolo!“.",
+        "5": "Dar despre Sion se zice: „Acesta și acela s-au născut în el“, și Însuși Cel Preaînalt îl consolidează.",
+        "6": "Domnul consemnează în registrul popoarelor: „Acesta s-a născut acolo“.",
+        "7": "Atât cântăreții, cât și dansatorii, spun: „Toate izvoarele mele sunt în tine!“."
+      }
+    },
+    "WEBUS": {
+      "name": "World English Bible US",
+      "verses": {
+        "1": "His foundation is in the holy mountains.",
+        "2": "Yahweh loves the gates of Zion more than all the dwellings of Jacob.",
+        "3": "Glorious things are spoken about you, city of God.",
+        "4": "I will record Rahab and Babylon among those who acknowledge me. Behold, Philistia, Tyre, and also Ethiopia: “This one was born there.”",
+        "5": "Yes, of Zion it will be said, “This one and that one was born in her;” the Most High himself will establish her.",
+        "6": "Yahweh will count, when he writes up the peoples, “This one was born there.”",
+        "7": "Those who sing as well as those who dance say, “All my springs are in you.”"
+      }
+    }
+  }
+}
