@@ -1,42 +1,45 @@
-# Biblia Online - Citire Paralela
+# Biblia Online – Citire Paralelă
 
-Citeste Biblia online in 3 traduceri simultane.
+Citește Biblia online în 3 traduceri simultane.
 
 ## Traduceri disponibile
 
-- **VDC** - Versiunea Dumitru Cornilescu
-- **NTR** - Noua Traducere in Limba Romana  
-- **WEBUS** - World English Bible (US)
+- **VDC** – Versiunea Dumitru Cornilescu  
+- **NTR** – Noua Traducere în Limba Română  
+- **WEBUS** – World English Bible (US)
 
-## Cum folosesti
+## Cum folosești
 
 ### Navigare
-- Alege o carte din lista (Vechiul sau Noul Testament)
-- Foloseste selectoarele pentru a schimba cartea sau capitolul
-- Butoanele `<` si `>` navigheaza intre capitole
+- Alege o carte din listă (Vechiul sau Noul Testament)
+- Folosește selectoarele pentru a schimba cartea sau capitolul
+- Butoanele `<` și `>` navighează între capitole
 
 ### Pe mobil
-- Swipe stanga/dreapta pentru a schimba versiunea
-- Indicator sus arata versiunea curenta
+- Swipe stânga/dreapta pentru a schimba versiunea
+- Indicatorul de sus arată versiunea curentă
 
-### Setari (iconita rotita)
-- Mareste sau micsoreaza textul cu butoanele A+ / A-
-- Bifeaza/debifeaza versiunile pe care vrei sa le vezi
+### Setări (iconița rotiță)
+- Mărește sau micșorează textul cu butoanele **A+ / A-**
+- Bifează/debifează versiunile pe care vrei să le vezi
 
-### Tema
-- Apasa iconita soare/luna pentru a schimba intre tema light si dark
+### Temă
+- Apasă iconița soare/lună pentru a schimba între tema **light** și **dark**
 
 ### Verset
-- Click pe un verset pentru optiuni:
-  - **Copiaza** - copiaza versetul in toate versiunile
-  - **Distribuie** - copiaza link direct catre verset
+- Click pe un verset pentru opțiuni:
+  - **Copiază** – copiază versetul în toate versiunile
+  - **Distribuie** – copiază link direct către verset
 
 ### Link direct
-Poti accesa orice capitol direct prin URL:
-- `#geneza/1` - Geneza capitolul 1
-- `#ioan/3` - Ioan capitolul 3
-- `#apocalipsa/21` - Apocalipsa capitolul 21
+Poți accesa orice capitol direct prin URL:
+- `#geneza/1` – Geneza capitolul 1  
+- `#ioan/3` – Ioan capitolul 3  
+- `#apocalipsa/21` – Apocalipsa capitolul 21  
 
----
+## Acces aplicație
 
-🔗 [biblia-online.org](https://biblia-online.org)
+Aplicația este disponibilă online la:
+
+- 🌐 **Site principal:** https://biblia-online.org  
+- 💻 **GitHub Pages:** https://trifalex.github.io/biblia-online/
